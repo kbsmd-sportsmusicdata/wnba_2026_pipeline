@@ -371,7 +371,8 @@ def run_pbpstats_current_season(
     full_refresh: bool,
 ) -> dict[str, Any]:
     output_root.mkdir(parents=True, exist_ok=True)
-    return pbp_runner.run_bundle(
+    print(f"[current-season] starting pbpstats refresh for season={season} full_refresh={full_refresh}", flush=True)
+    summary = pbp_runner.run_bundle(
         bundle_path=bundle_path,
         registry_path=registry_path,
         output_root=output_root,
@@ -381,11 +382,17 @@ def run_pbpstats_current_season(
         max_team_ids_per_season=None if full_refresh else 2,
         max_player_ids_per_team=None if full_refresh else 2,
     )
+    print(
+        f"[current-season] pbpstats refresh complete requested_seasons={summary.get('requested_seasons')} records={summary.get('records')}",
+        flush=True,
+    )
+    return summary
 
 
 def ingest_wehoop_sources(config: dict[str, Any], season: str, raw_root: Path, since_date: str | None = None) -> dict[str, pd.DataFrame]:
     outputs: dict[str, pd.DataFrame] = {}
     for source_name, source_config in config["wehoop_sources"].items():
+        print(f"[current-season] starting wehoop source={source_name} tag={source_config['release_tag']}", flush=True)
         tag = source_config["release_tag"]
         release_payload = fetch_release_metadata(tag)
         asset = pick_release_asset(release_payload, season=season)
@@ -407,6 +414,7 @@ def ingest_wehoop_sources(config: dict[str, Any], season: str, raw_root: Path, s
             normalized = frame.copy()
         write_table(raw_root / source_name / "normalized" / source_name, normalized)
         outputs[source_name] = normalized
+        print(f"[current-season] wehoop source={source_name} rows={len(normalized)} complete", flush=True)
     return outputs
 
 
@@ -417,6 +425,7 @@ def build_master_tables(
     append: bool,
 ) -> dict[str, Any]:
     master_root.mkdir(parents=True, exist_ok=True)
+    print("[current-season] building master tables", flush=True)
     player_onoff = normalize_pbpstats_onoff(
         _concat_frames((pbp_output_root / "wnba_current_season_on_off" / "derived" / "get-on-off").glob("player_on_off__*.csv")),
         variant="player_on_off",
@@ -475,6 +484,7 @@ def build_master_tables(
         ),
     }
     write_json(master_root / "manifest.json", summaries)
+    print("[current-season] master tables complete", flush=True)
     return summaries
 
 
@@ -532,6 +542,7 @@ def run_current_season_pipeline(
         )
 
     write_json(master_root / "pipeline_summary.json", summary)
+    print("[current-season] pipeline summary written", flush=True)
     return summary
 
 

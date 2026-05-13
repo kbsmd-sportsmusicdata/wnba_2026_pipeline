@@ -967,7 +967,10 @@ def run_bundle(
         if not full and max_player_ids_per_team is None and preset in {"on_off", "roster_value"}:
             max_player_ids_per_team = DEFAULT_SMOKE_PLAYER_CAP
     else:
-        requested_seasons = normalize_seasons(seasons or bundle.get("minimum_seasons", []), registry.get("minimum_seasons", DEFAULT_MINIMUM_SEASONS))
+        if seasons:
+            requested_seasons = normalize_seasons(seasons, [])
+        else:
+            requested_seasons = normalize_seasons(bundle.get("minimum_seasons", []), registry.get("minimum_seasons", DEFAULT_MINIMUM_SEASONS))
         requested_season_types = normalize_requested_season_types(season_types or bundle.get("season_types", registry.get("requested_season_types", DEFAULT_REQUESTED_SEASON_TYPES)))
     fallback_season_type = registry.get("fallback_season_type", "Regular Season")
     league = bundle.get("league", registry.get("default_league", "wnba"))

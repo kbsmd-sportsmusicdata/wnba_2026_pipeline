@@ -1,0 +1,20 @@
+﻿metric,value
+source_url,https://www.basketball-reference.com/wnba/years/2026_transactions.html
+extract_run_date,2026-05-03
+transactions_parsed,246
+assets_parsed,256
+draft_picks_parsed,45
+ucla_seeded_draft_picks,6
+transaction_type__signing,122
+transaction_type__training_camp_signing,50
+transaction_type__draft_pick,45
+transaction_type__expansion_draft,22
+transaction_type__trade,6
+transaction_type__multi_year_signing,1
+parse_status__parsed,244
+parse_status__partial,2
+ucla_seed_correction_note,Corrected UCLA seed: Gianna Kneepkens added; Teonni Key removed.
+draft_college_enrichment_note,Enriched draft base from active Basketball-Reference 2026 WNBA Draft page; College field populated for NCAA players and Former country populated for international players.
+draft_picks_with_college_count,35
+draft_picks_with_former_country_count,10
+ucla_seed_count_page_verified,6

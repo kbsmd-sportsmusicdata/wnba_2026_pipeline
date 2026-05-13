@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+~$*.docx
+scripts/node_modules

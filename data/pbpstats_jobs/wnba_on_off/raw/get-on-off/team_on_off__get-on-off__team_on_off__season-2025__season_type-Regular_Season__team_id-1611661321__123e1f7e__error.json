@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-on-off/wnba/team with params {'Season': '2025', 'SeasonType': 'Regular Season', 'TeamId': '1611661321'}: 400 Client Error: Bad Request for url: https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Regular+Season&TeamId=1611661321",
+  "status": 400,
+  "response_text": "{\"detail\":\"missing PlayerId\"}"
+}

@@ -1,0 +1,1080 @@
+[
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2026&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=1627668",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "1627668"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2026&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=204335",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "204335"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2025&SeasonType=Regular+Season&TeamId=1611661322&PlayerId=202252",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661322",
+      "PlayerId": "202252"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2025&SeasonType=Regular+Season&TeamId=1611661322&PlayerId=1642292",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661322",
+      "PlayerId": "1642292"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2025&SeasonType=Playoffs&TeamId=1611661324&PlayerId=1629483",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661324",
+      "PlayerId": "1629483"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2025&SeasonType=Playoffs&TeamId=1611661324&PlayerId=1629524",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661324",
+      "PlayerId": "1629524"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2024&SeasonType=Regular+Season&TeamId=1611661324&PlayerId=1629524",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661324",
+      "PlayerId": "1629524"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2024&SeasonType=Regular+Season&TeamId=1611661324&PlayerId=1630151",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661324",
+      "PlayerId": "1630151"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2024&SeasonType=Playoffs&TeamId=1611661313&PlayerId=1627668",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661313",
+      "PlayerId": "1627668"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2024&SeasonType=Playoffs&TeamId=1611661313&PlayerId=1630142",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661313",
+      "PlayerId": "1630142"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2023&SeasonType=Regular+Season&TeamId=1611661325&PlayerId=1631086",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661325",
+      "PlayerId": "1631086"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "player_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/player?Season=2023&SeasonType=Regular+Season&TeamId=1611661325&PlayerId=1631031",
+    "request_status": 200,
+    "request_id": "get-on-off__player_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/player_on_off__get-on-off__player_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/player_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.parquet"
+    ],
+    "table_counts": {
+      "results": 1
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661325",
+      "PlayerId": "1631031"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2026&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=1627668",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-1627668__5aa7f754__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "1627668"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2026&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=204335",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661313__player_id-204335__95a69cac__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "204335"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2026&SeasonType=Regular+Season&TeamId=1611661323&PlayerId=1629568",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-1629568__34988fad__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661323",
+      "PlayerId": "1629568"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2026&SeasonType=Regular+Season&TeamId=1611661323&PlayerId=203398",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2026__season_type-Regular_Season__team_id-1611661323__player_id-203398__7b529524__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2026",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661323",
+      "PlayerId": "203398"
+    },
+    "season": "2026",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Regular+Season&TeamId=1611661322&PlayerId=202252",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-202252__09d8abf3__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661322",
+      "PlayerId": "202252"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Regular+Season&TeamId=1611661322&PlayerId=1642292",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661322__player_id-1642292__db8ba372__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661322",
+      "PlayerId": "1642292"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Regular+Season&TeamId=1611661330&PlayerId=1630154",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1630154__77b081c9__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661330",
+      "PlayerId": "1630154"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Regular+Season&TeamId=1611661330&PlayerId=1631021",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Regular_Season__team_id-1611661330__player_id-1631021__1c46c631__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661330",
+      "PlayerId": "1631021"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Playoffs&TeamId=1611661324&PlayerId=1629483",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629483__792031d3__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661324",
+      "PlayerId": "1629483"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Playoffs&TeamId=1611661324&PlayerId=1629524",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661324__player_id-1629524__bcb6af49__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661324",
+      "PlayerId": "1629524"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Playoffs&TeamId=1611661331&PlayerId=1642767",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1642767__8403ed8f__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661331",
+      "PlayerId": "1642767"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2025&SeasonType=Playoffs&TeamId=1611661331&PlayerId=1628508",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2025__season_type-Playoffs__team_id-1611661331__player_id-1628508__be888df9__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2025",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661331",
+      "PlayerId": "1628508"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team",
+    "request_status": 500,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43",
+    "ok": false,
+    "error": {
+      "error_type": "RuntimeError",
+      "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-on-off/wnba/team with params {'Season': '2024', 'SeasonType': 'Regular Season', 'TeamId': '1611661324', 'PlayerId': '1629524'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Regular+Season&TeamId=1611661324&PlayerId=1629524",
+      "status": 500,
+      "response_text": "{\"detail\":\"Internal Server Error\"}"
+    },
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1629524__4a010d43__error.json",
+    "table_paths": [],
+    "derived_paths": [],
+    "table_counts": {},
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661324",
+      "PlayerId": "1629524"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Regular+Season&TeamId=1611661324&PlayerId=1630151",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661324__player_id-1630151__964dca22__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661324",
+      "PlayerId": "1630151"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=1627673",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1627673__ef8de744__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "1627673"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Regular+Season&TeamId=1611661313&PlayerId=1629477",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Regular_Season__team_id-1611661313__player_id-1629477__18441c24__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661313",
+      "PlayerId": "1629477"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Playoffs&TeamId=1611661313&PlayerId=1627668",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1627668__e547aa2c__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661313",
+      "PlayerId": "1627668"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Playoffs&TeamId=1611661313&PlayerId=1630142",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661313__player_id-1630142__b255b0cc__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661313",
+      "PlayerId": "1630142"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Playoffs&TeamId=1611661330&PlayerId=1631044",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-1631044__041feddb__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661330",
+      "PlayerId": "1631044"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2024&SeasonType=Playoffs&TeamId=1611661330&PlayerId=202250",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2024__season_type-Playoffs__team_id-1611661330__player_id-202250__7f976938__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2024",
+      "SeasonType": "Playoffs",
+      "TeamId": "1611661330",
+      "PlayerId": "202250"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2023&SeasonType=Regular+Season&TeamId=1611661325&PlayerId=1631086",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631086__737e9c09__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661325",
+      "PlayerId": "1631086"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2023&SeasonType=Regular+Season&TeamId=1611661325&PlayerId=1631031",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661325__player_id-1631031__62982bc7__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661325",
+      "PlayerId": "1631031"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2023&SeasonType=Regular+Season&TeamId=1611661323&PlayerId=203026",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-203026__bc2974cd__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661323",
+      "PlayerId": "203026"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_current_season_on_off",
+    "family": "on_off",
+    "variant": "team_on_off",
+    "endpoint": "get-on-off",
+    "request_url": "https://api.pbpstats.com/get-on-off/wnba/team?Season=2023&SeasonType=Regular+Season&TeamId=1611661323&PlayerId=1628280",
+    "request_status": 200,
+    "request_id": "get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04",
+    "ok": true,
+    "raw_path": "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/raw/get-on-off/team_on_off__get-on-off__team_on_off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04.json",
+    "table_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/normalized/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04__results.parquet"
+    ],
+    "derived_paths": [
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04__results.csv",
+      "/Users/krystalbeasley/projects/Player & Roster Intel Framework- WNBA2026 /data/raw/pbpstats/current_season_2026/wnba_current_season_on_off/derived/get-on-off/team_on_off__get-on-off__season-2023__season_type-Regular_Season__team_id-1611661323__player_id-1628280__11cc9f04__results.parquet"
+    ],
+    "table_counts": {
+      "results": 89
+    },
+    "request_params": {
+      "Season": "2023",
+      "SeasonType": "Regular Season",
+      "TeamId": "1611661323",
+      "PlayerId": "1628280"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  }
+]

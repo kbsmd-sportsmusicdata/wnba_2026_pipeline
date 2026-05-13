@@ -1,0 +1,7408 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.875",
+        "Off": "0.753",
+        "On-Off": "0.122",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.458",
+        "Off": "0.449",
+        "On-Off": "0.009",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.273",
+        "Off": "0.343",
+        "On-Off": "-0.070",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.417",
+        "On-Off": "-0.017",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.364",
+        "On-Off": "-0.364",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.489",
+        "Off": "0.427",
+        "On-Off": "0.062",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.750",
+        "Off": "0.788",
+        "On-Off": "-0.038",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.556",
+        "Off": "0.500",
+        "On-Off": "0.056",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.857",
+        "Off": "0.830",
+        "On-Off": "0.027",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.925",
+        "Off": "0.805",
+        "On-Off": "0.119",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.468",
+        "Off": "0.477",
+        "On-Off": "-0.009",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.286",
+        "Off": "0.343",
+        "On-Off": "-0.057",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.417",
+        "On-Off": "-0.017",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.372",
+        "On-Off": "-0.372",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.489",
+        "Off": "0.431",
+        "On-Off": "0.058",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.808",
+        "Off": "0.857",
+        "On-Off": "-0.049",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.556",
+        "Off": "0.600",
+        "On-Off": "-0.044",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.938",
+        "Off": "0.936",
+        "On-Off": "0.001",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "1.000",
+        "Off": "0.965",
+        "On-Off": "0.035",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.667",
+        "Off": "0.860",
+        "On-Off": "-0.193",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.714",
+        "Off": "0.806",
+        "On-Off": "-0.092",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.875",
+        "Off": "0.941",
+        "On-Off": "-0.066",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "1.000",
+        "Off": "0.909",
+        "On-Off": "0.091",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.346",
+        "Off": "0.370",
+        "On-Off": "-0.024",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.300",
+        "Off": "0.385",
+        "On-Off": "-0.085",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.341",
+        "Off": "0.380",
+        "On-Off": "-0.039",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.357",
+        "On-Off": "0.310",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.278",
+        "On-Off": "-0.278",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.300",
+        "Off": "0.235",
+        "On-Off": "0.065",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.320",
+        "Off": "0.298",
+        "On-Off": "0.022",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.100",
+        "Off": "0.342",
+        "On-Off": "-0.242",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.286",
+        "Off": "0.458",
+        "On-Off": "-0.173",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.500",
+        "Off": "0.188",
+        "On-Off": "0.312",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.346",
+        "Off": "0.370",
+        "On-Off": "-0.024",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.300",
+        "Off": "0.391",
+        "On-Off": "-0.091",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.350",
+        "Off": "0.385",
+        "On-Off": "-0.035",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.385",
+        "On-Off": "0.282",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.278",
+        "On-Off": "-0.278",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.300",
+        "Off": "0.235",
+        "On-Off": "0.065",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.320",
+        "Off": "0.298",
+        "On-Off": "0.022",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.100",
+        "Off": "0.342",
+        "On-Off": "-0.242",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.308",
+        "Off": "0.458",
+        "On-Off": "-0.151",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.500",
+        "Off": "0.188",
+        "On-Off": "0.312",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.566",
+        "Off": "0.586",
+        "On-Off": "-0.020",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.457",
+        "Off": "0.447",
+        "On-Off": "0.010",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.407",
+        "Off": "0.432",
+        "On-Off": "-0.025",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.353",
+        "On-Off": "0.147",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.423",
+        "On-Off": "-0.423",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.571",
+        "Off": "0.750",
+        "On-Off": "-0.179",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.500",
+        "Off": "0.479",
+        "On-Off": "0.021",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.560",
+        "Off": "0.527",
+        "On-Off": "0.033",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.182",
+        "Off": "0.400",
+        "On-Off": "-0.218",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.360",
+        "Off": "0.286",
+        "On-Off": "0.074",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.800",
+        "On-Off": "-0.300",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.547",
+        "Off": "0.586",
+        "On-Off": "-0.039",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.556",
+        "Off": "0.576",
+        "On-Off": "-0.020",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.455",
+        "Off": "0.490",
+        "On-Off": "-0.035",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.453",
+        "Off": "0.502",
+        "On-Off": "-0.049",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.615",
+        "Off": "0.406",
+        "On-Off": "0.209",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.421",
+        "On-Off": "-0.421",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.481",
+        "Off": "0.429",
+        "On-Off": "0.053",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.493",
+        "Off": "0.468",
+        "On-Off": "0.025",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.492",
+        "Off": "0.524",
+        "On-Off": "-0.033",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.357",
+        "Off": "0.333",
+        "On-Off": "0.024",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.385",
+        "Off": "0.500",
+        "On-Off": "-0.115",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.800",
+        "On-Off": "-0.300",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.553",
+        "Off": "0.561",
+        "On-Off": "-0.008",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.570",
+        "Off": "0.610",
+        "On-Off": "-0.040",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.517",
+        "Off": "0.538",
+        "On-Off": "-0.021",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.469",
+        "Off": "0.523",
+        "On-Off": "-0.054",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.656",
+        "Off": "0.434",
+        "On-Off": "0.222",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.497",
+        "On-Off": "-0.497",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.500",
+        "Off": "0.477",
+        "On-Off": "0.023",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.517",
+        "Off": "0.507",
+        "On-Off": "0.010",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.500",
+        "Off": "0.557",
+        "On-Off": "-0.057",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.406",
+        "Off": "0.600",
+        "On-Off": "-0.194",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.420",
+        "Off": "0.520",
+        "On-Off": "-0.099",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.800",
+        "On-Off": "-0.300",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.575",
+        "Off": "0.558",
+        "On-Off": "0.017",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.208",
+        "Off": "0.313",
+        "On-Off": "-0.105",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.276",
+        "Off": "0.330",
+        "On-Off": "-0.054",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.432",
+        "Off": "0.502",
+        "On-Off": "-0.070",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.231",
+        "Off": "0.292",
+        "On-Off": "-0.061",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.257",
+        "On-Off": "-0.257",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.741",
+        "Off": "0.810",
+        "On-Off": "-0.069",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.357",
+        "Off": "0.347",
+        "On-Off": "0.011",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.167",
+        "Off": "0.168",
+        "On-Off": "-0.001",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.214",
+        "Off": "0.167",
+        "On-Off": "0.048",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.359",
+        "Off": "0.533",
+        "On-Off": "-0.174",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.030",
+        "Off": "0.081",
+        "On-Off": "-0.051",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.100",
+        "Off": "0.008",
+        "On-Off": "0.092",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.024",
+        "Off": "0.006",
+        "On-Off": "0.018",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.020",
+        "Off": "0.009",
+        "On-Off": "0.011",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.081",
+        "Off": "0.065",
+        "On-Off": "0.016",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.095",
+        "Off": "0.072",
+        "On-Off": "0.023",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.037",
+        "Off": "0.068",
+        "On-Off": "-0.031",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.200",
+        "Off": "0.118",
+        "On-Off": "0.082",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.096",
+        "On-Off": "-0.096",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.056",
+        "Off": "0.060",
+        "On-Off": "-0.005",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.160",
+        "Off": "0.112",
+        "On-Off": "0.048",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.273",
+        "Off": "0.400",
+        "On-Off": "-0.127",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.120",
+        "Off": "0.095",
+        "On-Off": "0.025",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.156",
+        "Off": "0.110",
+        "On-Off": "0.046",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "24.032",
+        "Off": "25.540",
+        "On-Off": "-1.508",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "27.473",
+        "Off": "22.883",
+        "On-Off": "4.590",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "23.152",
+        "Off": "19.867",
+        "On-Off": "3.285",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "11.565",
+        "Off": "12.016",
+        "On-Off": "-0.451",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "21.681",
+        "On-Off": "-21.681",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "14.108",
+        "Off": "9.266",
+        "On-Off": "4.841",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "23.375",
+        "Off": "17.817",
+        "On-Off": "5.558",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "15.116",
+        "Off": "13.762",
+        "On-Off": "1.354",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "25.333",
+        "Off": "14.433",
+        "On-Off": "10.900",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "19.298",
+        "Off": "21.088",
+        "On-Off": "-1.790",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "4.348",
+        "Off": "6.494",
+        "On-Off": "-2.146",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "28.529",
+        "Off": "23.757",
+        "On-Off": "4.771",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.550",
+        "Off": "0.600",
+        "On-Off": "-0.050",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.655",
+        "Off": "0.629",
+        "On-Off": "0.026",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.571",
+        "Off": "0.660",
+        "On-Off": "-0.088",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.444",
+        "On-Off": "-0.444",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.733",
+        "On-Off": "-0.733",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.250",
+        "Off": "0.500",
+        "On-Off": "-0.250",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.818",
+        "Off": "0.677",
+        "On-Off": "0.141",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.250",
+        "Off": "0.457",
+        "On-Off": "-0.207",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.727",
+        "Off": "0.455",
+        "On-Off": "0.273",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.318",
+        "Off": "0.462",
+        "On-Off": "-0.143",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.421",
+        "Off": "0.311",
+        "On-Off": "0.110",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.050",
+        "Off": "0.049",
+        "On-Off": "0.001",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.111",
+        "Off": "0.234",
+        "On-Off": "-0.123",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.250",
+        "Off": "0.091",
+        "On-Off": "0.159",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.444",
+        "Off": "0.250",
+        "On-Off": "0.194",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.071",
+        "Off": "0.043",
+        "On-Off": "0.029",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.272",
+        "Off": "0.205",
+        "On-Off": "0.067",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.065",
+        "Off": "0.048",
+        "On-Off": "0.017",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.077",
+        "Off": "0.090",
+        "On-Off": "-0.013",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.029",
+        "Off": "0.063",
+        "On-Off": "-0.035",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.077",
+        "Off": "0.126",
+        "On-Off": "-0.049",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.200",
+        "Off": "0.172",
+        "On-Off": "0.028",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.056",
+        "Off": "0.200",
+        "On-Off": "-0.144",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.017",
+        "Off": "0.015",
+        "On-Off": "0.002",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.077",
+        "Off": "0.077",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.310",
+        "Off": "0.260",
+        "On-Off": "0.050",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.049",
+        "Off": "0.047",
+        "On-Off": "0.003",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.021",
+        "Off": "0.027",
+        "On-Off": "-0.006",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.023",
+        "Off": "0.012",
+        "On-Off": "0.011",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.017",
+        "Off": "0.000",
+        "On-Off": "0.017",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.016",
+        "Off": "0.014",
+        "On-Off": "0.001",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.116",
+        "Off": "0.076",
+        "On-Off": "0.040",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.087",
+        "Off": "0.074",
+        "On-Off": "0.013",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.143",
+        "Off": "0.048",
+        "On-Off": "0.095",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.125",
+        "Off": "0.109",
+        "On-Off": "0.016",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.145",
+        "Off": "0.144",
+        "On-Off": "0.001",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.070",
+        "Off": "0.101",
+        "On-Off": "-0.031",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.139",
+        "Off": "0.119",
+        "On-Off": "0.021",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.044",
+        "On-Off": "-0.044",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.130",
+        "On-Off": "-0.130",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.152",
+        "Off": "0.095",
+        "On-Off": "0.056",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.179",
+        "Off": "0.120",
+        "On-Off": "0.059",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.212",
+        "Off": "0.139",
+        "On-Off": "0.074",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.078",
+        "Off": "0.038",
+        "On-Off": "0.040",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.182",
+        "On-Off": "-0.182",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.205",
+        "Off": "0.196",
+        "On-Off": "0.009",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.010",
+        "Off": "0.047",
+        "On-Off": "-0.037",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.017",
+        "Off": "0.015",
+        "On-Off": "0.003",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.036",
+        "Off": "0.016",
+        "On-Off": "0.020",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.024",
+        "Off": "0.000",
+        "On-Off": "0.024",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.025",
+        "Off": "0.024",
+        "On-Off": "0.001",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.067",
+        "Off": "0.060",
+        "On-Off": "0.006",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.043",
+        "Off": "0.079",
+        "On-Off": "-0.036",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.218",
+        "Off": "0.183",
+        "On-Off": "0.035",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.067",
+        "Off": "0.067",
+        "On-Off": "-0.000",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.102",
+        "Off": "0.101",
+        "On-Off": "0.002",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.039",
+        "On-Off": "-0.039",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.068",
+        "Off": "0.076",
+        "On-Off": "-0.008",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.117",
+        "Off": "0.124",
+        "On-Off": "-0.007",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.205",
+        "Off": "0.160",
+        "On-Off": "0.045",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.036",
+        "Off": "0.152",
+        "On-Off": "-0.116",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.046",
+        "Off": "0.025",
+        "On-Off": "0.020",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.056",
+        "Off": "0.125",
+        "On-Off": "-0.069",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.281",
+        "Off": "0.237",
+        "On-Off": "0.044",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.034",
+        "Off": "0.047",
+        "On-Off": "-0.013",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.020",
+        "Off": "0.023",
+        "On-Off": "-0.003",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.028",
+        "Off": "0.014",
+        "On-Off": "0.015",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.019",
+        "Off": "0.018",
+        "On-Off": "0.001",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.096",
+        "Off": "0.070",
+        "On-Off": "0.026",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.061",
+        "Off": "0.061",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.052",
+        "On-Off": "-0.052",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.067",
+        "Off": "0.057",
+        "On-Off": "0.010",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.097",
+        "Off": "0.098",
+        "On-Off": "-0.001",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.037",
+        "Off": "0.085",
+        "On-Off": "-0.048",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.059",
+        "Off": "0.031",
+        "On-Off": "0.028",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.012",
+        "On-Off": "-0.012",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.125",
+        "Off": "0.114",
+        "On-Off": "0.011",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.250",
+        "Off": "0.200",
+        "On-Off": "0.050",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.150",
+        "Off": "0.200",
+        "On-Off": "-0.050",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.040",
+        "Off": "0.032",
+        "On-Off": "0.008",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.009",
+        "Off": "0.032",
+        "On-Off": "-0.023",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.025",
+        "Off": "0.012",
+        "On-Off": "0.013",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.017",
+        "On-Off": "-0.017",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.020",
+        "Off": "0.013",
+        "On-Off": "0.007",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.145",
+        "Off": "0.060",
+        "On-Off": "0.085",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.071",
+        "Off": "0.059",
+        "On-Off": "0.013",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.157",
+        "Off": "0.061",
+        "On-Off": "0.096",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.083",
+        "Off": "0.031",
+        "On-Off": "0.053",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.020",
+        "Off": "0.009",
+        "On-Off": "0.011",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.042",
+        "Off": "0.017",
+        "On-Off": "0.025",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.020",
+        "Off": "0.008",
+        "On-Off": "0.012",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.053",
+        "Off": "0.067",
+        "On-Off": "-0.014",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.087",
+        "On-Off": "-0.087",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.013",
+        "Off": "0.050",
+        "On-Off": "-0.037",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.023",
+        "Off": "0.018",
+        "On-Off": "0.004",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.043",
+        "Off": "0.020",
+        "On-Off": "0.022",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.033",
+        "On-Off": "-0.033",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.032",
+        "Off": "0.021",
+        "On-Off": "0.011",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.060",
+        "Off": "0.061",
+        "On-Off": "-0.001",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.029",
+        "Off": "0.077",
+        "On-Off": "-0.048",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.111",
+        "Off": "0.000",
+        "On-Off": "0.111",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.087",
+        "Off": "0.060",
+        "On-Off": "0.027",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.091",
+        "Off": "0.088",
+        "On-Off": "0.003",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.378",
+        "Off": "0.231",
+        "On-Off": "0.147",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.058",
+        "Off": "0.032",
+        "On-Off": "0.026",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.056",
+        "Off": "0.060",
+        "On-Off": "-0.004",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.039",
+        "On-Off": "-0.039",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.066",
+        "On-Off": "-0.066",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.075",
+        "Off": "0.104",
+        "On-Off": "-0.028",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.229",
+        "Off": "0.168",
+        "On-Off": "0.060",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.296",
+        "Off": "0.273",
+        "On-Off": "0.024",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.259",
+        "Off": "0.189",
+        "On-Off": "0.069",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.064",
+        "Off": "0.037",
+        "On-Off": "0.027",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.082",
+        "Off": "0.105",
+        "On-Off": "-0.023",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.051",
+        "On-Off": "-0.051",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.029",
+        "Off": "0.103",
+        "On-Off": "-0.075",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.059",
+        "Off": "0.117",
+        "On-Off": "-0.058",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.183",
+        "Off": "0.170",
+        "On-Off": "0.013",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.083",
+        "Off": "0.143",
+        "On-Off": "-0.060",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.033",
+        "Off": "0.000",
+        "On-Off": "0.033",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.333",
+        "Off": "0.291",
+        "On-Off": "0.043",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.059",
+        "Off": "0.198",
+        "On-Off": "-0.139",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.087",
+        "Off": "0.104",
+        "On-Off": "-0.017",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.100",
+        "Off": "0.105",
+        "On-Off": "-0.005",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.047",
+        "On-Off": "-0.047",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.059",
+        "Off": "0.111",
+        "On-Off": "-0.052",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.148",
+        "Off": "0.193",
+        "On-Off": "-0.045",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.214",
+        "Off": "0.185",
+        "On-Off": "0.029",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.280",
+        "Off": "0.146",
+        "On-Off": "0.134",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.140",
+        "Off": "0.147",
+        "On-Off": "-0.008",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.054",
+        "Off": "0.104",
+        "On-Off": "-0.050",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.167",
+        "Off": "0.123",
+        "On-Off": "0.044",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.052",
+        "On-Off": "-0.052",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.106",
+        "On-Off": "-0.106",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.200",
+        "Off": "0.129",
+        "On-Off": "0.071",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.178",
+        "Off": "0.136",
+        "On-Off": "0.042",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.233",
+        "Off": "0.126",
+        "On-Off": "0.107",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.077",
+        "Off": "0.047",
+        "On-Off": "0.030",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.156",
+        "Off": "0.207",
+        "On-Off": "-0.051",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.167",
+        "Off": "0.132",
+        "On-Off": "0.034",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.130",
+        "Off": "0.088",
+        "On-Off": "0.042",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.053",
+        "Off": "0.102",
+        "On-Off": "-0.049",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.207",
+        "On-Off": "-0.207",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.185",
+        "Off": "0.058",
+        "On-Off": "0.127",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.150",
+        "Off": "0.188",
+        "On-Off": "-0.038",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.083",
+        "Off": "0.000",
+        "On-Off": "0.083",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.429",
+        "Off": "0.156",
+        "On-Off": "0.272",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.667",
+        "Off": "0.750",
+        "On-Off": "-0.083",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "1.000",
+        "Off": "0.483",
+        "On-Off": "0.517",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.667",
+        "Off": "0.833",
+        "On-Off": "-0.167",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.600",
+        "Off": "0.562",
+        "On-Off": "0.037",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.643",
+        "Off": "0.476",
+        "On-Off": "0.167",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.333",
+        "Off": "0.455",
+        "On-Off": "-0.121",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "16.056",
+        "Off": "15.344",
+        "On-Off": "0.713",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "15.830",
+        "Off": "15.289",
+        "On-Off": "0.542",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "15.743",
+        "Off": "15.282",
+        "On-Off": "0.461",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "15.724",
+        "Off": "15.613",
+        "On-Off": "0.112",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "15.419",
+        "On-Off": "-15.419",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "15.537",
+        "Off": "14.648",
+        "On-Off": "0.888",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "16.164",
+        "Off": "15.239",
+        "On-Off": "0.926",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "16.459",
+        "Off": "15.370",
+        "On-Off": "1.089",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "16.470",
+        "Off": "14.267",
+        "On-Off": "2.202",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "16.101",
+        "Off": "14.647",
+        "On-Off": "1.454",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "16.591",
+        "Off": "16.314",
+        "On-Off": "0.277",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "15.644",
+        "Off": "14.958",
+        "On-Off": "0.687",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "14.532",
+        "Off": "15.323",
+        "On-Off": "-0.791",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "14.989",
+        "Off": "15.311",
+        "On-Off": "-0.322",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "14.818",
+        "Off": "15.196",
+        "On-Off": "-0.378",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "15.173",
+        "Off": "14.951",
+        "On-Off": "0.222",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "15.544",
+        "On-Off": "-15.544",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "15.573",
+        "Off": "15.029",
+        "On-Off": "0.544",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "15.014",
+        "Off": "15.251",
+        "On-Off": "-0.237",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "14.746",
+        "Off": "15.193",
+        "On-Off": "-0.447",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "13.742",
+        "Off": "16.739",
+        "On-Off": "-2.996",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "14.417",
+        "Off": "15.814",
+        "On-Off": "-1.397",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "14.489",
+        "Off": "14.773",
+        "On-Off": "-0.284",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "15.231",
+        "Off": "15.223",
+        "On-Off": "0.007",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.184",
+        "Off": "0.252",
+        "On-Off": "-0.068",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.124",
+        "Off": "0.218",
+        "On-Off": "-0.094",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.116",
+        "Off": "0.129",
+        "On-Off": "-0.013",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.385",
+        "Off": "0.271",
+        "On-Off": "0.114",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.386",
+        "On-Off": "-0.386",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.111",
+        "Off": "0.143",
+        "On-Off": "-0.032",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.221",
+        "Off": "0.277",
+        "On-Off": "-0.055",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.400",
+        "Off": "0.478",
+        "On-Off": "-0.078",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.071",
+        "Off": "0.667",
+        "On-Off": "-0.595",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.179",
+        "Off": "0.133",
+        "On-Off": "0.046",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.455",
+        "Off": "0.508",
+        "On-Off": "-0.053",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.696",
+        "Off": "0.790",
+        "On-Off": "-0.095",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.556",
+        "Off": "0.616",
+        "On-Off": "-0.061",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.545",
+        "Off": "0.643",
+        "On-Off": "-0.097",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.800",
+        "Off": "0.308",
+        "On-Off": "0.492",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.574",
+        "On-Off": "-0.574",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.742",
+        "Off": "0.659",
+        "On-Off": "0.083",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.708",
+        "Off": "0.611",
+        "On-Off": "0.097",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.714",
+        "Off": "0.667",
+        "On-Off": "0.048",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.767",
+        "Off": "0.690",
+        "On-Off": "0.077",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.875",
+        "Off": "0.745",
+        "On-Off": "0.130",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.500",
+        "Off": "0.340",
+        "On-Off": "0.160",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.167",
+        "Off": "0.333",
+        "On-Off": "-0.167",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.750",
+        "On-Off": "-0.250",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.419",
+        "On-Off": "-0.419",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.435",
+        "Off": "0.467",
+        "On-Off": "-0.032",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.706",
+        "Off": "0.773",
+        "On-Off": "-0.067",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.400",
+        "Off": "0.500",
+        "On-Off": "-0.100",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.913",
+        "Off": "0.783",
+        "On-Off": "0.130",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.464",
+        "Off": "0.307",
+        "On-Off": "0.157",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.414",
+        "Off": "0.292",
+        "On-Off": "0.122",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.253",
+        "Off": "0.209",
+        "On-Off": "0.043",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.154",
+        "Off": "0.333",
+        "On-Off": "-0.179",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.264",
+        "On-Off": "-0.264",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.074",
+        "Off": "0.000",
+        "On-Off": "0.074",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.243",
+        "Off": "0.234",
+        "On-Off": "0.009",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.417",
+        "Off": "0.327",
+        "On-Off": "0.089",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.571",
+        "Off": "0.000",
+        "On-Off": "0.571",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.333",
+        "Off": "0.244",
+        "On-Off": "0.089",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.424",
+        "Off": "0.371",
+        "On-Off": "0.054",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.552",
+        "Off": "0.477",
+        "On-Off": "0.075",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.433",
+        "Off": "0.339",
+        "On-Off": "0.094",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.333",
+        "Off": "0.338",
+        "On-Off": "-0.005",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.312",
+        "On-Off": "0.188",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.324",
+        "On-Off": "-0.324",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.382",
+        "Off": "0.338",
+        "On-Off": "0.045",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.440",
+        "Off": "0.405",
+        "On-Off": "0.035",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.154",
+        "Off": "0.182",
+        "On-Off": "-0.028",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.393",
+        "Off": "0.466",
+        "On-Off": "-0.073",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.844",
+        "Off": "0.722",
+        "On-Off": "0.122",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.500",
+        "Off": "0.564",
+        "On-Off": "-0.064",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.375",
+        "Off": "0.304",
+        "On-Off": "0.071",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.615",
+        "Off": "0.269",
+        "On-Off": "0.346",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.818",
+        "Off": "0.800",
+        "On-Off": "0.018",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.727",
+        "Off": "0.912",
+        "On-Off": "-0.184",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.144",
+        "Off": "0.128",
+        "On-Off": "0.016",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.186",
+        "Off": "0.160",
+        "On-Off": "0.026",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.200",
+        "Off": "0.160",
+        "On-Off": "0.040",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.231",
+        "Off": "0.104",
+        "On-Off": "0.127",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.093",
+        "On-Off": "-0.093",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.074",
+        "Off": "0.048",
+        "On-Off": "0.026",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.179",
+        "Off": "0.143",
+        "On-Off": "0.036",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.017",
+        "Off": "0.027",
+        "On-Off": "-0.010",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.143",
+        "Off": "0.167",
+        "On-Off": "-0.024",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.128",
+        "Off": "0.089",
+        "On-Off": "0.039",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.200",
+        "On-Off": "0.300",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.091",
+        "Off": "0.041",
+        "On-Off": "0.050",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.444",
+        "Off": "0.444",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.444",
+        "Off": "0.413",
+        "On-Off": "0.032",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.421",
+        "Off": "0.385",
+        "On-Off": "0.036",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.360",
+        "Off": "0.362",
+        "On-Off": "-0.002",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.400",
+        "Off": "0.000",
+        "On-Off": "0.400",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.167",
+        "Off": "0.375",
+        "On-Off": "-0.208",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "1.000",
+        "Off": "0.857",
+        "On-Off": "0.143",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.333",
+        "Off": "0.500",
+        "On-Off": "-0.167",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.250",
+        "Off": "0.400",
+        "On-Off": "-0.150",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.444",
+        "Off": "0.529",
+        "On-Off": "-0.085",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.056",
+        "Off": "0.061",
+        "On-Off": "-0.005",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.034",
+        "Off": "0.046",
+        "On-Off": "-0.011",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.053",
+        "Off": "0.077",
+        "On-Off": "-0.024",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.259",
+        "Off": "0.238",
+        "On-Off": "0.021",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.057",
+        "Off": "0.094",
+        "On-Off": "-0.037",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.067",
+        "Off": "0.053",
+        "On-Off": "0.014",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.071",
+        "Off": "0.000",
+        "On-Off": "0.071",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.077",
+        "Off": "0.222",
+        "On-Off": "-0.145",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.286",
+        "Off": "0.433",
+        "On-Off": "-0.148",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.600",
+        "Off": "0.556",
+        "On-Off": "0.044",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.600",
+        "Off": "0.280",
+        "On-Off": "0.320",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.364",
+        "On-Off": "-0.364",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.429",
+        "Off": "0.400",
+        "On-Off": "0.029",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.500",
+        "Off": "0.290",
+        "On-Off": "0.210",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.152",
+        "Off": "0.252",
+        "On-Off": "-0.100",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.241",
+        "Off": "0.284",
+        "On-Off": "-0.043",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.379",
+        "Off": "0.425",
+        "On-Off": "-0.046",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.231",
+        "Off": "0.167",
+        "On-Off": "0.064",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.179",
+        "On-Off": "-0.179",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.481",
+        "Off": "0.571",
+        "On-Off": "-0.090",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.300",
+        "Off": "0.252",
+        "On-Off": "0.048",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.100",
+        "Off": "0.115",
+        "On-Off": "-0.015",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.143",
+        "Off": "0.167",
+        "On-Off": "-0.024",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.282",
+        "Off": "0.311",
+        "On-Off": "-0.029",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.030",
+        "Off": "0.071",
+        "On-Off": "-0.041",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.368",
+        "Off": "0.355",
+        "On-Off": "0.014",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.257",
+        "Off": "0.357",
+        "On-Off": "-0.100",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.306",
+        "Off": "0.399",
+        "On-Off": "-0.093",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.375",
+        "On-Off": "0.292",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.240",
+        "On-Off": "-0.240",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.231",
+        "Off": "0.167",
+        "On-Off": "0.064",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.286",
+        "Off": "0.301",
+        "On-Off": "-0.015",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.167",
+        "Off": "0.423",
+        "On-Off": "-0.256",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.364",
+        "Off": "0.429",
+        "On-Off": "-0.065",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.500",
+        "Off": "0.143",
+        "On-Off": "0.357",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "1.000",
+        "Off": "0.955",
+        "On-Off": "0.045",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.556",
+        "Off": "0.825",
+        "On-Off": "-0.269",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.636",
+        "Off": "0.782",
+        "On-Off": "-0.145",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.833",
+        "Off": "0.920",
+        "On-Off": "-0.087",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.392",
+        "Off": "0.565",
+        "On-Off": "-0.173",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.400",
+        "Off": "0.548",
+        "On-Off": "-0.148",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.547",
+        "Off": "0.631",
+        "On-Off": "-0.083",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.615",
+        "Off": "0.562",
+        "On-Off": "0.053",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.643",
+        "On-Off": "-0.643",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.852",
+        "Off": "0.952",
+        "On-Off": "-0.101",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.579",
+        "Off": "0.623",
+        "On-Off": "-0.045",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.567",
+        "Off": "0.646",
+        "On-Off": "-0.079",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.286",
+        "Off": "0.833",
+        "On-Off": "-0.548",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.538",
+        "Off": "0.667",
+        "On-Off": "-0.128",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.485",
+        "Off": "0.589",
+        "On-Off": "-0.104",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.368",
+        "Off": "0.355",
+        "On-Off": "0.014",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.257",
+        "Off": "0.364",
+        "On-Off": "-0.106",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.314",
+        "Off": "0.404",
+        "On-Off": "-0.090",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.429",
+        "On-Off": "0.238",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.240",
+        "On-Off": "-0.240",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.231",
+        "Off": "0.167",
+        "On-Off": "0.064",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.286",
+        "Off": "0.301",
+        "On-Off": "-0.015",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.167",
+        "Off": "0.423",
+        "On-Off": "-0.256",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.400",
+        "Off": "0.429",
+        "On-Off": "-0.029",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.500",
+        "Off": "0.143",
+        "On-Off": "0.357",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.453",
+        "Off": "0.483",
+        "On-Off": "-0.029",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.450",
+        "Off": "0.485",
+        "On-Off": "-0.035",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.441",
+        "Off": "0.459",
+        "On-Off": "-0.018",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.474",
+        "Off": "0.498",
+        "On-Off": "-0.024",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.513",
+        "On-Off": "-0.513",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.528",
+        "Off": "0.541",
+        "On-Off": "-0.014",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.485",
+        "Off": "0.507",
+        "On-Off": "-0.022",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.495",
+        "Off": "0.518",
+        "On-Off": "-0.023",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.416",
+        "Off": "0.542",
+        "On-Off": "-0.125",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.470",
+        "Off": "0.522",
+        "On-Off": "-0.052",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.448",
+        "Off": "0.489",
+        "On-Off": "-0.041",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.482",
+        "Off": "0.506",
+        "On-Off": "-0.024",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.047",
+        "Off": "0.088",
+        "On-Off": "-0.041",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.196",
+        "Off": "0.118",
+        "On-Off": "0.078",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.031",
+        "Off": "0.039",
+        "On-Off": "-0.008",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.267",
+        "Off": "0.113",
+        "On-Off": "0.153",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.169",
+        "On-Off": "-0.169",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.100",
+        "Off": "0.045",
+        "On-Off": "0.055",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.055",
+        "Off": "0.086",
+        "On-Off": "-0.031",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.157",
+        "Off": "0.120",
+        "On-Off": "0.037",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.067",
+        "Off": "0.375",
+        "On-Off": "-0.308",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.114",
+        "Off": "0.137",
+        "On-Off": "-0.024",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.085",
+        "Off": "0.085",
+        "On-Off": "-0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.059",
+        "Off": "0.122",
+        "On-Off": "-0.063",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.258",
+        "Off": "0.160",
+        "On-Off": "0.098",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.054",
+        "Off": "0.076",
+        "On-Off": "-0.022",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.333",
+        "Off": "0.154",
+        "On-Off": "0.179",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.211",
+        "On-Off": "-0.211",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.222",
+        "Off": "0.000",
+        "On-Off": "0.222",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.083",
+        "Off": "0.128",
+        "On-Off": "-0.045",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.183",
+        "Off": "0.142",
+        "On-Off": "0.042",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.083",
+        "Off": "0.429",
+        "On-Off": "-0.345",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.167",
+        "Off": "0.259",
+        "On-Off": "-0.093",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.087",
+        "Off": "0.092",
+        "On-Off": "-0.005",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.048",
+        "Off": "0.056",
+        "On-Off": "-0.008",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.095",
+        "Off": "0.104",
+        "On-Off": "-0.008",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.084",
+        "Off": "0.137",
+        "On-Off": "-0.053",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.185",
+        "Off": "0.124",
+        "On-Off": "0.061",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.217",
+        "On-Off": "-0.217",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.073",
+        "On-Off": "-0.073",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.233",
+        "Off": "0.143",
+        "On-Off": "0.090",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.046",
+        "Off": "0.075",
+        "On-Off": "-0.029",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.114",
+        "Off": "0.134",
+        "On-Off": "-0.020",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.054",
+        "Off": "0.113",
+        "On-Off": "-0.059",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.143",
+        "Off": "0.163",
+        "On-Off": "-0.020",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.218",
+        "Off": "0.169",
+        "On-Off": "0.048",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.246",
+        "Off": "0.141",
+        "On-Off": "0.104",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.348",
+        "Off": "0.256",
+        "On-Off": "0.092",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.429",
+        "Off": "0.196",
+        "On-Off": "0.233",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.152",
+        "On-Off": "-0.152",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.217",
+        "Off": "0.176",
+        "On-Off": "0.041",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.143",
+        "Off": "0.134",
+        "On-Off": "0.009",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.154",
+        "Off": "0.583",
+        "On-Off": "-0.429",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.351",
+        "Off": "0.189",
+        "On-Off": "0.163",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.190",
+        "Off": "0.205",
+        "On-Off": "-0.015",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.185",
+        "Off": "0.171",
+        "On-Off": "0.014",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.187",
+        "Off": "0.158",
+        "On-Off": "0.029",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.303",
+        "Off": "0.186",
+        "On-Off": "0.117",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.457",
+        "Off": "0.217",
+        "On-Off": "0.240",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.137",
+        "On-Off": "-0.137",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.335",
+        "Off": "0.284",
+        "On-Off": "0.051",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.202",
+        "Off": "0.169",
+        "On-Off": "0.033",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.193",
+        "Off": "0.158",
+        "On-Off": "0.036",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.318",
+        "Off": "0.407",
+        "On-Off": "-0.089",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.265",
+        "Off": "0.275",
+        "On-Off": "-0.011",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.205",
+        "Off": "0.243",
+        "On-Off": "-0.038",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.339",
+        "Off": "0.204",
+        "On-Off": "0.135",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "9.570",
+        "Off": "8.104",
+        "On-Off": "1.466",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "9.762",
+        "Off": "8.405",
+        "On-Off": "1.357",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "9.998",
+        "Off": "10.110",
+        "On-Off": "-0.112",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "7.700",
+        "Off": "7.482",
+        "On-Off": "0.218",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "6.087",
+        "On-Off": "-6.087",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "7.543",
+        "Off": "5.675",
+        "On-Off": "1.868",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "8.549",
+        "Off": "7.793",
+        "On-Off": "0.755",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "5.046",
+        "Off": "4.656",
+        "On-Off": "0.390",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "9.118",
+        "Off": "6.120",
+        "On-Off": "2.998",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "7.732",
+        "Off": "8.829",
+        "On-Off": "-1.097",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "8.600",
+        "Off": "6.280",
+        "On-Off": "2.320",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "6.067",
+        "Off": "4.973",
+        "On-Off": "1.094",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "24.177",
+        "Off": "24.419",
+        "On-Off": "-0.243",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "24.738",
+        "Off": "25.033",
+        "On-Off": "-0.296",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "25.976",
+        "Off": "25.417",
+        "On-Off": "0.558",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "23.933",
+        "Off": "25.564",
+        "On-Off": "-1.631",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "24.031",
+        "On-Off": "-24.031",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "25.500",
+        "Off": "24.700",
+        "On-Off": "0.800",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "24.604",
+        "Off": "24.261",
+        "On-Off": "0.343",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "23.960",
+        "Off": "24.139",
+        "On-Off": "-0.179",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "24.333",
+        "Off": "25.200",
+        "On-Off": "-0.867",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "27.079",
+        "Off": "24.267",
+        "On-Off": "2.812",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "24.450",
+        "Off": "24.938",
+        "On-Off": "-0.488",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.232",
+        "Off": "0.189",
+        "On-Off": "0.043",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.062",
+        "Off": "0.065",
+        "On-Off": "-0.003",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.097",
+        "Off": "0.098",
+        "On-Off": "-0.001",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.080",
+        "On-Off": "-0.080",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.064",
+        "Off": "0.068",
+        "On-Off": "-0.004",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.117",
+        "Off": "0.129",
+        "On-Off": "-0.012",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.207",
+        "Off": "0.157",
+        "On-Off": "0.050",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.033",
+        "Off": "0.184",
+        "On-Off": "-0.150",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.043",
+        "Off": "0.023",
+        "On-Off": "0.020",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.105",
+        "Off": "0.148",
+        "On-Off": "-0.043",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.291",
+        "Off": "0.237",
+        "On-Off": "0.053",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "0.036",
+        "Off": "0.047",
+        "On-Off": "-0.011",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "0.019",
+        "Off": "0.022",
+        "On-Off": "-0.003",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.027",
+        "Off": "0.013",
+        "On-Off": "0.014",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "0.019",
+        "Off": "0.000",
+        "On-Off": "0.019",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "0.018",
+        "Off": "0.017",
+        "On-Off": "0.001",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "0.092",
+        "Off": "0.067",
+        "On-Off": "0.025",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "0.059",
+        "Off": "0.054",
+        "On-Off": "0.005",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.067",
+        "Off": "0.056",
+        "On-Off": "0.011",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "0.093",
+        "Off": "0.095",
+        "On-Off": "-0.002",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "26.630",
+        "Off": "31.090",
+        "On-Off": "-4.460",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "27.623",
+        "Off": "24.535",
+        "On-Off": "3.089",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "20.354",
+        "Off": "20.672",
+        "On-Off": "-0.318",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "16.535",
+        "Off": "9.787",
+        "On-Off": "6.748",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "20.396",
+        "On-Off": "-20.396",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "13.761",
+        "Off": "8.898",
+        "On-Off": "4.863",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "23.566",
+        "Off": "17.320",
+        "On-Off": "6.246",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "15.217",
+        "Off": "14.981",
+        "On-Off": "0.236",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "19.697",
+        "Off": "13.953",
+        "On-Off": "5.743",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "14.397",
+        "Off": "20.543",
+        "On-Off": "-6.146",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "4.545",
+        "Off": "11.429",
+        "On-Off": "-6.883",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "28.475",
+        "Off": "26.704",
+        "On-Off": "1.771",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "6.703",
+        "Off": "9.100",
+        "On-Off": "-2.397",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "22.222",
+        "Off": "22.574",
+        "On-Off": "-0.352",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "15.487",
+        "Off": "14.749",
+        "On-Off": "0.737",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "6.299",
+        "Off": "1.277",
+        "On-Off": "5.023",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "13.597",
+        "On-Off": "-13.597",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "12.385",
+        "Off": "10.169",
+        "On-Off": "2.216",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "18.605",
+        "Off": "14.998",
+        "On-Off": "3.607",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "11.304",
+        "Off": "8.364",
+        "On-Off": "2.940",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "12.121",
+        "Off": "5.814",
+        "On-Off": "6.307",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "5.058",
+        "Off": "7.752",
+        "On-Off": "-2.694",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "6.818",
+        "Off": "4.286",
+        "On-Off": "2.532",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "7.458",
+        "Off": "7.151",
+        "On-Off": "0.307",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "2.174",
+        "Off": "5.024",
+        "On-Off": "-2.850",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "9.877",
+        "Off": "6.285",
+        "On-Off": "3.592",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "1.549",
+        "Off": "2.449",
+        "On-Off": "-0.900",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "5.512",
+        "Off": "2.340",
+        "On-Off": "3.171",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "7.540",
+        "On-Off": "-7.540",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "3.211",
+        "Off": "1.271",
+        "On-Off": "1.940",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "2.481",
+        "Off": "2.854",
+        "On-Off": "-0.374",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "4.565",
+        "Off": "3.282",
+        "On-Off": "1.283",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "4.545",
+        "Off": "10.465",
+        "On-Off": "-5.920",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "3.891",
+        "Off": "5.039",
+        "On-Off": "-1.148",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "5.085",
+        "Off": "4.022",
+        "On-Off": "1.062",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "3.623",
+        "Off": "3.081",
+        "On-Off": "0.543",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "4.475",
+        "Off": "3.117",
+        "On-Off": "1.358",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "4.646",
+        "Off": "2.677",
+        "On-Off": "1.969",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.787",
+        "Off": "1.915",
+        "On-Off": "-1.127",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "3.708",
+        "On-Off": "-3.708",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "1.835",
+        "Off": "0.847",
+        "On-Off": "0.987",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "3.411",
+        "Off": "3.000",
+        "On-Off": "0.411",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "1.739",
+        "Off": "1.853",
+        "On-Off": "-0.114",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "4.545",
+        "Off": "4.651",
+        "On-Off": "-0.106",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "4.280",
+        "Off": "4.264",
+        "On-Off": "0.017",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "7.458",
+        "Off": "2.905",
+        "On-Off": "4.553",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Nneka Ogwumike",
+        "On": "2.899",
+        "Off": "3.934",
+        "On-Off": "-1.035",
+        "MinutesOn": 282,
+        "MinutesOff": 1077
+      },
+      {
+        "Name": "Skylar Diggins",
+        "On": "9.722",
+        "Off": "9.804",
+        "On-Off": "-0.082",
+        "MinutesOn": 333,
+        "MinutesOff": 1010
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "7.301",
+        "Off": "6.321",
+        "On-Off": "0.980",
+        "MinutesOn": 232,
+        "MinutesOff": 889
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "2.362",
+        "Off": "0.426",
+        "On-Off": "1.937",
+        "MinutesOn": 65,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "5.686",
+        "On-Off": "-5.686",
+        "MinutesOn": 0,
+        "MinutesOff": 420
+      },
+      {
+        "Name": "Lexie Brown",
+        "On": "5.505",
+        "Off": "4.661",
+        "On-Off": "0.844",
+        "MinutesOn": 114,
+        "MinutesOff": 118
+      },
+      {
+        "Name": "Gabby Williams",
+        "On": "8.217",
+        "Off": "6.386",
+        "On-Off": "1.831",
+        "MinutesOn": 337,
+        "MinutesOff": 1049
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Ezi Magbegor",
+        "On": "4.783",
+        "Off": "3.706",
+        "On-Off": "1.077",
+        "MinutesOn": 240,
+        "MinutesOff": 962
+      },
+      {
+        "Name": "Li Yueru",
+        "On": "6.061",
+        "Off": "2.326",
+        "On-Off": "3.735",
+        "MinutesOn": 33,
+        "MinutesOff": 45
+      },
+      {
+        "Name": "Zia Cooke",
+        "On": "1.946",
+        "Off": "3.488",
+        "On-Off": "-1.543",
+        "MinutesOn": 131,
+        "MinutesOff": 130
+      },
+      {
+        "Name": "Mackenzie Holmes",
+        "On": "2.273",
+        "Off": "1.429",
+        "On-Off": "0.844",
+        "MinutesOn": 23,
+        "MinutesOff": 35
+      },
+      {
+        "Name": "Dominique Malonga",
+        "On": "3.390",
+        "Off": "2.905",
+        "On-Off": "0.485",
+        "MinutesOn": 152,
+        "MinutesOff": 448
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Alysha Clark",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Alysha Clark",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Alysha Clark"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Alysha Clark"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

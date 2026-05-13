@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-possessions/wnba with params {'OffDef': 'Offense', 'Season': '2025', 'SeasonType': 'Regular Season', 'TeamId': '1611661331'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-possessions/wnba?OffDef=Offense&Season=2025&SeasonType=Regular+Season&TeamId=1611661331",
+  "status": 500,
+  "response_text": "{\"detail\":\"Internal Server Error\"}"
+}

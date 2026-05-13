@@ -1,0 +1,6336 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.429",
+        "Off": "0.000",
+        "On-Off": "0.429",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.429",
+        "Off": "0.000",
+        "On-Off": "0.429",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.600",
+        "Off": "1.000",
+        "On-Off": "-0.400",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.444",
+        "Off": "0.667",
+        "On-Off": "-0.222",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.192",
+        "Off": "0.333",
+        "On-Off": "-0.141",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.200",
+        "Off": "0.500",
+        "On-Off": "-0.300",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.444",
+        "Off": "0.667",
+        "On-Off": "-0.222",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.192",
+        "Off": "0.333",
+        "On-Off": "-0.141",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.200",
+        "Off": "0.500",
+        "On-Off": "-0.300",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.333",
+        "Off": "0.250",
+        "On-Off": "0.083",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.636",
+        "Off": "0.000",
+        "On-Off": "0.636",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.273",
+        "Off": "0.500",
+        "On-Off": "-0.227",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.250",
+        "Off": "0.750",
+        "On-Off": "-0.500",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.333",
+        "Off": "0.222",
+        "On-Off": "0.111",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.650",
+        "Off": "1.000",
+        "On-Off": "-0.350",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.286",
+        "Off": "0.400",
+        "On-Off": "-0.114",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.427",
+        "Off": "0.333",
+        "On-Off": "0.093",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.208",
+        "Off": "0.429",
+        "On-Off": "-0.220",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.385",
+        "Off": "0.300",
+        "On-Off": "0.085",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.350",
+        "Off": "0.273",
+        "On-Off": "0.077",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.690",
+        "Off": "0.900",
+        "On-Off": "-0.210",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.295",
+        "Off": "0.400",
+        "On-Off": "-0.105",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.455",
+        "Off": "0.333",
+        "On-Off": "0.121",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.286",
+        "Off": "0.429",
+        "On-Off": "-0.143",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.385",
+        "Off": "0.417",
+        "On-Off": "-0.032",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.450",
+        "Off": "1.000",
+        "On-Off": "-0.550",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.476",
+        "Off": "0.200",
+        "On-Off": "0.276",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.634",
+        "Off": "0.667",
+        "On-Off": "-0.033",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.667",
+        "Off": "0.429",
+        "On-Off": "0.238",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.769",
+        "Off": "0.400",
+        "On-Off": "0.369",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.182",
+        "Off": "0.000",
+        "On-Off": "0.182",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "25.532",
+        "Off": "31.818",
+        "On-Off": "-6.286",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "6.667",
+        "Off": "11.765",
+        "On-Off": "-5.098",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "5.882",
+        "On-Off": "-5.882",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "21.429",
+        "On-Off": "-21.429",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "15.882",
+        "Off": "14.035",
+        "On-Off": "1.847",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "16.667",
+        "Off": "11.765",
+        "On-Off": "4.902",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "28.495",
+        "Off": "21.277",
+        "On-Off": "7.218",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "26.316",
+        "On-Off": "-26.316",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "22.368",
+        "Off": "28.571",
+        "On-Off": "-6.203",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "11.310",
+        "Off": "17.143",
+        "On-Off": "-5.833",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "28.571",
+        "On-Off": "-28.571",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.889",
+        "Off": "1.000",
+        "On-Off": "-0.111",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.267",
+        "Off": "0.200",
+        "On-Off": "0.067",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.034",
+        "Off": "0.167",
+        "On-Off": "-0.133",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.370",
+        "Off": "0.200",
+        "On-Off": "0.170",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.143",
+        "Off": "0.143",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.080",
+        "Off": "0.000",
+        "On-Off": "0.080",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.123",
+        "Off": "0.000",
+        "On-Off": "0.123",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.250",
+        "Off": "0.091",
+        "On-Off": "0.159",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.028",
+        "Off": "0.000",
+        "On-Off": "0.028",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.036",
+        "Off": "0.071",
+        "On-Off": "-0.036",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.105",
+        "Off": "0.000",
+        "On-Off": "0.105",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.300",
+        "Off": "0.250",
+        "On-Off": "0.050",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.214",
+        "Off": "0.000",
+        "On-Off": "0.214",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.200",
+        "Off": "0.333",
+        "On-Off": "-0.133",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.059",
+        "Off": "0.286",
+        "On-Off": "-0.227",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.032",
+        "Off": "0.000",
+        "On-Off": "0.032",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.049",
+        "Off": "0.000",
+        "On-Off": "0.049",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.059",
+        "Off": "0.111",
+        "On-Off": "-0.052",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.280",
+        "Off": "0.222",
+        "On-Off": "0.058",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.092",
+        "Off": "0.091",
+        "On-Off": "0.001",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.310",
+        "Off": "0.263",
+        "On-Off": "0.047",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.113",
+        "Off": "0.214",
+        "On-Off": "-0.101",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.143",
+        "Off": "0.095",
+        "On-Off": "0.048",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.013",
+        "Off": "0.000",
+        "On-Off": "0.013",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.043",
+        "Off": "0.040",
+        "On-Off": "0.003",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.011",
+        "Off": "0.000",
+        "On-Off": "0.011",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.083",
+        "Off": "0.053",
+        "On-Off": "0.031",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.026",
+        "Off": "0.067",
+        "On-Off": "-0.040",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.400",
+        "Off": "0.333",
+        "On-Off": "0.067",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.071",
+        "Off": "0.000",
+        "On-Off": "0.071",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.062",
+        "Off": "0.111",
+        "On-Off": "-0.049",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.029",
+        "Off": "0.000",
+        "On-Off": "0.029",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.028",
+        "Off": "0.000",
+        "On-Off": "0.028",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.143",
+        "Off": "0.200",
+        "On-Off": "-0.057",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.100",
+        "Off": "0.000",
+        "On-Off": "0.100",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.400",
+        "Off": "0.250",
+        "On-Off": "0.150",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.036",
+        "Off": "0.000",
+        "On-Off": "0.036",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.429",
+        "Off": "0.250",
+        "On-Off": "0.179",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.111",
+        "Off": "0.000",
+        "On-Off": "0.111",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.160",
+        "Off": "0.000",
+        "On-Off": "0.160",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.050",
+        "Off": "0.333",
+        "On-Off": "-0.283",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.250",
+        "Off": "0.200",
+        "On-Off": "0.050",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.160",
+        "Off": "0.250",
+        "On-Off": "-0.090",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.083",
+        "Off": "0.000",
+        "On-Off": "0.083",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.136",
+        "Off": "0.000",
+        "On-Off": "0.136",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.444",
+        "Off": "0.000",
+        "On-Off": "0.444",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.182",
+        "Off": "0.000",
+        "On-Off": "0.182",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.250",
+        "Off": "0.286",
+        "On-Off": "-0.036",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.261",
+        "Off": "0.000",
+        "On-Off": "0.261",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.227",
+        "Off": "0.250",
+        "On-Off": "-0.023",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.400",
+        "Off": "0.000",
+        "On-Off": "0.400",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "16.725",
+        "Off": "14.300",
+        "On-Off": "2.425",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "15.583",
+        "Off": "12.250",
+        "On-Off": "3.333",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "12.750",
+        "On-Off": "-12.750",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "13.385",
+        "On-Off": "-13.385",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "15.902",
+        "Off": "15.140",
+        "On-Off": "0.762",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "15.696",
+        "Off": "15.091",
+        "On-Off": "0.605",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "15.743",
+        "Off": "15.700",
+        "On-Off": "0.043",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "14.056",
+        "On-Off": "-14.056",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "16.522",
+        "Off": "16.219",
+        "On-Off": "0.304",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "15.733",
+        "Off": "15.536",
+        "On-Off": "0.198",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "14.077",
+        "On-Off": "-14.077",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "15.854",
+        "Off": "14.158",
+        "On-Off": "1.696",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "16.846",
+        "Off": "18.688",
+        "On-Off": "-1.841",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "19.438",
+        "On-Off": "-19.438",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "18.308",
+        "On-Off": "-18.308",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "15.052",
+        "Off": "13.583",
+        "On-Off": "1.468",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "14.978",
+        "Off": "12.857",
+        "On-Off": "2.121",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "15.337",
+        "Off": "12.526",
+        "On-Off": "2.811",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "19.278",
+        "On-Off": "-19.278",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "16.074",
+        "Off": "13.516",
+        "On-Off": "2.557",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "15.300",
+        "Off": "13.444",
+        "On-Off": "1.856",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "19.385",
+        "On-Off": "-19.385",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.190",
+        "Off": "0.200",
+        "On-Off": "-0.010",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.220",
+        "Off": "0.000",
+        "On-Off": "0.220",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.333",
+        "Off": "0.571",
+        "On-Off": "-0.238",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.231",
+        "Off": "0.200",
+        "On-Off": "0.031",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.778",
+        "Off": "0.000",
+        "On-Off": "0.778",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.250",
+        "Off": "0.750",
+        "On-Off": "-0.500",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.571",
+        "Off": "0.000",
+        "On-Off": "0.571",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.444",
+        "Off": "0.333",
+        "On-Off": "0.111",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.286",
+        "Off": "0.600",
+        "On-Off": "-0.314",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.146",
+        "Off": "0.222",
+        "On-Off": "-0.076",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.750",
+        "Off": "0.000",
+        "On-Off": "0.750",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.222",
+        "Off": "0.222",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.150",
+        "Off": "0.000",
+        "On-Off": "0.150",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.050",
+        "Off": "0.333",
+        "On-Off": "-0.283",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.143",
+        "Off": "0.200",
+        "On-Off": "-0.057",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.073",
+        "Off": "0.111",
+        "On-Off": "-0.038",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.333",
+        "Off": "0.286",
+        "On-Off": "0.048",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.615",
+        "Off": "0.200",
+        "On-Off": "0.415",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.400",
+        "Off": "0.667",
+        "On-Off": "-0.267",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.561",
+        "Off": "0.556",
+        "On-Off": "0.005",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.333",
+        "Off": "0.143",
+        "On-Off": "0.190",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.154",
+        "Off": "0.200",
+        "On-Off": "-0.046",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.087",
+        "Off": "0.400",
+        "On-Off": "-0.313",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.333",
+        "Off": "0.444",
+        "On-Off": "-0.111",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.650",
+        "Off": "1.000",
+        "On-Off": "-0.350",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.667",
+        "Off": "0.400",
+        "On-Off": "0.267",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.854",
+        "Off": "0.667",
+        "On-Off": "0.187",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.600",
+        "On-Off": "0.400",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.087",
+        "Off": "0.400",
+        "On-Off": "-0.313",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.434",
+        "Off": "0.498",
+        "On-Off": "-0.064",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.613",
+        "Off": "0.498",
+        "On-Off": "0.115",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.477",
+        "On-Off": "-0.477",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.719",
+        "On-Off": "-0.719",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.517",
+        "Off": "0.482",
+        "On-Off": "0.035",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.496",
+        "Off": "0.469",
+        "On-Off": "0.027",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.508",
+        "Off": "0.477",
+        "On-Off": "0.031",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.525",
+        "On-Off": "-0.525",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.526",
+        "Off": "0.607",
+        "On-Off": "-0.080",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.640",
+        "Off": "0.426",
+        "On-Off": "0.214",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.363",
+        "On-Off": "-0.363",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.100",
+        "Off": "0.000",
+        "On-Off": "0.100",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.095",
+        "Off": "0.400",
+        "On-Off": "-0.305",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.045",
+        "Off": "0.000",
+        "On-Off": "0.045",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.100",
+        "Off": "0.000",
+        "On-Off": "0.100",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.167",
+        "Off": "1.000",
+        "On-Off": "-0.833",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.083",
+        "Off": "0.000",
+        "On-Off": "0.083",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.071",
+        "Off": "0.000",
+        "On-Off": "0.071",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.103",
+        "Off": "0.000",
+        "On-Off": "0.103",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.385",
+        "Off": "0.000",
+        "On-Off": "0.385",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.150",
+        "Off": "0.000",
+        "On-Off": "0.150",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.375",
+        "Off": "0.000",
+        "On-Off": "0.375",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.571",
+        "Off": "0.333",
+        "On-Off": "0.238",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.556",
+        "On-Off": "-0.556",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.154",
+        "Off": "0.000",
+        "On-Off": "0.154",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.300",
+        "Off": "0.571",
+        "On-Off": "-0.271",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.625",
+        "Off": "0.000",
+        "On-Off": "0.625",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.300",
+        "Off": "0.600",
+        "On-Off": "-0.300",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.350",
+        "Off": "0.275",
+        "On-Off": "0.075",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.667",
+        "Off": "0.625",
+        "On-Off": "0.042",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.462",
+        "On-Off": "-0.462",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.163",
+        "Off": "0.300",
+        "On-Off": "-0.137",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.178",
+        "Off": "0.341",
+        "On-Off": "-0.163",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.192",
+        "Off": "0.275",
+        "On-Off": "-0.083",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.299",
+        "Off": "0.188",
+        "On-Off": "0.111",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.193",
+        "Off": "0.464",
+        "On-Off": "-0.271",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.462",
+        "On-Off": "-0.462",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "8.322",
+        "Off": "8.425",
+        "On-Off": "-0.103",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "1.400",
+        "Off": "0.000",
+        "On-Off": "1.400",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.550",
+        "On-Off": "-0.550",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "8.209",
+        "Off": "0.000",
+        "On-Off": "8.209",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "7.000",
+        "Off": "6.150",
+        "On-Off": "0.850",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "3.067",
+        "Off": "10.633",
+        "On-Off": "-7.567",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "4.300",
+        "On-Off": "-4.300",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "2.475",
+        "Off": "1.975",
+        "On-Off": "0.500",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.100",
+        "Off": "6.633",
+        "On-Off": "-5.533",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "5.533",
+        "On-Off": "-5.533",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.000",
+        "Off": "24.600",
+        "On-Off": "-24.600",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "24.000",
+        "On-Off": "-24.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "22.900",
+        "On-Off": "-22.900",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "25.311",
+        "Off": "23.733",
+        "On-Off": "1.578",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "24.790",
+        "Off": "23.400",
+        "On-Off": "1.390",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "25.462",
+        "Off": "26.233",
+        "On-Off": "-0.772",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "25.100",
+        "On-Off": "-25.100",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "24.600",
+        "Off": "25.433",
+        "On-Off": "-0.833",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "23.880",
+        "Off": "24.150",
+        "On-Off": "-0.270",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.280",
+        "Off": "0.222",
+        "On-Off": "0.058",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.089",
+        "Off": "0.091",
+        "On-Off": "-0.002",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.324",
+        "Off": "0.263",
+        "On-Off": "0.061",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.120",
+        "Off": "0.214",
+        "On-Off": "-0.094",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.088",
+        "Off": "0.000",
+        "On-Off": "0.088",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "0.136",
+        "Off": "0.087",
+        "On-Off": "0.049",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.012",
+        "Off": "0.000",
+        "On-Off": "0.012",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "0.039",
+        "Off": "0.038",
+        "On-Off": "0.001",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.011",
+        "Off": "0.000",
+        "On-Off": "0.011",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.083",
+        "Off": "0.053",
+        "On-Off": "0.031",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.024",
+        "Off": "0.062",
+        "On-Off": "-0.038",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "17.500",
+        "Off": "15.000",
+        "On-Off": "2.500",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "18.750",
+        "On-Off": "-18.750",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "30.769",
+        "On-Off": "-30.769",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "18.954",
+        "Off": "18.000",
+        "On-Off": "0.954",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "9.630",
+        "Off": "9.091",
+        "On-Off": "0.539",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "23.952",
+        "Off": "17.500",
+        "On-Off": "6.452",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "16.667",
+        "On-Off": "-16.667",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "11.940",
+        "Off": "18.750",
+        "On-Off": "-6.810",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "6.667",
+        "Off": "17.857",
+        "On-Off": "-11.190",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "7.692",
+        "On-Off": "-7.692",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "22.500",
+        "Off": "10.000",
+        "On-Off": "12.500",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "9.150",
+        "Off": "16.000",
+        "On-Off": "-6.850",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "10.370",
+        "Off": "4.545",
+        "On-Off": "5.825",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "14.970",
+        "Off": "12.500",
+        "On-Off": "2.470",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "4.478",
+        "Off": "0.000",
+        "On-Off": "4.478",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "2.667",
+        "Off": "17.857",
+        "On-Off": "-15.190",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "23.077",
+        "On-Off": "-23.077",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "5.000",
+        "Off": "10.000",
+        "On-Off": "-5.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "15.385",
+        "On-Off": "-15.385",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "1.961",
+        "Off": "8.000",
+        "On-Off": "-6.039",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "1.481",
+        "Off": "0.000",
+        "On-Off": "1.481",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "5.389",
+        "Off": "2.500",
+        "On-Off": "2.889",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "16.667",
+        "On-Off": "-16.667",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "5.970",
+        "Off": "0.000",
+        "On-Off": "5.970",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "7.143",
+        "On-Off": "-7.143",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "15.385",
+        "On-Off": "-15.385",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "5.000",
+        "Off": "7.500",
+        "On-Off": "-2.500",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "3.922",
+        "Off": "6.000",
+        "On-Off": "-2.078",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "2.222",
+        "Off": "2.273",
+        "On-Off": "-0.051",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "5.389",
+        "Off": "2.500",
+        "On-Off": "2.889",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "5.556",
+        "On-Off": "-5.556",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "4.478",
+        "Off": "9.375",
+        "On-Off": "-4.897",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "4.000",
+        "Off": "0.000",
+        "On-Off": "4.000",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Emma Meesseman",
+        "On": "10.000",
+        "Off": "5.000",
+        "On-Off": "5.000",
+        "MinutesOn": 22,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Rebekah Gardner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 8
+      },
+      {
+        "Name": "Stephanie Talbot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "3.922",
+        "Off": "6.000",
+        "On-Off": "-2.078",
+        "MinutesOn": 79,
+        "MinutesOff": 23
+      },
+      {
+        "Name": "Jonquel Jones",
+        "On": "4.444",
+        "Off": "2.273",
+        "On-Off": "2.172",
+        "MinutesOn": 70,
+        "MinutesOff": 20
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "7.186",
+        "Off": "5.000",
+        "On-Off": "2.186",
+        "MinutesOn": 88,
+        "MinutesOff": 18
+      },
+      {
+        "Name": "Marine Johannès",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 10
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.493",
+        "Off": "0.000",
+        "On-Off": "1.493",
+        "MinutesOn": 37,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.333",
+        "Off": "7.143",
+        "On-Off": "-5.810",
+        "MinutesOn": 78,
+        "MinutesOff": 13
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "7.692",
+        "On-Off": "-7.692",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Breanna Stewart",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Breanna Stewart",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Breanna Stewart"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Breanna Stewart"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

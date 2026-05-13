@@ -1,0 +1,38 @@
+{
+  "bundle_id": "wnba_roster_value_bundle",
+  "preset": "shot_pace",
+  "bundle_path": "configs/pbpstats/jobs/wnba_roster_value_bundle.json",
+  "registry_path": "configs/pbpstats/endpoint_registry.json",
+  "output_root": "data/pbpstats_jobs",
+  "league": "wnba",
+  "requested_seasons": [
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "requested_season_types": [
+    "Regular Season",
+    "Playoffs"
+  ],
+  "selected_job_families": [
+    "league_discovery",
+    "shot_pace"
+  ],
+  "jobs": [
+    {
+      "job_id": "wnba_league_discovery",
+      "family": "league_discovery",
+      "records": 55,
+      "job_dir": "data/pbpstats_jobs/wnba_league_discovery",
+      "had_failures": true
+    },
+    {
+      "job_id": "wnba_shot_pace",
+      "family": "shot_pace",
+      "records": 112,
+      "job_dir": "data/pbpstats_jobs/wnba_shot_pace",
+      "had_failures": true
+    }
+  ],
+  "records": 167
+}

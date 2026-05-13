@@ -1,0 +1,53 @@
+{
+  "row_count": 283,
+  "team_count": 15,
+  "duplicate_player_id_rows": 0,
+  "duplicate_team_player_rows": 0,
+  "parquet_rows": 208,
+  "parquet_unique_names": 208,
+  "raw_position_rows": 184,
+  "raw_position_unique_names": 184,
+  "raw_position_duplicate_name_rows": 0,
+  "wbb_box_rows": 10614,
+  "wbb_box_unique_names": 10614,
+  "wbb_box_duplicate_name_rows": 0,
+  "player_bios_2025_raw_rows": 182,
+  "player_bios_2025_rows": 162,
+  "raw_age_rows": 216,
+  "raw_age_unique_names": 216,
+  "master_unique_names": 283,
+  "parquet_name_match_rows": 200,
+  "parquet_unmatched_pre_fallback_rows": 83,
+  "raw_position_name_fallback_rows": 23,
+  "wbb_box_name_fallback_rows": 31,
+  "final_unmatched_rows": 29,
+  "parquet_team_crosscheck_rows": 12,
+  "position_coverage_rows": 254,
+  "position_abbreviation_coverage_rows": 254,
+  "age_coverage_rows": 223,
+  "height_coverage_rows": 223,
+  "synthetic_id_rows": 109,
+  "name_alias_rows": 4,
+  "age_match_method_counts": {
+    "parquet_age": 200,
+    "unmatched": 60,
+    "player_bios_2025_id_exact": 23
+  },
+  "bio_match_method_counts": {
+    "parquet_name_exact": 200,
+    "wbb_box_name_exact": 31,
+    "unmatched": 29,
+    "raw_pos_name_exact": 23
+  },
+  "parquet_match_method_counts": {
+    "name_exact": 200,
+    "unmatched": 83
+  },
+  "missing_flag_counts": {
+    "missing_age_flag": 60,
+    "missing_height_flag": 60,
+    "missing_position_flag": 29
+  },
+  "wbb_position_gap_exact_match_rows": 31,
+  "wbb_position_gap_ambiguous_match_rows": 0
+}

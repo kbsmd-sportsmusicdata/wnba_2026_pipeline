@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-possessions/wnba with params {'OffDef': 'Offense', 'FilterComparison': 'Exactly', 'FilterEvent': 'OnFloor', 'FilterValue': 5, 'StartType': 'All', 'Season': '2024', 'SeasonType': 'Regular Season', 'TeamId': '1611661325'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-possessions/wnba?OffDef=Offense&FilterComparison=Exactly&FilterEvent=OnFloor&FilterValue=5&StartType=All&Season=2024&SeasonType=Regular+Season&TeamId=1611661325",
+  "status": 500,
+  "response_text": "{\"detail\":\"Internal Server Error\"}"
+}

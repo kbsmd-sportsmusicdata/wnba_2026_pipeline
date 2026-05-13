@@ -1,0 +1,4 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-games/wnba with params {'SeasonType': 'Playoffs', 'Season': '2023'}: HTTPSConnectionPool(host='api.pbpstats.com', port=443): Max retries exceeded with url: /get-games/wnba?SeasonType=Playoffs&Season=2023 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10737efd0>: Failed to resolve 'api.pbpstats.com' ([Errno 8] nodename nor servname provided, or not known)\"))"
+}

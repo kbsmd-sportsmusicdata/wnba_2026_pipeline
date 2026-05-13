@@ -1,0 +1,557 @@
+{
+  "results": [
+    {
+      "Stat": "2pt FGM Assist%",
+      "On": "0.575",
+      "Off": "0.614",
+      "On-Off": "-0.039"
+    },
+    {
+      "Stat": "Non Putback 2pt FGM Assist%",
+      "On": "0.624",
+      "Off": "0.645",
+      "On-Off": "-0.021"
+    },
+    {
+      "Stat": "3pt FGM Assist%",
+      "On": "0.892",
+      "Off": "0.907",
+      "On-Off": "-0.015"
+    },
+    {
+      "Stat": "3pt FG%",
+      "On": "0.305",
+      "Off": "0.304",
+      "On-Off": "0.000"
+    },
+    {
+      "Stat": "Non-Heave 3pt FG%",
+      "On": "0.307",
+      "Off": "0.307",
+      "On-Off": "0.000"
+    },
+    {
+      "Stat": "2pt FG%",
+      "On": "0.457",
+      "Off": "0.480",
+      "On-Off": "-0.023"
+    },
+    {
+      "Stat": "eFG%",
+      "On": "0.457",
+      "Off": "0.473",
+      "On-Off": "-0.015"
+    },
+    {
+      "Stat": "TS%",
+      "On": "0.505",
+      "Off": "0.517",
+      "On-Off": "-0.013"
+    },
+    {
+      "Stat": "3PAr",
+      "On": "0.281",
+      "Off": "0.310",
+      "On-Off": "-0.030"
+    },
+    {
+      "Stat": "% of FG3A Blocked",
+      "On": "0.021",
+      "Off": "0.011",
+      "On-Off": "0.009"
+    },
+    {
+      "Stat": "% of FG2A Blocked",
+      "On": "0.087",
+      "Off": "0.089",
+      "On-Off": "-0.002"
+    },
+    {
+      "Stat": "Live Ball TO%",
+      "On": "0.566",
+      "Off": "0.543",
+      "On-Off": "0.023"
+    },
+    {
+      "Stat": "DReb% - Missed FTs",
+      "On": "0.871",
+      "Off": "0.783",
+      "On-Off": "0.088"
+    },
+    {
+      "Stat": "OReb% - Missed FTs",
+      "On": "0.188",
+      "Off": "0.089",
+      "On-Off": "0.098"
+    },
+    {
+      "Stat": "DReb% - Missed 2s",
+      "On": "0.685",
+      "Off": "0.703",
+      "On-Off": "-0.018"
+    },
+    {
+      "Stat": "OReb% - Missed 2s",
+      "On": "0.356",
+      "Off": "0.329",
+      "On-Off": "0.028"
+    },
+    {
+      "Stat": "DReb% - Missed 3s",
+      "On": "0.720",
+      "Off": "0.767",
+      "On-Off": "-0.046"
+    },
+    {
+      "Stat": "OReb% - Missed 3s",
+      "On": "0.308",
+      "Off": "0.296",
+      "On-Off": "0.013"
+    },
+    {
+      "Stat": "DReb% - Missed FGs",
+      "On": "0.700",
+      "Off": "0.729",
+      "On-Off": "-0.029"
+    },
+    {
+      "Stat": "OReb% - Missed FGs",
+      "On": "0.341",
+      "Off": "0.316",
+      "On-Off": "0.024"
+    },
+    {
+      "Stat": "At Rim OReb%",
+      "On": "0.352",
+      "Off": "0.404",
+      "On-Off": "-0.052"
+    },
+    {
+      "Stat": "Short Mid-Range OReb%",
+      "On": "0.389",
+      "Off": "0.318",
+      "On-Off": "0.070"
+    },
+    {
+      "Stat": "Long Mid-Range OReb%",
+      "On": "0.290",
+      "Off": "0.269",
+      "On-Off": "0.020"
+    },
+    {
+      "Stat": "Arc 3 OReb%",
+      "On": "0.331",
+      "Off": "0.290",
+      "On-Off": "0.041"
+    },
+    {
+      "Stat": "Corner 3 OReb%",
+      "On": "0.192",
+      "Off": "0.321",
+      "On-Off": "-0.129"
+    },
+    {
+      "Stat": "At Rim DReb%",
+      "On": "0.588",
+      "Off": "0.587",
+      "On-Off": "0.002"
+    },
+    {
+      "Stat": "Short Mid-Range DReb%",
+      "On": "0.724",
+      "Off": "0.735",
+      "On-Off": "-0.011"
+    },
+    {
+      "Stat": "Long Mid-Range DReb%",
+      "On": "0.761",
+      "Off": "0.811",
+      "On-Off": "-0.050"
+    },
+    {
+      "Stat": "Arc 3 DReb%",
+      "On": "0.721",
+      "Off": "0.762",
+      "On-Off": "-0.042"
+    },
+    {
+      "Stat": "Corner 3 DReb%",
+      "On": "0.720",
+      "Off": "0.786",
+      "On-Off": "-0.066"
+    },
+    {
+      "Stat": "Blocks Recovered %",
+      "On": "0.610",
+      "Off": "0.491",
+      "On-Off": "0.119"
+    },
+    {
+      "Stat": "Seconds Per Possession - Offense",
+      "On": "14.709",
+      "Off": "15.268",
+      "On-Off": "-0.559"
+    },
+    {
+      "Stat": "Seconds Per Possession - Defense",
+      "On": "14.047",
+      "Off": "14.873",
+      "On-Off": "-0.825"
+    },
+    {
+      "Stat": "At Rim Shot Frequency",
+      "On": "0.267",
+      "Off": "0.247",
+      "On-Off": "0.020"
+    },
+    {
+      "Stat": "At Rim FG%",
+      "On": "0.532",
+      "Off": "0.630",
+      "On-Off": "-0.097"
+    },
+    {
+      "Stat": "At Rim % Assisted",
+      "On": "0.642",
+      "Off": "0.638",
+      "On-Off": "0.004"
+    },
+    {
+      "Stat": "Short Mid Range Shot Frequency",
+      "On": "0.315",
+      "Off": "0.304",
+      "On-Off": "0.011"
+    },
+    {
+      "Stat": "Short Mid Range FG%",
+      "On": "0.418",
+      "Off": "0.412",
+      "On-Off": "0.006"
+    },
+    {
+      "Stat": "Short Mid Range % Assisted",
+      "On": "0.526",
+      "Off": "0.582",
+      "On-Off": "-0.056"
+    },
+    {
+      "Stat": "Long Mid Range Shot Frequency",
+      "On": "0.137",
+      "Off": "0.139",
+      "On-Off": "-0.001"
+    },
+    {
+      "Stat": "Long Mid Range FG%",
+      "On": "0.403",
+      "Off": "0.364",
+      "On-Off": "0.039"
+    },
+    {
+      "Stat": "Long Mid % Assisted",
+      "On": "0.521",
+      "Off": "0.617",
+      "On-Off": "-0.097"
+    },
+    {
+      "Stat": "Corner 3 Shot Frequency",
+      "On": "0.050",
+      "Off": "0.055",
+      "On-Off": "-0.005"
+    },
+    {
+      "Stat": "Corner 3 FG%",
+      "On": "0.395",
+      "Off": "0.320",
+      "On-Off": "0.075"
+    },
+    {
+      "Stat": "Corner 3 % Assisted",
+      "On": "1.000",
+      "Off": "1.000",
+      "On-Off": "0.000"
+    },
+    {
+      "Stat": "Arc 3 Shot Frequency",
+      "On": "0.231",
+      "Off": "0.256",
+      "On-Off": "-0.025"
+    },
+    {
+      "Stat": "Arc 3 FG%",
+      "On": "0.285",
+      "Off": "0.301",
+      "On-Off": "-0.016"
+    },
+    {
+      "Stat": "Arc 3 % Assisted",
+      "On": "0.860",
+      "Off": "0.886",
+      "On-Off": "-0.026"
+    },
+    {
+      "Stat": "At Rim or 3pt Shot Frequency",
+      "On": "0.547",
+      "Off": "0.557",
+      "On-Off": "-0.010"
+    },
+    {
+      "Stat": "Non-Heave Arc 3 FG%",
+      "On": "0.288",
+      "Off": "0.304",
+      "On-Off": "-0.016"
+    },
+    {
+      "Stat": "Shot Quality",
+      "On": "0.480",
+      "Off": "0.481",
+      "On-Off": "-0.001"
+    },
+    {
+      "Stat": "Shooting Foul Drawn Rate",
+      "On": "0.118",
+      "Off": "0.106",
+      "On-Off": "0.012"
+    },
+    {
+      "Stat": "3pt Shooting Foul Drawn Rate",
+      "On": "0.157",
+      "Off": "0.144",
+      "On-Off": "0.013"
+    },
+    {
+      "Stat": "2pt Shooting Foul Drawn Rate",
+      "On": "0.004",
+      "Off": "0.011",
+      "On-Off": "-0.007"
+    },
+    {
+      "Stat": "Second Chance Points%",
+      "On": "0.152",
+      "Off": "0.133",
+      "On-Off": "0.019"
+    },
+    {
+      "Stat": "Penalty Points%",
+      "On": "0.229",
+      "Off": "0.222",
+      "On-Off": "0.007"
+    },
+    {
+      "Stat": "Penalty Possessions%",
+      "On": "0.222",
+      "Off": "0.228",
+      "On-Off": "-0.006"
+    },
+    {
+      "Stat": "Avg 2pt Shot Distance",
+      "On": "7.793",
+      "Off": "7.801",
+      "On-Off": "-0.008"
+    },
+    {
+      "Stat": "Avg 3pt Shot Distance",
+      "On": "25.118",
+      "Off": "25.167",
+      "On-Off": "-0.050"
+    },
+    {
+      "Stat": "Penalty Efficiency Excluding Last Minute Take Foul Possessions",
+      "On": "101.843",
+      "Off": "101.399",
+      "On-Off": "0.445"
+    },
+    {
+      "Stat": "DReb%",
+      "On": "0.711",
+      "Off": "0.733",
+      "On-Off": "-0.022"
+    },
+    {
+      "Stat": "OReb%",
+      "On": "0.331",
+      "Off": "0.307",
+      "On-Off": "0.025"
+    },
+    {
+      "Stat": "Pts per 100 Possessions",
+      "On": "99.295",
+      "Off": "103.946",
+      "On-Off": "-4.651"
+    },
+    {
+      "Stat": "Assist Points per 100 Possessions",
+      "On": "52.971",
+      "Off": "60.223",
+      "On-Off": "-7.252"
+    },
+    {
+      "Stat": "FTA per 100 Possessions",
+      "On": "24.572",
+      "Off": "22.519",
+      "On-Off": "2.053"
+    },
+    {
+      "Stat": "TOs per 100 Possessions",
+      "On": "19.738",
+      "Off": "16.501",
+      "On-Off": "3.238"
+    },
+    {
+      "Stat": "Assists per 100 Possessions",
+      "On": "23.162",
+      "Off": "26.226",
+      "On-Off": "-3.063"
+    },
+    {
+      "Stat": "Pts per 100 Possessions - Defense",
+      "On": "112.952",
+      "Off": "109.796",
+      "On-Off": "3.156"
+    },
+    {
+      "Stat": "Shot Quality - Defense",
+      "On": "0.503",
+      "Off": "0.499",
+      "On-Off": "0.004"
+    },
+    {
+      "Stat": "3pt FG% - Defense",
+      "On": "0.388",
+      "Off": "0.388",
+      "On-Off": "-0.001"
+    },
+    {
+      "Stat": "2pt FG% - Defense",
+      "On": "0.512",
+      "Off": "0.497",
+      "On-Off": "0.015"
+    },
+    {
+      "Stat": "eFG% - Defense",
+      "On": "0.538",
+      "Off": "0.528",
+      "On-Off": "0.010"
+    },
+    {
+      "Stat": "3PAr - Defense",
+      "On": "0.379",
+      "Off": "0.367",
+      "On-Off": "0.012"
+    },
+    {
+      "Stat": "At Rim Shot Frequency - Defense",
+      "On": "0.272",
+      "Off": "0.264",
+      "On-Off": "0.009"
+    },
+    {
+      "Stat": "At Rim FG% - Defense",
+      "On": "0.626",
+      "Off": "0.641",
+      "On-Off": "-0.015"
+    },
+    {
+      "Stat": "Short Mid Range Shot Frequency - Defense",
+      "On": "0.253",
+      "Off": "0.278",
+      "On-Off": "-0.025"
+    },
+    {
+      "Stat": "Short Mid Range FG% - Defense",
+      "On": "0.425",
+      "Off": "0.395",
+      "On-Off": "0.030"
+    },
+    {
+      "Stat": "Long Mid Range Shot Frequency - Defense",
+      "On": "0.096",
+      "Off": "0.092",
+      "On-Off": "0.004"
+    },
+    {
+      "Stat": "Long Mid Range FG% - Defense",
+      "On": "0.420",
+      "Off": "0.391",
+      "On-Off": "0.029"
+    },
+    {
+      "Stat": "Corner 3 Shot Frequency - Defense",
+      "On": "0.102",
+      "Off": "0.079",
+      "On-Off": "0.023"
+    },
+    {
+      "Stat": "Corner 3 FG% - Defense",
+      "On": "0.419",
+      "Off": "0.482",
+      "On-Off": "-0.063"
+    },
+    {
+      "Stat": "Arc 3 Shot Frequency - Defense",
+      "On": "0.277",
+      "Off": "0.287",
+      "On-Off": "-0.011"
+    },
+    {
+      "Stat": "Arc 3 FG% - Defense",
+      "On": "0.376",
+      "Off": "0.362",
+      "On-Off": "0.014"
+    },
+    {
+      "Stat": "Pace",
+      "On": "100.156",
+      "Off": "95.551",
+      "On-Off": "4.605"
+    },
+    {
+      "Stat": "Second Chance Efficiency",
+      "On": "105.634",
+      "Off": "104.819",
+      "On-Off": "0.815"
+    },
+    {
+      "Stat": "Penalty Efficiency",
+      "On": "102.727",
+      "Off": "101.399",
+      "On-Off": "1.329"
+    },
+    {
+      "Stat": "Second Chance Possessions Per 100 Possessions",
+      "On": "14.300",
+      "Off": "13.232",
+      "On-Off": "1.068"
+    },
+    {
+      "Stat": "First Chance Points Per 100 Possessions",
+      "On": "84.189",
+      "Off": "90.076",
+      "On-Off": "-5.886"
+    },
+    {
+      "Stat": "Second Chance Points Per 100 Possessions",
+      "On": "15.106",
+      "Off": "13.870",
+      "On-Off": "1.236"
+    }
+  ],
+  "headers": [
+    {
+      "field": "Stat",
+      "label": "Stat"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with DiJonai Carrington"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without DiJonai Carrington"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ]
+}

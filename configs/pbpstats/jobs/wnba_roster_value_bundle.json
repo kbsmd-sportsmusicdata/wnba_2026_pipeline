@@ -1,0 +1,138 @@
+{
+  "bundle_id": "wnba_roster_value_bundle",
+  "league": "wnba",
+  "minimum_seasons": [2025, 2024, 2023],
+  "season_types": ["Regular Season", "Playoffs"],
+  "fallback_season_type": "Regular Season",
+  "output_root": "data/pbpstats_jobs",
+  "jobs": [
+    {
+      "job_id": "wnba_league_discovery",
+      "family": "league_discovery",
+      "description": "Discover season team catalogs and team-player catalogs for roster tables.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "season_team_catalog",
+          "endpoint": "get-games",
+          "scope": "season",
+          "request_params": {}
+        },
+        {
+          "name": "team_player_catalog",
+          "endpoint": "get-team-players-for-season",
+          "scope": "team",
+          "request_params": {}
+        }
+      ]
+    },
+    {
+      "job_id": "wnba_totals",
+      "family": "totals",
+      "description": "Season totals for player and team rows.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "player_totals",
+          "endpoint": "get-totals",
+          "scope": "season",
+          "request_params": {
+            "Type": "Player"
+          }
+        },
+        {
+          "name": "team_totals",
+          "endpoint": "get-totals",
+          "scope": "season",
+          "request_params": {
+            "Type": "Team"
+          }
+        }
+      ]
+    },
+    {
+      "job_id": "wnba_on_off",
+      "family": "on_off",
+      "description": "Player and team on/off totals.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "player_on_off",
+          "endpoint": "get-on-off",
+          "scope": "team_player",
+          "stat_type": "player",
+          "request_params": {}
+        },
+        {
+          "name": "team_on_off",
+          "endpoint": "get-on-off",
+          "scope": "team",
+          "stat_type": "team",
+          "request_params": {}
+        }
+      ]
+    },
+    {
+      "job_id": "wnba_shot_pace",
+      "family": "shot_pace",
+      "description": "Pace, shot, possession, and score/time query outputs.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "pace_by_season",
+          "endpoint": "get-pace-efficiency-by-season",
+          "scope": "season_type_only",
+          "request_params": {}
+        },
+        {
+          "name": "shot_query_summary",
+          "endpoint": "get-shot-query-summary",
+          "scope": "season",
+          "request_params": {
+            "Type": "Team",
+            "FromMargin": -3,
+            "ToMargin": 3,
+            "FromTime": 300,
+            "ToTime": 120,
+            "PeriodGte": 4
+          }
+        },
+        {
+          "name": "shots",
+          "endpoint": "get-shots",
+          "scope": "team",
+          "request_params": {
+            "EntityType": "Team",
+            "StartType": "All",
+            "Blocked": false
+          }
+        },
+        {
+          "name": "possessions",
+          "endpoint": "get-possessions",
+          "scope": "team",
+          "request_params": {
+            "OffDef": "Offense",
+            "FilterComparison": "Exactly",
+            "FilterEvent": "OnFloor",
+            "FilterValue": 5,
+            "StartType": "All"
+          }
+        },
+        {
+          "name": "score_time_summary",
+          "endpoint": "get-score-time-summary",
+          "scope": "season",
+          "request_params": {
+            "Type": "Team",
+            "FromMargin": -3,
+            "ToMargin": 3,
+            "FromTime": 300,
+            "ToTime": 120,
+            "PeriodGte": 4
+          }
+        }
+      ]
+    }
+  ]
+}

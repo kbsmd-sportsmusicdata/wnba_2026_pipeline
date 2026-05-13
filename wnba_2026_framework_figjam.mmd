@@ -1,0 +1,60 @@
+flowchart TD
+    Q["Core Question: Which players are still undervalued after the 2026 market reset — and which teams are allocating their new cap space the smartest?"]
+
+    subgraph threads ["4 Evaluation Threads"]
+        T1["Thread 1: Market Reset Value — Underpaid vs. 2026 positional market rates?"]
+        T2["Thread 2: Role Scarcity — Profile that is hard to find or replace?"]
+        T3["Thread 3: Roster Construction Fit — Does team context change valuation?"]
+        T4["Thread 4: Pricing-Out Risk — Did rising minimums price out archetypes?"]
+    end
+
+    subgraph criteria ["6 Player Evaluation Criteria"]
+        C1["Below-Market Salary — 15 pct or more below comp market"]
+        C2["Production Strength — 70th or higher percentile vs. position"]
+        C3["Role Scarcity — Fills a scarce 2026 archetype"]
+        C4["Hidden Value — 2 or more hidden strengths confirmed"]
+        C5["Salary-Role Alignment — Salary understates the role"]
+        C6["Risk Adjustment — Age, injury, regression risk"]
+    end
+
+    subgraph formula ["Player Value Score Formula — 0 to 100"]
+        F1["25 pct Production Percentile Score"]
+        F2["20 pct Salary Value Score"]
+        F3["15 pct Role Scarcity Score"]
+        F4["15 pct Hidden Impact Score"]
+        F5["10 pct Scalability Score"]
+        F6["10 pct Playoff Utility Score"]
+        F7["5 pct Risk Adjustment"]
+    end
+
+    subgraph bands ["Score Bands"]
+        B1["90 to 100 — Elite Value: Star-level below market"]
+        B2["80 to 89 — Strong Undervalued: Clear positive contract"]
+        B3["70 to 79 — Hidden Talent: Strong role-adjusted value"]
+        B4["60 to 69 — Fair Value: Salary matches profile"]
+        B5["50 to 59 — Fragile Value: Context-dependent risk"]
+        B6["Below 50 — Overpriced Risk: Salary exceeds production"]
+    end
+
+    subgraph teamgrade ["Team Roster Grade A to F"]
+        D1["25 pct Cap Efficiency — Production per cap dollar"]
+        D2["20 pct Role Balance — Functional role coverage"]
+        D3["20 pct Scarcity Coverage — Hard-to-replace archetypes"]
+        D4["20 pct Playoff Utility — High-leverage viability"]
+        D5["15 pct Age and Experience Curve — Development to veteran mix"]
+    end
+
+    subgraph usecases ["Use Cases and Deliverables"]
+        U1["A: Grade Current 2026 Rosters"]
+        U2["B: Hidden Talent Discovery"]
+        U3["C: Natasha Cloud Case Study — Market Demand and Fair Salary Range"]
+        U4["D: Market Structure Analysis — 2024 to 2026 Pricing Shift"]
+        DEL["Deliverables: Interactive Dashboard, 15-Slide Deck, Executive Summary"]
+    end
+
+    Q --> threads
+    threads --> criteria
+    criteria --> formula
+    formula --> bands
+    bands --> teamgrade
+    bands --> usecases

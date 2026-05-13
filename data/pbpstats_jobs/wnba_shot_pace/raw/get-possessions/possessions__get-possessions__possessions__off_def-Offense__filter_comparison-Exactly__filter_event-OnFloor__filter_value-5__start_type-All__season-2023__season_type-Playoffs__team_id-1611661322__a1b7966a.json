@@ -1,0 +1,5787 @@
+{
+  "possessions": [
+    {
+      "EndTime": "00:00",
+      "Events": "MISS Delle Donne 34' 3PT Pullup Jump Shot\nMystics Rebound\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "00:04",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 34' 3PT Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/643/69e6553f-3987-e221-f4bf-d08b7218f01d_960x540.mp4"
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:05",
+      "Events": "MISS Atkins 26' 3PT Pullup Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:11",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 26' 3PT Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/635/15a19de1-2ce8-3410-9791-c93fcb72ffc9_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:14",
+      "Events": "Jones STEAL (1 STL): Sykes Bad Pass Turnover (P5.T15)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "00:18",
+      "StartType": "Off Steal",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Jones STEAL (1 STL): Sykes Bad Pass Turnover (P5.T15)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/621/12e599b8-917f-36db-e6f4-a4f02164832d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:38",
+      "Events": "Vandersloot P.FOUL (P3.T1)\nJones BLOCK (3 BLK): MISS Hines-Allen 3' Cutting Layup Shot\nMystics Rebound\nIonescu L.B.FOUL (P2.PN)\nAtkins Free Throw 1 of 2 (12 PTS)\nAtkins Free Throw 2 of 2 (13 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 1,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:49",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Vandersloot P.FOUL (P3.T1)",
+          "url": ""
+        },
+        {
+          "description": "Jones BLOCK (3 BLK): MISS Hines-Allen 3' Cutting Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/612/e658047f-d08e-9bbd-ad26-2ee431b71853_960x540.mp4"
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Ionescu L.B.FOUL (P2.PN)",
+          "url": ""
+        },
+        {
+          "description": "Atkins Free Throw 1 of 2 (12 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Atkins Free Throw 2 of 2 (13 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "01:04",
+      "Events": "MISS Delle Donne 2' Driving Reverse Layup\nAtkins REBOUND (Off:2 Def:3)\nAtkins 1' Tip Layup Shot (11 PTS)\n",
+      "FG2A": 2,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "01:18",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 2' Driving Reverse Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/606/72e64c68-9c90-cfac-22e4-219b59411b8c_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:2 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/607/2327903c-dca3-ed33-27b9-8f47c564403f_960x540.mp4"
+        },
+        {
+          "description": "Atkins 1' Tip Layup Shot (11 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/608/6653f714-6772-d098-e394-5e9b29ad391b_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:32",
+      "Events": "MISS Hines-Allen 7' Driving Floating Jump Shot\nVandersloot REBOUND (Off:0 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "01:49",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hines-Allen 7' Driving Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/599/dc1c7bf0-db90-3f57-5f13-7a9931b5b601_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/600/7d86f178-ec48-df1f-7916-053dbb9ed836_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:12",
+      "Events": "Delle Donne 7' Turnaround Fadeaway (11 PTS) (Cloud 9 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "02:29",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 7' Turnaround Fadeaway (11 PTS) (Cloud 9 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/595/e8d10351-6bf4-984b-6248-ed24c518e183_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:46",
+      "Events": "MISS Atkins 11' Pullup Jump Shot\nStewart REBOUND (Off:2 Def:7)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "03:11",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 11' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/588/fbbba358-f356-a2dc-56a7-7c6d9f485090_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:2 Def:7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/589/a589b7f0-15f5-0c02-9161-0eb2bda7b4ea_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:33",
+      "Events": "MISS Delle Donne 11' Floating Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "03:56",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 11' Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/580/1326cb40-7a66-c3b8-548e-72bcad24de90_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "04:19",
+      "Events": "Cloud 25' 3PT Jump Shot (33 PTS) (Delle Donne 1 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 5,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -2,
+      "StartTime": "04:44",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 25' 3PT Jump Shot (33 PTS) (Delle Donne 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/576/904c64a4-b637-86e8-072f-9382611417b9_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:00",
+      "Events": "",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "00:03",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": []
+    },
+    {
+      "EndTime": "00:11",
+      "Events": "Cloud Out of Bounds - Bad Pass Turnover Turnover (P2.T14)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "00:11",
+      "StartType": "Off Timeout",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Cloud Out of Bounds - Bad Pass Turnover Turnover (P2.T14)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/561/c8453e28-008f-1e88-f324-083528ec640c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:27",
+      "Events": "Jones P.FOUL (P4.PN)\nCloud Free Throw 1 of 2 (29 PTS)\nCloud Free Throw 2 of 2 (30 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 1,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "00:28",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones P.FOUL (P4.PN)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 1 of 2 (29 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 2 of 2 (30 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:33",
+      "Events": "Jones BLOCK (2 BLK): MISS Cloud 4' Driving Layup\nSykes REBOUND (Off:1 Def:11)\nSykes 24' 3PT Jump Shot (14 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:45",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones BLOCK (2 BLK): MISS Cloud 4' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/535/5e5d9f65-60b0-fc4e-a4c1-414bf9304254_960x540.mp4"
+        },
+        {
+          "description": "Sykes REBOUND (Off:1 Def:11)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/537/08bfb264-f443-69e3-ef82-8ca36b854828_960x540.mp4"
+        },
+        {
+          "description": "Sykes 24' 3PT Jump Shot (14 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/538/072b44bc-5d08-e9db-4923-6d6525c27bea_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:07",
+      "Events": "Ionescu P.FOUL (P1.T3)\nMISS Delle Donne 26' 3PT Jump Shot\nAtkins REBOUND (Off:1 Def:3)\nStewart BLOCK (3 BLK): MISS Atkins 3' Putback Layup\nMystics Rebound\nAtkins Traveling Turnover (P2.T13)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 2,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "01:39",
+      "StartType": "Off Timeout",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Ionescu P.FOUL (P1.T3)",
+          "url": ""
+        },
+        {
+          "description": "MISS Delle Donne 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/525/f9fc5ac9-c60d-e731-56e3-491d910a2062_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:1 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/526/3d1d544e-d477-4cfb-c0bf-a28b09a70798_960x540.mp4"
+        },
+        {
+          "description": "Stewart BLOCK (3 BLK): MISS Atkins 3' Putback Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/527/f9f71da9-5faa-106f-b675-ab612369a6e0_960x540.mp4"
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Atkins Traveling Turnover (P2.T13)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/531/0fdfcf13-6802-b48c-3efc-db79b194658e_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:53",
+      "Events": "MISS Cloud 26' 3PT Jump Shot\nIonescu REBOUND (Off:1 Def:8)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "02:18",
+      "StartType": "Off Corner 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/518/6c6622c7-fd05-da01-9d4d-50cb293f3b74_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:8)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/519/65d4098d-1025-a81e-d489-b002c4c67e62_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:40",
+      "Events": "Sykes Out of Bounds - Bad Pass Turnover Turnover (P4.T12)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 4,
+      "StartTime": "03:05",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Sykes Out of Bounds - Bad Pass Turnover Turnover (P4.T12)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/514/0c544ab3-0651-665b-fc4c-db70e60bf2f5_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:20",
+      "Events": "MISS Cloud 19' Pullup Jump Shot\nJones REBOUND (Off:3 Def:10)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 6,
+      "StartTime": "03:40",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 19' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/506/170efc48-1f79-7c7a-8f88-46bbb24b8b11_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:10)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/507/a180a83e-6da5-21b0-c8f8-bf51715d0773_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:56",
+      "Events": "Atkins 7' Turnaround Bank Shot (9 PTS) (Cloud 8 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 4,
+      "StartTime": "04:10",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 7' Turnaround Bank Shot (9 PTS) (Cloud 8 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/502/8b909739-9951-a50b-54c2-0996f7116ea0_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:33",
+      "Events": "Cloud 3' Driving Reverse Layup (28 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 4,
+      "StartTime": "04:55",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 3' Driving Reverse Layup (28 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/500/aa1b899f-9fce-5a0c-a1fb-c1e65fc94a34_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:25",
+      "Events": "Cloud 2' Driving Reverse Layup (26 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "05:36",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 2' Driving Reverse Layup (26 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/493/9352a022-2f02-1acc-bfc5-46a4f22a4583_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:50",
+      "Events": "Delle Donne 16' Jump Shot (9 PTS) (Atkins 3 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "06:07",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 16' Jump Shot (9 PTS) (Atkins 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/489/923ab994-fe00-2e4c-f96b-9a52b77ac460_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:30",
+      "Events": "Laney S.FOUL (P4.T2)\nMISS Sykes Free Throw 1 of 2\nMystics Rebound\nSykes Free Throw 2 of 2 (11 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -1,
+      "StartTime": "06:45",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Laney S.FOUL (P4.T2)",
+          "url": ""
+        },
+        {
+          "description": "MISS Sykes Free Throw 1 of 2",
+          "url": ""
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Sykes Free Throw 2 of 2 (11 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "07:00",
+      "Events": "MISS Delle Donne 25' 3PT Jump Shot\nIonescu REBOUND (Off:1 Def:7)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "07:06",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 25' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/478/857233cc-dac5-256f-95c0-fa890a0b180e_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/479/034f875d-7c55-7f1e-d62c-130db04c91cf_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:11",
+      "Events": "MISS Atkins 4' Driving Floating Jump Shot\nJones REBOUND (Off:3 Def:9)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "07:22",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 4' Driving Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/474/ef177b2b-33a2-174e-0219-1046d8bfb3e5_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:9)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/475/a3feb9f1-9708-2a61-9367-25099f490b29_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:39",
+      "Events": "Ionescu BLOCK (1 BLK): MISS Cloud 3' Driving Layup\nMystics Rebound\nMISS Delle Donne 9' Jump Bank Shot\nIonescu REBOUND (Off:1 Def:6)\n",
+      "FG2A": 2,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "07:57",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Ionescu BLOCK (1 BLK): MISS Cloud 3' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/464/a687f0d2-509b-b683-43df-e78c466a6b43_960x540.mp4"
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "MISS Delle Donne 9' Jump Bank Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/468/3da48fa2-8233-0450-80d2-a75fd5908d3e_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/469/f919d45a-5e97-a2b0-9670-2a984e53cae0_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:33",
+      "Events": "Jones P.FOUL (P3.T1)\nCloud 25' 3PT Jump Shot (24 PTS) (Atkins 2 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "08:51",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones P.FOUL (P3.T1)",
+          "url": ""
+        },
+        {
+          "description": "Cloud 25' 3PT Jump Shot (24 PTS) (Atkins 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/456/a3c910f3-7146-5adb-f0cf-58cfcf7d0f49_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:17",
+      "Events": "Sykes 24' 3PT Jump Shot (10 PTS) (Cloud 7 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "09:36",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 24' 3PT Jump Shot (10 PTS) (Cloud 7 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/450/afb4fecf-e528-5888-d23c-cde1c463d696_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:16",
+      "Events": "MISS Atkins 16' Pullup Jump Shot\nStewart REBOUND (Off:0 Def:6)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:32",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 16' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/434/ffd2fb1d-1b72-9abc-dd40-0c4352a72b01_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/435/bcfd59ed-fba4-f33d-f94d-e9d4bee4c5bf_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:41",
+      "Events": "Vandersloot STEAL (2 STL): Walker-Kimbrough Bad Pass Turnover (P3.T11)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:58",
+      "StartType": "Off Long Mid-Range Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Vandersloot STEAL (2 STL): Walker-Kimbrough Bad Pass Turnover (P3.T11)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/429/eba496cd-1f0f-7856-62a9-75c407104ccf_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:13",
+      "Events": "MISS Walker-Kimbrough 20' Pullup Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "01:39",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Walker-Kimbrough 20' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/424/12d2c60c-3a5a-c097-e2ac-a0749dbda660_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "01:57",
+      "Events": "Dolson S.FOUL (P1.T3)\nDelle Donne Free Throw 1 of 2 (6 PTS)\nDelle Donne Free Throw 2 of 2 (7 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -3,
+      "StartTime": "02:12",
+      "StartType": "Off Long Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Dolson S.FOUL (P1.T3)",
+          "url": ""
+        },
+        {
+          "description": "Delle Donne Free Throw 1 of 2 (6 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Delle Donne Free Throw 2 of 2 (7 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "02:40",
+      "Events": "Sykes 2' Driving Finger Roll Layup (7 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "02:59",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 2' Driving Finger Roll Layup (7 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/399/c0a5aa04-723a-1799-f5e8-9f2f040f7486_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:10",
+      "Events": "Stewart L.B.FOUL (P2.T2)\nMISS Cloud 9' Floating Jump Shot\nStewart REBOUND (Off:0 Def:5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "03:22",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart L.B.FOUL (P2.T2)",
+          "url": ""
+        },
+        {
+          "description": "MISS Cloud 9' Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/395/9591f144-5d7f-72cf-a5d8-ed707bb9d1c1_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/396/26fe3d8c-533b-9ce9-4fc9-82c3bf15fb2d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:37",
+      "Events": "MISS Sykes 18' Pullup Jump Shot\nIonescu REBOUND (Off:1 Def:5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "03:50",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 18' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/389/18d41518-c397-1736-f547-0c94e40bb412_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/390/eac34bf6-6c09-7014-325d-766aa6a02d9c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:07",
+      "Events": "Cloud 1' Running Layup (21 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "04:11",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 1' Running Layup (21 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/381/36763991-1d3c-3955-e194-04544c794f05_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:20",
+      "Events": "Cloud 1' Running Layup (19 PTS) (Sykes 4 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "04:26",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 1' Running Layup (19 PTS) (Sykes 4 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/371/da899fed-7c35-b2c6-e58a-9a3ce99d85fd_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:31",
+      "Events": "Laney STEAL (1 STL): Hines-Allen Bad Pass Turnover (P2.T10)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "04:36",
+      "StartType": "Off Long Mid-Range Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Laney STEAL (1 STL): Hines-Allen Bad Pass Turnover (P2.T10)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/367/4727fd85-846f-317c-f417-a01a69f36975_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:13",
+      "Events": "MISS Atkins 24' 3PT Jump Shot\nHawkins REBOUND (Off:3 Def:2)\nVandersloot S.FOUL (P2.T1)\nCloud Free Throw 1 of 2 (16 PTS)\nCloud Free Throw 2 of 2 (17 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -8,
+      "StartTime": "05:50",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 24' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/353/7599664f-8779-f5cc-4b47-3dbed9536d9c_960x540.mp4"
+        },
+        {
+          "description": "Hawkins REBOUND (Off:3 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/354/625ef332-c949-0a91-b434-5ff4b056f328_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot S.FOUL (P2.T1)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 1 of 2 (16 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 2 of 2 (17 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "06:01",
+      "Events": "Hines-Allen 3' Cutting Layup Shot (10 PTS) (Atkins 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "06:13",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 3' Cutting Layup Shot (10 PTS) (Atkins 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/347/48d2bd1c-0d06-9078-be7a-9d4debeaa496_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:27",
+      "Events": "MISS Hines-Allen 26' 3PT Jump Shot\nJones REBOUND (Off:3 Def:8)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "06:52",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hines-Allen 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/343/05d449fb-3ae6-8910-8181-a5bd78953c35_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:8)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/344/a7d3643e-541c-4a56-1475-ac48cb43124c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:56",
+      "Events": "MISS Cloud 26' 3PT Jump Shot\nDelle Donne REBOUND (Off:1 Def:2)\nStewart BLOCK (2 BLK): MISS Sykes 8' Driving Floating Jump Shot\nVandersloot REBOUND (Off:0 Def:2)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "07:19",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/336/1a204b67-44ef-db54-829f-142e63d30b7f_960x540.mp4"
+        },
+        {
+          "description": "Delle Donne REBOUND (Off:1 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/337/8699e7e4-d946-a8d0-ac8c-975b2ad72d7d_960x540.mp4"
+        },
+        {
+          "description": "Stewart BLOCK (2 BLK): MISS Sykes 8' Driving Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/338/d75645f3-9ba2-f294-5294-8dd85a9c0bf1_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/340/d8e6aff5-1787-93a2-a723-80861412c7e7_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:29",
+      "Events": "MISS Delle Donne 3' Cutting Layup Shot\nJones REBOUND (Off:3 Def:7)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "07:40",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 3' Cutting Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/332/4d68122a-2460-e9ab-1aeb-03704c4d0d44_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/333/30bef23b-5b24-6549-e9d0-900d84dd207f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:51",
+      "Events": "Atkins 27' 3PT Jump Shot (7 PTS) (Cloud 6 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -9,
+      "StartTime": "08:04",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 27' 3PT Jump Shot (7 PTS) (Cloud 6 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/328/fc2155cb-17cf-c375-a53f-6b32987fd435_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:27",
+      "Events": "Hines-Allen 2' Driving Layup (8 PTS) (Cloud 5 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -9,
+      "StartTime": "08:46",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 2' Driving Layup (8 PTS) (Cloud 5 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/319/57a22f43-22be-dc48-5611-20ad2cf125e4_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:13",
+      "Events": "Hines-Allen 1' Driving Reverse Layup (6 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -9,
+      "StartTime": "09:29",
+      "StartType": "Off At Rim Block",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 1' Driving Reverse Layup (6 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/317/2d377863-dc91-fd11-50e8-3e6b1e7464d7_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:46",
+      "Events": "Cloud 2' Driving Layup (15 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -11,
+      "StartTime": "10:00",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 2' Driving Layup (15 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/313/4af64ca7-3b60-3e99-bd31-2283aa0d8454_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:00",
+      "Events": "",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -11,
+      "StartTime": "00:03",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": []
+    },
+    {
+      "EndTime": "00:05",
+      "Events": "Jones BLOCK (1 BLK): MISS Delle Donne 24' 3PT Jump Shot\nHawkins REBOUND (Off:2 Def:2)\nMystics Turnover: Shot Clock (T#9)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -9,
+      "StartTime": "00:29",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Jones BLOCK (1 BLK): MISS Delle Donne 24' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/295/20c1d56f-cc38-2b89-3291-ef4e3e46aeda_960x540.mp4"
+        },
+        {
+          "description": "Hawkins REBOUND (Off:2 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/297/e3c2ce04-499d-50b8-0ac2-f841301f721d_960x540.mp4"
+        },
+        {
+          "description": "Mystics Turnover: Shot Clock (T#9)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:48",
+      "Events": "Stewart BLOCK (1 BLK): MISS Cloud 3' Driving Hook Shot\nHawkins REBOUND (Off:1 Def:2)\nMISS Delle Donne 25' 3PT Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "01:17",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart BLOCK (1 BLK): MISS Cloud 3' Driving Hook Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/282/61890656-e424-ff6d-6ba7-6fdbd9a32b8f_960x540.mp4"
+        },
+        {
+          "description": "Hawkins REBOUND (Off:1 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/284/cf870eef-7a2b-2dca-8bea-dbfaf3e966be_960x540.mp4"
+        },
+        {
+          "description": "MISS Delle Donne 25' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/285/f7a324ee-57c4-e3f4-377f-a1596a97301e_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "01:21",
+      "Events": "Cloud 3' Driving Reverse Layup (13 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "01:34",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 3' Driving Reverse Layup (13 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/277/87fe7001-f5c5-afac-657d-d6151c1afa16_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:42",
+      "Events": "Delle Donne 3' Driving Finger Roll Layup (5 PTS) (Sykes 3 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "01:53",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 3' Driving Finger Roll Layup (5 PTS) (Sykes 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/273/565302fa-b8bc-f34b-b3eb-897bc67bf131_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:05",
+      "Events": "Walker-Kimbrough Traveling Turnover (P2.T8)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "02:22",
+      "StartType": "Off FT Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Walker-Kimbrough Traveling Turnover (P2.T8)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/270/b00d24d9-2273-f5da-ca3d-c4fab2f9a68d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:30",
+      "Events": "MISS Sykes 24' 3PT Jump Shot\nIonescu REBOUND (Off:0 Def:4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "02:45",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 24' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/263/945b25d2-bcde-27f6-f7ec-eaea006b6295_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/264/bd79e226-8267-1097-6862-e4d29120ed04_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:15",
+      "Events": "Walker-Kimbrough 12' Pullup Jump Shot (4 PTS) (Hines-Allen 3 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "03:31",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Walker-Kimbrough 12' Pullup Jump Shot (4 PTS) (Hines-Allen 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/250/01062e0f-a889-a87a-1c54-9436e2525dc1_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:43",
+      "Events": "Stewart STEAL (2 STL): Walker-Kimbrough Lost Ball Turnover (P1.T7)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "04:06",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Stewart STEAL (2 STL): Walker-Kimbrough Lost Ball Turnover (P1.T7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/247/9067b635-3870-c2b1-5b5d-8af6e164c3e2_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:14",
+      "Events": "MISS Hines-Allen 3' Cutting Layup Shot\nJones REBOUND (Off:2 Def:6)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "04:37",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hines-Allen 3' Cutting Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/241/e66ed573-0d0c-16f3-93dd-ec4d1fbb82d4_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/242/bb149c6b-cbfd-7730-7959-3925119b4d84_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:54",
+      "Events": "Walker-Kimbrough 18' Pullup Jump Shot (2 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "05:05",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Walker-Kimbrough 18' Pullup Jump Shot (2 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/235/b642c230-8156-4678-5459-235589737db9_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:17",
+      "Events": "Sykes 2' Cutting Layup Shot (5 PTS) (Cloud 4 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "05:37",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 2' Cutting Layup Shot (5 PTS) (Cloud 4 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/226/ec0daa53-94b5-695f-8d4b-db0fef4e103b_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:52",
+      "Events": "MISS Atkins 3PT Jump Shot\nVandersloot REBOUND (Off:0 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "06:09",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/219/b9d28797-8ee4-09fe-5bb5-1ddd01382f8e_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/220/599a7e37-0bea-0453-099e-81b83a4a9cd0_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:23",
+      "Events": "Hines-Allen OFF.Foul (P2)\nHines-Allen Offensive Foul Turnover (P1.T6)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -2,
+      "StartTime": "06:37",
+      "StartType": "Off Long Mid-Range Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen OFF.Foul (P2)",
+          "url": ""
+        },
+        {
+          "description": "Hines-Allen Offensive Foul Turnover (P1.T6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/209/d62d975a-e9df-078a-1a30-3a9823c33615_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:52",
+      "Events": "MISS Cloud 20' Running Pull-Up Jump Shot\nJones REBOUND (Off:2 Def:5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "07:03",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 20' Running Pull-Up Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/203/941938c5-53cd-7fa6-2754-6415a2c13875_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/204/8d209021-5983-0789-fa3e-ce317028a9e9_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:23",
+      "Events": "Sykes 3' Cutting Layup Shot (3 PTS) (Cloud 3 AST)\nLaney S.FOUL (P2.T2)\nMISS Sykes Free Throw 1 of 1\nStewart REBOUND (Off:0 Def:4)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -2,
+      "StartTime": "07:31",
+      "StartType": "Off Long Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 3' Cutting Layup Shot (3 PTS) (Cloud 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/193/ea9d3d74-a516-7a5c-ad67-03b520d52270_960x540.mp4"
+        },
+        {
+          "description": "Laney S.FOUL (P2.T2)",
+          "url": ""
+        },
+        {
+          "description": "MISS Sykes Free Throw 1 of 1",
+          "url": ""
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/202/846c68b0-4aa7-3d59-16d9-ea72d077a49c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:45",
+      "Events": "Laney T.FOUL (P1.T1)\nDelle Donne Free Throw Technical (3 PTS)\nSykes Out of Bounds - Bad Pass Turnover Turnover (P3.T5)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "07:56",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Laney T.FOUL (P1.T1)",
+          "url": ""
+        },
+        {
+          "description": "Delle Donne Free Throw Technical (3 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Sykes Out of Bounds - Bad Pass Turnover Turnover (P3.T5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/188/2f9f1863-2f7f-c85c-ce00-5e076e6441a2_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:07",
+      "Events": "MISS Meng 7' Turnaround Fadeaway Shot\nStewart REBOUND (Off:0 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "08:27",
+      "StartType": "Off Long Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Meng 7' Turnaround Fadeaway Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/180/51d9711f-b465-edff-20bb-a1d4937998a9_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/181/86235f13-66cb-ed9a-00b6-95c1199ea9e7_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:37",
+      "Events": "MISS Sykes 16' Pullup Jump Shot\nMystics Rebound\nVandersloot S.FOUL (P1.T1)\nAtkins Free Throw 1 of 2 (3 PTS)\nAtkins Free Throw 2 of 2 (4 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -3,
+      "StartTime": "08:54",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 16' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/172/fecde419-abe8-07fa-a28c-43da7a258071_960x540.mp4"
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Vandersloot S.FOUL (P1.T1)",
+          "url": ""
+        },
+        {
+          "description": "Atkins Free Throw 1 of 2 (3 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Atkins Free Throw 2 of 2 (4 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "09:05",
+      "Events": "MISS Atkins 15' Running Pull-Up Jump Shot\nHines-Allen REBOUND (Off:1 Def:0)\nHines-Allen 3' Putback Layup (4 PTS)\n",
+      "FG2A": 2,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "09:13",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 15' Running Pull-Up Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/167/0fce3beb-e3ad-910b-ac38-ebf3f07f128e_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen REBOUND (Off:1 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/168/0669da7f-4f5b-3f3c-871a-c19d38fb1524_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen 3' Putback Layup (4 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/169/11c8f6c0-1e30-4b2f-6625-86aa122c7388_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:45",
+      "Events": "MISS Meng 25' 3PT Jump Bank Shot\nJones REBOUND (Off:2 Def:4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "10:00",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Meng 25' 3PT Jump Bank Shot",
+          "url": ""
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:4)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:04",
+      "Events": "Ionescu STEAL (2 STL): Atkins Bad Pass Turnover (P1.T4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:08",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Ionescu STEAL (2 STL): Atkins Bad Pass Turnover (P1.T4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/136/3952090f-4bdd-f0aa-27f2-59557c663dd1_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:26",
+      "Events": "MISS Hawkins 3' Cutting Layup Shot\nWalker-Kimbrough REBOUND (Off:1 Def:1)\nMISS Walker-Kimbrough 20' Jump Shot\nThornton REBOUND (Off:0 Def:1)\n",
+      "FG2A": 2,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:49",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hawkins 3' Cutting Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/129/d098a0e2-36fa-c3d0-2c1f-ad0f37359f9d_960x540.mp4"
+        },
+        {
+          "description": "Walker-Kimbrough REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/130/f5773066-2356-6601-8eb0-1608c2fa03ec_960x540.mp4"
+        },
+        {
+          "description": "MISS Walker-Kimbrough 20' Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/131/5a1da5f4-810c-b120-59a2-ab9f64db8d9c_960x540.mp4"
+        },
+        {
+          "description": "Thornton REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/132/7441a07b-59d6-eca7-8769-13032c5ece69_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:59",
+      "Events": "MISS Cloud 7' Driving Floating Bank Jump Shot\nDolson REBOUND (Off:0 Def:1)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "01:11",
+      "StartType": "Off Long Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 7' Driving Floating Bank Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/125/63e9f620-973a-03a7-7e6a-21477e0394b0_960x540.mp4"
+        },
+        {
+          "description": "Dolson REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/126/b6253bba-9120-fe3f-cdcc-308d2a0adc3a_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:28",
+      "Events": "Stewart P.FOUL (P1.T4)\nMISS Delle Donne 6' Turnaround Fadeaway Shot\nIonescu REBOUND (Off:0 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "01:43",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart P.FOUL (P1.T4)",
+          "url": ""
+        },
+        {
+          "description": "MISS Delle Donne 6' Turnaround Fadeaway Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/119/a6d1e8d3-016e-7e7b-349c-2605d86042b0_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/120/36ddf591-1f89-f5d7-7979-805a1cd89851_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:48",
+      "Events": "Ionescu STEAL (1 STL): Sykes Bad Pass Turnover (P2.T3)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "01:53",
+      "StartType": "Off Steal",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Ionescu STEAL (1 STL): Sykes Bad Pass Turnover (P2.T3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/109/2ef05f2c-f86b-5dc8-65a1-5e302266bae2_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:03",
+      "Events": "MISS Hawkins 3PT Jump Shot\nStewart REBOUND (Off:0 Def:2)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "02:13",
+      "StartType": "Off Long Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hawkins 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/101/2aefc92f-2bad-fafb-89ab-c7ecf39b3966_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/102/c658cd99-990d-2f27-047a-4a1b31ffab8a_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:40",
+      "Events": "Cloud 26' 3PT Jump Shot (11 PTS) (Sykes 2 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "02:54",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 26' 3PT Jump Shot (11 PTS) (Sykes 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/93/fb9c6a63-cc2f-8eeb-ac77-704837360deb_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:00",
+      "Events": "MISS Atkins 24' 3PT Running Jump Shot\nIonescu REBOUND (Off:0 Def:2)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "03:10",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 24' 3PT Running Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/89/7f6e8582-977d-bd7f-540f-ed723c19c6ed_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/90/8705b5b9-5fa1-48f5-0e2c-97e666a5bf7f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:19",
+      "Events": "MISS Cloud 2' Driving Reverse Layup\nIonescu REBOUND (Off:0 Def:1)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "03:32",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 2' Driving Reverse Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/85/eb7d9f8a-e85a-a5e3-d7e0-a5e36226f54e_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/86/ec5ea80b-701d-4a79-25d9-0ee2e2fbd4e9_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:42",
+      "Events": "Jones P.FOUL (P1.T2)\nJones S.FOUL (P2.T3)\nMISS Sykes Free Throw 1 of 2\nMystics Rebound\nSykes Free Throw 2 of 2 (1 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": 0,
+      "StartTime": "03:58",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones P.FOUL (P1.T2)",
+          "url": ""
+        },
+        {
+          "description": "Jones S.FOUL (P2.T3)",
+          "url": ""
+        },
+        {
+          "description": "MISS Sykes Free Throw 1 of 2",
+          "url": ""
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Sykes Free Throw 2 of 2 (1 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "04:08",
+      "Events": "Cloud 24' 3PT Pullup Jump Shot (8 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "04:19",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 24' 3PT Pullup Jump Shot (8 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/65/03ab32bc-df28-c65d-fed2-42f336a46147_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:28",
+      "Events": "MISS Sykes 7' Fadeaway Jumper\nJones REBOUND (Off:2 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "04:47",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 7' Fadeaway Jumper",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/62/06b81902-bab1-8a80-2fa7-7830027a4a80_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/63/517d9380-f61e-821b-dad4-653e91a9e29f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:02",
+      "Events": "MISS Delle Donne 26' 3PT Jump Shot\nStewart REBOUND (Off:0 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "05:15",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/55/617ceee8-a92f-c37b-c619-4349b25ef293_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/56/bd389924-71e2-e698-7dd5-1c6335ee7b9d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:21",
+      "Events": "Laney P.FOUL (P1.T1)\nVandersloot STEAL (1 STL): Cloud Bad Pass Turnover (P1.T2)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "05:47",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Laney P.FOUL (P1.T1)",
+          "url": ""
+        },
+        {
+          "description": "Vandersloot STEAL (1 STL): Cloud Bad Pass Turnover (P1.T2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/50/5d26c741-1607-8818-52f7-e89c47c29d3b_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:57",
+      "Events": "Stewart STEAL (1 STL): Sykes Bad Pass Turnover (P1.T1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 5,
+      "StartTime": "06:11",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Stewart STEAL (1 STL): Sykes Bad Pass Turnover (P1.T1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/41/7f3d5e3d-36cf-b615-f38f-6fa62889bbf4_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:26",
+      "Events": "Cloud 24' 3PT Jump Shot (5 PTS) (Hines-Allen 2 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 4,
+      "StartTime": "06:44",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 24' 3PT Jump Shot (5 PTS) (Hines-Allen 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/37/2aa92305-c936-dc5c-1ce8-3344eb1aac15_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:03",
+      "Events": "Delle Donne 14' Pullup Jump Shot (2 PTS) (Sykes 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 4,
+      "StartTime": "07:12",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 14' Pullup Jump Shot (2 PTS) (Sykes 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/34/8c3b7177-098f-c8f7-8a5d-48beb0fad556_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:33",
+      "Events": "Atkins 3' Cutting Layup Shot (2 PTS) (Cloud 2 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "07:40",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 3' Cutting Layup Shot (2 PTS) (Cloud 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/28/172d2fed-baa7-d13d-5414-051a9e4fed35_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:08",
+      "Events": "Cloud 2' Driving Layup (2 PTS) (Hines-Allen 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "08:18",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 2' Driving Layup (2 PTS) (Hines-Allen 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/21/dcc892e0-5a92-b5c3-805b-6b08f02d656e_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:40",
+      "Events": "MISS Delle Donne 7' Turnaround Jump Shot\nJones REBOUND (Off:0 Def:2)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "08:54",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 7' Turnaround Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/17/e2f8d37a-5000-6453-0099-264b1273f426_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/18/081f3d99-cb76-04ff-ec9a-747941246305_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:03",
+      "Events": "MISS Sykes 3PT Jump Shot\nJones REBOUND (Off:0 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "09:25",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/13/603abc1d-6da6-5525-5047-7c3a49badb41_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/14/2f0c1cde-569e-8afa-a88f-89ef06cfd6cf_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:36",
+      "Events": "Hines-Allen 3' Running Layup (2 PTS) (Cloud 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-19",
+      "GameId": "1042300112",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "09:42",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 3' Running Layup (2 PTS) (Cloud 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/19/1042300112/10/4da28473-8c71-ba5c-a2ac-ce52503613b9_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:00",
+      "Events": "",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -15,
+      "StartTime": "00:23",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": []
+    },
+    {
+      "EndTime": "00:42",
+      "Events": "MISS Hines-Allen 11' Running Pull-Up Jump Shot\nVandersloot REBOUND (Off:2 Def:4)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -12,
+      "StartTime": "00:49",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hines-Allen 11' Running Pull-Up Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/521/30e885f6-8381-f05a-6527-f6f29edaabb8_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:2 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/522/1171dc13-078e-d391-a1ad-e095db6959bb_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:11",
+      "Events": "Ionescu STEAL (1 STL): Cloud Lost Ball Turnover (P1.T7)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -12,
+      "StartTime": "01:35",
+      "StartType": "Off Long Mid-Range Make",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Ionescu STEAL (1 STL): Cloud Lost Ball Turnover (P1.T7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/517/f30076a3-26fc-060a-4f33-dac15a330b6c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:56",
+      "Events": "Jones S.FOUL (P3.T3)\nHines-Allen Free Throw 1 of 2 (21 PTS)\nMISS Hines-Allen Free Throw 2 of 2\nJones REBOUND (Off:3 Def:9)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -11,
+      "StartTime": "02:02",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones S.FOUL (P3.T3)",
+          "url": ""
+        },
+        {
+          "description": "Hines-Allen Free Throw 1 of 2 (21 PTS)",
+          "url": ""
+        },
+        {
+          "description": "MISS Hines-Allen Free Throw 2 of 2",
+          "url": ""
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:9)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/512/b590dccb-eaa3-06a8-11a2-f496abf07104_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:20",
+      "Events": "MISS Delle Donne 20' Pullup Jump Shot\nStewart REBOUND (Off:4 Def:4)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -11,
+      "StartTime": "02:34",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 20' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/502/68dff19f-5724-efe8-d4a3-97131e8960be_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:4 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/503/1ecd0d64-3f2d-6fcb-8f13-e20e885bd8d4_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:42",
+      "Events": "MISS Atkins 3' Driving Layup\nLaney REBOUND (Off:3 Def:5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "02:55",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 3' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/499/8429050a-4c22-ef53-1ff4-b970475a8409_960x540.mp4"
+        },
+        {
+          "description": "Laney REBOUND (Off:3 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/500/6c2bd4bc-54ef-de74-7f7e-5349f3e68cf6_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:16",
+      "Events": "Hines-Allen 4' Driving Layup (20 PTS) (Delle Donne 6 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "03:29",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 4' Driving Layup (20 PTS) (Delle Donne 6 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/491/4adda63f-2842-426f-877f-373fe1faeba8_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:46",
+      "Events": "MISS Sykes 3PT Jump Shot\nJones REBOUND (Off:3 Def:8)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "04:10",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/487/e8218333-e0d9-58a7-3730-39102fa4787b_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:3 Def:8)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/488/c2a6caed-59d2-7bcb-db40-5cab4a640c9e_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:00",
+      "Events": "Delle Donne 7' Driving Layup (10 PTS) (Sykes 3 AST)\nIonescu S.FOUL (P3.T2)\nDelle Donne Free Throw 1 of 1 (11 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -13,
+      "StartTime": "05:21",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 7' Driving Layup (10 PTS) (Sykes 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/474/8e8b012a-0069-83e6-772c-daad01289766_960x540.mp4"
+        },
+        {
+          "description": "Ionescu S.FOUL (P3.T2)",
+          "url": ""
+        },
+        {
+          "description": "Delle Donne Free Throw 1 of 1 (11 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "05:33",
+      "Events": "Atkins 12' Pullup Jump Shot (14 PTS) (Delle Donne 5 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -13,
+      "StartTime": "05:58",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 12' Pullup Jump Shot (14 PTS) (Delle Donne 5 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/470/80774bbb-f210-c08a-029d-440c33d7ceb8_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:28",
+      "Events": "Atkins 17' Pullup Jump Shot (12 PTS) (Delle Donne 4 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -12,
+      "StartTime": "06:43",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 17' Pullup Jump Shot (12 PTS) (Delle Donne 4 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/463/0c37206c-0c2a-0862-6664-51d4a97e3218_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:54",
+      "Events": "MISS Atkins 28' 3PT Jump Shot\nJones REBOUND (Off:2 Def:7)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -9,
+      "StartTime": "07:10",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 28' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/457/ffdc1da3-a20b-8e4d-3788-7505ac7b7778_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:7)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/458/8ff83728-e051-2852-eb57-3b5cad5f348d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:30",
+      "Events": "MISS Delle Donne 12' Turnaround Jump Shot\nIonescu REBOUND (Off:1 Def:5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "07:49",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 12' Turnaround Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/451/b31b91bc-aa68-84a8-0c6a-3fa994bdac23_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/452/3c75ff9b-d0ec-1c28-aa8d-d1ab9c9cc044_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:02",
+      "Events": "Sykes 2' Running Layup (15 PTS)\nIonescu S.FOUL (P2.T1)\nSykes Free Throw 1 of 1 (16 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": -9,
+      "StartTime": "08:06",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 2' Running Layup (15 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/444/139fc30c-3462-46d4-0d66-1c735b8213f6_960x540.mp4"
+        },
+        {
+          "description": "Ionescu S.FOUL (P2.T1)",
+          "url": ""
+        },
+        {
+          "description": "Sykes Free Throw 1 of 1 (16 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "08:28",
+      "Events": "MISS Meng 3PT Jump Shot\nHines-Allen REBOUND (Off:4 Def:3)\nHines-Allen 4' Floating Jump Shot (18 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -11,
+      "StartTime": "08:43",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Meng 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/439/fa1c3f82-1690-5f42-2f1a-487997e76c19_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen REBOUND (Off:4 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/440/693fec9e-2bfc-0918-23ac-946c70a6b24a_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen 4' Floating Jump Shot (18 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/441/2a84481d-0a2e-7cf2-5e4e-d4eece914714_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:56",
+      "Events": "MISS Sykes 2' Cutting Layup Shot\nSykes REBOUND (Off:2 Def:1)\nMISS Sykes 2' Putback Layup\nThornton REBOUND (Off:0 Def:1)\n",
+      "FG2A": 2,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -11,
+      "StartTime": "09:10",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 2' Cutting Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/433/24b1af08-ba67-8c52-a148-a256cc0a393c_960x540.mp4"
+        },
+        {
+          "description": "Sykes REBOUND (Off:2 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/434/ab85e03a-81ca-d51d-7428-1dd284b9e55c_960x540.mp4"
+        },
+        {
+          "description": "MISS Sykes 2' Putback Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/435/f2d0105c-4dad-9231-ba26-7098293ac198_960x540.mp4"
+        },
+        {
+          "description": "Thornton REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/436/7ee9a4ab-252c-1759-2dd9-048053e8858d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:23",
+      "Events": "Hines-Allen 25' 3PT Jump Shot (16 PTS) (Atkins 3 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 4,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -14,
+      "StartTime": "09:47",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 25' 3PT Jump Shot (16 PTS) (Atkins 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/424/5b163e3a-7fed-025e-0e50-6012ef4a04d8_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:17",
+      "Events": "MISS Cloud 19' Floating Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "00:38",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 19' Floating Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/401/d2a7e557-0c70-0d4a-05a7-0fc7449e2538_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:45",
+      "Events": "Thornton BLOCK (2 BLK): MISS Meng 26' 3PT Step Back Jump Shot\nIonescu REBOUND (Off:1 Def:4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "01:09",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Thornton BLOCK (2 BLK): MISS Meng 26' 3PT Step Back Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/396/3ae1e120-27c4-d271-f618-01cad057a7d5_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:1 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/398/e6d8dd11-7ced-30d4-73da-12f7c1cff0cb_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:36",
+      "Events": "Hawkins Step Out of Bounds Turnover (P2.T6)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "01:40",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Hawkins Step Out of Bounds Turnover (P2.T6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/389/68da40fb-edf7-eb0f-ca35-962dfb13232f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:53",
+      "Events": "MISS Cloud 27' 3PT Jump Shot\nHawkins REBOUND (Off:1 Def:2)\nMeng 25' 3PT Jump Shot (3 PTS) (Hawkins 2 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 2,
+      "FG3M": 1,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "02:15",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 27' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/382/31069127-30e5-c4c9-68f5-29ebea1f8503_960x540.mp4"
+        },
+        {
+          "description": "Hawkins REBOUND (Off:1 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/383/0b4ae67b-e71d-1bfb-2c94-8462446fcbbf_960x540.mp4"
+        },
+        {
+          "description": "Meng 25' 3PT Jump Shot (3 PTS) (Hawkins 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/384/5192cc13-0201-cdc3-9249-b4586ee10258_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:39",
+      "Events": "Sykes 5' Pullup Jump Shot (13 PTS) (Hawkins 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "02:52",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 5' Pullup Jump Shot (13 PTS) (Hawkins 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/368/43e082f2-eac9-b42f-1911-53e1b6048259_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:10",
+      "Events": "Sykes 17' Pullup Jump Shot (11 PTS) (Walker-Kimbrough 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -10,
+      "StartTime": "03:27",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 17' Pullup Jump Shot (11 PTS) (Walker-Kimbrough 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/365/82ee1b88-a595-264f-e1fa-cbe58377545f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:37",
+      "Events": "Stewart BLOCK (3 BLK): MISS Sykes 8' Turnaround Jump Shot\nAtkins REBOUND (Off:4 Def:0)\nVandersloot STEAL (2 STL): Atkins Lost Ball Turnover (P1.T5)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "04:01",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Stewart BLOCK (3 BLK): MISS Sykes 8' Turnaround Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/352/ec74d02d-4dad-c8a9-e2ea-62af32eff68a_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:4 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/354/aaaa4052-f507-1fd7-f90a-8ca769593683_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot STEAL (2 STL): Atkins Lost Ball Turnover (P1.T5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/355/01f3d5e4-3a0e-bef5-4b45-956d58a9b9ad_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:21",
+      "Events": "MISS Sykes 26' 3PT Jump Shot\nJones REBOUND (Off:2 Def:6)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "04:39",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/348/872611f0-f22f-8805-5491-ee9ccc66dfd5_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:6)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/349/36284bb9-1945-2223-73f1-3018c455c02f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:48",
+      "Events": "MISS Atkins 25' 3PT Jump Shot\nLIBERTY Rebound\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -8,
+      "StartTime": "05:13",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 25' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/341/2c3ecbc4-8421-382a-33c9-185f0c043c87_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "05:19",
+      "Events": "MISS Cloud 25' 3PT Jump Shot\nVandersloot REBOUND (Off:0 Def:3)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -5,
+      "StartTime": "05:33",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 25' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/337/b8d117e0-c46c-ea0b-347b-eccbcfe5a629_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/338/1c897c85-f6f5-ed61-0596-1c0e7df832d3_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:44",
+      "Events": "Hines-Allen 1' Driving Layup (13 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -7,
+      "StartTime": "05:57",
+      "StartType": "Off Corner 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 1' Driving Layup (13 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/334/0d1c70ac-ea50-3afd-9eba-8c302a5002b7_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:12",
+      "Events": "MISS Atkins 3PT Jump Shot\nJones REBOUND (Off:2 Def:5)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "06:31",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/328/752a0f2c-4a73-3267-bd45-6d5e08d7a891_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:5)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/329/22242209-802e-9f2f-313e-4daf18e7af0e_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:52",
+      "Events": "Hines-Allen 2' Layup (11 PTS) (Cloud 8 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "07:12",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 2' Layup (11 PTS) (Cloud 8 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/323/9bed4b96-2058-477d-0662-dc4488568eff_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:30",
+      "Events": "MISS Cloud 3PT Pullup Jump Shot\nLaney REBOUND (Off:3 Def:4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "07:42",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 3PT Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/319/17068e64-879b-3c02-5364-b51866f819cc_960x540.mp4"
+        },
+        {
+          "description": "Laney REBOUND (Off:3 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/320/c357c6d2-9608-f63a-a0e4-d19aaebc3cc6_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:01",
+      "Events": "Sykes 3' Layup (9 PTS) (Cloud 7 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -6,
+      "StartTime": "08:18",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 3' Layup (9 PTS) (Cloud 7 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/315/717381f5-2714-1dae-852b-08d4e8588461_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:24",
+      "Events": "MISS Sykes 26' 3PT Jump Shot\nDelle Donne REBOUND (Off:1 Def:1)\nJones P.FOUL (P2.T1)\nMISS Cloud 3' Driving Layup\nStewart REBOUND (Off:1 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "09:04",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/307/e2df67b9-74c8-a12d-5a47-b4fd6ed09c5f_960x540.mp4"
+        },
+        {
+          "description": "Delle Donne REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/308/08b1c165-4af8-80ff-90f7-250e80fa2c2f_960x540.mp4"
+        },
+        {
+          "description": "Jones P.FOUL (P2.T1)",
+          "url": ""
+        },
+        {
+          "description": "MISS Cloud 3' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/311/322fce59-331b-05c5-ab3d-3fcbc665b54d_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:1 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/312/d3dbde13-a7a5-73be-4234-053e277b318f_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:17",
+      "Events": "Vandersloot STEAL (1 STL): Sykes Lost Ball Turnover (P1.T4)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -2,
+      "StartTime": "09:22",
+      "StartType": "Off Steal",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Vandersloot STEAL (1 STL): Sykes Lost Ball Turnover (P1.T4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/303/526b745e-751e-42e7-87cd-70724c02c3f3_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:41",
+      "Events": "Atkins 15' Pullup Jump Shot (10 PTS) (Delle Donne 3 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 3,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -4,
+      "StartTime": "10:00",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 15' Pullup Jump Shot (10 PTS) (Delle Donne 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/299/375bea48-3e56-f714-568f-69fc13b9001a_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:23",
+      "Events": "Stewart P.FOUL (P2.PN)\nMISS Hines-Allen Free Throw 1 of 2\nMystics Rebound\nHines-Allen Free Throw 2 of 2 (9 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 1,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -3,
+      "StartTime": "00:27",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart P.FOUL (P2.PN)",
+          "url": ""
+        },
+        {
+          "description": "MISS Hines-Allen Free Throw 1 of 2",
+          "url": ""
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Hines-Allen Free Throw 2 of 2 (9 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "00:38",
+      "Events": "Stewart BLOCK (2 BLK): MISS Delle Donne 6' Driving Layup\nLaney REBOUND (Off:2 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "00:58",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart BLOCK (2 BLK): MISS Delle Donne 6' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/279/6a521729-f4c1-35b8-f19e-a4aad9478fd4_960x540.mp4"
+        },
+        {
+          "description": "Laney REBOUND (Off:2 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/281/ba6e4e4e-ffb1-14cb-d91a-47e30535fee4_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:13",
+      "Events": "Ionescu P.FOUL (P1.T4)\nMISS Atkins 14' Pullup Jump Shot\nJones REBOUND (Off:2 Def:4)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "01:27",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Ionescu P.FOUL (P1.T4)",
+          "url": ""
+        },
+        {
+          "description": "MISS Atkins 14' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/276/dd394a19-a80b-3c50-c2ef-569ca9ba48d9_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:2 Def:4)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/277/ec456ab6-60d1-29dc-d0e3-1fcbe0ee9844_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:55",
+      "Events": "MISS Atkins 3' Driving Layup\nAtkins REBOUND (Off:3 Def:0)\nAtkins 2' Putback Layup (8 PTS)\n",
+      "FG2A": 2,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "02:14",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 3' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/265/6382f55d-2e28-44c4-8447-ef31fc0c18f5_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:3 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/266/63c5f837-ccca-4d42-dc4e-33b3e3aba152_960x540.mp4"
+        },
+        {
+          "description": "Atkins 2' Putback Layup (8 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/269/38e1f8c4-69b5-d1e9-efad-a83451b96b84_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:27",
+      "Events": "Hines-Allen 3' Cutting Layup Shot (8 PTS) (Atkins 2 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "02:39",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 3' Cutting Layup Shot (8 PTS) (Atkins 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/261/575bb070-d033-022a-d1c6-02ae74f1713b_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:52",
+      "Events": "MISS Cloud 3' Running Reverse Layup\nHines-Allen REBOUND (Off:1 Def:1)\nVandersloot BLOCK (1 BLK): MISS Hines-Allen 5' Putback Layup\nHines-Allen REBOUND (Off:2 Def:1)\nStewart BLOCK (1 BLK): MISS Hines-Allen 3' Putback Layup\nHines-Allen REBOUND (Off:3 Def:1)\nJones STEAL (1 STL): Hines-Allen Bad Pass Turnover (P1.T3)\n",
+      "FG2A": 3,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 3,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "03:05",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 3' Running Reverse Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/237/9f998670-7e05-e0ea-0fe9-04ad1a2809d7_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/238/a56864be-b54e-d431-e90f-143793835361_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot BLOCK (1 BLK): MISS Hines-Allen 5' Putback Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/239/530d5c55-cd16-99b3-d7c3-6e807b114ce4_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen REBOUND (Off:2 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/240/f3478ce5-bf1b-0553-a5ab-f6acac091ff0_960x540.mp4"
+        },
+        {
+          "description": "Stewart BLOCK (1 BLK): MISS Hines-Allen 3' Putback Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/241/4168c4f9-25e3-feef-35af-0e64153aef14_960x540.mp4"
+        },
+        {
+          "description": "Hines-Allen REBOUND (Off:3 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/243/c19ea8d7-7ca1-a222-f30f-dc2aa224b368_960x540.mp4"
+        },
+        {
+          "description": "Jones STEAL (1 STL): Hines-Allen Bad Pass Turnover (P1.T3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/249/23694216-88fa-9728-1ce7-88ba209008d1_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:18",
+      "Events": "MISS Walker-Kimbrough 24' 3PT Running Jump Shot\nJones REBOUND (Off:1 Def:3)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "03:25",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Walker-Kimbrough 24' 3PT Running Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/233/1fb06f40-72d2-9828-74f3-6e6fdc39f0e7_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:1 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/234/e2788665-1383-f541-950e-ff0e15ff8bcb_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:42",
+      "Events": "Delle Donne 2' Driving Layup (8 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "04:02",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 2' Driving Layup (8 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/230/319d1920-60e1-20a2-2a12-004fb99a2a81_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:10",
+      "Events": "Vandersloot S.FOUL (P2.T3)\nMISS Walker-Kimbrough Free Throw 1 of 2\nMystics Rebound\nWalker-Kimbrough Free Throw 2 of 2 (1 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": 0,
+      "StartTime": "04:35",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Vandersloot S.FOUL (P2.T3)",
+          "url": ""
+        },
+        {
+          "description": "MISS Walker-Kimbrough Free Throw 1 of 2",
+          "url": ""
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Walker-Kimbrough Free Throw 2 of 2 (1 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "04:47",
+      "Events": "Vandersloot P.FOUL (P1.T2)\nMISS Sykes 3PT Jump Shot\nVandersloot REBOUND (Off:0 Def:2)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "05:14",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Vandersloot P.FOUL (P1.T2)",
+          "url": ""
+        },
+        {
+          "description": "MISS Sykes 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/218/ec4416fe-92f1-1dd3-f14d-b51852b47069_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/219/8d5948bd-6a13-81f2-55c0-816d0fc81509_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:43",
+      "Events": "Hawkins 2' Layup (5 PTS) (Sykes 2 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "05:50",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hawkins 2' Layup (5 PTS) (Sykes 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/202/497217e1-b37b-4fa3-00c3-76f0eb8fcbc0_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:06",
+      "Events": "Jones BLOCK (2 BLK): MISS Delle Donne 4' Driving Reverse Layup\nLIBERTY Rebound\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "06:22",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones BLOCK (2 BLK): MISS Delle Donne 4' Driving Reverse Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/196/aed97550-70fa-6009-46f7-f9aca7bda177_960x540.mp4"
+        },
+        {
+          "description": "LIBERTY Rebound",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "06:40",
+      "Events": "Atkins 3PT Jump Shot (6 PTS) (Delle Donne 2 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "06:51",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 3PT Jump Shot (6 PTS) (Delle Donne 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/189/52ee511b-302e-3694-105b-a253378a6275_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:57",
+      "Events": "Laney P.FOUL (P2.T1)\nMISS Atkins 14' Fadeaway Jumper\nJones REBOUND (Off:1 Def:2)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": -1,
+      "StartTime": "07:25",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Laney P.FOUL (P2.T1)",
+          "url": ""
+        },
+        {
+          "description": "MISS Atkins 14' Fadeaway Jumper",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/185/a5633e91-62f9-e8f3-d15f-28f8da58439b_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:1 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/186/a5674204-e667-df03-8c60-8e89c4d02dcb_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:31",
+      "Events": "MISS Delle Donne 13' Turnaround Jump Shot\nStewart REBOUND (Off:1 Def:2)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "07:57",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 13' Turnaround Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/167/2897b854-9f54-081b-cf8b-d22500f61456_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:1 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/168/186ff276-b03a-85f4-908f-e958ae8b7ac8_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:17",
+      "Events": "Stewart STEAL (1 STL): Meng Bad Pass Turnover (P1.T2)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "08:30",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Stewart STEAL (1 STL): Meng Bad Pass Turnover (P1.T2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/162/edf1cbc9-5568-b909-4e67-bba6bc4e2f80_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:48",
+      "Events": "MISS Atkins 26' 3PT Jump Shot\nStewart REBOUND (Off:1 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "09:03",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 26' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/152/34d7d396-6190-8ec5-f981-5749d9e178db_960x540.mp4"
+        },
+        {
+          "description": "Stewart REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/153/8bce86ff-8df6-fe5f-8d3f-f91dbfb7b91a_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:15",
+      "Events": "Dolson BLOCK (1 BLK): MISS Hawkins 6' Layup\nDolson REBOUND (Off:0 Def:1)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 6,
+      "StartTime": "09:30",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Dolson BLOCK (1 BLK): MISS Hawkins 6' Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/145/bc8db2b0-dac7-bcec-cc1f-250d8daeb953_960x540.mp4"
+        },
+        {
+          "description": "Dolson REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/147/2e1ad6db-811f-9203-6ad1-a1e4cdd554c8_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:45",
+      "Events": "MISS Sykes 5' Driving Layup\nSykes REBOUND (Off:1 Def:1)\nMISS Sykes 2' Tip Layup Shot\nLaney REBOUND (Off:0 Def:2)\n",
+      "FG2A": 2,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 2,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 6,
+      "StartTime": "10:00",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 5' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/139/dc53b884-7c36-bdb5-8f87-a27bba90e4bf_960x540.mp4"
+        },
+        {
+          "description": "Sykes REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/140/0cf0582b-5a5a-49d0-848c-d757831f612f_960x540.mp4"
+        },
+        {
+          "description": "MISS Sykes 2' Tip Layup Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/165/89ec6257-7e21-1729-4fb2-259cc9d37a9a_960x540.mp4"
+        },
+        {
+          "description": "Laney REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/166/ed8b3a4b-d8ea-af6e-e2f2-2c498a410066_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:03",
+      "Events": "Hawkins 24' 3PT Jump Shot (3 PTS) (Cloud 6 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "00:17",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hawkins 24' 3PT Jump Shot (3 PTS) (Cloud 6 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/125/38ddbfcb-045e-f86e-6e8b-8db9e659c11d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:36",
+      "Events": "MISS Egbo 3' Layup\nEgbo REBOUND (Off:1 Def:0)\nThornton BLOCK (1 BLK): MISS Egbo 2' Putback Layup\nVandersloot REBOUND (Off:0 Def:1)\n",
+      "FG2A": 2,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "00:55",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Egbo 3' Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/119/d5c010b0-c8b9-b218-8111-87aa3759e76d_960x540.mp4"
+        },
+        {
+          "description": "Egbo REBOUND (Off:1 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/120/3d69a88b-02db-1828-7994-00faf9a6a3bd_960x540.mp4"
+        },
+        {
+          "description": "Thornton BLOCK (1 BLK): MISS Egbo 2' Putback Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/121/36a47edd-6d86-01c7-0b0f-c9dc686f2510_960x540.mp4"
+        },
+        {
+          "description": "Vandersloot REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/122/78bc3a70-f9e7-6d86-2c68-2f203b5591ed_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "00:59",
+      "Events": "Thornton STEAL (1 STL): Hawkins Bad Pass Turnover (P1.T1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 5,
+      "StartTime": "01:18",
+      "StartType": "Off Dead Ball",
+      "Turnovers": 1,
+      "VideoUrls": [
+        {
+          "description": "Thornton STEAL (1 STL): Hawkins Bad Pass Turnover (P1.T1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/116/a13e7417-1fe7-a4f7-5708-fb6c2dba27be_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "01:25",
+      "Events": "MISS Sykes 18' Pullup Jump Shot\nIonescu REBOUND (Off:0 Def:3)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 5,
+      "StartTime": "01:47",
+      "StartType": "Off Corner 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 18' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/100/8e4b3c31-4116-defa-46e9-6a956e57a86d_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:3)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/101/05b403a4-0eac-fb8b-ae35-4fe832c8e562_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:02",
+      "Events": "Sykes 11' Running Pull-Up Jump Shot (7 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 3,
+      "StartTime": "02:07",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 11' Running Pull-Up Jump Shot (7 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/96/77507df0-67c6-54e8-2615-a55a8a753b41_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:26",
+      "Events": "Delle Donne 2' Running Layup (6 PTS) (Cloud 5 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "02:32",
+      "StartType": "Off At Rim Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 2' Running Layup (6 PTS) (Cloud 5 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/93/36fcd2a4-320f-37dd-1367-86926da83e92_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "02:38",
+      "Events": "Jones BLOCK (1 BLK): MISS Delle Donne 5' Reverse Layup\nIonescu REBOUND (Off:0 Def:2)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "02:54",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Jones BLOCK (1 BLK): MISS Delle Donne 5' Reverse Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/89/41d5e9ea-84e7-9598-3069-e8ff27198347_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:2)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/90/762835b2-dd9e-e441-330e-02635aca6c6d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:01",
+      "Events": "MISS Cloud 15' Pullup Jump Shot\nIonescu REBOUND (Off:0 Def:1)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "03:25",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Cloud 15' Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/85/2e6178b2-c2dd-9bb9-3304-749ad3069b36_960x540.mp4"
+        },
+        {
+          "description": "Ionescu REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/86/aad79112-fa43-6206-bda6-02a7177a166d_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "03:37",
+      "Events": "Sykes 20' Pullup Jump Shot (5 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "03:51",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Sykes 20' Pullup Jump Shot (5 PTS)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/83/f1e49677-966d-2ba4-37b8-08026544fc79_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:04",
+      "Events": "Delle Donne 12' Turnaround Jump Shot (4 PTS) (Cloud 4 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 1,
+      "StartTime": "04:21",
+      "StartType": "Off Timeout",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 12' Turnaround Jump Shot (4 PTS) (Cloud 4 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/77/451e9479-1ceb-f691-9820-e9c1ea2705c4_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:30",
+      "Events": "MISS Delle Donne 26' 3PT Pullup Jump Shot\nLaney REBOUND (Off:0 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "04:40",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Delle Donne 26' 3PT Pullup Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/65/9d5d9523-394d-4ce6-8204-32d0d3431f5a_960x540.mp4"
+        },
+        {
+          "description": "Laney REBOUND (Off:0 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/66/576fbd8b-41c0-7adc-2798-e43a2dfc43ac_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "04:51",
+      "Events": "MISS Hines-Allen 24' 3PT Jump Shot\nAtkins REBOUND (Off:2 Def:0)\nSykes 2' Cutting Layup Shot (3 PTS) (Atkins 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "05:22",
+      "StartType": "Off FT Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Hines-Allen 24' 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/60/73a58a90-0de7-3aa0-25b5-838cb597ef8c_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:2 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/61/55d86951-8e6c-30e9-78b5-ea697c4fdd0e_960x540.mp4"
+        },
+        {
+          "description": "Sykes 2' Cutting Layup Shot (3 PTS) (Atkins 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/62/aedf5b6e-66a0-ffe4-98ea-0eafe0bfe977_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "05:34",
+      "Events": "Hines-Allen 2' Layup (6 PTS) (Delle Donne 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "05:53",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 2' Layup (6 PTS) (Delle Donne 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/52/ba73d9e2-7e93-dd25-7e09-143e4d62ac0a_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "06:02",
+      "Events": "MISS Atkins 6' Driving Layup\nAtkins REBOUND (Off:1 Def:0)\nLaney S.FOUL (P1.T2)\nMISS Sykes Free Throw 1 of 2\nMystics Rebound\nSykes Free Throw 2 of 2 (1 PTS)\n",
+      "FG2A": 1,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 1,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": 1,
+      "StartTime": "06:28",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Atkins 6' Driving Layup",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/43/e673dd9d-6bbb-40df-450a-baeb42ea2a4a_960x540.mp4"
+        },
+        {
+          "description": "Atkins REBOUND (Off:1 Def:0)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/44/14615491-5c45-3efd-05c5-b14291727777_960x540.mp4"
+        },
+        {
+          "description": "Laney S.FOUL (P1.T2)",
+          "url": ""
+        },
+        {
+          "description": "MISS Sykes Free Throw 1 of 2",
+          "url": ""
+        },
+        {
+          "description": "Mystics Rebound",
+          "url": ""
+        },
+        {
+          "description": "Sykes Free Throw 2 of 2 (1 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "06:36",
+      "Events": "Stewart S.FOUL (P1.T1)\nCloud Free Throw 1 of 2 (3 PTS)\nCloud Free Throw 2 of 2 (4 PTS)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 1,
+      "StartScoreDifferential": 2,
+      "StartTime": "06:43",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Stewart S.FOUL (P1.T1)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 1 of 2 (3 PTS)",
+          "url": ""
+        },
+        {
+          "description": "Cloud Free Throw 2 of 2 (4 PTS)",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "EndTime": "07:00",
+      "Events": "Hines-Allen 2' Running Layup (4 PTS) (Sykes 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "07:06",
+      "StartType": "Off Steal",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 2' Running Layup (4 PTS) (Sykes 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/31/cdfe9fc3-c6ea-a54f-1ecb-0768591624b7_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:13",
+      "Events": "MISS Sykes 3PT Jump Shot\nJones REBOUND (Off:1 Def:1)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "07:34",
+      "StartType": "Off At Rim Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "MISS Sykes 3PT Jump Shot",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/27/6ce2a42f-17ea-64ff-bc17-58680d7d5c14_960x540.mp4"
+        },
+        {
+          "description": "Jones REBOUND (Off:1 Def:1)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/28/aab441af-5134-c92d-0b93-0f2a5ab1eafa_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "07:48",
+      "Events": "Delle Donne 12' Running Pull-Up Jump Shot (2 PTS) (Cloud 3 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 2,
+      "StartTime": "07:57",
+      "StartType": "Off Arc 3 Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Delle Donne 12' Running Pull-Up Jump Shot (2 PTS) (Cloud 3 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/22/32f54353-19f0-fcf5-f400-f3db8db9d345_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:10",
+      "Events": "Hines-Allen 3' Cutting Layup Shot (2 PTS) (Cloud 2 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "08:30",
+      "StartType": "Off Short Mid-Range Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Hines-Allen 3' Cutting Layup Shot (2 PTS) (Cloud 2 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/18/991cbad3-232e-31a4-330e-e178aab1ba28_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "08:43",
+      "Events": "Cloud 18' Pullup Jump Shot (2 PTS) (Hines-Allen 1 AST)\n",
+      "FG2A": 1,
+      "FG2M": 1,
+      "FG3A": 0,
+      "FG3M": 0,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "09:08",
+      "StartType": "Off Arc 3 Make",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Cloud 18' Pullup Jump Shot (2 PTS) (Hines-Allen 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/14/3a81c6c8-4c78-d171-c399-d268a84b8f5c_960x540.mp4"
+        }
+      ]
+    },
+    {
+      "EndTime": "09:20",
+      "Events": "Atkins 24' 3PT Jump Shot (3 PTS) (Cloud 1 AST)\n",
+      "FG2A": 0,
+      "FG2M": 0,
+      "FG3A": 1,
+      "FG3M": 1,
+      "GameDate": "2023-09-15",
+      "GameId": "1042300111",
+      "NonShootingFoulsThatResultedInFts": 0,
+      "OffensiveRebounds": 0,
+      "Opponent": "NYL",
+      "Period": 1,
+      "ShootingFoulsDrawn": 0,
+      "StartScoreDifferential": 0,
+      "StartTime": "09:42",
+      "StartType": "Off Short Mid-Range Miss",
+      "Turnovers": 0,
+      "VideoUrls": [
+        {
+          "description": "Atkins 24' 3PT Jump Shot (3 PTS) (Cloud 1 AST)",
+          "url": "https://videos.nba.com/wnba/pbp/media/2023/09/15/1042300111/10/05e21a28-9ed4-c66a-f25f-ab5bfedfd29d_960x540.mp4"
+        }
+      ]
+    }
+  ],
+  "player_results": [
+    {
+      "EntityId": "203399",
+      "TeamId": "1611661322",
+      "Name": "Elena Delle Donne",
+      "ShortName": "Elena Delle Donne",
+      "SecondsPlayed": 2206.0,
+      "PlusMinus": 138,
+      "OffPoss": 139,
+      "PenaltyOffPoss": 22,
+      "SecondChanceOffPoss": 19,
+      "TotalPoss": 139,
+      "AtRimFGM": 3,
+      "AtRimFGA": 6,
+      "ShortMidRangeFGM": 5,
+      "ShortMidRangeFGA": 13,
+      "LongMidRangeFGM": 1,
+      "LongMidRangeFGA": 2,
+      "Arc3FGA": 7,
+      "SecondChanceArc3FGA": 1,
+      "PenaltyArc3FGA": 2,
+      "FG2M": 9,
+      "FG2A": 21,
+      "FG3A": 7,
+      "FtPoints": 4,
+      "Points": 22,
+      "SecondChanceFG2A": 1,
+      "SecondChanceFG3A": 1,
+      "PenaltyFG2A": 2,
+      "PenaltyFG3A": 2,
+      "PtsAssisted2s": 16,
+      "PtsUnassisted2s": 2,
+      "NonHeaveArc3FGA": 7,
+      "Fg2aBlocked": 3,
+      "Fg3aBlocked": 1,
+      "TwoPtAssists": 5,
+      "ThreePtAssists": 2,
+      "Assists": 7,
+      "Arc3Assists": 1,
+      "Corner3Assists": 1,
+      "AtRimAssists": 1,
+      "ShortMidRangeAssists": 2,
+      "LongMidRangeAssists": 2,
+      "AssistPoints": 16,
+      "OffThreePtRebounds": 2,
+      "OffRebounds": 2,
+      "Rebounds": 2,
+      "FoulsDrawn": 5,
+      "FTA": 4,
+      "2pt And 1 Free Throw Trips": 1,
+      "Technical Free Throw Trips": 1,
+      "TwoPtShootingFoulsDrawn": 2,
+      "PenaltyOffPossExcludingTakeFouls": 22,
+      "Assisted2sPct": 0.8888888888888888,
+      "NonPutbacksAssisted2sPct": 0.8888888888888888,
+      "Fg2Pct": 0.42857142857142855,
+      "EfgPct": 0.32142857142857145,
+      "TsPct": 0.3620689655172414,
+      "FG3APct": 0.25,
+      "FG3APctBlocked": 0.14285714285714285,
+      "FG2APctBlocked": 0.14285714285714285,
+      "AtRimPctBlocked": 0.16666666666666666,
+      "ShortMidRangePctBlocked": 0.15384615384615385,
+      "Arc3PctBlocked": 0.14285714285714285,
+      "Usage": 18.012422360248447,
+      "OffThreePtReboundPct": 0.07407407407407407,
+      "OffFGReboundPct": 0.02702702702702703,
+      "OffArc3ReboundPct": 0.10526315789473684,
+      "AtRimFrequency": 0.21428571428571427,
+      "AtRimAccuracy": 0.5,
+      "UnblockedAtRimAccuracy": 0.6,
+      "AtRimPctAssisted": 0.6666666666666666,
+      "ShortMidRangeFrequency": 0.4642857142857143,
+      "ShortMidRangeAccuracy": 0.38461538461538464,
+      "UnblockedShortMidRangeAccuracy": 0.45454545454545453,
+      "ShortMidRangePctAssisted": 1.0,
+      "LongMidRangeFrequency": 0.07142857142857142,
+      "LongMidRangeAccuracy": 0.5,
+      "UnblockedLongMidRangeAccuracy": 0.5,
+      "LongMidRangePctAssisted": 1.0,
+      "Arc3Frequency": 0.25,
+      "SecondChanceArc3Frequency": 0.5,
+      "PenaltyArc3Frequency": 0.5,
+      "AtRimFG3AFrequency": 0.4642857142857143,
+      "ShotQualityAvg": 0.44856785714285713,
+      "SecondChanceShotQualityAvg": 0.44079999999999997,
+      "PenaltyShotQualityAvg": 0.40822499999999995,
+      "ShootingFoulsDrawnPct": 0.06896551724137931,
+      "TwoPtShootingFoulsDrawnPct": 0.09090909090909091,
+      "Avg2ptShotDistance": 8.214285714285715,
+      "Avg3ptShotDistance": 26.58571428571429,
+      "PenaltyOffPossPct": 0.15827338129496402
+    },
+    {
+      "EntityId": "204333",
+      "TeamId": "1611661322",
+      "Name": "Natasha Cloud",
+      "ShortName": "Natasha Cloud",
+      "SecondsPlayed": 2267.0,
+      "PlusMinus": 140,
+      "OffPoss": 145,
+      "PenaltyOffPoss": 22,
+      "SecondChanceOffPoss": 18,
+      "TotalPoss": 145,
+      "AtRimFGM": 7,
+      "AtRimFGA": 12,
+      "SecondChanceAtRimFGA": 1,
+      "ShortMidRangeFGA": 3,
+      "LongMidRangeFGM": 1,
+      "LongMidRangeFGA": 5,
+      "Arc3FGM": 5,
+      "Arc3FGA": 10,
+      "FG2M": 8,
+      "FG2A": 20,
+      "FG3M": 5,
+      "FG3A": 10,
+      "FtPoints": 6,
+      "Points": 37,
+      "SecondChanceFG2A": 1,
+      "SecondChanceFtPoints": 2,
+      "SecondChancePoints": 2,
+      "PenaltyFG2A": 2,
+      "PenaltyFtPoints": 2,
+      "PenaltyPoints": 2,
+      "PtsAssisted2s": 6,
+      "PtsUnassisted2s": 10,
+      "PtsAssisted3s": 12,
+      "PtsUnassisted3s": 3,
+      "NonHeaveArc3FGA": 10,
+      "NonHeaveArc3FGM": 5,
+      "Fg2aBlocked": 3,
+      "TwoPtAssists": 13,
+      "ThreePtAssists": 4,
+      "Assists": 17,
+      "Arc3Assists": 3,
+      "Corner3Assists": 1,
+      "AtRimAssists": 9,
+      "ShortMidRangeAssists": 4,
+      "AssistPoints": 38,
+      "LiveBallTurnovers": 2,
+      "BadPassOutOfBoundsTurnovers": 1,
+      "BadPassTurnovers": 1,
+      "DeadBallTurnovers": 1,
+      "LostBallTurnovers": 1,
+      "Turnovers": 3,
+      "PenaltyTurnovers": 2,
+      "FoulsDrawn": 4,
+      "FTA": 6,
+      "TwoPtShootingFoulsDrawn": 2,
+      "NonShootingFoulsDrawn": 1,
+      "PenaltyPointsExcludingTakeFouls": 2,
+      "PenaltyOffPossExcludingTakeFouls": 22,
+      "NonShootingPenaltyNonTakeFoulsDrawn": 1,
+      "Assisted2sPct": 0.375,
+      "NonPutbacksAssisted2sPct": 0.375,
+      "Assisted3sPct": 0.8,
+      "Fg3Pct": 0.5,
+      "NonHeaveFg3Pct": 0.5,
+      "Fg2Pct": 0.4,
+      "EfgPct": 0.5166666666666667,
+      "TsPct": 0.5606060606060606,
+      "SecondChanceTsPct": 0.5,
+      "PenaltyTsPct": 0.3333333333333333,
+      "FG3APct": 0.3333333333333333,
+      "FG2APctBlocked": 0.15,
+      "AtRimPctBlocked": 0.16666666666666666,
+      "ShortMidRangePctBlocked": 0.3333333333333333,
+      "Usage": 21.686746987951807,
+      "LiveBallTurnoverPct": 0.6666666666666666,
+      "AtRimFrequency": 0.4,
+      "AtRimAccuracy": 0.5833333333333334,
+      "UnblockedAtRimAccuracy": 0.7,
+      "AtRimPctAssisted": 0.2857142857142857,
+      "ShortMidRangeFrequency": 0.1,
+      "LongMidRangeFrequency": 0.16666666666666666,
+      "LongMidRangeAccuracy": 0.2,
+      "UnblockedLongMidRangeAccuracy": 0.2,
+      "LongMidRangePctAssisted": 1.0,
+      "Arc3Frequency": 0.3333333333333333,
+      "Arc3Accuracy": 0.5,
+      "UnblockedArc3Accuracy": 0.5,
+      "Arc3PctAssisted": 0.8,
+      "SecondChanceAtRimFrequency": 1.0,
+      "AtRimFG3AFrequency": 0.7333333333333333,
+      "NonHeaveArc3Accuracy": 0.5,
+      "ShotQualityAvg": 0.5096916666666665,
+      "PenaltyShotQualityAvg": 0.38670000000000004,
+      "ShootingFoulsDrawnPct": 0.0625,
+      "TwoPtShootingFoulsDrawnPct": 0.09090909090909091,
+      "SecondChancePointsPct": 0.05405405405405406,
+      "PenaltyPointsPct": 0.05405405405405406,
+      "Avg2ptShotDistance": 6.865,
+      "Avg3ptShotDistance": 25.21,
+      "PenaltyOffPossPct": 0.15172413793103448
+    },
+    {
+      "EntityId": "1628279",
+      "TeamId": "1611661322",
+      "Name": "Brittney Sykes",
+      "ShortName": "Brittney Sykes",
+      "SecondsPlayed": 2365.0,
+      "PlusMinus": 154,
+      "OffPoss": 151,
+      "PenaltyOffPoss": 15,
+      "SecondChanceOffPoss": 20,
+      "TotalPoss": 151,
+      "AtRimFGM": 6,
+      "AtRimFGA": 9,
+      "SecondChanceAtRimFGM": 1,
+      "SecondChanceAtRimFGA": 3,
+      "ShortMidRangeFGM": 2,
+      "ShortMidRangeFGA": 6,
+      "LongMidRangeFGM": 2,
+      "LongMidRangeFGA": 5,
+      "Corner3FGM": 2,
+      "Corner3FGA": 7,
+      "SecondChanceCorner3FGM": 1,
+      "SecondChanceCorner3FGA": 1,
+      "PenaltyCorner3FGM": 1,
+      "PenaltyCorner3FGA": 1,
+      "Arc3FGA": 2,
+      "FG2M": 10,
+      "FG2A": 20,
+      "FG3M": 2,
+      "FG3A": 9,
+      "FtPoints": 4,
+      "Points": 30,
+      "SecondChanceFG2M": 1,
+      "SecondChanceFG2A": 4,
+      "SecondChanceFG3M": 1,
+      "SecondChanceFG3A": 1,
+      "SecondChanceFtPoints": 1,
+      "SecondChancePoints": 6,
+      "PenaltyFG3M": 1,
+      "PenaltyFG3A": 1,
+      "PenaltyPoints": 3,
+      "PtsAssisted2s": 12,
+      "PtsUnassisted2s": 8,
+      "PtsAssisted3s": 3,
+      "PtsUnassisted3s": 3,
+      "NonHeaveArc3FGA": 2,
+      "Fg2aBlocked": 2,
+      "TwoPtAssists": 6,
+      "ThreePtAssists": 1,
+      "Assists": 7,
+      "Arc3Assists": 1,
+      "AtRimAssists": 4,
+      "ShortMidRangeAssists": 2,
+      "AssistPoints": 15,
+      "OffTwoPtRebounds": 3,
+      "OffRebounds": 3,
+      "Rebounds": 3,
+      "SelfOReb": 2,
+      "LiveBallTurnovers": 4,
+      "BadPassOutOfBoundsTurnovers": 2,
+      "BadPassTurnovers": 3,
+      "DeadBallTurnovers": 2,
+      "LostBallTurnovers": 1,
+      "Turnovers": 6,
+      "PenaltyTurnovers": 1,
+      "FoulsDrawn": 9,
+      "Loose Ball Fouls Drawn": 1,
+      "FTA": 8,
+      "2pt And 1 Free Throw Trips": 2,
+      "TwoPtShootingFoulsDrawn": 5,
+      "PenaltyPointsExcludingTakeFouls": 3,
+      "PenaltyOffPossExcludingTakeFouls": 15,
+      "Assisted2sPct": 0.6,
+      "NonPutbacksAssisted2sPct": 0.6,
+      "Assisted3sPct": 0.5,
+      "Fg3Pct": 0.2222222222222222,
+      "SecondChanceFg3Pct": 1.0,
+      "PenaltyFg3Pct": 1.0,
+      "NonHeaveFg3Pct": 0.2222222222222222,
+      "Fg2Pct": 0.5,
+      "SecondChanceFg2Pct": 0.25,
+      "EfgPct": 0.4482758620689655,
+      "SecondChanceEfgPct": 0.5,
+      "PenaltyEfgPct": 1.5,
+      "TsPct": 0.46875,
+      "SecondChanceTsPct": 0.5,
+      "PenaltyTsPct": 1.5,
+      "FG3APct": 0.3103448275862069,
+      "FG2APctBlocked": 0.1,
+      "ShortMidRangePctBlocked": 0.3333333333333333,
+      "Usage": 21.839080459770116,
+      "LiveBallTurnoverPct": 0.6666666666666666,
+      "OffTwoPtReboundPct": 0.0625,
+      "OffFGReboundPct": 0.0379746835443038,
+      "OffAtRimReboundPct": 0.05555555555555555,
+      "OffShortMidRangeReboundPct": 0.09090909090909091,
+      "SelfORebPct": 0.13333333333333333,
+      "AtRimFrequency": 0.3103448275862069,
+      "AtRimAccuracy": 0.6666666666666666,
+      "UnblockedAtRimAccuracy": 0.6666666666666666,
+      "AtRimPctAssisted": 0.6666666666666666,
+      "ShortMidRangeFrequency": 0.20689655172413793,
+      "ShortMidRangeAccuracy": 0.3333333333333333,
+      "UnblockedShortMidRangeAccuracy": 0.5,
+      "ShortMidRangePctAssisted": 0.5,
+      "LongMidRangeFrequency": 0.1724137931034483,
+      "LongMidRangeAccuracy": 0.4,
+      "UnblockedLongMidRangeAccuracy": 0.4,
+      "LongMidRangePctAssisted": 0.5,
+      "Corner3Frequency": 0.2413793103448276,
+      "Corner3Accuracy": 0.2857142857142857,
+      "UnblockedCorner3Accuracy": 0.2857142857142857,
+      "Corner3PctAssisted": 0.5,
+      "Arc3Frequency": 0.06896551724137931,
+      "SecondChanceAtRimFrequency": 0.6,
+      "SecondChanceAtRimAccuracy": 0.3333333333333333,
+      "SecondChanceAtRimPctAssisted": 1.0,
+      "SecondChanceCorner3Frequency": 0.2,
+      "SecondChanceCorner3Accuracy": 1.0,
+      "PenaltyCorner3Frequency": 1.0,
+      "PenaltyCorner3Accuracy": 1.0,
+      "AtRimFG3AFrequency": 0.6206896551724138,
+      "ShotQualityAvg": 0.4953827586206897,
+      "SecondChanceShotQualityAvg": 0.5457833333333334,
+      "PenaltyShotQualityAvg": 0.52725,
+      "ShootingFoulsDrawnPct": 0.15625,
+      "TwoPtShootingFoulsDrawnPct": 0.21739130434782608,
+      "SecondChancePointsPct": 0.2,
+      "PenaltyPointsPct": 0.1,
+      "Avg2ptShotDistance": 7.595000000000001,
+      "Avg3ptShotDistance": 23.655555555555555,
+      "PenaltyOffPossPct": 0.09933774834437085
+    },
+    {
+      "EntityId": "1628878",
+      "TeamId": "1611661322",
+      "Name": "Ariel Atkins",
+      "ShortName": "Ariel Atkins",
+      "SecondsPlayed": 1989.0,
+      "PlusMinus": 127,
+      "OffPoss": 127,
+      "PenaltyOffPoss": 22,
+      "SecondChanceOffPoss": 18,
+      "TotalPoss": 127,
+      "AtRimFGM": 3,
+      "AtRimFGA": 7,
+      "SecondChanceAtRimFGM": 2,
+      "SecondChanceAtRimFGA": 3,
+      "PenaltyAtRimFGA": 1,
+      "ShortMidRangeFGM": 2,
+      "ShortMidRangeFGA": 6,
+      "LongMidRangeFGM": 2,
+      "LongMidRangeFGA": 4,
+      "Corner3FGM": 1,
+      "Corner3FGA": 4,
+      "Arc3FGM": 2,
+      "Arc3FGA": 7,
+      "PenaltyArc3FGA": 1,
+      "FG2M": 7,
+      "FG2A": 17,
+      "FG3M": 3,
+      "FG3A": 11,
+      "FtPoints": 4,
+      "Points": 27,
+      "SecondChanceFG2M": 2,
+      "SecondChanceFG2A": 3,
+      "SecondChanceFtPoints": 4,
+      "SecondChancePoints": 8,
+      "PenaltyFG2A": 3,
+      "PenaltyFG3A": 1,
+      "PenaltyFtPoints": 2,
+      "PenaltyPoints": 2,
+      "PtsAssisted2s": 10,
+      "PtsUnassisted2s": 4,
+      "PtsAssisted3s": 9,
+      "PtsPutbacks": 4,
+      "NonHeaveArc3FGA": 7,
+      "NonHeaveArc3FGM": 2,
+      "Fg2aBlocked": 1,
+      "TwoPtAssists": 4,
+      "ThreePtAssists": 2,
+      "Assists": 6,
+      "Arc3Assists": 2,
+      "AtRimAssists": 3,
+      "LongMidRangeAssists": 1,
+      "AssistPoints": 14,
+      "OffThreePtRebounds": 2,
+      "OffTwoPtRebounds": 4,
+      "OffRebounds": 6,
+      "Rebounds": 6,
+      "SelfOReb": 2,
+      "LiveBallTurnovers": 2,
+      "BadPassTurnovers": 1,
+      "DeadBallTurnovers": 1,
+      "LostBallTurnovers": 1,
+      "Travels": 1,
+      "Turnovers": 3,
+      "SecondChanceTurnovers": 2,
+      "PenaltyTurnovers": 2,
+      "FoulsDrawn": 3,
+      "Loose Ball Fouls Drawn": 1,
+      "FTA": 4,
+      "TwoPtShootingFoulsDrawn": 1,
+      "NonShootingFoulsDrawn": 1,
+      "PenaltyPointsExcludingTakeFouls": 2,
+      "PenaltyOffPossExcludingTakeFouls": 22,
+      "NonShootingPenaltyNonTakeFoulsDrawn": 1,
+      "Assisted2sPct": 0.7142857142857143,
+      "NonPutbacksAssisted2sPct": 1.0,
+      "Assisted3sPct": 1.0,
+      "Fg3Pct": 0.2727272727272727,
+      "NonHeaveFg3Pct": 0.2727272727272727,
+      "Fg2Pct": 0.4117647058823529,
+      "SecondChanceFg2Pct": 0.6666666666666666,
+      "EfgPct": 0.4107142857142857,
+      "SecondChanceEfgPct": 0.6666666666666666,
+      "TsPct": 0.45,
+      "SecondChanceTsPct": 0.8,
+      "PenaltyTsPct": 0.2,
+      "FG3APct": 0.39285714285714285,
+      "FG2APctBlocked": 0.058823529411764705,
+      "AtRimPctBlocked": 0.14285714285714285,
+      "Usage": 22.602739726027398,
+      "LiveBallTurnoverPct": 0.6666666666666666,
+      "OffTwoPtReboundPct": 0.09090909090909091,
+      "OffThreePtReboundPct": 0.08,
+      "OffFGReboundPct": 0.08695652173913043,
+      "OffAtRimReboundPct": 0.13333333333333333,
+      "OffShortMidRangeReboundPct": 0.09523809523809523,
+      "OffArc3ReboundPct": 0.1111111111111111,
+      "SelfORebPct": 0.11764705882352941,
+      "AtRimFrequency": 0.25,
+      "AtRimAccuracy": 0.42857142857142855,
+      "UnblockedAtRimAccuracy": 0.5,
+      "AtRimPctAssisted": 0.3333333333333333,
+      "ShortMidRangeFrequency": 0.21428571428571427,
+      "ShortMidRangeAccuracy": 0.3333333333333333,
+      "UnblockedShortMidRangeAccuracy": 0.3333333333333333,
+      "ShortMidRangePctAssisted": 1.0,
+      "LongMidRangeFrequency": 0.14285714285714285,
+      "LongMidRangeAccuracy": 0.5,
+      "UnblockedLongMidRangeAccuracy": 0.5,
+      "LongMidRangePctAssisted": 1.0,
+      "Corner3Frequency": 0.14285714285714285,
+      "Corner3Accuracy": 0.25,
+      "UnblockedCorner3Accuracy": 0.25,
+      "Corner3PctAssisted": 1.0,
+      "Arc3Frequency": 0.25,
+      "Arc3Accuracy": 0.2857142857142857,
+      "UnblockedArc3Accuracy": 0.2857142857142857,
+      "Arc3PctAssisted": 1.0,
+      "SecondChanceAtRimFrequency": 1.0,
+      "SecondChanceAtRimAccuracy": 0.6666666666666666,
+      "PenaltyAtRimFrequency": 0.25,
+      "PenaltyArc3Frequency": 0.25,
+      "AtRimFG3AFrequency": 0.6428571428571429,
+      "NonHeaveArc3Accuracy": 0.2857142857142857,
+      "ShotQualityAvg": 0.4461678571428572,
+      "SecondChanceShotQualityAvg": 0.49970000000000003,
+      "PenaltyShotQualityAvg": 0.3873625,
+      "ShootingFoulsDrawnPct": 0.034482758620689655,
+      "TwoPtShootingFoulsDrawnPct": 0.05555555555555555,
+      "SecondChancePointsPct": 0.2962962962962963,
+      "PenaltyPointsPct": 0.07407407407407407,
+      "Avg2ptShotDistance": 8.435294117647059,
+      "Avg3ptShotDistance": 24.79090909090909,
+      "PenaltyOffPossPct": 0.1732283464566929
+    },
+    {
+      "EntityId": "1628899",
+      "TeamId": "1611661322",
+      "Name": "Myisha Hines-Allen",
+      "ShortName": "Myisha Hines-Allen",
+      "SecondsPlayed": 1761.0,
+      "PlusMinus": 117,
+      "OffPoss": 111,
+      "PenaltyOffPoss": 18,
+      "SecondChanceOffPoss": 17,
+      "TotalPoss": 111,
+      "AtRimFGM": 11,
+      "AtRimFGA": 14,
+      "SecondChanceAtRimFGM": 1,
+      "SecondChanceAtRimFGA": 2,
+      "PenaltyAtRimFGA": 1,
+      "ShortMidRangeFGM": 2,
+      "ShortMidRangeFGA": 5,
+      "Arc3FGM": 1,
+      "Arc3FGA": 3,
+      "FG2M": 13,
+      "FG2A": 19,
+      "FG3M": 1,
+      "FG3A": 3,
+      "FtPoints": 2,
+      "Points": 31,
+      "SecondChanceFG2M": 2,
+      "SecondChanceFG2A": 4,
+      "SecondChancePoints": 4,
+      "PenaltyFG2A": 2,
+      "PenaltyFtPoints": 1,
+      "PenaltyPoints": 1,
+      "PtsAssisted2s": 18,
+      "PtsUnassisted2s": 8,
+      "PtsAssisted3s": 3,
+      "PtsPutbacks": 2,
+      "NonHeaveArc3FGA": 3,
+      "NonHeaveArc3FGM": 1,
+      "Fg2aBlocked": 3,
+      "TwoPtAssists": 3,
+      "ThreePtAssists": 1,
+      "Assists": 4,
+      "Arc3Assists": 1,
+      "AtRimAssists": 1,
+      "ShortMidRangeAssists": 1,
+      "LongMidRangeAssists": 1,
+      "AssistPoints": 9,
+      "OffThreePtRebounds": 1,
+      "OffTwoPtRebounds": 4,
+      "OffRebounds": 5,
+      "Rebounds": 5,
+      "LiveBallTurnovers": 2,
+      "BadPassTurnovers": 2,
+      "DeadBallTurnovers": 1,
+      "Turnovers": 3,
+      "SecondChanceTurnovers": 1,
+      "Fouls": 1,
+      "Offensive Fouls": 1,
+      "FoulsDrawn": 2,
+      "FTA": 4,
+      "TwoPtShootingFoulsDrawn": 1,
+      "NonShootingFoulsDrawn": 1,
+      "PenaltyPointsExcludingTakeFouls": 1,
+      "PenaltyOffPossExcludingTakeFouls": 18,
+      "NonShootingPenaltyNonTakeFoulsDrawn": 1,
+      "Assisted2sPct": 0.6923076923076923,
+      "NonPutbacksAssisted2sPct": 0.75,
+      "Assisted3sPct": 1.0,
+      "Fg3Pct": 0.3333333333333333,
+      "NonHeaveFg3Pct": 0.3333333333333333,
+      "Fg2Pct": 0.6842105263157895,
+      "SecondChanceFg2Pct": 0.5,
+      "EfgPct": 0.6590909090909091,
+      "SecondChanceEfgPct": 0.5,
+      "TsPct": 0.6458333333333334,
+      "SecondChanceTsPct": 0.5,
+      "PenaltyTsPct": 0.16666666666666666,
+      "FG3APct": 0.13636363636363635,
+      "FG2APctBlocked": 0.15789473684210525,
+      "AtRimPctBlocked": 0.14285714285714285,
+      "ShortMidRangePctBlocked": 0.2,
+      "Usage": 20.610687022900763,
+      "LiveBallTurnoverPct": 0.6666666666666666,
+      "OffTwoPtReboundPct": 0.11764705882352941,
+      "OffThreePtReboundPct": 0.041666666666666664,
+      "OffFGReboundPct": 0.08620689655172414,
+      "OffAtRimReboundPct": 0.14285714285714285,
+      "OffShortMidRangeReboundPct": 0.07692307692307693,
+      "OffLongMidRangeReboundPct": 0.14285714285714285,
+      "OffCorner3ReboundPct": 0.125,
+      "AtRimFrequency": 0.6363636363636364,
+      "AtRimAccuracy": 0.7857142857142857,
+      "UnblockedAtRimAccuracy": 0.9166666666666666,
+      "AtRimPctAssisted": 0.7272727272727273,
+      "ShortMidRangeFrequency": 0.22727272727272727,
+      "ShortMidRangeAccuracy": 0.4,
+      "UnblockedShortMidRangeAccuracy": 0.5,
+      "ShortMidRangePctAssisted": 0.5,
+      "Arc3Frequency": 0.13636363636363635,
+      "Arc3Accuracy": 0.3333333333333333,
+      "UnblockedArc3Accuracy": 0.3333333333333333,
+      "Arc3PctAssisted": 1.0,
+      "SecondChanceAtRimFrequency": 0.5,
+      "SecondChanceAtRimAccuracy": 0.5,
+      "PenaltyAtRimFrequency": 0.5,
+      "AtRimFG3AFrequency": 0.7727272727272727,
+      "NonHeaveArc3Accuracy": 0.3333333333333333,
+      "ShotQualityAvg": 0.5253454545454546,
+      "SecondChanceShotQualityAvg": 0.4231666666666667,
+      "PenaltyShotQualityAvg": 0.49319999999999997,
+      "ShootingFoulsDrawnPct": 0.043478260869565216,
+      "TwoPtShootingFoulsDrawnPct": 0.05,
+      "SecondChancePointsPct": 0.12903225806451613,
+      "PenaltyPointsPct": 0.03225806451612903,
+      "Avg2ptShotDistance": 3.478947368421052,
+      "Avg3ptShotDistance": 24.833333333333332,
+      "PenaltyOffPossPct": 0.16216216216216217
+    },
+    {
+      "EntityId": "203403",
+      "TeamId": "1611661322",
+      "Name": "Tianna Hawkins",
+      "ShortName": "Tianna Hawkins",
+      "SecondsPlayed": 939.0,
+      "PlusMinus": 49,
+      "OffPoss": 60,
+      "PenaltyOffPoss": 4,
+      "SecondChanceOffPoss": 7,
+      "TotalPoss": 60,
+      "AtRimFGM": 1,
+      "AtRimFGA": 2,
+      "PenaltyAtRimFGA": 1,
+      "ShortMidRangeFGA": 1,
+      "Corner3FGA": 1,
+      "Arc3FGM": 1,
+      "Arc3FGA": 1,
+      "FG2M": 1,
+      "FG2A": 3,
+      "FG3M": 1,
+      "FG3A": 2,
+      "Points": 5,
+      "PenaltyFG2A": 1,
+      "PtsAssisted2s": 2,
+      "PtsAssisted3s": 3,
+      "NonHeaveArc3FGA": 1,
+      "NonHeaveArc3FGM": 1,
+      "Fg2aBlocked": 1,
+      "TwoPtAssists": 1,
+      "ThreePtAssists": 1,
+      "Assists": 2,
+      "Arc3Assists": 1,
+      "ShortMidRangeAssists": 1,
+      "AssistPoints": 5,
+      "OffThreePtRebounds": 3,
+      "OffTwoPtRebounds": 1,
+      "OffRebounds": 4,
+      "Rebounds": 4,
+      "LiveBallTurnovers": 1,
+      "BadPassTurnovers": 1,
+      "DeadBallTurnovers": 1,
+      "StepOutOfBoundsTurnovers": 1,
+      "Turnovers": 2,
+      "FoulsDrawn": 1,
+      "PenaltyOffPossExcludingTakeFouls": 4,
+      "Assisted2sPct": 1.0,
+      "NonPutbacksAssisted2sPct": 1.0,
+      "Assisted3sPct": 1.0,
+      "Fg3Pct": 0.5,
+      "NonHeaveFg3Pct": 0.5,
+      "Fg2Pct": 0.3333333333333333,
+      "EfgPct": 0.5,
+      "TsPct": 0.5,
+      "FG3APct": 0.4,
+      "FG2APctBlocked": 0.3333333333333333,
+      "ShortMidRangePctBlocked": 1.0,
+      "Usage": 10.44776119402985,
+      "LiveBallTurnoverPct": 0.5,
+      "OffTwoPtReboundPct": 0.041666666666666664,
+      "OffThreePtReboundPct": 0.3,
+      "OffFGReboundPct": 0.11764705882352941,
+      "OffAtRimReboundPct": 0.125,
+      "OffArc3ReboundPct": 0.2857142857142857,
+      "OffCorner3ReboundPct": 0.3333333333333333,
+      "AtRimFrequency": 0.4,
+      "AtRimAccuracy": 0.5,
+      "UnblockedAtRimAccuracy": 0.5,
+      "AtRimPctAssisted": 1.0,
+      "ShortMidRangeFrequency": 0.2,
+      "Corner3Frequency": 0.2,
+      "Arc3Frequency": 0.2,
+      "Arc3Accuracy": 1.0,
+      "UnblockedArc3Accuracy": 1.0,
+      "Arc3PctAssisted": 1.0,
+      "PenaltyAtRimFrequency": 1.0,
+      "AtRimFG3AFrequency": 0.8,
+      "NonHeaveArc3Accuracy": 1.0,
+      "ShotQualityAvg": 0.5318799999999999,
+      "PenaltyShotQualityAvg": 0.6108,
+      "Avg2ptShotDistance": 3.5666666666666664,
+      "Avg3ptShotDistance": 23.3,
+      "PenaltyOffPossPct": 0.06666666666666667
+    },
+    {
+      "EntityId": "1628278",
+      "TeamId": "1611661322",
+      "Name": "Shatori Walker-Kimbrough",
+      "ShortName": "Shatori Walker-Kimbrough",
+      "SecondsPlayed": 728.0,
+      "PlusMinus": 35,
+      "OffPoss": 46,
+      "PenaltyOffPoss": 7,
+      "SecondChanceOffPoss": 6,
+      "TotalPoss": 46,
+      "ShortMidRangeFGM": 1,
+      "ShortMidRangeFGA": 1,
+      "LongMidRangeFGM": 1,
+      "LongMidRangeFGA": 3,
+      "Arc3FGA": 1,
+      "FG2M": 2,
+      "FG2A": 4,
+      "FG3A": 1,
+      "FtPoints": 1,
+      "Points": 5,
+      "SecondChanceFG2A": 1,
+      "PenaltyFG2A": 2,
+      "PtsAssisted2s": 2,
+      "PtsUnassisted2s": 2,
+      "NonHeaveArc3FGA": 1,
+      "TwoPtAssists": 1,
+      "Assists": 1,
+      "LongMidRangeAssists": 1,
+      "AssistPoints": 2,
+      "OffTwoPtRebounds": 1,
+      "OffRebounds": 1,
+      "Rebounds": 1,
+      "LiveBallTurnovers": 2,
+      "BadPassTurnovers": 1,
+      "DeadBallTurnovers": 1,
+      "LostBallTurnovers": 1,
+      "Travels": 1,
+      "Turnovers": 3,
+      "PenaltyTurnovers": 1,
+      "FoulsDrawn": 1,
+      "FTA": 2,
+      "TwoPtShootingFoulsDrawn": 1,
+      "PenaltyOffPossExcludingTakeFouls": 7,
+      "Assisted2sPct": 0.5,
+      "NonPutbacksAssisted2sPct": 0.5,
+      "Fg2Pct": 0.5,
+      "EfgPct": 0.4,
+      "TsPct": 0.4166666666666667,
+      "FG3APct": 0.2,
+      "Usage": 16.666666666666664,
+      "LiveBallTurnoverPct": 0.6666666666666666,
+      "OffTwoPtReboundPct": 0.05263157894736842,
+      "OffFGReboundPct": 0.037037037037037035,
+      "OffAtRimReboundPct": 0.14285714285714285,
+      "ShortMidRangeFrequency": 0.2,
+      "ShortMidRangeAccuracy": 1.0,
+      "UnblockedShortMidRangeAccuracy": 1.0,
+      "ShortMidRangePctAssisted": 1.0,
+      "LongMidRangeFrequency": 0.6,
+      "LongMidRangeAccuracy": 0.3333333333333333,
+      "UnblockedLongMidRangeAccuracy": 0.3333333333333333,
+      "Arc3Frequency": 0.2,
+      "AtRimFG3AFrequency": 0.2,
+      "ShotQualityAvg": 0.40615000000000007,
+      "SecondChanceShotQualityAvg": 0.3378,
+      "PenaltyShotQualityAvg": 0.32515,
+      "ShootingFoulsDrawnPct": 0.16666666666666666,
+      "TwoPtShootingFoulsDrawnPct": 0.2,
+      "Avg2ptShotDistance": 17.3,
+      "Avg3ptShotDistance": 24.4,
+      "PenaltyOffPossPct": 0.15217391304347827
+    },
+    {
+      "EntityId": "1631031",
+      "TeamId": "1611661322",
+      "Name": "Queen Egbo",
+      "ShortName": "Queen Egbo",
+      "SecondsPlayed": 284.0,
+      "PlusMinus": 16,
+      "OffPoss": 20,
+      "SecondChanceOffPoss": 3,
+      "TotalPoss": 20,
+      "AtRimFGA": 2,
+      "SecondChanceAtRimFGA": 1,
+      "FG2A": 2,
+      "SecondChanceFG2A": 1,
+      "Fg2aBlocked": 1,
+      "OffTwoPtRebounds": 1,
+      "OffRebounds": 1,
+      "Rebounds": 1,
+      "SelfOReb": 1,
+      "FG2APctBlocked": 0.5,
+      "AtRimPctBlocked": 0.5,
+      "Usage": 8.695652173913043,
+      "OffTwoPtReboundPct": 0.1111111111111111,
+      "OffFGReboundPct": 0.07142857142857142,
+      "OffAtRimReboundPct": 0.25,
+      "SelfORebPct": 1.0,
+      "AtRimFrequency": 1.0,
+      "SecondChanceAtRimFrequency": 1.0,
+      "AtRimFG3AFrequency": 1.0,
+      "ShotQualityAvg": 0.5235,
+      "SecondChanceShotQualityAvg": 0.4977,
+      "Avg2ptShotDistance": 2.7
+    },
+    {
+      "EntityId": "1641642",
+      "TeamId": "1611661322",
+      "Name": "Li Meng",
+      "ShortName": "Li Meng",
+      "SecondsPlayed": 436.0,
+      "PlusMinus": 24,
+      "OffPoss": 26,
+      "SecondChanceOffPoss": 7,
+      "TotalPoss": 26,
+      "ShortMidRangeFGA": 1,
+      "Corner3FGA": 1,
+      "Arc3FGM": 1,
+      "Arc3FGA": 3,
+      "SecondChanceArc3FGM": 1,
+      "SecondChanceArc3FGA": 1,
+      "FG2A": 1,
+      "FG3M": 1,
+      "FG3A": 4,
+      "Points": 3,
+      "SecondChanceFG3M": 1,
+      "SecondChanceFG3A": 1,
+      "SecondChancePoints": 3,
+      "PtsAssisted3s": 3,
+      "NonHeaveArc3FGA": 3,
+      "NonHeaveArc3FGM": 1,
+      "Fg3aBlocked": 1,
+      "LiveBallTurnovers": 1,
+      "BadPassTurnovers": 1,
+      "Turnovers": 1,
+      "FoulsDrawn": 1,
+      "Assisted3sPct": 1.0,
+      "Fg3Pct": 0.25,
+      "SecondChanceFg3Pct": 1.0,
+      "NonHeaveFg3Pct": 0.25,
+      "EfgPct": 0.3,
+      "SecondChanceEfgPct": 1.5,
+      "TsPct": 0.3,
+      "SecondChanceTsPct": 1.5,
+      "FG3APct": 0.8,
+      "FG3APctBlocked": 0.25,
+      "Arc3PctBlocked": 0.3333333333333333,
+      "Usage": 18.18181818181818,
+      "LiveBallTurnoverPct": 1.0,
+      "ShortMidRangeFrequency": 0.2,
+      "Corner3Frequency": 0.2,
+      "Arc3Frequency": 0.6,
+      "Arc3Accuracy": 0.3333333333333333,
+      "UnblockedArc3Accuracy": 0.5,
+      "Arc3PctAssisted": 1.0,
+      "SecondChanceArc3Frequency": 1.0,
+      "SecondChanceArc3Accuracy": 1.0,
+      "SecondChanceArc3PctAssisted": 1.0,
+      "AtRimFG3AFrequency": 0.8,
+      "NonHeaveArc3Accuracy": 0.3333333333333333,
+      "ShotQualityAvg": 0.45993000000000006,
+      "SecondChancePointsPct": 1.0,
+      "Avg2ptShotDistance": 6.5,
+      "Avg3ptShotDistance": 24.849999999999998
+    }
+  ],
+  "team_results": {
+    "SecondsPlayed": 2595.0,
+    "PlusMinus": 160,
+    "OffPoss": 165,
+    "PenaltyOffPoss": 22,
+    "SecondChanceOffPoss": 23,
+    "TotalPoss": 165,
+    "AtRimFGM": 31,
+    "AtRimFGA": 52,
+    "SecondChanceAtRimFGM": 4,
+    "SecondChanceAtRimFGA": 10,
+    "PenaltyAtRimFGA": 3,
+    "ShortMidRangeFGM": 12,
+    "ShortMidRangeFGA": 36,
+    "LongMidRangeFGM": 7,
+    "LongMidRangeFGA": 19,
+    "Corner3FGM": 3,
+    "Corner3FGA": 13,
+    "SecondChanceCorner3FGM": 1,
+    "SecondChanceCorner3FGA": 1,
+    "PenaltyCorner3FGM": 1,
+    "PenaltyCorner3FGA": 1,
+    "Arc3FGM": 10,
+    "Arc3FGA": 34,
+    "SecondChanceArc3FGM": 1,
+    "SecondChanceArc3FGA": 2,
+    "PenaltyArc3FGA": 3,
+    "FG2M": 50,
+    "FG2A": 107,
+    "FG3M": 13,
+    "FG3A": 47,
+    "FtPoints": 21,
+    "Points": 160,
+    "SecondChanceFG2M": 5,
+    "SecondChanceFG2A": 15,
+    "SecondChanceFG3M": 2,
+    "SecondChanceFG3A": 3,
+    "SecondChanceFtPoints": 7,
+    "SecondChancePoints": 23,
+    "PenaltyFG2A": 12,
+    "PenaltyFG3M": 1,
+    "PenaltyFG3A": 4,
+    "PenaltyFtPoints": 5,
+    "PenaltyPoints": 8,
+    "PtsAssisted2s": 66,
+    "PtsUnassisted2s": 34,
+    "PtsAssisted3s": 33,
+    "PtsUnassisted3s": 6,
+    "PtsPutbacks": 6,
+    "NonHeaveArc3FGA": 34,
+    "NonHeaveArc3FGM": 10,
+    "Fg2aBlocked": 14,
+    "Fg3aBlocked": 2,
+    "TwoPtAssists": 33,
+    "ThreePtAssists": 11,
+    "Assists": 44,
+    "Arc3Assists": 9,
+    "Corner3Assists": 2,
+    "AtRimAssists": 18,
+    "ShortMidRangeAssists": 10,
+    "LongMidRangeAssists": 5,
+    "AssistPoints": 99,
+    "OffThreePtRebounds": 8,
+    "OffTwoPtRebounds": 18,
+    "OffRebounds": 26,
+    "Rebounds": 26,
+    "SelfOReb": 5,
+    "LiveBallTurnovers": 14,
+    "BadPassOutOfBoundsTurnovers": 3,
+    "BadPassTurnovers": 10,
+    "DeadBallTurnovers": 8,
+    "LostBallTurnovers": 4,
+    "StepOutOfBoundsTurnovers": 1,
+    "Travels": 2,
+    "Turnovers": 22,
+    "SecondChanceTurnovers": 4,
+    "PenaltyTurnovers": 6,
+    "Fouls": 1,
+    "Offensive Fouls": 1,
+    "FoulsDrawn": 26,
+    "Loose Ball Fouls Drawn": 2,
+    "FTA": 28,
+    "2pt And 1 Free Throw Trips": 3,
+    "Technical Free Throw Trips": 1,
+    "TwoPtShootingFoulsDrawn": 12,
+    "NonShootingFoulsDrawn": 3,
+    "FirstChancePoints": 137,
+    "PenaltyPointsExcludingTakeFouls": 8,
+    "PenaltyOffPossExcludingTakeFouls": 22,
+    "NonShootingPenaltyNonTakeFoulsDrawn": 3,
+    "Assisted2sPct": 0.66,
+    "NonPutbacksAssisted2sPct": 0.7021276595744681,
+    "Assisted3sPct": 0.8461538461538461,
+    "Fg3Pct": 0.2765957446808511,
+    "SecondChanceFg3Pct": 0.6666666666666666,
+    "PenaltyFg3Pct": 0.25,
+    "NonHeaveFg3Pct": 0.2765957446808511,
+    "Fg2Pct": 0.4672897196261682,
+    "SecondChanceFg2Pct": 0.3333333333333333,
+    "EfgPct": 0.4512987012987013,
+    "SecondChanceEfgPct": 0.4444444444444444,
+    "PenaltyEfgPct": 0.09375,
+    "TsPct": 0.4789156626506024,
+    "SecondChanceTsPct": 0.5227272727272727,
+    "PenaltyTsPct": 0.21052631578947367,
+    "FG3APct": 0.3051948051948052,
+    "FG3APctBlocked": 0.0425531914893617,
+    "FG2APctBlocked": 0.1308411214953271,
+    "AtRimPctBlocked": 0.1346153846153846,
+    "ShortMidRangePctBlocked": 0.19444444444444445,
+    "Arc3PctBlocked": 0.058823529411764705,
+    "LiveBallTurnoverPct": 0.6363636363636364,
+    "OffTwoPtReboundPct": 0.3157894736842105,
+    "OffThreePtReboundPct": 0.24242424242424243,
+    "OffFGReboundPct": 0.28888888888888886,
+    "OffAtRimReboundPct": 0.5238095238095238,
+    "OffShortMidRangeReboundPct": 0.20833333333333334,
+    "OffLongMidRangeReboundPct": 0.16666666666666666,
+    "OffArc3ReboundPct": 0.2608695652173913,
+    "OffCorner3ReboundPct": 0.2,
+    "SelfORebPct": 0.06756756756756757,
+    "Pace": 91.5606936416185,
+    "SecondsPerPossOff": 15.727272727272727,
+    "SecondsExcludingORebsPerPossOff": 14.963636363636363,
+    "AtRimFrequency": 0.33766233766233766,
+    "AtRimAccuracy": 0.5961538461538461,
+    "UnblockedAtRimAccuracy": 0.6888888888888889,
+    "AtRimPctAssisted": 0.5806451612903226,
+    "ShortMidRangeFrequency": 0.23376623376623376,
+    "ShortMidRangeAccuracy": 0.3333333333333333,
+    "UnblockedShortMidRangeAccuracy": 0.41379310344827586,
+    "ShortMidRangePctAssisted": 0.8333333333333334,
+    "LongMidRangeFrequency": 0.12337662337662338,
+    "LongMidRangeAccuracy": 0.3684210526315789,
+    "UnblockedLongMidRangeAccuracy": 0.3684210526315789,
+    "LongMidRangePctAssisted": 0.7142857142857143,
+    "Corner3Frequency": 0.08441558441558442,
+    "Corner3Accuracy": 0.23076923076923078,
+    "UnblockedCorner3Accuracy": 0.23076923076923078,
+    "Corner3PctAssisted": 0.6666666666666666,
+    "Arc3Frequency": 0.22077922077922077,
+    "Arc3Accuracy": 0.29411764705882354,
+    "UnblockedArc3Accuracy": 0.3125,
+    "Arc3PctAssisted": 0.9,
+    "SecondChanceAtRimFrequency": 0.5555555555555556,
+    "SecondChanceAtRimAccuracy": 0.4,
+    "SecondChanceAtRimPctAssisted": 0.25,
+    "SecondChanceCorner3Frequency": 0.05555555555555555,
+    "SecondChanceCorner3Accuracy": 1.0,
+    "SecondChanceArc3Frequency": 0.1111111111111111,
+    "SecondChanceArc3Accuracy": 0.5,
+    "SecondChanceArc3PctAssisted": 1.0,
+    "PenaltyAtRimFrequency": 0.1875,
+    "PenaltyCorner3Frequency": 0.0625,
+    "PenaltyCorner3Accuracy": 1.0,
+    "PenaltyArc3Frequency": 0.1875,
+    "AtRimFG3AFrequency": 0.6428571428571429,
+    "NonHeaveArc3Accuracy": 0.29411764705882354,
+    "ShotQualityAvg": 0.48249253246753243,
+    "SecondChanceShotQualityAvg": 0.46861250000000004,
+    "PenaltyShotQualityAvg": 0.42065624999999995,
+    "ShootingFoulsDrawnPct": 0.0736196319018405,
+    "TwoPtShootingFoulsDrawnPct": 0.10344827586206896,
+    "SecondChancePointsPct": 0.14375,
+    "PenaltyPointsPct": 0.05,
+    "Avg2ptShotDistance": 7.130841121495328,
+    "Avg3ptShotDistance": 24.86595744680851,
+    "PenaltyOffPossPct": 0.13333333333333333
+  }
+}

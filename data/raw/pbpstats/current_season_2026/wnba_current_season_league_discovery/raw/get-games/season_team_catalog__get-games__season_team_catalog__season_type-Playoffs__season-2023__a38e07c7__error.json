@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-games/wnba with params {'SeasonType': 'Playoffs', 'Season': '2023'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-games/wnba?SeasonType=Playoffs&Season=2023",
+  "status": 500,
+  "response_text": "{\"detail\":\"Internal Server Error\"}"
+}

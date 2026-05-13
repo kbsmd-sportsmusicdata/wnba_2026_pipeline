@@ -1,0 +1,7944 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.730",
+        "On-Off": "-0.730",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.600",
+        "Off": "0.724",
+        "On-Off": "-0.124",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.638",
+        "On-Off": "-0.638",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.857",
+        "On-Off": "0.143",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.627",
+        "On-Off": "-0.627",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.533",
+        "On-Off": "-0.533",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.333",
+        "Off": "0.353",
+        "On-Off": "-0.020",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.667",
+        "Off": "0.717",
+        "On-Off": "-0.050",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.762",
+        "On-Off": "-0.762",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.627",
+        "On-Off": "-0.627",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.844",
+        "On-Off": "-0.844",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "0.818",
+        "On-Off": "0.182",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.361",
+        "On-Off": "-0.361",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.652",
+        "On-Off": "-0.652",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.923",
+        "On-Off": "0.077",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.627",
+        "On-Off": "-0.627",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.537",
+        "On-Off": "-0.537",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.333",
+        "Off": "0.360",
+        "On-Off": "-0.027",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.667",
+        "Off": "0.741",
+        "On-Off": "-0.075",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.950",
+        "On-Off": "-0.950",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.849",
+        "On-Off": "-0.849",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.667",
+        "Off": "0.962",
+        "On-Off": "-0.295",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.857",
+        "On-Off": "-0.857",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.889",
+        "On-Off": "-0.889",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.679",
+        "On-Off": "-0.679",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.889",
+        "On-Off": "-0.889",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "0.692",
+        "On-Off": "0.308",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.125",
+        "On-Off": "0.375",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.375",
+        "Off": "0.382",
+        "On-Off": "-0.007",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.304",
+        "On-Off": "-0.304",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.173",
+        "On-Off": "-0.173",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.350",
+        "On-Off": "-0.350",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.290",
+        "On-Off": "-0.290",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.400",
+        "Off": "0.375",
+        "On-Off": "0.025",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.391",
+        "On-Off": "-0.391",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.188",
+        "On-Off": "-0.188",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.125",
+        "On-Off": "0.375",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.375",
+        "Off": "0.382",
+        "On-Off": "-0.007",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.304",
+        "On-Off": "-0.304",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.173",
+        "On-Off": "-0.173",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.350",
+        "On-Off": "-0.350",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.290",
+        "On-Off": "-0.290",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.400",
+        "Off": "0.375",
+        "On-Off": "0.025",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.391",
+        "On-Off": "-0.391",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.188",
+        "On-Off": "-0.188",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.487",
+        "On-Off": "-0.487",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.455",
+        "Off": "0.416",
+        "On-Off": "0.038",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.296",
+        "On-Off": "-0.296",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.667",
+        "Off": "0.506",
+        "On-Off": "0.161",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.431",
+        "On-Off": "-0.431",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.583",
+        "On-Off": "0.417",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.411",
+        "On-Off": "-0.411",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.502",
+        "On-Off": "-0.502",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.500",
+        "Off": "0.372",
+        "On-Off": "0.128",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.333",
+        "Off": "0.444",
+        "On-Off": "-0.111",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.523",
+        "On-Off": "-0.523",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.487",
+        "On-Off": "-0.487",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.159",
+        "On-Off": "-0.159",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.375",
+        "Off": "0.495",
+        "On-Off": "-0.120",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.545",
+        "Off": "0.495",
+        "On-Off": "0.050",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.376",
+        "On-Off": "-0.376",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.583",
+        "On-Off": "0.417",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.467",
+        "On-Off": "-0.467",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.498",
+        "On-Off": "-0.498",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.545",
+        "Off": "0.454",
+        "On-Off": "0.091",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.231",
+        "Off": "0.490",
+        "On-Off": "-0.259",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.523",
+        "On-Off": "-0.523",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.395",
+        "On-Off": "-0.395",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.517",
+        "On-Off": "-0.517",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.533",
+        "Off": "0.447",
+        "On-Off": "0.087",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.240",
+        "On-Off": "-0.240",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.375",
+        "Off": "0.505",
+        "On-Off": "-0.130",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.643",
+        "Off": "0.532",
+        "On-Off": "0.110",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.404",
+        "On-Off": "-0.404",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.580",
+        "On-Off": "0.420",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.488",
+        "On-Off": "-0.488",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.534",
+        "On-Off": "-0.534",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.591",
+        "Off": "0.500",
+        "On-Off": "0.091",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.231",
+        "Off": "0.507",
+        "On-Off": "-0.276",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.500",
+        "Off": "0.555",
+        "On-Off": "-0.055",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.463",
+        "On-Off": "-0.463",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.154",
+        "Off": "0.071",
+        "On-Off": "0.083",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.250",
+        "Off": "0.409",
+        "On-Off": "-0.159",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.667",
+        "Off": "0.716",
+        "On-Off": "-0.049",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.182",
+        "Off": "0.217",
+        "On-Off": "-0.035",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.323",
+        "On-Off": "-0.323",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.495",
+        "On-Off": "-0.495",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.455",
+        "Off": "0.432",
+        "On-Off": "0.023",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.857",
+        "On-Off": "-0.857",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.308",
+        "Off": "0.322",
+        "On-Off": "-0.014",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.500",
+        "Off": "0.022",
+        "On-Off": "0.478",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.250",
+        "Off": "0.031",
+        "On-Off": "0.219",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.066",
+        "On-Off": "-0.066",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.182",
+        "Off": "0.086",
+        "On-Off": "0.096",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.250",
+        "Off": "0.074",
+        "On-Off": "0.176",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.060",
+        "On-Off": "-0.060",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.500",
+        "Off": "0.075",
+        "On-Off": "0.425",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.167",
+        "Off": "0.066",
+        "On-Off": "0.101",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.111",
+        "Off": "0.126",
+        "On-Off": "-0.015",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.112",
+        "On-Off": "-0.112",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.189",
+        "On-Off": "-0.189",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "16.972",
+        "On-Off": "-16.972",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "23.438",
+        "Off": "22.381",
+        "On-Off": "1.057",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "15.152",
+        "Off": "12.876",
+        "On-Off": "2.276",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "26.923",
+        "Off": "15.861",
+        "On-Off": "11.062",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "22.222",
+        "Off": "13.672",
+        "On-Off": "8.550",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "20.157",
+        "On-Off": "-20.157",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "3.750",
+        "Off": "7.563",
+        "On-Off": "-3.813",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "21.835",
+        "On-Off": "-21.835",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "50.000",
+        "Off": "29.169",
+        "On-Off": "20.831",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "27.907",
+        "Off": "19.172",
+        "On-Off": "8.735",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "27.027",
+        "On-Off": "-27.027",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "27.143",
+        "Off": "18.759",
+        "On-Off": "8.384",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "11.111",
+        "Off": "16.450",
+        "On-Off": "-5.339",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "22.029",
+        "On-Off": "-22.029",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.533",
+        "On-Off": "-0.533",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.590",
+        "On-Off": "-0.590",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.500",
+        "Off": "0.714",
+        "On-Off": "-0.214",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "1.000",
+        "Off": "0.710",
+        "On-Off": "0.290",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.552",
+        "On-Off": "-0.552",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.545",
+        "On-Off": "-0.545",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.672",
+        "On-Off": "-0.672",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.782",
+        "On-Off": "-0.782",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "0.673",
+        "On-Off": "0.327",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.667",
+        "Off": "0.568",
+        "On-Off": "0.099",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.429",
+        "On-Off": "-0.429",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.427",
+        "On-Off": "-0.427",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "0.179",
+        "On-Off": "0.821",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.033",
+        "On-Off": "-0.033",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.174",
+        "On-Off": "-0.174",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.222",
+        "On-Off": "0.778",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.040",
+        "On-Off": "-0.040",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.122",
+        "On-Off": "-0.122",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.321",
+        "On-Off": "-0.321",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.214",
+        "On-Off": "-0.214",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.035",
+        "On-Off": "-0.035",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.500",
+        "Off": "0.069",
+        "On-Off": "0.431",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.047",
+        "On-Off": "-0.047",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.052",
+        "On-Off": "-0.052",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.160",
+        "On-Off": "-0.160",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.200",
+        "Off": "0.211",
+        "On-Off": "-0.011",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.071",
+        "Off": "0.066",
+        "On-Off": "0.005",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.036",
+        "Off": "0.058",
+        "On-Off": "-0.022",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.217",
+        "Off": "0.173",
+        "On-Off": "0.044",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.101",
+        "On-Off": "-0.101",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.055",
+        "On-Off": "-0.055",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.207",
+        "On-Off": "-0.207",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.268",
+        "On-Off": "-0.268",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.076",
+        "On-Off": "-0.076",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.167",
+        "Off": "0.059",
+        "On-Off": "0.108",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.034",
+        "Off": "0.046",
+        "On-Off": "-0.012",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.043",
+        "Off": "0.023",
+        "On-Off": "0.020",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.122",
+        "On-Off": "-0.122",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.171",
+        "On-Off": "-0.171",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.136",
+        "On-Off": "-0.136",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.135",
+        "On-Off": "0.365",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.143",
+        "Off": "0.100",
+        "On-Off": "0.043",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.113",
+        "On-Off": "-0.113",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.152",
+        "On-Off": "-0.152",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.157",
+        "On-Off": "-0.157",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.138",
+        "On-Off": "-0.138",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.068",
+        "On-Off": "-0.068",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.129",
+        "On-Off": "-0.129",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.233",
+        "On-Off": "-0.233",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.143",
+        "Off": "0.081",
+        "On-Off": "0.062",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.111",
+        "Off": "0.017",
+        "On-Off": "0.094",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.047",
+        "On-Off": "-0.047",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.063",
+        "On-Off": "-0.063",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.093",
+        "On-Off": "-0.093",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.152",
+        "On-Off": "-0.152",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.250",
+        "Off": "0.183",
+        "On-Off": "0.067",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.049",
+        "On-Off": "-0.049",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.048",
+        "Off": "0.088",
+        "On-Off": "-0.041",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.057",
+        "Off": "0.074",
+        "On-Off": "-0.016",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.092",
+        "On-Off": "-0.092",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.152",
+        "Off": "0.166",
+        "On-Off": "-0.014",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.132",
+        "On-Off": "-0.132",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.115",
+        "On-Off": "-0.115",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.069",
+        "On-Off": "-0.069",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.175",
+        "On-Off": "-0.175",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.254",
+        "On-Off": "-0.254",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.084",
+        "On-Off": "-0.084",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.160",
+        "Off": "0.064",
+        "On-Off": "0.096",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.030",
+        "On-Off": "-0.030",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.053",
+        "Off": "0.010",
+        "On-Off": "0.042",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.053",
+        "Off": "0.038",
+        "On-Off": "0.015",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.029",
+        "Off": "0.027",
+        "On-Off": "0.003",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.153",
+        "On-Off": "-0.153",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.333",
+        "Off": "0.046",
+        "On-Off": "0.288",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.040",
+        "On-Off": "-0.040",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.012",
+        "On-Off": "-0.012",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.103",
+        "On-Off": "-0.103",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.017",
+        "On-Off": "-0.017",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.114",
+        "On-Off": "-0.114",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.220",
+        "On-Off": "-0.220",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.089",
+        "On-Off": "-0.089",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.200",
+        "Off": "0.066",
+        "On-Off": "0.134",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.034",
+        "On-Off": "-0.034",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.012",
+        "On-Off": "-0.012",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.009",
+        "On-Off": "-0.009",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.141",
+        "On-Off": "-0.141",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.086",
+        "On-Off": "-0.086",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.035",
+        "On-Off": "-0.035",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.167",
+        "Off": "0.022",
+        "On-Off": "0.145",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.167",
+        "Off": "0.082",
+        "On-Off": "0.085",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.125",
+        "Off": "0.022",
+        "On-Off": "0.103",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.085",
+        "On-Off": "-0.085",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.123",
+        "On-Off": "-0.123",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.174",
+        "On-Off": "-0.174",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.286",
+        "Off": "0.202",
+        "On-Off": "0.084",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.143",
+        "Off": "0.037",
+        "On-Off": "0.106",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.250",
+        "Off": "0.133",
+        "On-Off": "0.117",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.110",
+        "On-Off": "-0.110",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.089",
+        "On-Off": "-0.089",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.074",
+        "On-Off": "-0.074",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.203",
+        "On-Off": "-0.203",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.234",
+        "On-Off": "-0.234",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.130",
+        "On-Off": "-0.130",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.182",
+        "Off": "0.242",
+        "On-Off": "-0.060",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.074",
+        "On-Off": "-0.074",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.067",
+        "Off": "0.037",
+        "On-Off": "0.030",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.046",
+        "On-Off": "-0.046",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.214",
+        "Off": "0.151",
+        "On-Off": "0.063",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.103",
+        "On-Off": "-0.103",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.088",
+        "On-Off": "-0.088",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.238",
+        "On-Off": "-0.238",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.185",
+        "On-Off": "-0.185",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.169",
+        "On-Off": "-0.169",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.093",
+        "On-Off": "-0.093",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.145",
+        "On-Off": "-0.145",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.276",
+        "On-Off": "-0.276",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.156",
+        "On-Off": "-0.156",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.183",
+        "On-Off": "-0.183",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.096",
+        "On-Off": "-0.096",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.161",
+        "On-Off": "-0.161",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.271",
+        "On-Off": "-0.271",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.136",
+        "On-Off": "-0.136",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.135",
+        "On-Off": "0.365",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.110",
+        "On-Off": "-0.110",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.093",
+        "On-Off": "-0.093",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.150",
+        "On-Off": "-0.150",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.145",
+        "On-Off": "-0.145",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.126",
+        "On-Off": "-0.126",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.229",
+        "On-Off": "-0.229",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.136",
+        "On-Off": "-0.136",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.500",
+        "Off": "0.120",
+        "On-Off": "0.380",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.086",
+        "On-Off": "-0.086",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.179",
+        "On-Off": "-0.179",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.115",
+        "On-Off": "-0.115",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.086",
+        "On-Off": "-0.086",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.139",
+        "On-Off": "-0.139",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.242",
+        "On-Off": "-0.242",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.533",
+        "On-Off": "-0.533",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.625",
+        "On-Off": "-0.625",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.333",
+        "Off": "0.500",
+        "On-Off": "-0.167",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.571",
+        "On-Off": "-0.571",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "1.000",
+        "Off": "0.455",
+        "On-Off": "0.545",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.711",
+        "On-Off": "-0.711",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.438",
+        "On-Off": "-0.438",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "15.058",
+        "On-Off": "-15.058",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "16.224",
+        "Off": "15.414",
+        "On-Off": "0.811",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "17.400",
+        "Off": "16.410",
+        "On-Off": "0.990",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "15.958",
+        "Off": "16.165",
+        "On-Off": "-0.207",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "15.484",
+        "Off": "15.560",
+        "On-Off": "-0.075",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "15.597",
+        "On-Off": "-15.597",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "16.370",
+        "Off": "15.781",
+        "On-Off": "0.589",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "15.135",
+        "On-Off": "-15.135",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "20.333",
+        "Off": "15.413",
+        "On-Off": "4.920",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "16.658",
+        "Off": "15.636",
+        "On-Off": "1.022",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "13.606",
+        "On-Off": "-13.606",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "16.593",
+        "Off": "15.741",
+        "On-Off": "0.852",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "13.867",
+        "Off": "15.871",
+        "On-Off": "-2.004",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "15.505",
+        "On-Off": "-15.505",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "14.822",
+        "On-Off": "-14.822",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "15.161",
+        "Off": "14.668",
+        "On-Off": "0.492",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "14.839",
+        "Off": "14.922",
+        "On-Off": "-0.084",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "15.320",
+        "Off": "15.237",
+        "On-Off": "0.083",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "15.839",
+        "Off": "14.961",
+        "On-Off": "0.878",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "14.788",
+        "On-Off": "-14.788",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "16.014",
+        "Off": "14.718",
+        "On-Off": "1.295",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "15.033",
+        "On-Off": "-15.033",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "18.750",
+        "Off": "14.640",
+        "On-Off": "4.110",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "15.750",
+        "Off": "14.820",
+        "On-Off": "0.930",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "15.471",
+        "On-Off": "-15.471",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "15.210",
+        "Off": "14.922",
+        "On-Off": "0.288",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "18.357",
+        "Off": "15.058",
+        "On-Off": "3.299",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "15.029",
+        "On-Off": "-15.029",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.461",
+        "On-Off": "-0.461",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.231",
+        "Off": "0.347",
+        "On-Off": "-0.116",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.042",
+        "On-Off": "-0.042",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.455",
+        "Off": "0.349",
+        "On-Off": "0.105",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.255",
+        "On-Off": "-0.255",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.500",
+        "Off": "0.339",
+        "On-Off": "0.161",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.182",
+        "Off": "0.120",
+        "On-Off": "0.061",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.231",
+        "Off": "0.322",
+        "On-Off": "-0.091",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.730",
+        "On-Off": "-0.730",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.680",
+        "On-Off": "-0.680",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.629",
+        "On-Off": "-0.629",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.667",
+        "Off": "0.526",
+        "On-Off": "0.141",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.600",
+        "Off": "0.676",
+        "On-Off": "-0.076",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.634",
+        "On-Off": "-0.634",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.655",
+        "On-Off": "-0.655",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.500",
+        "Off": "0.448",
+        "On-Off": "0.052",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.667",
+        "Off": "0.562",
+        "On-Off": "0.104",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.562",
+        "On-Off": "-0.562",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.470",
+        "On-Off": "-0.470",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.818",
+        "On-Off": "-0.818",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.683",
+        "On-Off": "-0.683",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.360",
+        "On-Off": "-0.360",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.615",
+        "On-Off": "-0.615",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.889",
+        "On-Off": "0.111",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.714",
+        "On-Off": "-0.714",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.481",
+        "On-Off": "-0.481",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.308",
+        "On-Off": "-0.308",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "1.000",
+        "Off": "0.694",
+        "On-Off": "0.306",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.737",
+        "On-Off": "-0.737",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.590",
+        "On-Off": "-0.590",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.421",
+        "On-Off": "-0.421",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.538",
+        "Off": "0.391",
+        "On-Off": "0.147",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.500",
+        "Off": "0.364",
+        "On-Off": "0.136",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.083",
+        "Off": "0.105",
+        "On-Off": "-0.022",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.182",
+        "Off": "0.231",
+        "On-Off": "-0.049",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.236",
+        "On-Off": "-0.236",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.417",
+        "On-Off": "-0.417",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.207",
+        "On-Off": "-0.207",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.378",
+        "On-Off": "-0.378",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.273",
+        "Off": "0.311",
+        "On-Off": "-0.038",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.308",
+        "Off": "0.246",
+        "On-Off": "0.061",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "1.000",
+        "Off": "0.241",
+        "On-Off": "0.759",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.184",
+        "On-Off": "-0.184",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.406",
+        "On-Off": "-0.406",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.286",
+        "Off": "0.375",
+        "On-Off": "-0.089",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "1.000",
+        "Off": "0.408",
+        "On-Off": "0.592",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.342",
+        "On-Off": "-0.342",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.388",
+        "On-Off": "-0.388",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.440",
+        "On-Off": "-0.440",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.667",
+        "Off": "0.307",
+        "On-Off": "0.360",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.250",
+        "Off": "0.306",
+        "On-Off": "-0.056",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.379",
+        "On-Off": "-0.379",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.195",
+        "On-Off": "-0.195",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "0.727",
+        "On-Off": "0.273",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.350",
+        "On-Off": "-0.350",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.543",
+        "On-Off": "-0.543",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.500",
+        "Off": "0.304",
+        "On-Off": "0.196",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.733",
+        "On-Off": "-0.733",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.818",
+        "On-Off": "-0.818",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.867",
+        "On-Off": "-0.867",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.077",
+        "Off": "0.191",
+        "On-Off": "-0.114",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.250",
+        "Off": "0.182",
+        "On-Off": "0.068",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.250",
+        "Off": "0.137",
+        "On-Off": "0.113",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.182",
+        "Off": "0.203",
+        "On-Off": "-0.021",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.186",
+        "On-Off": "-0.186",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.500",
+        "Off": "0.083",
+        "On-Off": "0.417",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.176",
+        "On-Off": "-0.176",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.500",
+        "Off": "0.220",
+        "On-Off": "0.280",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.091",
+        "Off": "0.137",
+        "On-Off": "-0.046",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.154",
+        "Off": "0.111",
+        "On-Off": "0.043",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.098",
+        "On-Off": "-0.098",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "0.302",
+        "On-Off": "0.698",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.231",
+        "On-Off": "-0.231",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.500",
+        "Off": "0.326",
+        "On-Off": "0.174",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.267",
+        "On-Off": "-0.267",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.351",
+        "On-Off": "-0.351",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.374",
+        "On-Off": "-0.374",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.409",
+        "On-Off": "-0.409",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.714",
+        "On-Off": "-0.714",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.293",
+        "On-Off": "-0.293",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "0.846",
+        "On-Off": "0.154",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.875",
+        "On-Off": "-0.875",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.700",
+        "On-Off": "-0.700",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.650",
+        "On-Off": "-0.650",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.467",
+        "On-Off": "-0.467",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.778",
+        "On-Off": "-0.778",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.009",
+        "On-Off": "-0.009",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.083",
+        "Off": "0.147",
+        "On-Off": "-0.064",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.047",
+        "On-Off": "-0.047",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.124",
+        "On-Off": "-0.124",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.080",
+        "On-Off": "-0.080",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.091",
+        "Off": "0.029",
+        "On-Off": "0.062",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.429",
+        "On-Off": "-0.429",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.077",
+        "Off": "0.166",
+        "On-Off": "-0.089",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.385",
+        "On-Off": "-0.385",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "0.143",
+        "On-Off": "0.857",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.394",
+        "On-Off": "-0.394",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.700",
+        "On-Off": "-0.700",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.154",
+        "Off": "0.062",
+        "On-Off": "0.092",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.250",
+        "Off": "0.318",
+        "On-Off": "-0.068",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.583",
+        "Off": "0.568",
+        "On-Off": "0.015",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.182",
+        "Off": "0.170",
+        "On-Off": "0.012",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.199",
+        "On-Off": "-0.199",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.415",
+        "On-Off": "-0.415",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.055",
+        "On-Off": "-0.055",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.364",
+        "Off": "0.402",
+        "On-Off": "-0.039",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.429",
+        "On-Off": "-0.429",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.231",
+        "Off": "0.156",
+        "On-Off": "0.075",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.033",
+        "On-Off": "-0.033",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.071",
+        "On-Off": "0.429",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.429",
+        "Off": "0.389",
+        "On-Off": "0.040",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.156",
+        "On-Off": "-0.156",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.343",
+        "On-Off": "-0.343",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.296",
+        "On-Off": "-0.296",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.250",
+        "Off": "0.392",
+        "On-Off": "-0.142",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.387",
+        "On-Off": "-0.387",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.667",
+        "Off": "0.952",
+        "On-Off": "-0.286",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.833",
+        "On-Off": "-0.833",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.674",
+        "On-Off": "-0.674",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "1.000",
+        "Off": "0.684",
+        "On-Off": "0.316",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.461",
+        "On-Off": "-0.461",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.385",
+        "Off": "0.418",
+        "On-Off": "-0.033",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.250",
+        "Off": "0.455",
+        "On-Off": "-0.205",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.667",
+        "Off": "0.758",
+        "On-Off": "-0.091",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.636",
+        "Off": "0.566",
+        "On-Off": "0.070",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.578",
+        "On-Off": "-0.578",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.616",
+        "On-Off": "-0.616",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.500",
+        "Off": "0.402",
+        "On-Off": "0.098",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.636",
+        "Off": "0.552",
+        "On-Off": "0.084",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.538",
+        "Off": "0.643",
+        "On-Off": "-0.105",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.730",
+        "On-Off": "-0.730",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.718",
+        "On-Off": "-0.718",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.500",
+        "Off": "0.071",
+        "On-Off": "0.429",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.429",
+        "Off": "0.389",
+        "On-Off": "0.040",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.156",
+        "On-Off": "-0.156",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.343",
+        "On-Off": "-0.343",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.296",
+        "On-Off": "-0.296",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.250",
+        "Off": "0.392",
+        "On-Off": "-0.142",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.387",
+        "On-Off": "-0.387",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.507",
+        "On-Off": "-0.507",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.428",
+        "Off": "0.469",
+        "On-Off": "-0.041",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.404",
+        "Off": "0.453",
+        "On-Off": "-0.048",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.459",
+        "Off": "0.509",
+        "On-Off": "-0.049",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.549",
+        "Off": "0.499",
+        "On-Off": "0.050",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.515",
+        "On-Off": "-0.515",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.371",
+        "Off": "0.506",
+        "On-Off": "-0.134",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.487",
+        "On-Off": "-0.487",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.620",
+        "Off": "0.490",
+        "On-Off": "0.130",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.480",
+        "Off": "0.471",
+        "On-Off": "0.010",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.546",
+        "On-Off": "-0.546",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.515",
+        "Off": "0.514",
+        "On-Off": "0.002",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.373",
+        "Off": "0.569",
+        "On-Off": "-0.196",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.556",
+        "On-Off": "-0.556",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.071",
+        "Off": "0.092",
+        "On-Off": "-0.021",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.154",
+        "Off": "0.093",
+        "On-Off": "0.061",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.051",
+        "On-Off": "-0.051",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.091",
+        "Off": "0.055",
+        "On-Off": "0.036",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.077",
+        "Off": "0.083",
+        "On-Off": "-0.006",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.500",
+        "Off": "0.138",
+        "On-Off": "0.362",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.174",
+        "On-Off": "-0.174",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.083",
+        "Off": "0.099",
+        "On-Off": "-0.015",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.182",
+        "Off": "0.117",
+        "On-Off": "0.064",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.082",
+        "On-Off": "-0.082",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.129",
+        "On-Off": "-0.129",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.167",
+        "Off": "0.093",
+        "On-Off": "0.073",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.111",
+        "Off": "0.113",
+        "On-Off": "-0.001",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.500",
+        "Off": "0.138",
+        "On-Off": "0.362",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.179",
+        "On-Off": "-0.179",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.189",
+        "On-Off": "-0.189",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.250",
+        "Off": "0.133",
+        "On-Off": "0.117",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.081",
+        "On-Off": "-0.081",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.081",
+        "On-Off": "-0.081",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.138",
+        "On-Off": "-0.138",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.122",
+        "On-Off": "-0.122",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.060",
+        "On-Off": "-0.060",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.123",
+        "On-Off": "-0.123",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "1.000",
+        "Off": "0.280",
+        "On-Off": "0.720",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.303",
+        "On-Off": "-0.303",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.189",
+        "On-Off": "-0.189",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.312",
+        "Off": "0.252",
+        "On-Off": "0.060",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.141",
+        "On-Off": "-0.141",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.222",
+        "Off": "0.236",
+        "On-Off": "-0.014",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.224",
+        "On-Off": "-0.224",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.172",
+        "On-Off": "-0.172",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.190",
+        "On-Off": "-0.190",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.213",
+        "On-Off": "-0.213",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.264",
+        "On-Off": "-0.264",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.127",
+        "On-Off": "-0.127",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.190",
+        "On-Off": "-0.190",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.212",
+        "On-Off": "-0.212",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.242",
+        "On-Off": "-0.242",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.207",
+        "Off": "0.239",
+        "On-Off": "-0.032",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.250",
+        "Off": "0.199",
+        "On-Off": "0.051",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.188",
+        "Off": "0.201",
+        "On-Off": "-0.014",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.192",
+        "On-Off": "-0.192",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.082",
+        "Off": "0.217",
+        "On-Off": "-0.134",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.206",
+        "On-Off": "-0.206",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.230",
+        "On-Off": "-0.230",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.213",
+        "On-Off": "-0.213",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.424",
+        "On-Off": "-0.424",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.102",
+        "Off": "0.175",
+        "On-Off": "-0.073",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.170",
+        "On-Off": "-0.170",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.199",
+        "On-Off": "-0.199",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "6.104",
+        "On-Off": "-6.104",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "6.655",
+        "Off": "7.854",
+        "On-Off": "-1.200",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "12.300",
+        "Off": "11.423",
+        "On-Off": "0.877",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "14.550",
+        "Off": "11.733",
+        "On-Off": "2.817",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "5.667",
+        "Off": "7.837",
+        "On-Off": "-2.170",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "8.357",
+        "On-Off": "-8.357",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "10.050",
+        "Off": "6.262",
+        "On-Off": "3.788",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "9.942",
+        "On-Off": "-9.942",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "8.350",
+        "Off": "8.230",
+        "On-Off": "0.120",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "7.900",
+        "Off": "9.592",
+        "On-Off": "-1.692",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "1.800",
+        "On-Off": "-1.800",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "8.711",
+        "Off": "6.837",
+        "On-Off": "1.874",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "6.300",
+        "Off": "3.308",
+        "On-Off": "2.992",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "4.413",
+        "On-Off": "-4.413",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "25.350",
+        "Off": "24.331",
+        "On-Off": "1.019",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "25.400",
+        "Off": "24.189",
+        "On-Off": "1.211",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "24.387",
+        "Off": "24.616",
+        "On-Off": "-0.229",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "25.550",
+        "Off": "24.452",
+        "On-Off": "1.098",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "24.290",
+        "On-Off": "-24.290",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "24.872",
+        "On-Off": "-24.872",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "24.155",
+        "On-Off": "-24.155",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "27.100",
+        "Off": "25.017",
+        "On-Off": "2.083",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "24.400",
+        "On-Off": "-24.400",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "23.500",
+        "Off": "23.875",
+        "On-Off": "-0.375",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "24.744",
+        "On-Off": "-24.744",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.158",
+        "On-Off": "-0.158",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.308",
+        "Off": "0.182",
+        "On-Off": "0.125",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.043",
+        "Off": "0.082",
+        "On-Off": "-0.038",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.054",
+        "Off": "0.071",
+        "On-Off": "-0.017",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.096",
+        "On-Off": "-0.096",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.176",
+        "Off": "0.171",
+        "On-Off": "0.006",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.131",
+        "On-Off": "-0.131",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.110",
+        "On-Off": "-0.110",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.000",
+        "Off": "0.073",
+        "On-Off": "-0.073",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.186",
+        "On-Off": "-0.186",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.258",
+        "On-Off": "-0.258",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.148",
+        "Off": "0.060",
+        "On-Off": "0.088",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.050",
+        "Off": "0.010",
+        "On-Off": "0.040",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.053",
+        "Off": "0.040",
+        "On-Off": "0.013",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "0.056",
+        "Off": "0.029",
+        "On-Off": "0.027",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "0.106",
+        "On-Off": "-0.106",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "17.964",
+        "On-Off": "-17.964",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "27.586",
+        "Off": "19.729",
+        "On-Off": "7.858",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "5.854",
+        "On-Off": "-5.854",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "22.917",
+        "Off": "17.742",
+        "On-Off": "5.175",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "28.125",
+        "Off": "13.629",
+        "On-Off": "14.496",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "16.475",
+        "On-Off": "-16.475",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "5.479",
+        "Off": "6.905",
+        "On-Off": "-1.425",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "21.212",
+        "On-Off": "-21.212",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "33.822",
+        "On-Off": "-33.822",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "36.842",
+        "Off": "18.596",
+        "On-Off": "18.246",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "15.152",
+        "On-Off": "-15.152",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "10.169",
+        "Off": "18.597",
+        "On-Off": "-8.427",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "13.333",
+        "Off": "18.468",
+        "On-Off": "-5.135",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "21.261",
+        "On-Off": "-21.261",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "6.587",
+        "On-Off": "-6.587",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "8.621",
+        "Off": "5.068",
+        "On-Off": "3.553",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "23.333",
+        "Off": "23.902",
+        "On-Off": "-0.569",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "10.394",
+        "On-Off": "-10.394",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "25.000",
+        "Off": "18.283",
+        "On-Off": "6.717",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "10.945",
+        "On-Off": "-10.945",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "5.238",
+        "On-Off": "-5.238",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "14.457",
+        "On-Off": "-14.457",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "13.072",
+        "On-Off": "-13.072",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "13.158",
+        "Off": "14.246",
+        "On-Off": "-1.088",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "12.121",
+        "On-Off": "-12.121",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "10.169",
+        "Off": "5.748",
+        "On-Off": "4.421",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "7.245",
+        "On-Off": "-7.245",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "6.489",
+        "On-Off": "-6.489",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "4.790",
+        "On-Off": "-4.790",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "6.897",
+        "Off": "4.163",
+        "On-Off": "2.734",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "2.927",
+        "On-Off": "-2.927",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "4.167",
+        "Off": "1.434",
+        "On-Off": "2.733",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "9.375",
+        "Off": "2.548",
+        "On-Off": "6.827",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "4.147",
+        "On-Off": "-4.147",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "0.476",
+        "On-Off": "-0.476",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "2.967",
+        "On-Off": "-2.967",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "7.386",
+        "On-Off": "-7.386",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "5.263",
+        "Off": "3.368",
+        "On-Off": "1.895",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "1.695",
+        "Off": "3.381",
+        "On-Off": "-1.686",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "13.333",
+        "Off": "4.869",
+        "On-Off": "8.464",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "8.191",
+        "On-Off": "-8.191",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "2.994",
+        "On-Off": "-2.994",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "0.000",
+        "Off": "3.529",
+        "On-Off": "-3.529",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "3.333",
+        "Off": "2.439",
+        "On-Off": "0.894",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "4.167",
+        "Off": "1.254",
+        "On-Off": "2.912",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "3.125",
+        "Off": "3.435",
+        "On-Off": "-0.310",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "3.341",
+        "On-Off": "-3.341",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "1.370",
+        "Off": "2.619",
+        "On-Off": "-1.249",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "4.230",
+        "On-Off": "-4.230",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "3.224",
+        "On-Off": "-3.224",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "2.632",
+        "Off": "3.649",
+        "On-Off": "-1.018",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "9.091",
+        "On-Off": "-9.091",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "10.169",
+        "Off": "3.128",
+        "On-Off": "7.042",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "2.910",
+        "On-Off": "-2.910",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "3.451",
+        "On-Off": "-3.451",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Elizabeth Williams",
+        "On": "0.000",
+        "Off": "2.794",
+        "On-Off": "-2.794",
+        "MinutesOn": 0,
+        "MinutesOff": 249
+      },
+      {
+        "Name": "Isabelle Harrison",
+        "On": "3.448",
+        "Off": "2.262",
+        "On-Off": "1.186",
+        "MinutesOn": 30,
+        "MinutesOff": 557
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "10.000",
+        "Off": "10.244",
+        "On-Off": "-0.244",
+        "MinutesOn": 16,
+        "MinutesOff": 107
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "4.659",
+        "On-Off": "-4.659",
+        "MinutesOn": 26,
+        "MinutesOff": 291
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "10.938",
+        "Off": "8.310",
+        "On-Off": "2.627",
+        "MinutesOn": 33,
+        "MinutesOff": 917
+      },
+      {
+        "Name": "Diamond DeShields",
+        "On": "0.000",
+        "Off": "4.954",
+        "On-Off": "-4.954",
+        "MinutesOn": 0,
+        "MinutesOff": 441
+      },
+      {
+        "Name": "Brianna Turner",
+        "On": "0.000",
+        "Off": "2.381",
+        "On-Off": "-2.381",
+        "MinutesOn": 39,
+        "MinutesOff": 213
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "6.881",
+        "On-Off": "-6.881",
+        "MinutesOn": 0,
+        "MinutesOff": 796
+      },
+      {
+        "Name": "Chennedy Carter",
+        "On": "0.000",
+        "Off": "5.979",
+        "On-Off": "-5.979",
+        "MinutesOn": 2,
+        "MinutesOff": 856
+      },
+      {
+        "Name": "Dana Evans",
+        "On": "5.263",
+        "Off": "6.456",
+        "On-Off": "-1.193",
+        "MinutesOn": 20,
+        "MinutesOff": 723
+      },
+      {
+        "Name": "Kysre Gondrezick",
+        "On": "0.000",
+        "Off": "6.061",
+        "On-Off": "-6.061",
+        "MinutesOn": 0,
+        "MinutesOff": 16
+      },
+      {
+        "Name": "Michaela Onyenwere",
+        "On": "3.390",
+        "Off": "2.620",
+        "On-Off": "0.769",
+        "MinutesOn": 32,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Kamilla Cardoso",
+        "On": "0.000",
+        "Off": "3.207",
+        "On-Off": "-3.207",
+        "MinutesOn": 8,
+        "MinutesOff": 868
+      },
+      {
+        "Name": "Angel Reese",
+        "On": "0.000",
+        "Off": "2.899",
+        "On-Off": "-2.899",
+        "MinutesOn": 0,
+        "MinutesOff": 1104
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Kaela Davis",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Kaela Davis",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Kaela Davis"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Kaela Davis"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

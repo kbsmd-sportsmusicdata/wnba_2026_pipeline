@@ -1,0 +1,7408 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.614",
+        "Off": "0.714",
+        "On-Off": "-0.100",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.111",
+        "Off": "0.556",
+        "On-Off": "-0.444",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.333",
+        "Off": "0.348",
+        "On-Off": "-0.014",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.375",
+        "Off": "0.353",
+        "On-Off": "0.022",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.381",
+        "Off": "0.312",
+        "On-Off": "0.068",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.688",
+        "Off": "0.941",
+        "On-Off": "-0.254",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.833",
+        "Off": "0.600",
+        "On-Off": "0.233",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "0.400",
+        "On-Off": "0.600",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.789",
+        "Off": "0.814",
+        "On-Off": "-0.024",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.472",
+        "Off": "0.250",
+        "On-Off": "0.222",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.667",
+        "Off": "0.542",
+        "On-Off": "0.125",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.630",
+        "Off": "0.750",
+        "On-Off": "-0.120",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.111",
+        "Off": "0.556",
+        "On-Off": "-0.444",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.333",
+        "Off": "0.381",
+        "On-Off": "-0.048",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.382",
+        "Off": "0.353",
+        "On-Off": "0.029",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.400",
+        "Off": "0.333",
+        "On-Off": "0.067",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.786",
+        "Off": "0.941",
+        "On-Off": "-0.155",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.833",
+        "Off": "0.600",
+        "On-Off": "0.233",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.909",
+        "Off": "0.875",
+        "On-Off": "0.034",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.488",
+        "Off": "0.263",
+        "On-Off": "0.225",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.809",
+        "Off": "0.619",
+        "On-Off": "0.189",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.926",
+        "Off": "0.933",
+        "On-Off": "-0.007",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.808",
+        "Off": "0.824",
+        "On-Off": "-0.016",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.750",
+        "On-Off": "-0.083",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.769",
+        "Off": "0.600",
+        "On-Off": "0.169",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.330",
+        "Off": "0.405",
+        "On-Off": "-0.075",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.406",
+        "Off": "0.395",
+        "On-Off": "0.011",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.444",
+        "Off": "0.200",
+        "On-Off": "0.244",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.250",
+        "Off": "0.444",
+        "On-Off": "-0.194",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.148",
+        "Off": "0.429",
+        "On-Off": "-0.280",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.390",
+        "Off": "0.233",
+        "On-Off": "0.156",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.333",
+        "Off": "0.429",
+        "On-Off": "-0.095",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.361",
+        "Off": "0.172",
+        "On-Off": "0.189",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.265",
+        "Off": "0.286",
+        "On-Off": "-0.021",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.332",
+        "Off": "0.429",
+        "On-Off": "-0.097",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.413",
+        "Off": "0.395",
+        "On-Off": "0.017",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.444",
+        "Off": "0.200",
+        "On-Off": "0.244",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.250",
+        "Off": "0.444",
+        "On-Off": "-0.194",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.160",
+        "Off": "0.429",
+        "On-Off": "-0.269",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.390",
+        "Off": "0.233",
+        "On-Off": "0.156",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.333",
+        "Off": "0.429",
+        "On-Off": "-0.095",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.361",
+        "Off": "0.179",
+        "On-Off": "0.183",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.265",
+        "Off": "0.286",
+        "On-Off": "-0.021",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.500",
+        "Off": "0.656",
+        "On-Off": "-0.156",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.250",
+        "Off": "0.409",
+        "On-Off": "-0.159",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.290",
+        "Off": "0.548",
+        "On-Off": "-0.257",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.431",
+        "Off": "0.447",
+        "On-Off": "-0.017",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.429",
+        "Off": "0.516",
+        "On-Off": "-0.088",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.533",
+        "Off": "0.500",
+        "On-Off": "0.033",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.300",
+        "Off": "0.500",
+        "On-Off": "-0.200",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.333",
+        "Off": "0.455",
+        "On-Off": "-0.121",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.458",
+        "Off": "0.494",
+        "On-Off": "-0.036",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.473",
+        "Off": "0.345",
+        "On-Off": "0.129",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.523",
+        "Off": "0.571",
+        "On-Off": "-0.048",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.497",
+        "Off": "0.630",
+        "On-Off": "-0.133",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.480",
+        "Off": "0.531",
+        "On-Off": "-0.051",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.375",
+        "Off": "0.500",
+        "On-Off": "-0.125",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.419",
+        "Off": "0.489",
+        "On-Off": "-0.071",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.384",
+        "Off": "0.539",
+        "On-Off": "-0.155",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.527",
+        "Off": "0.486",
+        "On-Off": "0.042",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.513",
+        "Off": "0.388",
+        "On-Off": "0.125",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.500",
+        "On-Off": "-0.300",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.464",
+        "Off": "0.505",
+        "On-Off": "-0.041",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.492",
+        "Off": "0.316",
+        "On-Off": "0.176",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.493",
+        "Off": "0.536",
+        "On-Off": "-0.043",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.534",
+        "Off": "0.639",
+        "On-Off": "-0.104",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.490",
+        "Off": "0.560",
+        "On-Off": "-0.069",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.419",
+        "Off": "0.568",
+        "On-Off": "-0.149",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.474",
+        "Off": "0.566",
+        "On-Off": "-0.092",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.450",
+        "Off": "0.587",
+        "On-Off": "-0.137",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.587",
+        "Off": "0.568",
+        "On-Off": "0.019",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.518",
+        "Off": "0.430",
+        "On-Off": "0.088",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.475",
+        "On-Off": "-0.275",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.518",
+        "Off": "0.557",
+        "On-Off": "-0.039",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.537",
+        "Off": "0.386",
+        "On-Off": "0.150",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.509",
+        "Off": "0.570",
+        "On-Off": "-0.061",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.554",
+        "Off": "0.536",
+        "On-Off": "0.018",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.640",
+        "Off": "0.662",
+        "On-Off": "-0.022",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.225",
+        "Off": "0.192",
+        "On-Off": "0.033",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.217",
+        "Off": "0.191",
+        "On-Off": "0.025",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.216",
+        "Off": "0.184",
+        "On-Off": "0.032",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.011",
+        "Off": "0.029",
+        "On-Off": "-0.018",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.747",
+        "Off": "0.750",
+        "On-Off": "-0.003",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.400",
+        "Off": "0.312",
+        "On-Off": "0.088",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.153",
+        "Off": "0.074",
+        "On-Off": "0.079",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.277",
+        "Off": "0.333",
+        "On-Off": "-0.056",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.238",
+        "Off": "0.250",
+        "On-Off": "-0.012",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.019",
+        "Off": "0.000",
+        "On-Off": "0.019",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.037",
+        "Off": "0.000",
+        "On-Off": "0.037",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.017",
+        "Off": "0.000",
+        "On-Off": "0.017",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.067",
+        "Off": "0.143",
+        "On-Off": "-0.076",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.066",
+        "Off": "0.000",
+        "On-Off": "0.066",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.028",
+        "Off": "0.000",
+        "On-Off": "0.028",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.097",
+        "Off": "0.048",
+        "On-Off": "0.049",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.069",
+        "Off": "0.026",
+        "On-Off": "0.043",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.061",
+        "Off": "0.097",
+        "On-Off": "-0.036",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.133",
+        "Off": "0.206",
+        "On-Off": "-0.073",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.100",
+        "Off": "0.100",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.120",
+        "Off": "0.092",
+        "On-Off": "0.029",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.128",
+        "Off": "0.155",
+        "On-Off": "-0.028",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.073",
+        "Off": "0.167",
+        "On-Off": "-0.093",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Kayla McBride",
+        "On": "20.512",
+        "Off": "18.537",
+        "On-Off": "1.975",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "20.347",
+        "Off": "22.647",
+        "On-Off": "-2.300",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "27.041",
+        "Off": "28.390",
+        "On-Off": "-1.349",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "17.812",
+        "Off": "22.642",
+        "On-Off": "-4.829",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "14.421",
+        "Off": "14.099",
+        "On-Off": "0.321",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "13.420",
+        "Off": "16.061",
+        "On-Off": "-2.641",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "10.474",
+        "Off": "12.401",
+        "On-Off": "-1.927",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "17.778",
+        "Off": "16.071",
+        "On-Off": "1.706",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "22.453",
+        "Off": "24.470",
+        "On-Off": "-2.018",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "24.060",
+        "Off": "27.500",
+        "On-Off": "-3.440",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "12.599",
+        "Off": "14.571",
+        "On-Off": "-1.972",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "11.111",
+        "Off": "19.697",
+        "On-Off": "-8.586",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.607",
+        "Off": "0.750",
+        "On-Off": "-0.143",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.615",
+        "Off": "0.500",
+        "On-Off": "0.115",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.600",
+        "Off": "0.625",
+        "On-Off": "-0.025",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.412",
+        "Off": "0.632",
+        "On-Off": "-0.220",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.586",
+        "Off": "0.250",
+        "On-Off": "0.336",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.571",
+        "Off": "0.556",
+        "On-Off": "0.016",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.750",
+        "Off": "0.500",
+        "On-Off": "0.250",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "0.571",
+        "On-Off": "0.429",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.300",
+        "Off": "0.227",
+        "On-Off": "0.073",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.462",
+        "Off": "0.429",
+        "On-Off": "0.033",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.548",
+        "Off": "0.812",
+        "On-Off": "-0.264",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.111",
+        "Off": "0.250",
+        "On-Off": "-0.139",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.250",
+        "Off": "0.222",
+        "On-Off": "0.028",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.130",
+        "Off": "0.000",
+        "On-Off": "0.130",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.357",
+        "Off": "0.300",
+        "On-Off": "0.057",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.042",
+        "Off": "0.000",
+        "On-Off": "0.042",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.062",
+        "Off": "0.000",
+        "On-Off": "0.062",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.031",
+        "Off": "0.062",
+        "On-Off": "-0.031",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.084",
+        "Off": "0.047",
+        "On-Off": "0.037",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.074",
+        "Off": "0.048",
+        "On-Off": "0.027",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.227",
+        "Off": "0.102",
+        "On-Off": "0.125",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.059",
+        "Off": "0.130",
+        "On-Off": "-0.071",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.078",
+        "Off": "0.089",
+        "On-Off": "-0.011",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.170",
+        "Off": "0.215",
+        "On-Off": "-0.045",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.132",
+        "Off": "0.139",
+        "On-Off": "-0.008",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.500",
+        "Off": "0.303",
+        "On-Off": "0.197",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.165",
+        "Off": "0.134",
+        "On-Off": "0.031",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.086",
+        "Off": "0.118",
+        "On-Off": "-0.032",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.218",
+        "Off": "0.157",
+        "On-Off": "0.061",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.010",
+        "Off": "0.010",
+        "On-Off": "-0.000",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.020",
+        "Off": "0.011",
+        "On-Off": "0.009",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.016",
+        "Off": "0.074",
+        "On-Off": "-0.058",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.027",
+        "Off": "0.000",
+        "On-Off": "0.027",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.032",
+        "Off": "0.037",
+        "On-Off": "-0.005",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.104",
+        "Off": "0.093",
+        "On-Off": "0.011",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.029",
+        "Off": "0.021",
+        "On-Off": "0.009",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.231",
+        "Off": "0.089",
+        "On-Off": "0.142",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.048",
+        "Off": "0.045",
+        "On-Off": "0.002",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.033",
+        "Off": "0.047",
+        "On-Off": "-0.014",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.075",
+        "Off": "0.094",
+        "On-Off": "-0.018",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.122",
+        "Off": "0.107",
+        "On-Off": "0.015",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.097",
+        "Off": "0.045",
+        "On-Off": "0.052",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.132",
+        "Off": "0.263",
+        "On-Off": "-0.132",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.088",
+        "Off": "0.090",
+        "On-Off": "-0.002",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.089",
+        "Off": "0.079",
+        "On-Off": "0.010",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.193",
+        "Off": "0.234",
+        "On-Off": "-0.042",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.124",
+        "Off": "0.162",
+        "On-Off": "-0.038",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.139",
+        "Off": "0.095",
+        "On-Off": "0.044",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.133",
+        "Off": "0.146",
+        "On-Off": "-0.013",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.168",
+        "Off": "0.210",
+        "On-Off": "-0.042",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.030",
+        "Off": "0.026",
+        "On-Off": "0.004",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.016",
+        "Off": "0.015",
+        "On-Off": "0.001",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.016",
+        "Off": "0.102",
+        "On-Off": "-0.086",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.058",
+        "Off": "0.017",
+        "On-Off": "0.040",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.076",
+        "Off": "0.111",
+        "On-Off": "-0.035",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.063",
+        "Off": "0.091",
+        "On-Off": "-0.028",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.098",
+        "Off": "0.071",
+        "On-Off": "0.026",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.084",
+        "Off": "0.047",
+        "On-Off": "0.038",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.183",
+        "Off": "0.172",
+        "On-Off": "0.011",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.070",
+        "Off": "0.111",
+        "On-Off": "-0.041",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.082",
+        "Off": "0.084",
+        "On-Off": "-0.002",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.179",
+        "Off": "0.224",
+        "On-Off": "-0.044",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.129",
+        "Off": "0.150",
+        "On-Off": "-0.021",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.286",
+        "Off": "0.200",
+        "On-Off": "0.086",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.153",
+        "Off": "0.116",
+        "On-Off": "0.037",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.103",
+        "Off": "0.131",
+        "On-Off": "-0.028",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.201",
+        "Off": "0.183",
+        "On-Off": "0.018",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.014",
+        "Off": "0.006",
+        "On-Off": "0.007",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.012",
+        "Off": "0.007",
+        "On-Off": "0.005",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.012",
+        "Off": "0.056",
+        "On-Off": "-0.044",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.028",
+        "Off": "0.008",
+        "On-Off": "0.020",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.026",
+        "Off": "0.027",
+        "On-Off": "-0.001",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.076",
+        "Off": "0.096",
+        "On-Off": "-0.021",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.040",
+        "Off": "0.019",
+        "On-Off": "0.020",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.136",
+        "Off": "0.101",
+        "On-Off": "0.035",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.057",
+        "Off": "0.069",
+        "On-Off": "-0.012",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.028",
+        "Off": "0.029",
+        "On-Off": "-0.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.071",
+        "Off": "0.093",
+        "On-Off": "-0.022",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.005",
+        "Off": "0.000",
+        "On-Off": "0.005",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.010",
+        "Off": "0.000",
+        "On-Off": "0.010",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.010",
+        "Off": "0.100",
+        "On-Off": "-0.090",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.164",
+        "Off": "0.154",
+        "On-Off": "0.011",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.014",
+        "Off": "0.000",
+        "On-Off": "0.014",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.400",
+        "Off": "0.150",
+        "On-Off": "0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.098",
+        "Off": "0.093",
+        "On-Off": "0.005",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.061",
+        "Off": "0.043",
+        "On-Off": "0.018",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.103",
+        "Off": "0.022",
+        "On-Off": "0.082",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.012",
+        "Off": "0.028",
+        "On-Off": "-0.016",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.017",
+        "Off": "0.027",
+        "On-Off": "-0.010",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.040",
+        "Off": "0.080",
+        "On-Off": "-0.040",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.043",
+        "Off": "0.000",
+        "On-Off": "0.043",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.077",
+        "Off": "0.054",
+        "On-Off": "0.023",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.044",
+        "Off": "0.000",
+        "On-Off": "0.044",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.037",
+        "Off": "0.019",
+        "On-Off": "0.018",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.032",
+        "Off": "0.065",
+        "On-Off": "-0.033",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.072",
+        "Off": "0.104",
+        "On-Off": "-0.032",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.012",
+        "Off": "0.000",
+        "On-Off": "0.012",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.037",
+        "Off": "0.000",
+        "On-Off": "0.037",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.035",
+        "Off": "0.000",
+        "On-Off": "0.035",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.041",
+        "Off": "0.000",
+        "On-Off": "0.041",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.085",
+        "Off": "0.087",
+        "On-Off": "-0.002",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.019",
+        "Off": "0.080",
+        "On-Off": "-0.061",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.000",
+        "Off": "0.034",
+        "On-Off": "-0.034",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.052",
+        "Off": "0.176",
+        "On-Off": "-0.124",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.024",
+        "Off": "0.000",
+        "On-Off": "0.024",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.031",
+        "Off": "0.029",
+        "On-Off": "0.001",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.013",
+        "Off": "0.020",
+        "On-Off": "-0.007",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.021",
+        "Off": "0.114",
+        "On-Off": "-0.093",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.062",
+        "Off": "0.022",
+        "On-Off": "0.041",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.136",
+        "On-Off": "-0.136",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.087",
+        "Off": "0.115",
+        "On-Off": "-0.028",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.018",
+        "Off": "0.000",
+        "On-Off": "0.018",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.077",
+        "Off": "0.102",
+        "On-Off": "-0.024",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.024",
+        "Off": "0.000",
+        "On-Off": "0.024",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.030",
+        "Off": "0.000",
+        "On-Off": "0.030",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.037",
+        "Off": "0.000",
+        "On-Off": "0.037",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.073",
+        "Off": "0.024",
+        "On-Off": "0.049",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.021",
+        "Off": "0.062",
+        "On-Off": "-0.042",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.167",
+        "Off": "0.200",
+        "On-Off": "-0.033",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.060",
+        "Off": "0.071",
+        "On-Off": "-0.012",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.078",
+        "Off": "0.143",
+        "On-Off": "-0.065",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.153",
+        "Off": "0.261",
+        "On-Off": "-0.108",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.108",
+        "Off": "0.103",
+        "On-Off": "0.005",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.194",
+        "Off": "0.167",
+        "On-Off": "0.028",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.068",
+        "Off": "0.056",
+        "On-Off": "0.013",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.203",
+        "Off": "0.163",
+        "On-Off": "0.040",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.090",
+        "Off": "0.033",
+        "On-Off": "0.056",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.238",
+        "Off": "0.083",
+        "On-Off": "0.155",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.062",
+        "Off": "0.118",
+        "On-Off": "-0.055",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.103",
+        "Off": "0.079",
+        "On-Off": "0.025",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.183",
+        "Off": "0.189",
+        "On-Off": "-0.006",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.149",
+        "Off": "0.139",
+        "On-Off": "0.010",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.667",
+        "Off": "0.357",
+        "On-Off": "0.310",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.143",
+        "Off": "0.085",
+        "On-Off": "0.058",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.101",
+        "Off": "0.114",
+        "On-Off": "-0.013",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.201",
+        "Off": "0.178",
+        "On-Off": "0.023",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.107",
+        "Off": "0.174",
+        "On-Off": "-0.067",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.121",
+        "Off": "0.059",
+        "On-Off": "0.062",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.273",
+        "Off": "0.067",
+        "On-Off": "0.206",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.053",
+        "Off": "0.267",
+        "On-Off": "-0.214",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.039",
+        "Off": "0.000",
+        "On-Off": "0.039",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.169",
+        "Off": "0.211",
+        "On-Off": "-0.041",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.133",
+        "Off": "0.214",
+        "On-Off": "-0.081",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.179",
+        "Off": "0.172",
+        "On-Off": "0.006",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.088",
+        "Off": "0.227",
+        "On-Off": "-0.140",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.263",
+        "Off": "0.100",
+        "On-Off": "0.163",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.131",
+        "Off": "0.121",
+        "On-Off": "0.010",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.108",
+        "Off": "0.058",
+        "On-Off": "0.051",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.138",
+        "Off": "0.179",
+        "On-Off": "-0.041",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.085",
+        "Off": "0.082",
+        "On-Off": "0.004",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.061",
+        "Off": "0.066",
+        "On-Off": "-0.005",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.183",
+        "Off": "0.245",
+        "On-Off": "-0.062",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.107",
+        "Off": "0.146",
+        "On-Off": "-0.039",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.097",
+        "On-Off": "-0.097",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.141",
+        "Off": "0.068",
+        "On-Off": "0.074",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.139",
+        "Off": "0.139",
+        "On-Off": "-0.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.161",
+        "Off": "0.250",
+        "On-Off": "-0.089",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.095",
+        "Off": "0.059",
+        "On-Off": "0.036",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.067",
+        "Off": "0.000",
+        "On-Off": "0.067",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.111",
+        "Off": "0.500",
+        "On-Off": "-0.389",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.096",
+        "Off": "0.111",
+        "On-Off": "-0.015",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.167",
+        "Off": "0.133",
+        "On-Off": "0.033",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.220",
+        "Off": "0.182",
+        "On-Off": "0.038",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.182",
+        "Off": "0.200",
+        "On-Off": "-0.018",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.182",
+        "On-Off": "-0.182",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.133",
+        "Off": "0.190",
+        "On-Off": "-0.057",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.115",
+        "Off": "0.176",
+        "On-Off": "-0.061",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.192",
+        "Off": "0.083",
+        "On-Off": "0.109",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.600",
+        "Off": "0.000",
+        "On-Off": "0.600",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.400",
+        "Off": "1.000",
+        "On-Off": "-0.600",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.579",
+        "Off": "0.750",
+        "On-Off": "-0.171",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Kayla McBride",
+        "On": "14.884",
+        "Off": "14.831",
+        "On-Off": "0.053",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "13.819",
+        "Off": "14.967",
+        "On-Off": "-1.147",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "15.156",
+        "Off": "15.667",
+        "On-Off": "-0.511",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "15.044",
+        "Off": "16.223",
+        "On-Off": "-1.179",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "14.781",
+        "Off": "15.147",
+        "On-Off": "-0.366",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "15.144",
+        "Off": "15.744",
+        "On-Off": "-0.600",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "14.548",
+        "Off": "15.436",
+        "On-Off": "-0.888",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "15.297",
+        "Off": "15.406",
+        "On-Off": "-0.108",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "14.023",
+        "Off": "15.226",
+        "On-Off": "-1.202",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "14.482",
+        "Off": "15.264",
+        "On-Off": "-0.782",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "15.152",
+        "Off": "15.161",
+        "On-Off": "-0.009",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "14.125",
+        "Off": "15.483",
+        "On-Off": "-1.358",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Kayla McBride",
+        "On": "15.563",
+        "Off": "15.607",
+        "On-Off": "-0.044",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "15.928",
+        "Off": "15.420",
+        "On-Off": "0.508",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "15.499",
+        "Off": "14.421",
+        "On-Off": "1.079",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "15.623",
+        "Off": "15.557",
+        "On-Off": "0.067",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "15.756",
+        "Off": "15.332",
+        "On-Off": "0.425",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "15.371",
+        "Off": "15.452",
+        "On-Off": "-0.081",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "15.820",
+        "Off": "14.752",
+        "On-Off": "1.068",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "13.222",
+        "Off": "15.647",
+        "On-Off": "-2.424",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "15.918",
+        "Off": "14.987",
+        "On-Off": "0.931",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "15.712",
+        "Off": "15.439",
+        "On-Off": "0.273",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "15.510",
+        "Off": "15.293",
+        "On-Off": "0.216",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "13.600",
+        "Off": "15.177",
+        "On-Off": "-1.577",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.126",
+        "Off": "0.116",
+        "On-Off": "0.010",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.040",
+        "Off": "0.062",
+        "On-Off": "-0.022",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.150",
+        "Off": "0.135",
+        "On-Off": "0.015",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.361",
+        "Off": "0.362",
+        "On-Off": "-0.000",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.288",
+        "Off": "0.316",
+        "On-Off": "-0.028",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.462",
+        "Off": "0.429",
+        "On-Off": "0.033",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.101",
+        "Off": "0.025",
+        "On-Off": "0.076",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.400",
+        "Off": "0.438",
+        "On-Off": "-0.037",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.449",
+        "Off": "0.532",
+        "On-Off": "-0.083",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.381",
+        "Off": "0.299",
+        "On-Off": "0.082",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.469",
+        "Off": "0.464",
+        "On-Off": "0.004",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.723",
+        "Off": "0.875",
+        "On-Off": "-0.152",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.500",
+        "Off": "0.250",
+        "On-Off": "0.250",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.167",
+        "Off": "0.714",
+        "On-Off": "-0.548",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.450",
+        "Off": "0.588",
+        "On-Off": "-0.138",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.639",
+        "Off": "0.667",
+        "On-Off": "-0.028",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.714",
+        "Off": "0.667",
+        "On-Off": "0.048",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.500",
+        "Off": "0.571",
+        "On-Off": "-0.071",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.614",
+        "Off": "0.560",
+        "On-Off": "0.054",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.566",
+        "Off": "0.385",
+        "On-Off": "0.181",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.672",
+        "Off": "0.731",
+        "On-Off": "-0.059",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.647",
+        "Off": "0.571",
+        "On-Off": "0.076",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "1.000",
+        "Off": "0.400",
+        "On-Off": "0.600",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.333",
+        "Off": "0.300",
+        "On-Off": "0.033",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.391",
+        "Off": "0.500",
+        "On-Off": "-0.109",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.600",
+        "Off": "0.900",
+        "On-Off": "-0.300",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.852",
+        "Off": "0.821",
+        "On-Off": "0.030",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.518",
+        "Off": "0.200",
+        "On-Off": "0.318",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.689",
+        "Off": "0.579",
+        "On-Off": "0.110",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.129",
+        "Off": "0.130",
+        "On-Off": "-0.001",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.090",
+        "Off": "0.138",
+        "On-Off": "-0.048",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.250",
+        "Off": "0.288",
+        "On-Off": "-0.038",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.265",
+        "Off": "0.340",
+        "On-Off": "-0.075",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.296",
+        "Off": "0.342",
+        "On-Off": "-0.046",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.264",
+        "Off": "0.371",
+        "On-Off": "-0.108",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.127",
+        "Off": "0.100",
+        "On-Off": "0.027",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.188",
+        "On-Off": "0.013",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.357",
+        "Off": "0.340",
+        "On-Off": "0.017",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.196",
+        "Off": "0.230",
+        "On-Off": "-0.034",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.119",
+        "Off": "0.196",
+        "On-Off": "-0.078",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.417",
+        "Off": "0.667",
+        "On-Off": "-0.250",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.333",
+        "Off": "0.556",
+        "On-Off": "-0.222",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.200",
+        "Off": "0.600",
+        "On-Off": "-0.400",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.409",
+        "Off": "0.312",
+        "On-Off": "0.097",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.324",
+        "Off": "0.462",
+        "On-Off": "-0.137",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.458",
+        "Off": "0.462",
+        "On-Off": "-0.003",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.300",
+        "Off": "1.000",
+        "On-Off": "-0.700",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.257",
+        "Off": "0.438",
+        "On-Off": "-0.180",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.314",
+        "Off": "0.350",
+        "On-Off": "-0.036",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.294",
+        "Off": "0.273",
+        "On-Off": "0.021",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.333",
+        "Off": "0.600",
+        "On-Off": "-0.267",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.333",
+        "Off": "0.167",
+        "On-Off": "0.167",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.727",
+        "Off": "1.000",
+        "On-Off": "-0.273",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.667",
+        "Off": "0.500",
+        "On-Off": "0.167",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.556",
+        "Off": "0.786",
+        "On-Off": "-0.230",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.438",
+        "Off": "0.429",
+        "On-Off": "0.009",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.191",
+        "Off": "0.217",
+        "On-Off": "-0.027",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.230",
+        "Off": "0.138",
+        "On-Off": "0.092",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.375",
+        "Off": "0.385",
+        "On-Off": "-0.010",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.157",
+        "Off": "0.106",
+        "On-Off": "0.050",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.200",
+        "Off": "0.158",
+        "On-Off": "0.042",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.264",
+        "Off": "0.171",
+        "On-Off": "0.092",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.025",
+        "Off": "0.125",
+        "On-Off": "-0.100",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.041",
+        "Off": "0.053",
+        "On-Off": "-0.012",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.146",
+        "Off": "0.138",
+        "On-Off": "0.008",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.175",
+        "Off": "0.089",
+        "On-Off": "0.086",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.556",
+        "On-Off": "-0.556",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.408",
+        "Off": "0.533",
+        "On-Off": "-0.125",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.174",
+        "Off": "0.333",
+        "On-Off": "-0.159",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.400",
+        "Off": "0.450",
+        "On-Off": "-0.050",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.423",
+        "Off": "0.400",
+        "On-Off": "0.023",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.280",
+        "Off": "0.333",
+        "On-Off": "-0.053",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.292",
+        "Off": "0.167",
+        "On-Off": "0.125",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.500",
+        "Off": "0.200",
+        "On-Off": "0.300",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.500",
+        "Off": "0.200",
+        "On-Off": "0.300",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.447",
+        "Off": "0.250",
+        "On-Off": "0.197",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.280",
+        "Off": "0.400",
+        "On-Off": "-0.120",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.655",
+        "Off": "0.625",
+        "On-Off": "0.030",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.273",
+        "Off": "0.500",
+        "On-Off": "-0.227",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.429",
+        "Off": "0.000",
+        "On-Off": "0.429",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.353",
+        "Off": "0.000",
+        "On-Off": "0.353",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.857",
+        "Off": "1.000",
+        "On-Off": "-0.143",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.097",
+        "Off": "0.130",
+        "On-Off": "-0.034",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.030",
+        "Off": "0.138",
+        "On-Off": "-0.108",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.075",
+        "Off": "0.019",
+        "On-Off": "0.056",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.114",
+        "Off": "0.021",
+        "On-Off": "0.093",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.241",
+        "Off": "0.200",
+        "On-Off": "0.041",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.046",
+        "Off": "0.023",
+        "On-Off": "0.023",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.070",
+        "Off": "0.036",
+        "On-Off": "0.034",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.472",
+        "Off": "0.222",
+        "On-Off": "0.250",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.333",
+        "Off": "0.556",
+        "On-Off": "-0.222",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.316",
+        "Off": "1.000",
+        "On-Off": "-0.684",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.474",
+        "Off": "0.375",
+        "On-Off": "0.099",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.300",
+        "Off": "0.000",
+        "On-Off": "0.300",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Kayla McBride",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.457",
+        "Off": "0.406",
+        "On-Off": "0.051",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.610",
+        "Off": "0.523",
+        "On-Off": "0.087",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.150",
+        "Off": "0.173",
+        "On-Off": "-0.023",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.102",
+        "Off": "0.170",
+        "On-Off": "-0.068",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.168",
+        "Off": "0.184",
+        "On-Off": "-0.016",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.011",
+        "Off": "0.029",
+        "On-Off": "-0.018",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.506",
+        "Off": "0.550",
+        "On-Off": "-0.044",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.400",
+        "Off": "0.312",
+        "On-Off": "0.088",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.133",
+        "Off": "0.074",
+        "On-Off": "0.058",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.231",
+        "Off": "0.310",
+        "On-Off": "-0.080",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.168",
+        "Off": "0.214",
+        "On-Off": "-0.046",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.300",
+        "Off": "0.464",
+        "On-Off": "-0.164",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.410",
+        "Off": "0.353",
+        "On-Off": "0.057",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.500",
+        "Off": "0.222",
+        "On-Off": "0.278",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.176",
+        "Off": "0.375",
+        "On-Off": "-0.199",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.143",
+        "Off": "0.429",
+        "On-Off": "-0.286",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.350",
+        "Off": "0.182",
+        "On-Off": "0.168",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.308",
+        "Off": "0.429",
+        "On-Off": "-0.121",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.383",
+        "Off": "0.185",
+        "On-Off": "0.198",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.902",
+        "Off": "0.923",
+        "On-Off": "-0.021",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.800",
+        "Off": "0.750",
+        "On-Off": "0.050",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.739",
+        "Off": "0.600",
+        "On-Off": "0.139",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.680",
+        "Off": "0.652",
+        "On-Off": "0.028",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.680",
+        "Off": "0.723",
+        "On-Off": "-0.043",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.375",
+        "Off": "0.327",
+        "On-Off": "0.048",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.578",
+        "Off": "0.553",
+        "On-Off": "0.025",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.504",
+        "Off": "0.500",
+        "On-Off": "0.004",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.473",
+        "Off": "0.457",
+        "On-Off": "0.015",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.848",
+        "Off": "0.775",
+        "On-Off": "0.073",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.800",
+        "Off": "0.750",
+        "On-Off": "0.050",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.602",
+        "Off": "0.606",
+        "On-Off": "-0.004",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.658",
+        "Off": "0.632",
+        "On-Off": "0.026",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.706",
+        "Off": "0.714",
+        "On-Off": "-0.008",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "1.000",
+        "Off": "0.222",
+        "On-Off": "0.778",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.302",
+        "Off": "0.500",
+        "On-Off": "-0.198",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.417",
+        "Off": "0.353",
+        "On-Off": "0.064",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.500",
+        "Off": "0.222",
+        "On-Off": "0.278",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.176",
+        "Off": "0.375",
+        "On-Off": "-0.199",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.158",
+        "Off": "0.429",
+        "On-Off": "-0.271",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.350",
+        "Off": "0.182",
+        "On-Off": "0.168",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.308",
+        "Off": "0.429",
+        "On-Off": "-0.121",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.383",
+        "Off": "0.192",
+        "On-Off": "0.191",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.494",
+        "Off": "0.493",
+        "On-Off": "0.001",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.464",
+        "Off": "0.493",
+        "On-Off": "-0.029",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.460",
+        "Off": "0.430",
+        "On-Off": "0.030",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.513",
+        "Off": "0.487",
+        "On-Off": "0.026",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.479",
+        "Off": "0.457",
+        "On-Off": "0.022",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.496",
+        "Off": "0.470",
+        "On-Off": "0.026",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.513",
+        "Off": "0.488",
+        "On-Off": "0.025",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.493",
+        "Off": "0.517",
+        "On-Off": "-0.024",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.520",
+        "Off": "0.513",
+        "On-Off": "0.007",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.521",
+        "Off": "0.486",
+        "On-Off": "0.034",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.534",
+        "Off": "0.530",
+        "On-Off": "0.005",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.559",
+        "Off": "0.458",
+        "On-Off": "0.101",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.064",
+        "Off": "0.014",
+        "On-Off": "0.050",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.020",
+        "Off": "0.060",
+        "On-Off": "-0.040",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.093",
+        "Off": "0.138",
+        "On-Off": "-0.045",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.104",
+        "Off": "0.137",
+        "On-Off": "-0.033",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.133",
+        "Off": "0.159",
+        "On-Off": "-0.026",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.176",
+        "Off": "0.279",
+        "On-Off": "-0.103",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.013",
+        "Off": "0.071",
+        "On-Off": "-0.059",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.112",
+        "Off": "0.147",
+        "On-Off": "-0.035",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.122",
+        "Off": "0.124",
+        "On-Off": "-0.001",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.110",
+        "Off": "0.140",
+        "On-Off": "-0.031",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.126",
+        "Off": "0.000",
+        "On-Off": "0.126",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.027",
+        "Off": "0.043",
+        "On-Off": "-0.016",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.118",
+        "Off": "0.167",
+        "On-Off": "-0.049",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.129",
+        "Off": "0.167",
+        "On-Off": "-0.037",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.167",
+        "Off": "0.189",
+        "On-Off": "-0.023",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.178",
+        "Off": "0.286",
+        "On-Off": "-0.107",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.048",
+        "Off": "0.250",
+        "On-Off": "-0.202",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.130",
+        "Off": "0.158",
+        "On-Off": "-0.027",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.164",
+        "Off": "0.176",
+        "On-Off": "-0.013",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.140",
+        "Off": "0.186",
+        "On-Off": "-0.046",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.010",
+        "Off": "0.026",
+        "On-Off": "-0.017",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.015",
+        "Off": "0.068",
+        "On-Off": "-0.053",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.107",
+        "Off": "0.097",
+        "On-Off": "0.010",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.059",
+        "Off": "0.080",
+        "On-Off": "-0.021",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.000",
+        "Off": "0.088",
+        "On-Off": "-0.088",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.139",
+        "Off": "0.083",
+        "On-Off": "0.056",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.032",
+        "Off": "0.093",
+        "On-Off": "-0.061",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.198",
+        "Off": "0.200",
+        "On-Off": "-0.002",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.186",
+        "Off": "0.000",
+        "On-Off": "0.186",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.211",
+        "On-Off": "-0.211",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.158",
+        "Off": "0.162",
+        "On-Off": "-0.004",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.101",
+        "Off": "0.190",
+        "On-Off": "-0.089",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.245",
+        "Off": "0.185",
+        "On-Off": "0.061",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.192",
+        "Off": "0.108",
+        "On-Off": "0.084",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.327",
+        "Off": "0.293",
+        "On-Off": "0.033",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.056",
+        "Off": "0.250",
+        "On-Off": "-0.194",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.278",
+        "Off": "0.283",
+        "On-Off": "-0.006",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.224",
+        "Off": "0.204",
+        "On-Off": "0.020",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.182",
+        "Off": "0.240",
+        "On-Off": "-0.058",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.221",
+        "Off": "0.514",
+        "On-Off": "-0.293",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.579",
+        "On-Off": "-0.579",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.246",
+        "Off": "0.239",
+        "On-Off": "0.006",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.123",
+        "Off": "0.304",
+        "On-Off": "-0.180",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.104",
+        "Off": "0.138",
+        "On-Off": "-0.034",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.188",
+        "Off": "0.180",
+        "On-Off": "0.009",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.257",
+        "Off": "0.242",
+        "On-Off": "0.016",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.169",
+        "Off": "0.224",
+        "On-Off": "-0.055",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.205",
+        "Off": "0.234",
+        "On-Off": "-0.028",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.195",
+        "Off": "0.191",
+        "On-Off": "0.004",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.172",
+        "Off": "0.253",
+        "On-Off": "-0.081",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.236",
+        "Off": "0.290",
+        "On-Off": "-0.053",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.027",
+        "Off": "0.308",
+        "On-Off": "-0.281",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.295",
+        "Off": "0.179",
+        "On-Off": "0.116",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.154",
+        "Off": "0.208",
+        "On-Off": "-0.054",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.191",
+        "Off": "0.194",
+        "On-Off": "-0.003",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.250",
+        "Off": "0.293",
+        "On-Off": "-0.043",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Kayla McBride",
+        "On": "11.061",
+        "Off": "11.388",
+        "On-Off": "-0.326",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "14.114",
+        "Off": "11.823",
+        "On-Off": "2.291",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "11.313",
+        "Off": "11.819",
+        "On-Off": "-0.506",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "7.472",
+        "Off": "6.895",
+        "On-Off": "0.578",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "8.347",
+        "Off": "7.652",
+        "On-Off": "0.695",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "7.498",
+        "Off": "6.476",
+        "On-Off": "1.021",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "7.170",
+        "Off": "11.600",
+        "On-Off": "-4.430",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "3.700",
+        "Off": "4.218",
+        "On-Off": "-0.518",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "5.136",
+        "Off": "4.784",
+        "On-Off": "0.352",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "6.738",
+        "Off": "7.479",
+        "On-Off": "-0.741",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "6.563",
+        "Off": "5.279",
+        "On-Off": "1.285",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "12.478",
+        "On-Off": "-12.478",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Kayla McBride",
+        "On": "24.642",
+        "Off": "25.335",
+        "On-Off": "-0.693",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "26.091",
+        "Off": "25.026",
+        "On-Off": "1.065",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "24.267",
+        "Off": "23.940",
+        "On-Off": "0.327",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "23.917",
+        "Off": "26.500",
+        "On-Off": "-2.583",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "26.211",
+        "Off": "24.357",
+        "On-Off": "1.854",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "23.800",
+        "Off": "24.300",
+        "On-Off": "-0.500",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "24.483",
+        "Off": "24.493",
+        "On-Off": "-0.010",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "23.550",
+        "Off": "24.540",
+        "On-Off": "-0.990",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "24.080",
+        "Off": "24.843",
+        "On-Off": "-0.763",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "24.828",
+        "Off": "25.310",
+        "On-Off": "-0.483",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "24.212",
+        "Off": "24.564",
+        "On-Off": "-0.353",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "24.000",
+        "Off": "0.000",
+        "On-Off": "24.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.094",
+        "Off": "0.069",
+        "On-Off": "0.025",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.081",
+        "Off": "0.044",
+        "On-Off": "0.037",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.176",
+        "Off": "0.163",
+        "On-Off": "0.013",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.068",
+        "Off": "0.107",
+        "On-Off": "-0.040",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.079",
+        "Off": "0.081",
+        "On-Off": "-0.002",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.178",
+        "Off": "0.224",
+        "On-Off": "-0.047",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.122",
+        "Off": "0.142",
+        "On-Off": "-0.019",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.286",
+        "Off": "0.203",
+        "On-Off": "0.083",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.156",
+        "Off": "0.120",
+        "On-Off": "0.036",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.104",
+        "Off": "0.126",
+        "On-Off": "-0.022",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.207",
+        "Off": "0.188",
+        "On-Off": "0.019",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Kayla McBride",
+        "On": "0.013",
+        "Off": "0.006",
+        "On-Off": "0.007",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.012",
+        "Off": "0.007",
+        "On-Off": "0.005",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "0.011",
+        "Off": "0.053",
+        "On-Off": "-0.041",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.028",
+        "Off": "0.007",
+        "On-Off": "0.021",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "0.025",
+        "Off": "0.025",
+        "On-Off": "-0.000",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "0.075",
+        "Off": "0.090",
+        "On-Off": "-0.015",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "0.040",
+        "Off": "0.018",
+        "On-Off": "0.022",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.125",
+        "Off": "0.105",
+        "On-Off": "0.020",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "0.055",
+        "Off": "0.065",
+        "On-Off": "-0.010",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "0.027",
+        "Off": "0.026",
+        "On-Off": "0.001",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "0.069",
+        "Off": "0.090",
+        "On-Off": "-0.022",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "0.031",
+        "On-Off": "-0.031",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Kayla McBride",
+        "On": "22.316",
+        "Off": "25.341",
+        "On-Off": "-3.024",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "17.813",
+        "Off": "24.834",
+        "On-Off": "-7.021",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "20.930",
+        "Off": "32.381",
+        "On-Off": "-11.451",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "14.913",
+        "Off": "21.583",
+        "On-Off": "-6.670",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "12.112",
+        "Off": "15.882",
+        "On-Off": "-3.770",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "14.738",
+        "Off": "17.544",
+        "On-Off": "-2.806",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "10.804",
+        "Off": "11.045",
+        "On-Off": "-0.241",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "5.405",
+        "Off": "13.287",
+        "On-Off": "-7.881",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "22.266",
+        "Off": "24.894",
+        "On-Off": "-2.628",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "24.601",
+        "Off": "20.051",
+        "On-Off": "4.550",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "12.128",
+        "Off": "14.349",
+        "On-Off": "-2.221",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "13.793",
+        "On-Off": "-13.793",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Kayla McBride",
+        "On": "7.207",
+        "Off": "9.264",
+        "On-Off": "-2.058",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "14.109",
+        "Off": "14.901",
+        "On-Off": "-0.791",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "10.465",
+        "Off": "10.476",
+        "On-Off": "-0.011",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "13.256",
+        "Off": "10.072",
+        "On-Off": "3.184",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "23.643",
+        "Off": "15.882",
+        "On-Off": "7.761",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "12.911",
+        "Off": "16.491",
+        "On-Off": "-3.580",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "8.417",
+        "Off": "3.582",
+        "On-Off": "4.835",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "16.216",
+        "Off": "7.692",
+        "On-Off": "8.524",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "10.156",
+        "Off": "3.830",
+        "On-Off": "6.326",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "10.783",
+        "Off": "12.183",
+        "On-Off": "-1.400",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "12.574",
+        "Off": "14.128",
+        "On-Off": "-1.554",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "12.069",
+        "On-Off": "-12.069",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Kayla McBride",
+        "On": "4.473",
+        "Off": "2.180",
+        "On-Off": "2.293",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "1.235",
+        "Off": "2.318",
+        "On-Off": "-1.083",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "4.070",
+        "Off": "8.095",
+        "On-Off": "-4.025",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "4.225",
+        "Off": "5.396",
+        "On-Off": "-1.170",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "3.488",
+        "Off": "5.000",
+        "On-Off": "-1.512",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "3.776",
+        "Off": "7.719",
+        "On-Off": "-3.943",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.005",
+        "Off": "2.090",
+        "On-Off": "-1.085",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "5.594",
+        "On-Off": "-5.594",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "5.273",
+        "Off": "6.170",
+        "On-Off": "-0.897",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "5.032",
+        "Off": "8.122",
+        "On-Off": "-3.090",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "3.051",
+        "Off": "1.987",
+        "On-Off": "1.064",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "3.448",
+        "On-Off": "-3.448",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Kayla McBride",
+        "On": "3.032",
+        "Off": "1.090",
+        "On-Off": "1.942",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "4.586",
+        "Off": "3.311",
+        "On-Off": "1.274",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "5.814",
+        "Off": "3.810",
+        "On-Off": "2.004",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "4.225",
+        "Off": "6.835",
+        "On-Off": "-2.609",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "2.810",
+        "Off": "2.353",
+        "On-Off": "0.457",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "2.558",
+        "Off": "3.158",
+        "On-Off": "-0.600",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "1.508",
+        "Off": "1.194",
+        "On-Off": "0.314",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "8.108",
+        "Off": "4.895",
+        "On-Off": "3.213",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "3.906",
+        "Off": "4.681",
+        "On-Off": "-0.775",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "4.153",
+        "Off": "5.330",
+        "On-Off": "-1.177",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "2.307",
+        "Off": "3.532",
+        "On-Off": "-1.225",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "5.172",
+        "On-Off": "-5.172",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Kayla McBride",
+        "On": "3.429",
+        "Off": "4.360",
+        "On-Off": "-0.930",
+        "MinutesOn": 1022,
+        "MinutesOff": 186
+      },
+      {
+        "Name": "Natalie Achonwa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "6.173",
+        "Off": "6.291",
+        "On-Off": "-0.119",
+        "MinutesOn": 282,
+        "MinutesOff": 152
+      },
+      {
+        "Name": "Aerial Powers",
+        "On": "3.488",
+        "Off": "4.286",
+        "On-Off": "-0.797",
+        "MinutesOn": 91,
+        "MinutesOff": 104
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "5.385",
+        "Off": "3.957",
+        "On-Off": "1.428",
+        "MinutesOn": 617,
+        "MinutesOff": 146
+      },
+      {
+        "Name": "Lindsay Allen",
+        "On": "10.271",
+        "Off": "7.059",
+        "On-Off": "3.212",
+        "MinutesOn": 525,
+        "MinutesOff": 173
+      },
+      {
+        "Name": "Jessica Shepard",
+        "On": "5.481",
+        "Off": "7.368",
+        "On-Off": "-1.887",
+        "MinutesOn": 417,
+        "MinutesOff": 148
+      },
+      {
+        "Name": "Bridget Carleton",
+        "On": "3.643",
+        "Off": "1.493",
+        "On-Off": "2.151",
+        "MinutesOn": 404,
+        "MinutesOff": 169
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "8.108",
+        "Off": "2.797",
+        "On-Off": "5.311",
+        "MinutesOn": 17,
+        "MinutesOff": 76
+      },
+      {
+        "Name": "Nikolina Milic",
+        "On": "4.688",
+        "Off": "1.915",
+        "On-Off": "2.773",
+        "MinutesOn": 255,
+        "MinutesOff": 239
+      },
+      {
+        "Name": "Diamond Miller",
+        "On": "4.792",
+        "Off": "5.076",
+        "On-Off": "-0.284",
+        "MinutesOn": 629,
+        "MinutesOff": 205
+      },
+      {
+        "Name": "Dorka Juhász",
+        "On": "5.357",
+        "Off": "5.960",
+        "On-Off": "-0.603",
+        "MinutesOn": 690,
+        "MinutesOff": 229
+      },
+      {
+        "Name": "Kayana Traylor",
+        "On": "0.000",
+        "Off": "5.172",
+        "On-Off": "-5.172",
+        "MinutesOn": 4,
+        "MinutesOff": 31
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Napheesa Collier",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Napheesa Collier",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Napheesa Collier"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Napheesa Collier"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

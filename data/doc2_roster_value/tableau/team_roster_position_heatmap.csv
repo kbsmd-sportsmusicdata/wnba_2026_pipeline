@@ -1,0 +1,46 @@
+team_name,team_abbr,rank,position,player_count,flag
+New York Liberty,NYL,1,Guard,1,Gap
+New York Liberty,NYL,1,Forward,3,Normal
+New York Liberty,NYL,1,Center,1,Gap
+Atlanta Dream,ATL,2,Guard,4,Normal
+Atlanta Dream,ATL,2,Forward,3,Normal
+Atlanta Dream,ATL,2,Center,0,Gap
+Los Angeles Sparks,LAS,3,Guard,3,Normal
+Los Angeles Sparks,LAS,3,Forward,4,Normal
+Los Angeles Sparks,LAS,3,Center,0,Gap
+Las Vegas Aces,LVA,4,Guard,4,Normal
+Las Vegas Aces,LVA,4,Forward,2,Normal
+Las Vegas Aces,LVA,4,Center,1,Gap
+Indiana Fever,IND,5,Guard,5,Stack
+Indiana Fever,IND,5,Forward,2,Normal
+Indiana Fever,IND,5,Center,0,Gap
+Phoenix Mercury,PHX,6,Guard,2,Normal
+Phoenix Mercury,PHX,6,Forward,1,Gap
+Phoenix Mercury,PHX,6,Center,0,Gap
+Toronto Tempo,TOR,7,Guard,4,Normal
+Toronto Tempo,TOR,7,Forward,1,Gap
+Toronto Tempo,TOR,7,Center,2,Normal
+Golden State Valkyries,GSV,8,Guard,3,Normal
+Golden State Valkyries,GSV,8,Forward,3,Normal
+Golden State Valkyries,GSV,8,Center,2,Normal
+Washington Mystics,WAS,9,Guard,2,Normal
+Washington Mystics,WAS,9,Forward,2,Normal
+Washington Mystics,WAS,9,Center,0,Gap
+Connecticut Sun,CON,10,Guard,2,Normal
+Connecticut Sun,CON,10,Forward,3,Normal
+Connecticut Sun,CON,10,Center,2,Normal
+Dallas Wings,DAL,11,Guard,5,Stack
+Dallas Wings,DAL,11,Forward,3,Normal
+Dallas Wings,DAL,11,Center,0,Gap
+Minnesota Lynx,MIN,12,Guard,2,Normal
+Minnesota Lynx,MIN,12,Forward,4,Normal
+Minnesota Lynx,MIN,12,Center,0,Gap
+Chicago Sky,CHI,13,Guard,5,Stack
+Chicago Sky,CHI,13,Forward,2,Normal
+Chicago Sky,CHI,13,Center,1,Gap
+Portland Fire,POR,14,Guard,4,Normal
+Portland Fire,POR,14,Forward,1,Gap
+Portland Fire,POR,14,Center,1,Gap
+Seattle Storm,SEA,15,Guard,2,Normal
+Seattle Storm,SEA,15,Forward,0,Gap
+Seattle Storm,SEA,15,Center,2,Normal

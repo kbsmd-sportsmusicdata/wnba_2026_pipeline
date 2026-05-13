@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-pace-efficiency-by-season/wnba with params {'SeasonType': 'Regular Season'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-pace-efficiency-by-season/wnba?SeasonType=Regular+Season",
+  "status": 500,
+  "response_text": "{\"detail\":\"Internal Server Error\"}"
+}

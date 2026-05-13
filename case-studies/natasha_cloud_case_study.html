@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Natasha Cloud Case Study | WNBA Roster Value Framework</title>
+  <style>
+    :root {
+      --bg: #07111f;
+      --bg-2: #0c1727;
+      --panel: rgba(10, 20, 34, 0.88);
+      --panel-2: rgba(12, 24, 39, 0.95);
+      --line: rgba(148, 163, 184, 0.18);
+      --text: #e5eefb;
+      --muted: #93a4bc;
+      --soft: #c5d0e2;
+      --gold: #f59e0b;
+      --gold-2: #fbbf24;
+      --cyan: #38bdf8;
+      --teal: #22c55e;
+      --rose: #fb7185;
+      --violet: #a855f7;
+      --shadow: 0 20px 70px rgba(0, 0, 0, 0.28);
+      --radius: 18px;
+      --radius-sm: 12px;
+      --content: 1240px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 14% 10%, rgba(245, 158, 11, 0.14), transparent 28%),
+        radial-gradient(circle at 88% 12%, rgba(56, 189, 248, 0.11), transparent 22%),
+        linear-gradient(180deg, #050b14 0%, var(--bg) 18%, #08111d 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.5;
+    }
+    a { color: inherit; text-decoration: none; }
+    .page {
+      max-width: 1360px;
+      margin: 0 auto;
+      padding: 24px 18px 48px;
+      display: grid;
+      grid-template-columns: 260px minmax(0, 1fr);
+      gap: 24px;
+    }
+    .sidebar {
+      position: sticky;
+      top: 18px;
+      align-self: start;
+      background: linear-gradient(180deg, rgba(9, 17, 29, 0.98), rgba(12, 20, 34, 0.92));
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      padding: 18px 16px;
+      box-shadow: var(--shadow);
+    }
+    .brand {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 18px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+    .brand-mark {
+      width: 44px; height: 44px; border-radius: 14px;
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.18), rgba(56, 189, 248, 0.18));
+      display: grid; place-items: center;
+      color: var(--gold);
+      border: 1px solid rgba(245, 158, 11, 0.22);
+      font-weight: 700;
+    }
+    .brand-title {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 1.35rem;
+      line-height: 1.05;
+    }
+    .brand-sub {
+      color: var(--muted);
+      font-size: 0.84rem;
+      margin-top: 4px;
+    }
+    .sidebar-note {
+      color: var(--soft);
+      font-size: 0.88rem;
+      padding: 14px 12px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(148, 163, 184, 0.12);
+      margin-bottom: 16px;
+    }
+    .nav {
+      display: grid;
+      gap: 6px;
+      margin-bottom: 16px;
+    }
+    .nav a {
+      padding: 10px 12px;
+      border-radius: 12px;
+      color: var(--soft);
+      background: rgba(255,255,255,0.02);
+      border: 1px solid transparent;
+      transition: all 160ms ease;
+    }
+    .nav a:hover {
+      transform: translateX(2px);
+      border-color: rgba(245, 158, 11, 0.25);
+      color: white;
+      background: rgba(245, 158, 11, 0.06);
+    }
+    .nav .small {
+      display: block;
+      font-size: 0.74rem;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .sidebar-footer {
+      margin-top: 18px;
+      padding-top: 16px;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    .content {
+      display: grid;
+      gap: 18px;
+    }
+    .hero, .section, .callout {
+      background: linear-gradient(180deg, rgba(11, 18, 30, 0.9), rgba(12, 20, 34, 0.82));
+      border: 1px solid rgba(148, 163, 184, 0.16);
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+    }
+    .hero {
+      padding: 28px;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::after {
+      content: "";
+      position: absolute; inset: auto -90px -90px auto;
+      width: 280px; height: 280px;
+      border-radius: 999px;
+      background: radial-gradient(circle, rgba(245, 158, 11, 0.18), transparent 65%);
+      pointer-events: none;
+    }
+    .eyebrow {
+      text-transform: uppercase;
+      letter-spacing: 0.22em;
+      color: var(--gold-2);
+      font-size: 0.72rem;
+      margin-bottom: 12px;
+    }
+    h1, h2, h3 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 700;
+      line-height: 1.05;
+      margin: 0;
+    }
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 5rem);
+      letter-spacing: -0.03em;
+    }
+    .hero-title-row {
+      display: flex;
+      align-items: end;
+      gap: 18px;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+    .hero-chip {
+      font-size: 0.84rem;
+      color: white;
+      background: rgba(245, 158, 11, 0.11);
+      border: 1px solid rgba(245, 158, 11, 0.28);
+      padding: 8px 12px;
+      border-radius: 999px;
+    }
+    .thesis {
+      max-width: 980px;
+      font-size: 1.05rem;
+      color: var(--soft);
+      margin-bottom: 18px;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .stat-card {
+      padding: 16px;
+      border-radius: 18px;
+      border: 1px solid rgba(148, 163, 184, 0.18);
+      background: rgba(255,255,255,0.03);
+      min-height: 108px;
+    }
+    .stat-label {
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .stat-value {
+      font-size: clamp(1.55rem, 2vw, 2.2rem);
+      line-height: 1.1;
+      margin-bottom: 6px;
+    }
+    .stat-copy {
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+    .section {
+      padding: 22px;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      align-items: end;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .section-head p {
+      color: var(--muted);
+      margin: 0;
+      max-width: 820px;
+    }
+    .section-id {
+      color: var(--gold-2);
+      text-transform: uppercase;
+      letter-spacing: 0.2em;
+      font-size: 0.71rem;
+      margin-bottom: 8px;
+    }
+    .framework-grid {
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      gap: 14px;
+    }
+    .thread-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+    .thread-card {
+      border-radius: 18px;
+      padding: 16px;
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      background: rgba(255,255,255,0.03);
+      min-height: 150px;
+    }
+    .thread-num {
+      color: var(--gold);
+      font-size: 0.76rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    .thread-card h3 {
+      font-size: 1.35rem;
+      margin-bottom: 10px;
+    }
+    .thread-card p {
+      color: var(--soft);
+      margin: 0;
+    }
+    .criteria-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 14px;
+    }
+    .criteria-card {
+      border-radius: 16px;
+      padding: 14px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+    }
+    .criteria-card strong {
+      display: block;
+      margin-bottom: 4px;
+    }
+    .criteria-card span {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .formula-strip {
+      display: grid;
+      grid-template-columns: 25% 20% 15% 15% 10% 10% 5%;
+      gap: 4px;
+      border-radius: 18px;
+      overflow: hidden;
+      border: 1px solid rgba(245, 158, 11, 0.22);
+    }
+    .formula-seg {
+      padding: 16px 12px;
+      min-height: 100px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .formula-seg .pct {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    .formula-seg .label {
+      font-size: 0.84rem;
+      color: rgba(255,255,255,0.94);
+    }
+    .orange { background: linear-gradient(180deg, rgba(194, 98, 12, 0.92), rgba(124, 45, 18, 0.92)); }
+    .amber { background: linear-gradient(180deg, rgba(180, 83, 9, 0.88), rgba(99, 43, 13, 0.95)); }
+    .burnt { background: linear-gradient(180deg, rgba(120, 53, 15, 0.9), rgba(75, 31, 11, 0.95)); }
+    .slate { background: linear-gradient(180deg, rgba(51, 65, 85, 0.9), rgba(15, 23, 42, 0.95)); }
+    .violet { background: linear-gradient(180deg, rgba(88, 28, 135, 0.88), rgba(39, 10, 77, 0.95)); }
+    .green { background: linear-gradient(180deg, rgba(22, 101, 52, 0.88), rgba(6, 78, 59, 0.95)); }
+    .navy { background: linear-gradient(180deg, rgba(30, 41, 59, 0.95), rgba(15, 23, 42, 0.98)); }
+    .profile-grid {
+      display: grid;
+      grid-template-columns: 0.9fr 1.35fr 0.85fr;
+      gap: 14px;
+    }
+    .profile-card, .panel {
+      border-radius: 18px;
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      background: rgba(255,255,255,0.03);
+      padding: 16px;
+    }
+    .profile-face {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+    .face-badge {
+      width: 78px;
+      height: 78px;
+      border-radius: 24px;
+      background: radial-gradient(circle at 30% 25%, rgba(245, 158, 11, 0.34), rgba(56, 189, 248, 0.12) 60%, rgba(255,255,255,0.02) 100%);
+      border: 1px solid rgba(245, 158, 11, 0.2);
+      display: grid;
+      place-items: center;
+      font-family: Georgia, serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--gold);
+    }
+    .profile-name {
+      font-size: 1.55rem;
+      margin-bottom: 4px;
+    }
+    .profile-role {
+      color: var(--soft);
+      font-size: 0.95rem;
+    }
+    .profile-meta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px 12px;
+      margin-top: 10px;
+    }
+    .meta-row {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      padding: 8px 0;
+      border-top: 1px solid rgba(148, 163, 184, 0.12);
+    }
+    .meta-row strong {
+      font-size: 0.84rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    .meta-row span {
+      color: var(--text);
+      font-size: 0.95rem;
+    }
+    .sparkline {
+      width: 100%;
+      display: block;
+      overflow: visible;
+    }
+    .spark-grid {
+      stroke: rgba(148, 163, 184, 0.15);
+      stroke-width: 1;
+    }
+    .spark-label, .spark-value, .axis-label, .band-label, .highlight-label, .highlight-sub {
+      fill: var(--soft);
+      font-size: 10px;
+      letter-spacing: 0.02em;
+    }
+    .spark-value {
+      font-size: 14px;
+      font-weight: 700;
+      fill: white;
+    }
+    .mini-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .mini-card {
+      border-radius: 16px;
+      padding: 14px;
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      background: rgba(255,255,255,0.03);
+    }
+    .mini-kicker {
+      color: var(--muted);
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      margin-bottom: 8px;
+    }
+    .mini-value {
+      font-size: 1.8rem;
+      margin-bottom: 2px;
+    }
+    .mini-sub {
+      color: var(--muted);
+      font-size: 0.88rem;
+      margin-bottom: 8px;
+    }
+    .percentile-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+    .percentile-card {
+      border-radius: 14px;
+      padding: 12px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+    }
+    .percentile-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 10px;
+      align-items: baseline;
+    }
+    .percentile-head span {
+      color: var(--soft);
+    }
+    .percentile-head strong {
+      color: white;
+      font-size: 0.95rem;
+    }
+    .bar-track {
+      width: 100%;
+      height: 12px;
+      background: rgba(255,255,255,0.06);
+      border-radius: 999px;
+      overflow: hidden;
+      position: relative;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: inherit;
+    }
+    .percentile-track {
+      height: 10px;
+    }
+    .bar-row + .bar-row {
+      margin-top: 10px;
+    }
+    .bar-meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 6px;
+      color: var(--soft);
+      font-size: 0.9rem;
+    }
+    .bar-label { color: var(--soft); }
+    .bar-value { color: white; font-weight: 600; }
+    .section-grid {
+      display: grid;
+      gap: 12px;
+    }
+    .demand-layout {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 14px;
+    }
+    .score-ring {
+      width: 182px;
+      height: 182px;
+      border-radius: 50%;
+      margin: 0 auto 12px;
+      display: grid;
+      place-items: center;
+      background: conic-gradient(var(--gold) 0 73%, rgba(148, 163, 184, 0.18) 73% 100%);
+      position: relative;
+    }
+    .score-ring::after {
+      content: "";
+      position: absolute;
+      inset: 14px;
+      border-radius: 50%;
+      background: linear-gradient(180deg, rgba(7, 17, 31, 0.96), rgba(12, 20, 34, 0.96));
+      border: 1px solid rgba(148, 163, 184, 0.15);
+    }
+    .score-ring .score {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+    .score-ring .score strong {
+      display: block;
+      font-size: 2.35rem;
+      color: white;
+    }
+    .score-ring .score span {
+      display: block;
+      color: var(--muted);
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+    }
+    .demand-list {
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .bullet {
+      display: flex;
+      gap: 10px;
+      align-items: start;
+      color: var(--soft);
+    }
+    .bullet i {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--gold);
+      flex: 0 0 10px;
+      margin-top: 7px;
+    }
+    .range-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .band-card {
+      padding: 14px;
+      border-radius: 16px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(148, 163, 184, 0.15);
+    }
+    .band-label {
+      color: var(--gold-2);
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      font-size: 0.72rem;
+      margin-bottom: 8px;
+    }
+    .band-range {
+      font-size: 1.45rem;
+      margin-bottom: 6px;
+      color: white;
+    }
+    .band-note {
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+    .range-ruler {
+      margin-top: 14px;
+      height: 14px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(245, 158, 11, 0.2), rgba(56, 189, 248, 0.22), rgba(34, 197, 94, 0.2));
+      position: relative;
+      overflow: hidden;
+      border: 1px solid rgba(148, 163, 184, 0.16);
+    }
+    .range-ruler::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, rgba(7, 17, 31, 0.0), rgba(7, 17, 31, 0.28), rgba(7, 17, 31, 0.0));
+      opacity: .6;
+    }
+    .range-marker {
+      margin-top: 10px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--soft);
+      font-size: 0.9rem;
+    }
+    .marker-dot {
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      background: var(--rose);
+      box-shadow: 0 0 0 4px rgba(251, 113, 133, 0.16);
+      display: inline-block;
+    }
+    .table-wrap {
+      overflow: auto;
+      border-radius: 16px;
+      border: 1px solid rgba(148, 163, 184, 0.15);
+      background: rgba(255,255,255,0.03);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 820px;
+    }
+    th, td {
+      text-align: left;
+      padding: 12px 12px;
+      border-bottom: 1px solid rgba(148, 163, 184, 0.12);
+      vertical-align: top;
+      color: var(--soft);
+      font-size: 0.92rem;
+    }
+    th {
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.72rem;
+      position: sticky;
+      top: 0;
+      background: rgba(12, 20, 34, 0.96);
+      z-index: 1;
+    }
+    tr:last-child td { border-bottom: none; }
+    .comp-rank {
+      color: var(--gold-2);
+      font-weight: 700;
+    }
+    .market-grid {
+      display: grid;
+      grid-template-columns: 1.05fr 0.95fr;
+      gap: 14px;
+    }
+    .market-scatter {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .grid-line {
+      stroke: rgba(148, 163, 184, 0.12);
+      stroke-width: 1;
+    }
+    .ref-line {
+      stroke: rgba(245, 158, 11, 0.45);
+      stroke-dasharray: 5 4;
+      stroke-width: 1.3;
+    }
+    .fair-band {
+      fill: rgba(56, 189, 248, 0.08);
+    }
+    .leader-line {
+      stroke: rgba(245, 158, 11, 0.6);
+      stroke-width: 1.2;
+    }
+    .highlight-label {
+      fill: white;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .highlight-sub {
+      fill: var(--muted);
+      font-size: 10.5px;
+    }
+    .axis-label, .band-label {
+      fill: var(--muted);
+      font-size: 10px;
+    }
+    .foot {
+      margin-top: 14px;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    .callout {
+      padding: 18px 20px;
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 14px;
+      align-items: center;
+    }
+    .callout h3 {
+      font-size: 1.7rem;
+      margin-bottom: 6px;
+    }
+    .callout p {
+      margin: 0;
+      color: var(--soft);
+    }
+    .callout-badge {
+      border-radius: 18px;
+      padding: 18px;
+      text-align: center;
+      background: linear-gradient(180deg, rgba(245, 158, 11, 0.12), rgba(56, 189, 248, 0.06));
+      border: 1px solid rgba(245, 158, 11, 0.25);
+    }
+    .callout-badge .big {
+      display: block;
+      color: var(--gold-2);
+      font-size: 1.9rem;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .callout-badge .small {
+      color: var(--soft);
+      font-size: 0.84rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+    }
+    .footer {
+      color: var(--muted);
+      font-size: 0.82rem;
+      text-align: center;
+      padding: 10px 0 0;
+    }
+    @media (max-width: 1100px) {
+      .page {
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        position: static;
+      }
+      .profile-grid, .framework-grid, .demand-layout, .market-grid, .callout {
+        grid-template-columns: 1fr;
+      }
+      .hero-grid, .mini-grid, .criteria-grid, .range-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .thread-grid {
+        grid-template-columns: 1fr;
+      }
+      .formula-strip {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+    @media (max-width: 720px) {
+      .page {
+        padding: 14px 12px 28px;
+      }
+      .hero, .section, .sidebar, .callout {
+        border-radius: 18px;
+      }
+      .hero-grid, .mini-grid, .criteria-grid, .range-grid {
+        grid-template-columns: 1fr;
+      }
+      .formula-strip {
+        grid-template-columns: 1fr;
+      }
+      .profile-meta {
+        grid-template-columns: 1fr;
+      }
+      table {
+        min-width: 760px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">NC</div>
+        <div>
+          <div class="brand-title">Natasha Cloud</div>
+          <div class="brand-sub">WNBA roster value case study</div>
+        </div>
+      </div>
+      <div class="sidebar-note">
+        Built from the stable Doc 2 foundation first. The on/off branch stays clearly marked as provisional where the workspace only has partial coverage.
+      </div>
+      <nav class="nav">
+        <a href="#overview">Overview <span class="small">Core question and thesis</span></a>
+        <a href="#framework">Framework spine <span class="small">Threads, criteria, formula</span></a>
+        <a href="#profile">Cloud profile <span class="small">Production, trend, utility</span></a>
+        <a href="#demand">Demand and fit <span class="small">Scarcity, demand score, risk</span></a>
+        <a href="#comparables">Comparable contracts <span class="small">Model comps and salary peers</span></a>
+        <a href="#range">Fair salary range <span class="small">Model band and current reference</span></a>
+        <a href="#market">Market structure <span class="small">Scatter and market shift</span></a>
+        <a href="#takeaway">Takeaway <span class="small">Interpretation and next steps</span></a>
+      </nav>
+      <div class="sidebar-footer">
+        <strong style="color:white;">Sources</strong><br />
+        Doc 2 tables, salary history bundle, and pbpstats on/off outputs. All values shown are rendered from local workspace files.
+      </div>
+    </aside>
+
+    <main class="content">
+      <section class="hero" id="overview">
+        <div class="eyebrow">WNBA 2026 roster value framework</div>
+        <div class="hero-title-row">
+          <h1>Natasha Cloud<br />Case Study</h1>
+          <span class="hero-chip">Fair salary range + market demand + role scarcity</span>
+        </div>
+        <div class="thesis">
+          Natasha Cloud profiles as a veteran organizer whose value is driven by playmaking stability, defensive versatility, and playoff utility. The framework model places her in a premium-starter band, while her 2026 Chicago Sky salary reference sits above the model's recommended range.
+        </div>
+        <div class="hero-grid">
+          <div class="stat-card">
+            <div class="stat-label">Model fair range</div>
+            <div class="stat-value">$396,876 - $536,950</div>
+            <div class="stat-copy">Doc 2 value-scores output for the Cloud row.</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">Current 2026 salary</div>
+            <div class="stat-value">$555,000</div>
+            <div class="stat-copy">Canonical 2026 contract row reconciled from the latest transaction log plus salary-history fallback.</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">Framework demand score</div>
+            <div class="stat-value">73/100</div>
+            <div class="stat-copy">Analyst score using the doc's six-input demand rubric.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="framework">
+        <div class="section-head">
+          <div>
+            <div class="section-id">1. Framework spine</div>
+            <h2>Use the same story architecture as the roster-value framework.</h2>
+          </div>
+          <p>
+            The case study mirrors the doc and diagram: core question first, then the four evaluation threads, the six player criteria, the weighted value score, and the roster-grade lens.
+          </p>
+        </div>
+        <div class="framework-grid">
+          <div class="thread-grid">
+            <div class="thread-card">
+              <div class="thread-num">Thread 1</div>
+              <h3>Market Reset Value</h3>
+              <p>Is Cloud priced below the new market, or is the current reference salary carrying a premium beyond the model band?</p>
+            </div>
+            <div class="thread-card">
+              <div class="thread-num">Thread 2</div>
+              <h3>Role Scarcity</h3>
+              <p>How rare is a veteran lead guard who can organize offense, defend the point of attack, and keep playoff mistakes low?</p>
+            </div>
+            <div class="thread-card">
+              <div class="thread-num">Thread 3</div>
+              <h3>Roster Construction Fit</h3>
+              <p>Which teams gain the most when a backcourt needs a stabilizer, connector, and decision-maker rather than a high-usage scorer?</p>
+            </div>
+            <div class="thread-card">
+              <div class="thread-num">Thread 4</div>
+              <h3>Pricing-Out Risk</h3>
+              <p>Did the 2026 cap reset price out some veteran guard profiles, or did it simply reveal how teams pay for stability?</p>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="section-id">6 player criteria</div>
+            <div class="criteria-grid">
+              <div class="criteria-card"><strong>Below-market salary</strong><span>Model range or actual salary gap to fair comp band.</span></div>
+              <div class="criteria-card"><strong>Production strength</strong><span>Usage-adjusted production that survives context changes.</span></div>
+              <div class="criteria-card"><strong>Role scarcity</strong><span>Hard-to-replace 2026 guard profile.</span></div>
+              <div class="criteria-card"><strong>Hidden value</strong><span>Secondary strengths that show up in the table and on/off data.</span></div>
+              <div class="criteria-card"><strong>Salary alignment</strong><span>Does salary track the role or outrun the model?</span></div>
+              <div class="criteria-card"><strong>Risk adjustment</strong><span>Veteran stage, volatility, and regression risk.</span></div>
+            </div>
+            <div class="formula-strip">
+              <div class="formula-seg orange"><div class="pct">25%</div><div class="label">Production percentile</div></div>
+              <div class="formula-seg amber"><div class="pct">20%</div><div class="label">Salary value</div></div>
+              <div class="formula-seg burnt"><div class="pct">15%</div><div class="label">Role scarcity</div></div>
+              <div class="formula-seg burnt"><div class="pct">15%</div><div class="label">Hidden impact</div></div>
+              <div class="formula-seg slate"><div class="pct">10%</div><div class="label">Scalability</div></div>
+              <div class="formula-seg green"><div class="pct">10%</div><div class="label">Playoff utility</div></div>
+              <div class="formula-seg navy"><div class="pct">5%</div><div class="label">Risk</div></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="profile">
+        <div class="section-head">
+          <div>
+            <div class="section-id">2. Cloud profile</div>
+            <h2>Her production still looks like a premium starter, even before the market lens.</h2>
+          </div>
+          <p>
+            Regular-season trend lines show steady assist creation, solid scoring, and a more efficient 2025 shooting profile. The playoff line adds another layer of utility.
+          </p>
+        </div>
+        <div class="profile-grid">
+          <div class="profile-card">
+            <div class="profile-face">
+              <div class="face-badge">NC</div>
+              <div>
+                <div class="profile-name">Natasha Cloud</div>
+                <div class="profile-role">Veteran organizer | Chicago Sky | 2026</div>
+              </div>
+            </div>
+            <div class="profile-meta">
+              <div class="meta-row"><strong>Role band</strong><span>Starter</span></div>
+              <div class="meta-row"><strong>Skill signature</strong><span>balanced</span></div>
+              <div class="meta-row"><strong>Usage</strong><span>17.6</span></div>
+              <div class="meta-row"><strong>TS%</strong><span>54.5%</span></div>
+              <div class="meta-row"><strong>MPG</strong><span>28.6</span></div>
+              <div class="meta-row"><strong>Playoff utility</strong><span>33.0</span></div>
+              <div class="meta-row"><strong>2026 salary</strong><span>$555,000</span></div>
+              <div class="meta-row"><strong>Model value score</strong><span>44.06 (Risk)</span></div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="mini-grid">
+              
+            <article class="mini-card">
+              <div class="mini-kicker">Points per game</div>
+              <div class="mini-value">10.1</div>
+              <div class="mini-sub">Latest regular season value</div>
+              
+    <svg viewBox="0 0 300 96" role="img" aria-label="Trend chart" class="sparkline">
+      <defs>
+        <linearGradient id="spark-fill" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.22"/>
+          <stop offset="100%" stop-color="#f59e0b" stop-opacity="0.02"/>
+        </linearGradient>
+      </defs>
+      <line x1="14" y1="31.0" x2="286" y2="31.0" class="spark-grid" /><line x1="14" y1="48.0" x2="286" y2="48.0" class="spark-grid" /><line x1="14" y1="65.0" x2="286" y2="65.0" class="spark-grid" />
+      <path d="M 14.0,14.0 L 150.0,41.8 L 286.0,82.0 L 286.0,82.0 L 14.0,82.0 Z" fill="url(#spark-fill)" stroke="none"></path>
+      <path d="M 14.0,14.0 L 150.0,41.8 L 286.0,82.0" fill="none" stroke="#f59e0b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="14.0" cy="14.0" r="3.6" fill="#f59e0b" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="150.0" cy="41.8" r="3.6" fill="#f59e0b" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="286.0" cy="82.0" r="3.6" fill="#f59e0b" stroke="rgba(255,255,255,.9)" stroke-width="1.2" />
+      <text x="288" y="24" text-anchor="end" class="spark-value">10.1</text>
+      <text x="14.0" y="93" text-anchor="middle" class="spark-label">2023</text><text x="150.0" y="93" text-anchor="middle" class="spark-label">2024</text><text x="286.0" y="93" text-anchor="middle" class="spark-label">2025</text>
+    </svg>
+    
+            </article>
+            
+            <article class="mini-card">
+              <div class="mini-kicker">Assists per game</div>
+              <div class="mini-value">5.1</div>
+              <div class="mini-sub">Latest regular season value</div>
+              
+    <svg viewBox="0 0 300 96" role="img" aria-label="Trend chart" class="sparkline">
+      <defs>
+        <linearGradient id="spark-fill" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+          <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.02"/>
+        </linearGradient>
+      </defs>
+      <line x1="14" y1="31.0" x2="286" y2="31.0" class="spark-grid" /><line x1="14" y1="48.0" x2="286" y2="48.0" class="spark-grid" /><line x1="14" y1="65.0" x2="286" y2="65.0" class="spark-grid" />
+      <path d="M 14.0,42.6 L 150.0,14.0 L 286.0,82.0 L 286.0,82.0 L 14.0,82.0 Z" fill="url(#spark-fill)" stroke="none"></path>
+      <path d="M 14.0,42.6 L 150.0,14.0 L 286.0,82.0" fill="none" stroke="#38bdf8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="14.0" cy="42.6" r="3.6" fill="#38bdf8" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="150.0" cy="14.0" r="3.6" fill="#38bdf8" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="286.0" cy="82.0" r="3.6" fill="#38bdf8" stroke="rgba(255,255,255,.9)" stroke-width="1.2" />
+      <text x="288" y="24" text-anchor="end" class="spark-value">5.1</text>
+      <text x="14.0" y="93" text-anchor="middle" class="spark-label">2023</text><text x="150.0" y="93" text-anchor="middle" class="spark-label">2024</text><text x="286.0" y="93" text-anchor="middle" class="spark-label">2025</text>
+    </svg>
+    
+            </article>
+            
+            <article class="mini-card">
+              <div class="mini-kicker">Minutes per game</div>
+              <div class="mini-value">28.6</div>
+              <div class="mini-sub">Latest regular season value</div>
+              
+    <svg viewBox="0 0 300 96" role="img" aria-label="Trend chart" class="sparkline">
+      <defs>
+        <linearGradient id="spark-fill" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#22c55e" stop-opacity="0.22"/>
+          <stop offset="100%" stop-color="#22c55e" stop-opacity="0.02"/>
+        </linearGradient>
+      </defs>
+      <line x1="14" y1="31.0" x2="286" y2="31.0" class="spark-grid" /><line x1="14" y1="48.0" x2="286" y2="48.0" class="spark-grid" /><line x1="14" y1="65.0" x2="286" y2="65.0" class="spark-grid" />
+      <path d="M 14.0,28.1 L 150.0,14.0 L 286.0,82.0 L 286.0,82.0 L 14.0,82.0 Z" fill="url(#spark-fill)" stroke="none"></path>
+      <path d="M 14.0,28.1 L 150.0,14.0 L 286.0,82.0" fill="none" stroke="#22c55e" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="14.0" cy="28.1" r="3.6" fill="#22c55e" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="150.0" cy="14.0" r="3.6" fill="#22c55e" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="286.0" cy="82.0" r="3.6" fill="#22c55e" stroke="rgba(255,255,255,.9)" stroke-width="1.2" />
+      <text x="288" y="24" text-anchor="end" class="spark-value">28.6</text>
+      <text x="14.0" y="93" text-anchor="middle" class="spark-label">2023</text><text x="150.0" y="93" text-anchor="middle" class="spark-label">2024</text><text x="286.0" y="93" text-anchor="middle" class="spark-label">2025</text>
+    </svg>
+    
+            </article>
+            
+            <article class="mini-card">
+              <div class="mini-kicker">True shooting</div>
+              <div class="mini-value">54.6%</div>
+              <div class="mini-sub">Latest regular season value</div>
+              
+    <svg viewBox="0 0 300 96" role="img" aria-label="Trend chart" class="sparkline">
+      <defs>
+        <linearGradient id="spark-fill" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="#a855f7" stop-opacity="0.22"/>
+          <stop offset="100%" stop-color="#a855f7" stop-opacity="0.02"/>
+        </linearGradient>
+      </defs>
+      <line x1="14" y1="31.0" x2="286" y2="31.0" class="spark-grid" /><line x1="14" y1="48.0" x2="286" y2="48.0" class="spark-grid" /><line x1="14" y1="65.0" x2="286" y2="65.0" class="spark-grid" />
+      <path d="M 14.0,74.4 L 150.0,82.0 L 286.0,14.0 L 286.0,82.0 L 14.0,82.0 Z" fill="url(#spark-fill)" stroke="none"></path>
+      <path d="M 14.0,74.4 L 150.0,82.0 L 286.0,14.0" fill="none" stroke="#a855f7" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="14.0" cy="74.4" r="3.6" fill="#a855f7" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="150.0" cy="82.0" r="3.6" fill="#a855f7" stroke="rgba(255,255,255,.9)" stroke-width="1.2" /><circle cx="286.0" cy="14.0" r="3.6" fill="#a855f7" stroke="rgba(255,255,255,.9)" stroke-width="1.2" />
+      <text x="288" y="24" text-anchor="end" class="spark-value">0.5</text>
+      <text x="14.0" y="93" text-anchor="middle" class="spark-label">2023</text><text x="150.0" y="93" text-anchor="middle" class="spark-label">2024</text><text x="286.0" y="93" text-anchor="middle" class="spark-label">2025</text>
+    </svg>
+    
+            </article>
+            
+            </div>
+            <div class="table-wrap">
+              <table style="min-width: 760px;">
+                <thead>
+                  <tr>
+                    <th>Season</th><th>Type</th><th>GP</th><th>Minutes</th><th>MPG</th><th>PPG</th><th>APG</th><th>RPG</th><th>SPG</th><th>FG%</th><th>3P%</th><th>FT%</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>2023 PO</td><td>Playoffs</td><td>2</td><td>74</td><td>37.0</td><td>18.5</td><td>8.5</td><td>7.0</td><td>2.0</td><td>43.3%</td><td>50.0%</td><td>100.0%</td></tr><tr><td>2023</td><td>Regular Season</td><td>37</td><td>1,194</td><td>32.3</td><td>12.7</td><td>6.2</td><td>3.7</td><td>1.1</td><td>37.7%</td><td>29.8%</td><td>90.0%</td></tr><tr><td>2024 PO</td><td>Playoffs</td><td>2</td><td>73</td><td>36.5</td><td>24.5</td><td>10.0</td><td>5.5</td><td>1.0</td><td>54.3%</td><td>46.2%</td><td>83.3%</td></tr><tr><td>2024</td><td>Regular Season</td><td>37</td><td>1,230</td><td>33.2</td><td>11.6</td><td>6.9</td><td>4.1</td><td>1.4</td><td>39.6%</td><td>31.4%</td><td>82.6%</td></tr><tr><td>2025 PO</td><td>Playoffs</td><td>3</td><td>103</td><td>34.3</td><td>12.7</td><td>3.0</td><td>3.7</td><td>2.7</td><td>56.5%</td><td>50.0%</td><td>85.7%</td></tr><tr><td>2025</td><td>Regular Season</td><td>41</td><td>1,171</td><td>28.6</td><td>10.1</td><td>5.1</td><td>3.7</td><td>1.2</td><td>43.3%</td><td>33.8%</td><td>87.0%</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="section-id">Playoff utility</div>
+            <div class="stat-value" style="margin-bottom:8px;">34.3 MPG</div>
+            <div class="stat-copy" style="margin-bottom:12px;">2025 playoff burst: 12.7 PPG, 3.0 APG, 2.7 SPG.</div>
+            <div class="bar-row">
+              <div class="bar-meta"><span class="bar-label">Points</span><span class="bar-value">12.7</span></div>
+              <div class="bar-track"><div class="bar-fill" style="width:76.0%; background: linear-gradient(90deg, #f59e0b, #fb7185);"></div></div>
+            </div>
+            <div class="bar-row">
+              <div class="bar-meta"><span class="bar-label">Assists</span><span class="bar-value">3.0</span></div>
+              <div class="bar-track"><div class="bar-fill" style="width:30.0%; background: linear-gradient(90deg, #38bdf8, #a855f7);"></div></div>
+            </div>
+            <div class="bar-row">
+              <div class="bar-meta"><span class="bar-label">Steals</span><span class="bar-value">2.7</span></div>
+              <div class="bar-track"><div class="bar-fill" style="width:80.0%; background: linear-gradient(90deg, #22c55e, #38bdf8);"></div></div>
+            </div>
+            <div class="demand-list" style="margin-top:16px;">
+              <div class="bullet"><i></i><span>2025 regular season: 10.1 PPG, 5.1 APG, 1.2 SPG.</span></div>
+              <div class="bullet"><i></i><span>2025 shooting: 43.3% FG, 33.8% 3P, 87.0% FT.</span></div>
+              <div class="bullet"><i></i><span>2025 playoff sample: 3 games and 103 minutes.</span></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="demand">
+        <div class="section-head">
+          <div>
+            <div class="section-id">3. Demand and fit</div>
+            <h2>Demand is high because the role is scarce, not because the box score is loud.</h2>
+          </div>
+          <p>
+            This score is an analyst judgment built from the framework's demand rubric. It is intentionally separate from the value-score output so the story can distinguish market appetite from production model output.
+          </p>
+        </div>
+        <div class="demand-layout">
+          <div class="panel">
+            <div class="score-ring">
+              <div class="score">
+                <strong>73</strong>
+                <span>Demand score</span>
+              </div>
+            </div>
+            <div class="demand-list">
+              <div class="bullet"><i></i><span>Veteran lead-guard stability and half-court organization remain scarce.</span></div><div class="bullet"><i></i><span>Point-of-attack defense, playmaking, and low-mistake decision-making still travel well into the playoffs.</span></div><div class="bullet"><i></i><span>The framework model reads her as a premium starter profile, but not as a max-tier production bet.</span></div><div class="bullet"><i></i><span>Expansion and contender builds still need a connector who can calm a young or unstable backcourt.</span></div>
+            </div>
+          </div>
+          <div class="panel">
+            <div class="percentile-grid">
+              
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>Scoring</span>
+                <strong>63th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(195, 95%, 58%, .95), hsla(195, 95%, 40%, .9)); width: 63.1%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>Playmaking</span>
+                <strong>92th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(34, 95%, 58%, .95), hsla(34, 95%, 40%, .9)); width: 92.3%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>Steals</span>
+                <strong>75th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(34, 95%, 58%, .95), hsla(34, 95%, 40%, .9)); width: 75.4%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>FG%</span>
+                <strong>58th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(195, 95%, 58%, .95), hsla(195, 95%, 40%, .9)); width: 57.7%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>3PT%</span>
+                <strong>57th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(195, 95%, 58%, .95), hsla(195, 95%, 40%, .9)); width: 56.8%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>FT%</span>
+                <strong>85th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(34, 95%, 58%, .95), hsla(34, 95%, 40%, .9)); width: 85.0%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>Turnover control</span>
+                <strong>30th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(15, 95%, 58%, .95), hsla(15, 95%, 40%, .9)); width: 30.0%"></div>
+              </div>
+            </div>
+            
+            <div class="percentile-card">
+              <div class="percentile-head">
+                <span>Minutes</span>
+                <strong>78th pct</strong>
+              </div>
+              <div class="bar-track percentile-track">
+                <div class="bar-fill" style="background: linear-gradient(90deg, hsla(34, 95%, 58%, .95), hsla(34, 95%, 40%, .9)); width: 78.5%"></div>
+              </div>
+            </div>
+            
+            </div>
+            <div class="foot">
+              Percentiles are league-wide among 2025 regular-season players with at least 300 minutes. Turnover control is inverted so a lower turnover rate scores higher.
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="comparables">
+        <div class="section-head">
+          <div>
+            <div class="section-id">4. Comparable contracts</div>
+            <h2>The model finds a small but useful comp set, and two of the three comps already have live 2026 salary references.</h2>
+          </div>
+          <p>
+            The nearby comps are compact enough to explain in the notebook, and they make the salary-band argument more concrete than a broad league average would.
+          </p>
+        </div>
+        
+    <div class="table-wrap ">
+      <table>
+        <thead><tr><th>Rank</th><th>Comparable</th><th>Team</th><th>Role band</th><th>Basis</th><th>Similarity</th><th>Salary reference</th><th>Salary source</th></tr></thead>
+        <tbody>
+          <tr><td><span class="comp-rank">#1</span></td><td>Azzi Fudd</td><td>Dallas Wings</td><td></td><td>Starter similarity</td><td>98.47</td><td>$500,000</td><td>2026 contract</td></tr><tr><td><span class="comp-rank">#2</span></td><td>Valériane Ayayi</td><td>Phoenix Mercury</td><td></td><td>Starter similarity</td><td>98.47</td><td>$500,000</td><td>2026 contract</td></tr><tr><td><span class="comp-rank">#3</span></td><td>Olivia Miles</td><td>Minnesota Lynx</td><td></td><td>Starter similarity</td><td>98.33</td><td>$466,913</td><td>2026 contract</td></tr>
+        </tbody>
+      </table>
+    </div>
+    
+        <div class="foot">
+          Reserved or expansion-placeholder comps are kept in the table when they are part of the model neighborhood, but their salary cell is labeled when the bundle does not surface a current figure.
+        </div>
+      </section>
+
+      <section class="section" id="range">
+        <div class="section-head">
+          <div>
+            <div class="section-id">5. Fair salary range</div>
+            <h2>Show the range ladder plainly, then place the current reference salary against it.</h2>
+          </div>
+          <p>
+            The point of the section is not to hide the model. The point is to make the framework's recommendation legible and to show where the 2026 salary sits relative to it.
+          </p>
+        </div>
+        <div class="range-grid">
+          
+            <div class="band-card">
+              <div class="band-label">Conservative</div>
+              <div class="band-range">$235,875 - $275,000</div>
+              <div class="band-note">A floor for cautious teams.</div>
+            </div>
+            
+            <div class="band-card">
+              <div class="band-label">Market fair</div>
+              <div class="band-range">$275,000 - $319,125</div>
+              <div class="band-note">Closest to the model&#x27;s recommended band.</div>
+            </div>
+            
+            <div class="band-card">
+              <div class="band-label">Premium fit</div>
+              <div class="band-range">$320,000 - $400,000</div>
+              <div class="band-note">For teams paying for guard stability and playoff calm.</div>
+            </div>
+            
+            <div class="band-card">
+              <div class="band-label">Stretch / premium</div>
+              <div class="band-range">$400,000 - $555,000</div>
+              <div class="band-note">Where the 2026 salary reference lives.</div>
+            </div>
+            
+        </div>
+        <div class="range-ruler"></div>
+        
+    <div class="range-marker">
+      <span class="marker-dot"></span>
+      <span>Current 2026 salary reference $555,000</span>
+    </div>
+    
+        <div class="callout" style="margin-top:16px;">
+          <div>
+            <div class="section-id">Value score</div>
+            <h3>44.06 on a 0-100 scale.</h3>
+            <p>
+              The current Doc 2 model reads Cloud as a premium starter, not an undervalued bargain. That is exactly why this case study is interesting: it separates role scarcity and market demand from the model's production-based fair band.
+            </p>
+          </div>
+          <div class="callout-badge">
+            <span class="big">Risk</span>
+            <span class="small">Framework value label</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="market">
+        <div class="section-head">
+          <div>
+            <div class="section-id">6. Market structure</div>
+            <h2>Place Cloud inside the broader value-versus-salary market, then show how the league moved year to year.</h2>
+          </div>
+          <p>
+            The scatter uses all players with usable value-score rows. Cloud is highlighted against the model fair band, so the notebook can show both market shape and individual fit in one view.
+          </p>
+        </div>
+        <div class="market-grid">
+          <div class="panel">
+            
+    <svg viewBox="0 0 820 470" class="market-scatter" role="img" aria-label="Value versus salary scatter plot">
+      <line x1="147.5" y1="18" x2="147.5" y2="418" class="grid-line" /><text x="147.5" y="448" text-anchor="middle" class="axis-label">30</text><line x1="241.0" y1="18" x2="241.0" y2="418" class="grid-line" /><text x="241.0" y="448" text-anchor="middle" class="axis-label">40</text><line x1="334.5" y1="18" x2="334.5" y2="418" class="grid-line" /><text x="334.5" y="448" text-anchor="middle" class="axis-label">50</text><line x1="428.0" y1="18" x2="428.0" y2="418" class="grid-line" /><text x="428.0" y="448" text-anchor="middle" class="axis-label">60</text><line x1="521.5" y1="18" x2="521.5" y2="418" class="grid-line" /><text x="521.5" y="448" text-anchor="middle" class="axis-label">70</text><line x1="615.0" y1="18" x2="615.0" y2="418" class="grid-line" /><text x="615.0" y="448" text-anchor="middle" class="axis-label">80</text><line x1="708.5" y1="18" x2="708.5" y2="418" class="grid-line" /><text x="708.5" y="448" text-anchor="middle" class="axis-label">90</text><line x1="54" y1="418.0" x2="802" y2="418.0" class="grid-line" /><text x="44" y="422.0" text-anchor="end" class="axis-label">$0</text><line x1="54" y1="350.0" x2="802" y2="350.0" class="grid-line" /><text x="44" y="354.0" text-anchor="end" class="axis-label">$0.2M</text><line x1="54" y1="281.9" x2="802" y2="281.9" class="grid-line" /><text x="44" y="285.9" text-anchor="end" class="axis-label">$0.5M</text><line x1="54" y1="213.9" x2="802" y2="213.9" class="grid-line" /><text x="44" y="217.9" text-anchor="end" class="axis-label">$0.8M</text><line x1="54" y1="145.9" x2="802" y2="145.9" class="grid-line" /><text x="44" y="149.9" text-anchor="end" class="axis-label">$1.0M</text><line x1="54" y1="77.9" x2="802" y2="77.9" class="grid-line" /><text x="44" y="81.9" text-anchor="end" class="axis-label">$1.2M</text><line x1="54" y1="37.0" x2="802" y2="37.0" class="grid-line" /><text x="44" y="41.0" text-anchor="end" class="axis-label">$1.4M</text>
+      <line x1="428.0" y1="18" x2="428.0" y2="418" class="ref-line" />
+      <rect x="54" y="271.9" width="748" height="38.1" class="fair-band" />
+      <text x="64" y="289.9" class="band-label">Model fair band</text>
+      <line x1="54" y1="267.0" x2="261.0" y2="267.0" class="leader-line" />
+      <circle cx="279.0" cy="267.0" r="8.5" fill="#f59e0b" stroke="#ffffff" stroke-width="1.6" />
+      <circle cx="279.0" cy="267.0" r="18" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-opacity=".45" />
+      <text x="291.0" y="255.0" class="highlight-label">Natasha Cloud</text>
+      <text x="291.0" y="271.0" class="highlight-sub">Model value score 44.06 | current 2026 salary $555,000</text>
+      <circle cx="294.3" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="318.5" cy="322.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="313.6" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="236.1" cy="241.1" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="190.4" cy="400.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="293.3" cy="189.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="306.4" cy="118.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="227.6" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="175.3" cy="342.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="274.4" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="302.3" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="260.4" cy="213.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="303.2" cy="241.1" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="257.1" cy="254.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="314.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="268.7" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="233.7" cy="308.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="309.8" cy="292.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="243.9" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="255.9" cy="302.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="286.9" cy="300.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="295.9" cy="167.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="259.3" cy="315.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="257.4" cy="327.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="300.7" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="266.4" cy="412.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="249.7" cy="272.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="311.7" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="231.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="330.4" cy="218.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="333.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="287.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="259.0" cy="371.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="325.4" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="330.6" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="306.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="277.5" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="126.6" cy="275.1" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="290.6" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="262.0" cy="281.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="303.2" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="183.8" cy="342.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="275.2" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="289.2" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="262.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="208.2" cy="306.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="230.5" cy="396.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="204.4" cy="281.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="311.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="310.2" cy="281.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="242.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="341.0" cy="281.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="266.1" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="242.6" cy="295.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="221.2" cy="281.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="314.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="209.4" cy="254.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="198.3" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="227.1" cy="338.1" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="321.2" cy="213.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="235.9" cy="316.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="266.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="297.8" cy="254.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="332.8" cy="166.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="251.5" cy="403.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="320.5" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="163.6" cy="274.1" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="235.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="243.2" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="298.1" cy="37.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="277.5" cy="209.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="298.1" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="228.1" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="209.3" cy="200.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="298.3" cy="332.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="249.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="183.9" cy="237.0" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="250.3" cy="393.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="257.2" cy="309.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="371.6" cy="37.0" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="227.3" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="378.8" cy="145.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="334.5" cy="342.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="299.3" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="304.6" cy="314.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="380.2" cy="94.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="244.8" cy="200.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="335.5" cy="342.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="247.7" cy="295.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="147.4" cy="311.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="254.9" cy="407.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="260.4" cy="122.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="262.5" cy="283.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="309.3" cy="118.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="311.2" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="251.9" cy="247.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="236.9" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="350.8" cy="145.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="318.0" cy="159.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="273.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="237.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="237.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="230.6" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="327.4" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="268.8" cy="331.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="210.1" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="350.0" cy="94.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="281.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="347.8" cy="37.0" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="355.2" cy="227.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="237.5" cy="322.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="290.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="351.5" cy="309.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="357.0" cy="94.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="228.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="255.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="381.4" cy="94.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="373.8" cy="338.1" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="289.2" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="279.0" cy="267.0" r="7.5" fill="#f43f5e" fill-opacity="1.0" stroke="rgba(255,255,255,.85)" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="236.0" cy="322.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="294.6" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="348.2" cy="94.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="349.4" cy="196.2" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="360.9" cy="91.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="351.7" cy="281.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="336.5" cy="91.5" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="383.5" cy="390.8" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="284.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="260.4" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="219.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="286.8" cy="336.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="308.7" cy="335.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="314.7" cy="218.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="262.0" cy="281.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="281.4" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="233.3" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="273.9" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="269.0" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="235.4" cy="336.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="256.0" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="245.0" cy="320.0" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="244.8" cy="329.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="280.6" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="217.7" cy="281.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="276.8" cy="338.1" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="251.4" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="226.1" cy="302.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="274.0" cy="327.8" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="299.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="290.6" cy="290.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="240.6" cy="77.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="333.7" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="188.0" cy="281.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="243.3" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="235.3" cy="327.6" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="171.3" cy="303.7" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="212.1" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="235.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="407.2" cy="213.9" r="3.0" fill="#60a5fa" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="237.1" cy="213.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="220.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="259.9" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.9" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="218.7" cy="309.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="225.5" cy="302.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="280.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="321.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="231.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="212.4" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="237.7" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="289.5" cy="91.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="305.6" cy="299.1" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="219.8" cy="145.9" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="339.3" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="271.0" cy="321.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="296.3" cy="307.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="270.5" cy="307.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="271.5" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="250.8" cy="342.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="233.1" cy="227.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="285.7" cy="94.2" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="289.6" cy="299.4" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" /><circle cx="278.5" cy="344.5" r="3.0" fill="#f43f5e" fill-opacity="0.28" stroke="none" stroke-width="1.5" />
+    </svg>
+    
+            <div class="foot">
+              X-axis: value score. Y-axis: salary reference. The highlighted dot uses the current 2026 salary reference from the salary-history bundle.
+            </div>
+          </div>
+          <div class="panel">
+            <div class="section-id">Market shift by season</div>
+            <div class="table-wrap" style="margin-bottom:12px;">
+              <table style="min-width: 580px;">
+                <thead>
+                  <tr>
+                    <th>Season</th><th>Players</th><th>Mean salary</th><th>Median</th><th>Min</th><th>Max</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr><td>2023</td><td>131</td><td>$114,863</td><td>$97,100</td><td>$2,541</td><td>$241,984</td></tr><tr><td>2024</td><td>150</td><td>$107,657</td><td>$90,000</td><td>$1,666</td><td>$269,244</td></tr><tr><td>2025</td><td>155</td><td>$565,936</td><td>$410,000</td><td>$100,000</td><td>$1,400,000</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="panel" style="padding:14px;">
+              <div class="section-id">Cloud salary line</div>
+              
+    <div class="bar-row">
+      <div class="bar-meta">
+        <span class="bar-label">2025 salary reference</span>
+        <span class="bar-value">200,000.0</span>
+      </div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:14.3%"></div>
+      </div>
+    </div>
+    
+    <div class="bar-row">
+      <div class="bar-meta">
+        <span class="bar-label">2026 salary reference</span>
+        <span class="bar-value">555,000.0</span>
+      </div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:39.6%"></div>
+      </div>
+    </div>
+    
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="takeaway">
+        <div class="section-head">
+          <div>
+            <div class="section-id">7. Takeaway</div>
+            <h2>The portfolio story is the tension between market demand and production-based fairness.</h2>
+          </div>
+          <p>
+            The framework does not flatten Cloud into one label. It shows why the market might pay for her, what the model thinks that role is worth, and how to talk about the difference without hand-waving.
+          </p>
+        </div>
+        <div class="callout">
+          <div>
+            <h3>Cloud reads as a contender-grade organizer whose value is strongest when a team needs calm, defense, and playmaking more than volume scoring.</h3>
+            <p>
+              That is the cleanest portfolio angle: start with the framework spine, show the production trend and percentiles, then use the comp table and salary band to explain why the current 2026 salary and the model fair band are not the same thing.
+            </p>
+          </div>
+          <div class="callout-badge">
+            <span class="big">$396,876 - $536,950</span>
+            <span class="small">Model fair range</span>
+          </div>
+        </div>
+        <div class="footer">Natasha Cloud case study notebook | generated from local Doc 2 tables and salary history bundle</div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

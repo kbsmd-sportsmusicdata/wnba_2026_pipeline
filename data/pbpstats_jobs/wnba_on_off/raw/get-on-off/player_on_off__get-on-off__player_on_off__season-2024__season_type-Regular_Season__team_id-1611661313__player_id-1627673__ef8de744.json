@@ -1,0 +1,6336 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.521",
+        "Off": "0.667",
+        "On-Off": "-0.146",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.368",
+        "Off": "0.538",
+        "On-Off": "-0.170",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.552",
+        "Off": "0.476",
+        "On-Off": "0.076",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.771",
+        "Off": "0.694",
+        "On-Off": "0.077",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.510",
+        "Off": "0.417",
+        "On-Off": "0.094",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.842",
+        "Off": "0.850",
+        "On-Off": "-0.008",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.692",
+        "Off": "0.625",
+        "On-Off": "0.067",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.615",
+        "Off": "0.757",
+        "On-Off": "-0.141",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.429",
+        "Off": "1.000",
+        "On-Off": "-0.571",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.667",
+        "Off": "0.500",
+        "On-Off": "0.167",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.521",
+        "Off": "0.667",
+        "On-Off": "-0.146",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.500",
+        "Off": "0.538",
+        "On-Off": "-0.038",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.571",
+        "Off": "0.500",
+        "On-Off": "0.071",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.786",
+        "Off": "0.754",
+        "On-Off": "0.031",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.516",
+        "Off": "0.417",
+        "On-Off": "0.099",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.842",
+        "Off": "0.944",
+        "On-Off": "-0.102",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.818",
+        "Off": "0.667",
+        "On-Off": "0.152",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.800",
+        "Off": "0.875",
+        "On-Off": "-0.075",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.429",
+        "Off": "1.000",
+        "On-Off": "-0.571",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.667",
+        "Off": "0.500",
+        "On-Off": "0.167",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.923",
+        "Off": "1.000",
+        "On-Off": "-0.077",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.929",
+        "Off": "0.778",
+        "On-Off": "0.151",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.805",
+        "Off": "0.760",
+        "On-Off": "0.045",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.875",
+        "Off": "0.625",
+        "On-Off": "0.250",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.277",
+        "Off": "0.250",
+        "On-Off": "0.027",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.366",
+        "Off": "0.341",
+        "On-Off": "0.025",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.419",
+        "Off": "0.312",
+        "On-Off": "0.106",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.277",
+        "Off": "0.327",
+        "On-Off": "-0.050",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.333",
+        "Off": "0.329",
+        "On-Off": "0.004",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.344",
+        "Off": "0.154",
+        "On-Off": "0.190",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.443",
+        "Off": "0.410",
+        "On-Off": "0.033",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.308",
+        "Off": "0.500",
+        "On-Off": "-0.192",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.277",
+        "Off": "0.250",
+        "On-Off": "0.027",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.370",
+        "Off": "0.341",
+        "On-Off": "0.029",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.419",
+        "Off": "0.312",
+        "On-Off": "0.106",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.277",
+        "Off": "0.333",
+        "On-Off": "-0.056",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.333",
+        "Off": "0.329",
+        "On-Off": "0.004",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.344",
+        "Off": "0.154",
+        "On-Off": "0.190",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.443",
+        "Off": "0.410",
+        "On-Off": "0.033",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.308",
+        "Off": "0.500",
+        "On-Off": "-0.192",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.552",
+        "Off": "0.536",
+        "On-Off": "0.016",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.422",
+        "Off": "0.406",
+        "On-Off": "0.016",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.518",
+        "Off": "0.429",
+        "On-Off": "0.089",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.530",
+        "Off": "0.492",
+        "On-Off": "0.038",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.453",
+        "Off": "0.493",
+        "On-Off": "-0.040",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.543",
+        "Off": "0.513",
+        "On-Off": "0.030",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.500",
+        "Off": "0.667",
+        "On-Off": "-0.167",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.722",
+        "Off": "0.552",
+        "On-Off": "0.170",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.412",
+        "Off": "0.133",
+        "On-Off": "0.278",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.500",
+        "Off": "0.222",
+        "On-Off": "0.278",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.600",
+        "Off": "0.667",
+        "On-Off": "-0.067",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.504",
+        "Off": "0.469",
+        "On-Off": "0.035",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.504",
+        "Off": "0.467",
+        "On-Off": "0.037",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.566",
+        "Off": "0.438",
+        "On-Off": "0.127",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.501",
+        "Off": "0.492",
+        "On-Off": "0.010",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.478",
+        "Off": "0.493",
+        "On-Off": "-0.015",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.530",
+        "Off": "0.400",
+        "On-Off": "0.130",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.604",
+        "Off": "0.635",
+        "On-Off": "-0.031",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.684",
+        "Off": "0.544",
+        "On-Off": "0.140",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.442",
+        "Off": "0.452",
+        "On-Off": "-0.010",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.577",
+        "Off": "0.222",
+        "On-Off": "0.355",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.429",
+        "Off": "0.714",
+        "On-Off": "-0.286",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.514",
+        "Off": "0.472",
+        "On-Off": "0.042",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.523",
+        "Off": "0.506",
+        "On-Off": "0.017",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.597",
+        "Off": "0.479",
+        "On-Off": "0.118",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.570",
+        "Off": "0.552",
+        "On-Off": "0.018",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.521",
+        "Off": "0.522",
+        "On-Off": "-0.001",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.529",
+        "Off": "0.421",
+        "On-Off": "0.108",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.609",
+        "Off": "0.647",
+        "On-Off": "-0.038",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.700",
+        "Off": "0.595",
+        "On-Off": "0.105",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.480",
+        "Off": "0.514",
+        "On-Off": "-0.033",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.571",
+        "Off": "0.364",
+        "On-Off": "0.208",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.438",
+        "Off": "0.667",
+        "On-Off": "-0.229",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.351",
+        "Off": "0.417",
+        "On-Off": "-0.066",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.646",
+        "Off": "0.579",
+        "On-Off": "0.067",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.434",
+        "Off": "0.246",
+        "On-Off": "0.188",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.254",
+        "Off": "0.304",
+        "On-Off": "-0.049",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.537",
+        "Off": "0.510",
+        "On-Off": "0.027",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.478",
+        "Off": "0.400",
+        "On-Off": "0.078",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.629",
+        "Off": "0.619",
+        "On-Off": "0.010",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.053",
+        "Off": "0.015",
+        "On-Off": "0.038",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.605",
+        "Off": "0.516",
+        "On-Off": "0.089",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.286",
+        "Off": "0.571",
+        "On-Off": "-0.286",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.020",
+        "Off": "0.000",
+        "On-Off": "0.020",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.004",
+        "Off": "0.026",
+        "On-Off": "-0.022",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.062",
+        "Off": "0.000",
+        "On-Off": "0.062",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.023",
+        "Off": "0.026",
+        "On-Off": "-0.003",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.126",
+        "Off": "0.036",
+        "On-Off": "0.091",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.133",
+        "Off": "0.156",
+        "On-Off": "-0.023",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.027",
+        "Off": "0.061",
+        "On-Off": "-0.034",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.044",
+        "Off": "0.048",
+        "On-Off": "-0.004",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.090",
+        "Off": "0.027",
+        "On-Off": "0.062",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.057",
+        "Off": "0.077",
+        "On-Off": "-0.020",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.038",
+        "Off": "0.000",
+        "On-Off": "0.038",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.167",
+        "Off": "0.194",
+        "On-Off": "-0.027",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.176",
+        "Off": "0.067",
+        "On-Off": "0.110",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.083",
+        "Off": "0.111",
+        "On-Off": "-0.028",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "15.635",
+        "Off": "18.571",
+        "On-Off": "-2.936",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "12.532",
+        "Off": "13.880",
+        "On-Off": "-1.349",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "17.761",
+        "Off": "20.423",
+        "On-Off": "-2.661",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "25.365",
+        "Off": "30.211",
+        "On-Off": "-4.846",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "26.691",
+        "Off": "30.308",
+        "On-Off": "-3.617",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "16.667",
+        "Off": "15.654",
+        "On-Off": "1.013",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "13.665",
+        "Off": "13.722",
+        "On-Off": "-0.058",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "14.789",
+        "Off": "14.095",
+        "On-Off": "0.694",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "17.949",
+        "Off": "17.375",
+        "On-Off": "0.574",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "23.810",
+        "Off": "11.304",
+        "On-Off": "12.505",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "39.130",
+        "Off": "15.625",
+        "On-Off": "23.505",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.523",
+        "Off": "0.583",
+        "On-Off": "-0.061",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.235",
+        "Off": "0.167",
+        "On-Off": "0.069",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.340",
+        "Off": "0.500",
+        "On-Off": "-0.160",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.468",
+        "Off": "0.389",
+        "On-Off": "0.079",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.593",
+        "Off": "0.667",
+        "On-Off": "-0.074",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.500",
+        "Off": "0.467",
+        "On-Off": "0.033",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.655",
+        "Off": "0.500",
+        "On-Off": "0.155",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.800",
+        "Off": "0.556",
+        "On-Off": "0.244",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.447",
+        "Off": "0.400",
+        "On-Off": "0.047",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.132",
+        "Off": "0.083",
+        "On-Off": "0.048",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.056",
+        "Off": "0.000",
+        "On-Off": "0.056",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.081",
+        "Off": "0.155",
+        "On-Off": "-0.074",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.070",
+        "Off": "0.065",
+        "On-Off": "0.006",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.091",
+        "Off": "0.077",
+        "On-Off": "0.014",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.193",
+        "Off": "0.241",
+        "On-Off": "-0.048",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.102",
+        "Off": "0.114",
+        "On-Off": "-0.013",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.067",
+        "Off": "0.081",
+        "On-Off": "-0.014",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.111",
+        "Off": "0.062",
+        "On-Off": "0.049",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.098",
+        "Off": "0.250",
+        "On-Off": "-0.152",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.048",
+        "Off": "0.027",
+        "On-Off": "0.021",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.091",
+        "Off": "0.111",
+        "On-Off": "-0.020",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.023",
+        "Off": "0.024",
+        "On-Off": "-0.001",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.042",
+        "Off": "0.013",
+        "On-Off": "0.029",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.031",
+        "Off": "0.046",
+        "On-Off": "-0.015",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.039",
+        "Off": "0.079",
+        "On-Off": "-0.040",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.028",
+        "Off": "0.007",
+        "On-Off": "0.021",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.030",
+        "Off": "0.024",
+        "On-Off": "0.006",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.036",
+        "Off": "0.023",
+        "On-Off": "0.013",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.200",
+        "Off": "0.082",
+        "On-Off": "0.118",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.039",
+        "Off": "0.054",
+        "On-Off": "-0.014",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.067",
+        "Off": "0.042",
+        "On-Off": "0.025",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.112",
+        "Off": "0.066",
+        "On-Off": "0.047",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.101",
+        "Off": "0.110",
+        "On-Off": "-0.008",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.134",
+        "Off": "0.129",
+        "On-Off": "0.006",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.171",
+        "Off": "0.220",
+        "On-Off": "-0.049",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.131",
+        "Off": "0.149",
+        "On-Off": "-0.018",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.137",
+        "Off": "0.113",
+        "On-Off": "0.024",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.120",
+        "Off": "0.075",
+        "On-Off": "0.045",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.067",
+        "Off": "0.177",
+        "On-Off": "-0.110",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.096",
+        "Off": "0.107",
+        "On-Off": "-0.011",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.013",
+        "Off": "0.015",
+        "On-Off": "-0.002",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.086",
+        "Off": "0.047",
+        "On-Off": "0.038",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.048",
+        "Off": "0.013",
+        "On-Off": "0.035",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.048",
+        "Off": "0.059",
+        "On-Off": "-0.010",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.022",
+        "Off": "0.040",
+        "On-Off": "-0.018",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.033",
+        "Off": "0.047",
+        "On-Off": "-0.014",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.063",
+        "Off": "0.068",
+        "On-Off": "-0.005",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.174",
+        "Off": "0.092",
+        "On-Off": "0.081",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.032",
+        "Off": "0.041",
+        "On-Off": "-0.009",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.091",
+        "Off": "0.120",
+        "On-Off": "-0.029",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.083",
+        "Off": "0.081",
+        "On-Off": "0.002",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.108",
+        "Off": "0.098",
+        "On-Off": "0.010",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.185",
+        "Off": "0.233",
+        "On-Off": "-0.049",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.112",
+        "Off": "0.127",
+        "On-Off": "-0.015",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.091",
+        "Off": "0.092",
+        "On-Off": "-0.001",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.114",
+        "Off": "0.067",
+        "On-Off": "0.047",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.089",
+        "Off": "0.224",
+        "On-Off": "-0.135",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.070",
+        "Off": "0.049",
+        "On-Off": "0.021",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.042",
+        "Off": "0.120",
+        "On-Off": "-0.078",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.018",
+        "Off": "0.020",
+        "On-Off": "-0.002",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.064",
+        "Off": "0.029",
+        "On-Off": "0.036",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.040",
+        "Off": "0.033",
+        "On-Off": "0.007",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.044",
+        "Off": "0.070",
+        "On-Off": "-0.026",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.025",
+        "Off": "0.023",
+        "On-Off": "0.002",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.032",
+        "Off": "0.035",
+        "On-Off": "-0.003",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.050",
+        "Off": "0.044",
+        "On-Off": "0.006",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.188",
+        "Off": "0.087",
+        "On-Off": "0.101",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.035",
+        "Off": "0.048",
+        "On-Off": "-0.013",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.043",
+        "Off": "0.029",
+        "On-Off": "0.014",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.012",
+        "Off": "0.062",
+        "On-Off": "-0.050",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.017",
+        "Off": "0.000",
+        "On-Off": "0.017",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.013",
+        "Off": "0.069",
+        "On-Off": "-0.056",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.055",
+        "Off": "0.043",
+        "On-Off": "0.012",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.017",
+        "Off": "0.000",
+        "On-Off": "0.017",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.031",
+        "Off": "0.037",
+        "On-Off": "-0.006",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.333",
+        "Off": "0.111",
+        "On-Off": "0.222",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.032",
+        "Off": "0.019",
+        "On-Off": "0.013",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.038",
+        "Off": "0.012",
+        "On-Off": "0.026",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.037",
+        "Off": "0.033",
+        "On-Off": "0.004",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.040",
+        "Off": "0.094",
+        "On-Off": "-0.054",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.038",
+        "Off": "0.014",
+        "On-Off": "0.024",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.039",
+        "Off": "0.000",
+        "On-Off": "0.039",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.034",
+        "Off": "0.025",
+        "On-Off": "0.009",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.111",
+        "Off": "0.098",
+        "On-Off": "0.013",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.033",
+        "Off": "0.077",
+        "On-Off": "-0.044",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.111",
+        "Off": "0.071",
+        "On-Off": "0.040",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.021",
+        "Off": "0.000",
+        "On-Off": "0.021",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.087",
+        "Off": "0.029",
+        "On-Off": "0.058",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.038",
+        "Off": "0.050",
+        "On-Off": "-0.012",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.013",
+        "Off": "0.088",
+        "On-Off": "-0.075",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.013",
+        "Off": "0.000",
+        "On-Off": "0.013",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.045",
+        "Off": "0.034",
+        "On-Off": "0.011",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "1.000",
+        "Off": "0.024",
+        "On-Off": "0.976",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.091",
+        "Off": "0.053",
+        "On-Off": "0.038",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.005",
+        "Off": "0.000",
+        "On-Off": "0.005",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.086",
+        "Off": "0.058",
+        "On-Off": "0.028",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.050",
+        "Off": "0.000",
+        "On-Off": "0.050",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.055",
+        "Off": "0.062",
+        "On-Off": "-0.008",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.023",
+        "Off": "0.039",
+        "On-Off": "-0.017",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.039",
+        "Off": "0.057",
+        "On-Off": "-0.018",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.052",
+        "Off": "0.071",
+        "On-Off": "-0.019",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.150",
+        "Off": "0.071",
+        "On-Off": "0.079",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.043",
+        "Off": "0.050",
+        "On-Off": "-0.007",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.043",
+        "Off": "0.100",
+        "On-Off": "-0.057",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.086",
+        "Off": "0.000",
+        "On-Off": "0.086",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.042",
+        "Off": "0.050",
+        "On-Off": "-0.008",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.029",
+        "Off": "0.040",
+        "On-Off": "-0.011",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.020",
+        "Off": "0.045",
+        "On-Off": "-0.025",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.105",
+        "Off": "0.056",
+        "On-Off": "0.050",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.333",
+        "Off": "0.190",
+        "On-Off": "0.143",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.094",
+        "Off": "0.067",
+        "On-Off": "0.028",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.088",
+        "Off": "0.091",
+        "On-Off": "-0.003",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.080",
+        "Off": "0.069",
+        "On-Off": "0.011",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.198",
+        "Off": "0.221",
+        "On-Off": "-0.023",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.069",
+        "Off": "0.074",
+        "On-Off": "-0.005",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.083",
+        "Off": "0.113",
+        "On-Off": "-0.030",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.115",
+        "Off": "0.083",
+        "On-Off": "0.032",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.091",
+        "Off": "0.231",
+        "On-Off": "-0.140",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.045",
+        "Off": "0.029",
+        "On-Off": "0.016",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.200",
+        "Off": "0.059",
+        "On-Off": "0.141",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.078",
+        "Off": "0.229",
+        "On-Off": "-0.151",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.069",
+        "Off": "0.043",
+        "On-Off": "0.025",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.092",
+        "Off": "0.098",
+        "On-Off": "-0.006",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.207",
+        "Off": "0.269",
+        "On-Off": "-0.062",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.084",
+        "Off": "0.137",
+        "On-Off": "-0.053",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.059",
+        "Off": "0.062",
+        "On-Off": "-0.003",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.106",
+        "Off": "0.062",
+        "On-Off": "0.044",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.045",
+        "Off": "0.273",
+        "On-Off": "-0.227",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.033",
+        "Off": "0.000",
+        "On-Off": "0.033",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.069",
+        "Off": "0.105",
+        "On-Off": "-0.036",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.045",
+        "Off": "0.065",
+        "On-Off": "-0.019",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.105",
+        "Off": "0.000",
+        "On-Off": "0.105",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.157",
+        "Off": "0.211",
+        "On-Off": "-0.053",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.181",
+        "Off": "0.136",
+        "On-Off": "0.045",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.065",
+        "Off": "0.067",
+        "On-Off": "-0.002",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.115",
+        "Off": "0.031",
+        "On-Off": "0.084",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.250",
+        "Off": "0.219",
+        "On-Off": "0.031",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.100",
+        "Off": "0.062",
+        "On-Off": "0.038",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.102",
+        "Off": "0.078",
+        "On-Off": "0.024",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.088",
+        "Off": "0.108",
+        "On-Off": "-0.020",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.139",
+        "Off": "0.133",
+        "On-Off": "0.006",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.168",
+        "Off": "0.245",
+        "On-Off": "-0.076",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.127",
+        "Off": "0.135",
+        "On-Off": "-0.008",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.131",
+        "Off": "0.086",
+        "On-Off": "0.045",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.124",
+        "Off": "0.067",
+        "On-Off": "0.058",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.091",
+        "Off": "0.190",
+        "On-Off": "-0.099",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.119",
+        "Off": "0.120",
+        "On-Off": "-0.001",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.161",
+        "Off": "0.000",
+        "On-Off": "0.161",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.162",
+        "Off": "0.118",
+        "On-Off": "0.045",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.111",
+        "Off": "0.100",
+        "On-Off": "0.011",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.183",
+        "Off": "0.100",
+        "On-Off": "0.083",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.153",
+        "Off": "0.231",
+        "On-Off": "-0.078",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.167",
+        "Off": "0.300",
+        "On-Off": "-0.133",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.103",
+        "Off": "0.111",
+        "On-Off": "-0.009",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.700",
+        "Off": "0.400",
+        "On-Off": "0.300",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.143",
+        "Off": "1.000",
+        "On-Off": "-0.857",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.750",
+        "Off": "0.562",
+        "On-Off": "0.188",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.556",
+        "Off": "0.000",
+        "On-Off": "0.556",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.571",
+        "Off": "0.500",
+        "On-Off": "0.071",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "14.720",
+        "Off": "14.081",
+        "On-Off": "0.639",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "15.270",
+        "Off": "14.543",
+        "On-Off": "0.726",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "14.624",
+        "Off": "14.345",
+        "On-Off": "0.279",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "14.856",
+        "Off": "14.339",
+        "On-Off": "0.517",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "15.001",
+        "Off": "14.313",
+        "On-Off": "0.688",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "15.012",
+        "Off": "14.604",
+        "On-Off": "0.408",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "15.314",
+        "Off": "14.352",
+        "On-Off": "0.962",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "14.421",
+        "Off": "14.425",
+        "On-Off": "-0.004",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "15.194",
+        "Off": "14.859",
+        "On-Off": "0.335",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "16.232",
+        "Off": "14.500",
+        "On-Off": "1.732",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "17.722",
+        "Off": "14.692",
+        "On-Off": "3.030",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "16.192",
+        "Off": "15.436",
+        "On-Off": "0.756",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "15.581",
+        "Off": "14.628",
+        "On-Off": "0.953",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "15.808",
+        "Off": "15.679",
+        "On-Off": "0.129",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "15.679",
+        "Off": "15.235",
+        "On-Off": "0.444",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "15.570",
+        "Off": "14.786",
+        "On-Off": "0.784",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "15.576",
+        "Off": "14.998",
+        "On-Off": "0.578",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "15.672",
+        "Off": "15.568",
+        "On-Off": "0.104",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "16.733",
+        "Off": "15.187",
+        "On-Off": "1.547",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "14.610",
+        "Off": "14.328",
+        "On-Off": "0.282",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "15.965",
+        "Off": "14.283",
+        "On-Off": "1.682",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "19.111",
+        "Off": "14.585",
+        "On-Off": "4.526",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.381",
+        "Off": "0.250",
+        "On-Off": "0.131",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.118",
+        "Off": "0.145",
+        "On-Off": "-0.027",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.152",
+        "Off": "0.246",
+        "On-Off": "-0.095",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.232",
+        "Off": "0.232",
+        "On-Off": "-0.000",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.131",
+        "Off": "0.134",
+        "On-Off": "-0.003",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.343",
+        "Off": "0.385",
+        "On-Off": "-0.041",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.150",
+        "Off": "0.238",
+        "On-Off": "-0.088",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.632",
+        "Off": "0.647",
+        "On-Off": "-0.015",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.116",
+        "Off": "0.032",
+        "On-Off": "0.084",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.154",
+        "Off": "0.222",
+        "On-Off": "-0.068",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.286",
+        "Off": "0.286",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.627",
+        "Off": "0.750",
+        "On-Off": "-0.123",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.667",
+        "Off": "0.818",
+        "On-Off": "-0.152",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.700",
+        "Off": "0.500",
+        "On-Off": "0.200",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.739",
+        "Off": "0.714",
+        "On-Off": "0.025",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.583",
+        "Off": "0.700",
+        "On-Off": "-0.117",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.696",
+        "Off": "0.600",
+        "On-Off": "0.096",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.714",
+        "Off": "0.800",
+        "On-Off": "-0.086",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.667",
+        "Off": "0.727",
+        "On-Off": "-0.061",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.600",
+        "Off": "1.000",
+        "On-Off": "-0.400",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.406",
+        "Off": "0.667",
+        "On-Off": "-0.260",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.400",
+        "Off": "0.667",
+        "On-Off": "-0.267",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.571",
+        "Off": "0.500",
+        "On-Off": "0.071",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.853",
+        "Off": "0.667",
+        "On-Off": "0.186",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.486",
+        "Off": "0.286",
+        "On-Off": "0.200",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.812",
+        "Off": "0.800",
+        "On-Off": "0.012",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.600",
+        "Off": "0.667",
+        "On-Off": "-0.067",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.625",
+        "Off": "0.750",
+        "On-Off": "-0.125",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.172",
+        "Off": "0.250",
+        "On-Off": "-0.078",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.173",
+        "Off": "0.184",
+        "On-Off": "-0.011",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.313",
+        "Off": "0.308",
+        "On-Off": "0.005",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.416",
+        "Off": "0.359",
+        "On-Off": "0.057",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.277",
+        "Off": "0.228",
+        "On-Off": "0.049",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.149",
+        "Off": "0.185",
+        "On-Off": "-0.035",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.171",
+        "Off": "0.095",
+        "On-Off": "0.076",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.263",
+        "Off": "0.338",
+        "On-Off": "-0.075",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.186",
+        "Off": "0.226",
+        "On-Off": "-0.040",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.308",
+        "Off": "0.667",
+        "On-Off": "-0.359",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.429",
+        "Off": "0.000",
+        "On-Off": "0.429",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.348",
+        "Off": "0.333",
+        "On-Off": "0.014",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.409",
+        "Off": "0.214",
+        "On-Off": "0.195",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.468",
+        "Off": "0.450",
+        "On-Off": "0.018",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.473",
+        "Off": "0.415",
+        "On-Off": "0.057",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.417",
+        "Off": "0.412",
+        "On-Off": "0.006",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.300",
+        "Off": "0.250",
+        "On-Off": "0.050",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.375",
+        "Off": "0.667",
+        "On-Off": "-0.292",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.800",
+        "Off": "0.217",
+        "On-Off": "0.583",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.375",
+        "Off": "0.000",
+        "On-Off": "0.375",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.500",
+        "Off": "0.167",
+        "On-Off": "0.333",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.875",
+        "Off": "0.750",
+        "On-Off": "0.125",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.552",
+        "Off": "0.333",
+        "On-Off": "0.218",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.718",
+        "Off": "0.704",
+        "On-Off": "0.014",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.547",
+        "Off": "0.357",
+        "On-Off": "0.190",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.778",
+        "Off": "0.500",
+        "On-Off": "0.278",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.500",
+        "Off": "0.800",
+        "On-Off": "-0.300",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.097",
+        "Off": "0.083",
+        "On-Off": "0.014",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.063",
+        "Off": "0.092",
+        "On-Off": "-0.029",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.101",
+        "Off": "0.200",
+        "On-Off": "-0.099",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.098",
+        "Off": "0.105",
+        "On-Off": "-0.007",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.055",
+        "Off": "0.128",
+        "On-Off": "-0.073",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.030",
+        "Off": "0.031",
+        "On-Off": "-0.001",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.050",
+        "Off": "0.048",
+        "On-Off": "0.002",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.053",
+        "Off": "0.000",
+        "On-Off": "0.053",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.093",
+        "Off": "0.226",
+        "On-Off": "-0.133",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.462",
+        "Off": "0.111",
+        "On-Off": "0.350",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.615",
+        "Off": "0.500",
+        "On-Off": "0.115",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.400",
+        "Off": "0.308",
+        "On-Off": "0.092",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.282",
+        "Off": "0.263",
+        "On-Off": "0.019",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.320",
+        "Off": "0.421",
+        "On-Off": "-0.101",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.286",
+        "Off": "0.000",
+        "On-Off": "0.286",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.250",
+        "Off": "0.143",
+        "On-Off": "0.107",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.625",
+        "Off": "0.500",
+        "On-Off": "0.125",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.500",
+        "Off": "0.750",
+        "On-Off": "-0.250",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.636",
+        "Off": "0.800",
+        "On-Off": "-0.164",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.375",
+        "Off": "0.750",
+        "On-Off": "-0.375",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.060",
+        "Off": "0.042",
+        "On-Off": "0.018",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.354",
+        "Off": "0.224",
+        "On-Off": "0.131",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.157",
+        "Off": "0.046",
+        "On-Off": "0.110",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.053",
+        "Off": "0.050",
+        "On-Off": "0.003",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.055",
+        "Off": "0.034",
+        "On-Off": "0.021",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.090",
+        "Off": "0.077",
+        "On-Off": "0.013",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.214",
+        "Off": "0.175",
+        "On-Off": "0.040",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.053",
+        "Off": "0.015",
+        "On-Off": "0.038",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.256",
+        "Off": "0.097",
+        "On-Off": "0.159",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.311",
+        "Off": "0.412",
+        "On-Off": "-0.101",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.419",
+        "Off": "0.333",
+        "On-Off": "0.086",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.440",
+        "Off": "0.400",
+        "On-Off": "0.040",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.333",
+        "Off": "0.200",
+        "On-Off": "0.133",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.500",
+        "Off": "0.364",
+        "On-Off": "0.136",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.455",
+        "Off": "1.000",
+        "On-Off": "-0.545",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.909",
+        "Off": "1.000",
+        "On-Off": "-0.091",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.291",
+        "Off": "0.375",
+        "On-Off": "-0.084",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.291",
+        "Off": "0.355",
+        "On-Off": "-0.064",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.278",
+        "Off": "0.200",
+        "On-Off": "0.078",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.202",
+        "Off": "0.254",
+        "On-Off": "-0.053",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.483",
+        "Off": "0.477",
+        "On-Off": "0.006",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.388",
+        "Off": "0.323",
+        "On-Off": "0.065",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.414",
+        "Off": "0.444",
+        "On-Off": "-0.030",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.349",
+        "Off": "0.419",
+        "On-Off": "-0.071",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.143",
+        "Off": "0.571",
+        "On-Off": "-0.429",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.231",
+        "Off": "0.222",
+        "On-Off": "0.009",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.432",
+        "Off": "0.296",
+        "On-Off": "0.136",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.418",
+        "Off": "0.308",
+        "On-Off": "0.110",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.263",
+        "Off": "0.326",
+        "On-Off": "-0.064",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.321",
+        "Off": "0.324",
+        "On-Off": "-0.003",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.346",
+        "Off": "0.143",
+        "On-Off": "0.203",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.414",
+        "Off": "0.429",
+        "On-Off": "-0.015",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.200",
+        "Off": "0.385",
+        "On-Off": "-0.185",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.889",
+        "Off": "1.000",
+        "On-Off": "-0.111",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.905",
+        "Off": "0.733",
+        "On-Off": "0.171",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.789",
+        "Off": "0.739",
+        "On-Off": "0.050",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.667",
+        "Off": "0.600",
+        "On-Off": "0.067",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.731",
+        "Off": "0.667",
+        "On-Off": "0.065",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.764",
+        "Off": "0.724",
+        "On-Off": "0.040",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.586",
+        "Off": "0.492",
+        "On-Off": "0.094",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.486",
+        "Off": "0.536",
+        "On-Off": "-0.050",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.668",
+        "Off": "0.644",
+        "On-Off": "0.024",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.821",
+        "Off": "0.785",
+        "On-Off": "0.036",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.779",
+        "Off": "0.857",
+        "On-Off": "-0.079",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.684",
+        "Off": "0.662",
+        "On-Off": "0.022",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.721",
+        "Off": "0.548",
+        "On-Off": "0.173",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.231",
+        "Off": "0.222",
+        "On-Off": "0.009",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.571",
+        "Off": "0.857",
+        "On-Off": "-0.286",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.231",
+        "Off": "0.222",
+        "On-Off": "0.009",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.444",
+        "Off": "0.296",
+        "On-Off": "0.148",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.418",
+        "Off": "0.308",
+        "On-Off": "0.110",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.263",
+        "Off": "0.333",
+        "On-Off": "-0.071",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.321",
+        "Off": "0.324",
+        "On-Off": "-0.003",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.346",
+        "Off": "0.143",
+        "On-Off": "0.203",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.414",
+        "Off": "0.429",
+        "On-Off": "-0.015",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.200",
+        "Off": "0.385",
+        "On-Off": "-0.185",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.539",
+        "Off": "0.515",
+        "On-Off": "0.024",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.530",
+        "Off": "0.501",
+        "On-Off": "0.029",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.502",
+        "Off": "0.491",
+        "On-Off": "0.012",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.492",
+        "Off": "0.489",
+        "On-Off": "0.003",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.487",
+        "Off": "0.480",
+        "On-Off": "0.008",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.524",
+        "Off": "0.558",
+        "On-Off": "-0.034",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.526",
+        "Off": "0.562",
+        "On-Off": "-0.036",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.553",
+        "Off": "0.547",
+        "On-Off": "0.005",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.499",
+        "Off": "0.458",
+        "On-Off": "0.041",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.419",
+        "Off": "0.462",
+        "On-Off": "-0.043",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.590",
+        "Off": "0.533",
+        "On-Off": "0.056",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.064",
+        "Off": "0.096",
+        "On-Off": "-0.032",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.016",
+        "Off": "0.086",
+        "On-Off": "-0.071",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.062",
+        "Off": "0.044",
+        "On-Off": "0.018",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.172",
+        "Off": "0.151",
+        "On-Off": "0.021",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.068",
+        "Off": "0.076",
+        "On-Off": "-0.007",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.015",
+        "Off": "0.030",
+        "On-Off": "-0.015",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.034",
+        "Off": "0.061",
+        "On-Off": "-0.026",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.150",
+        "Off": "0.192",
+        "On-Off": "-0.042",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.122",
+        "Off": "0.139",
+        "On-Off": "-0.016",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.143",
+        "Off": "0.182",
+        "On-Off": "-0.039",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.125",
+        "Off": "0.125",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.096",
+        "Off": "0.156",
+        "On-Off": "-0.061",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.022",
+        "Off": "0.167",
+        "On-Off": "-0.145",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.098",
+        "Off": "0.058",
+        "On-Off": "0.040",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.220",
+        "Off": "0.195",
+        "On-Off": "0.025",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.132",
+        "Off": "0.134",
+        "On-Off": "-0.002",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.028",
+        "Off": "0.049",
+        "On-Off": "-0.021",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.088",
+        "Off": "0.148",
+        "On-Off": "-0.060",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.158",
+        "Off": "0.195",
+        "On-Off": "-0.037",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.261",
+        "Off": "0.250",
+        "On-Off": "0.011",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.154",
+        "Off": "0.182",
+        "On-Off": "-0.028",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.167",
+        "Off": "0.250",
+        "On-Off": "-0.083",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.012",
+        "Off": "0.022",
+        "On-Off": "-0.010",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.011",
+        "Off": "0.000",
+        "On-Off": "0.011",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.008",
+        "Off": "0.013",
+        "On-Off": "-0.005",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.129",
+        "Off": "0.080",
+        "On-Off": "0.049",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.188",
+        "Off": "0.133",
+        "On-Off": "0.056",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.119",
+        "Off": "0.043",
+        "On-Off": "0.076",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.116",
+        "Off": "0.133",
+        "On-Off": "-0.017",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.100",
+        "Off": "0.107",
+        "On-Off": "-0.007",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.153",
+        "Off": "0.203",
+        "On-Off": "-0.051",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.134",
+        "Off": "0.159",
+        "On-Off": "-0.025",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.357",
+        "Off": "0.180",
+        "On-Off": "0.177",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.020",
+        "Off": "0.189",
+        "On-Off": "-0.169",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.109",
+        "Off": "0.240",
+        "On-Off": "-0.131",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.246",
+        "Off": "0.373",
+        "On-Off": "-0.127",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.169",
+        "Off": "0.377",
+        "On-Off": "-0.208",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.188",
+        "Off": "0.378",
+        "On-Off": "-0.190",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.205",
+        "Off": "0.272",
+        "On-Off": "-0.067",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.139",
+        "Off": "0.237",
+        "On-Off": "-0.098",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.274",
+        "Off": "0.341",
+        "On-Off": "-0.067",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.143",
+        "Off": "0.240",
+        "On-Off": "-0.097",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.180",
+        "Off": "0.568",
+        "On-Off": "-0.388",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.833",
+        "On-Off": "-0.833",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.115",
+        "Off": "0.264",
+        "On-Off": "-0.149",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.204",
+        "Off": "0.375",
+        "On-Off": "-0.172",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.178",
+        "Off": "0.263",
+        "On-Off": "-0.085",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.186",
+        "Off": "0.309",
+        "On-Off": "-0.122",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.194",
+        "Off": "0.305",
+        "On-Off": "-0.112",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.176",
+        "Off": "0.305",
+        "On-Off": "-0.129",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.192",
+        "Off": "0.313",
+        "On-Off": "-0.122",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.174",
+        "Off": "0.355",
+        "On-Off": "-0.182",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.294",
+        "Off": "0.415",
+        "On-Off": "-0.120",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.107",
+        "Off": "0.588",
+        "On-Off": "-0.481",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.558",
+        "On-Off": "-0.558",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "5.905",
+        "Off": "6.432",
+        "On-Off": "-0.528",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "7.691",
+        "Off": "8.928",
+        "On-Off": "-1.237",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "8.229",
+        "Off": "8.804",
+        "On-Off": "-0.575",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "7.432",
+        "Off": "7.576",
+        "On-Off": "-0.144",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "7.702",
+        "Off": "9.125",
+        "On-Off": "-1.422",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "4.517",
+        "Off": "4.221",
+        "On-Off": "0.297",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "6.369",
+        "Off": "5.538",
+        "On-Off": "0.832",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "3.733",
+        "Off": "3.525",
+        "On-Off": "0.208",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "8.982",
+        "Off": "13.720",
+        "On-Off": "-4.738",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "10.717",
+        "Off": "7.389",
+        "On-Off": "3.328",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "4.380",
+        "Off": "8.533",
+        "On-Off": "-4.153",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "24.643",
+        "Off": "24.545",
+        "On-Off": "0.098",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "24.070",
+        "Off": "24.400",
+        "On-Off": "-0.330",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "24.226",
+        "Off": "24.488",
+        "On-Off": "-0.262",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "24.823",
+        "Off": "24.896",
+        "On-Off": "-0.074",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "25.801",
+        "Off": "25.799",
+        "On-Off": "0.003",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "25.538",
+        "Off": "24.500",
+        "On-Off": "1.038",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "24.328",
+        "Off": "24.579",
+        "On-Off": "-0.251",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "22.100",
+        "Off": "23.800",
+        "On-Off": "-1.700",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "24.227",
+        "Off": "25.106",
+        "On-Off": "-0.879",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "23.400",
+        "Off": "0.000",
+        "On-Off": "23.400",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "24.000",
+        "Off": "24.525",
+        "On-Off": "-0.525",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.088",
+        "Off": "0.116",
+        "On-Off": "-0.028",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.080",
+        "Off": "0.084",
+        "On-Off": "-0.004",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.104",
+        "Off": "0.092",
+        "On-Off": "0.012",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.195",
+        "Off": "0.241",
+        "On-Off": "-0.045",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.113",
+        "Off": "0.125",
+        "On-Off": "-0.012",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.088",
+        "Off": "0.103",
+        "On-Off": "-0.015",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.109",
+        "Off": "0.071",
+        "On-Off": "0.038",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.085",
+        "Off": "0.236",
+        "On-Off": "-0.151",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.066",
+        "Off": "0.046",
+        "On-Off": "0.020",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.040",
+        "Off": "0.130",
+        "On-Off": "-0.090",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.040",
+        "On-Off": "-0.040",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "0.020",
+        "Off": "0.019",
+        "On-Off": "0.001",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "0.061",
+        "Off": "0.027",
+        "On-Off": "0.034",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "0.039",
+        "Off": "0.031",
+        "On-Off": "0.007",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "0.043",
+        "Off": "0.067",
+        "On-Off": "-0.023",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "0.024",
+        "Off": "0.022",
+        "On-Off": "0.002",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.030",
+        "Off": "0.034",
+        "On-Off": "-0.004",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "0.048",
+        "Off": "0.051",
+        "On-Off": "-0.003",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.180",
+        "Off": "0.081",
+        "On-Off": "0.099",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "0.033",
+        "Off": "0.046",
+        "On-Off": "-0.014",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "0.038",
+        "Off": "0.027",
+        "On-Off": "0.011",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "13.987",
+        "Off": "16.287",
+        "On-Off": "-2.300",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "13.143",
+        "Off": "14.982",
+        "On-Off": "-1.839",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "19.954",
+        "Off": "18.158",
+        "On-Off": "1.796",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "30.172",
+        "Off": "35.250",
+        "On-Off": "-5.078",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "27.301",
+        "Off": "33.268",
+        "On-Off": "-5.966",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "16.901",
+        "Off": "12.165",
+        "On-Off": "4.736",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "15.883",
+        "Off": "17.121",
+        "On-Off": "-1.238",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "23.140",
+        "Off": "17.153",
+        "On-Off": "5.988",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "17.301",
+        "Off": "15.812",
+        "On-Off": "1.489",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "28.571",
+        "Off": "7.843",
+        "On-Off": "20.728",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "38.889",
+        "Off": "23.077",
+        "On-Off": "15.812",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "23.787",
+        "Off": "30.619",
+        "On-Off": "-6.832",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "5.238",
+        "Off": "1.986",
+        "On-Off": "3.253",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "11.972",
+        "Off": "17.632",
+        "On-Off": "-5.659",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "15.197",
+        "Off": "11.044",
+        "On-Off": "4.153",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "21.914",
+        "Off": "23.622",
+        "On-Off": "-1.708",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "8.451",
+        "Off": "10.515",
+        "On-Off": "-2.065",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "10.825",
+        "Off": "9.144",
+        "On-Off": "1.681",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "2.479",
+        "Off": "5.832",
+        "On-Off": "-3.353",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "5.190",
+        "Off": "14.103",
+        "On-Off": "-8.912",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "12.500",
+        "Off": "2.941",
+        "On-Off": "9.559",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "11.111",
+        "Off": "19.231",
+        "On-Off": "-8.120",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "1.903",
+        "Off": "3.583",
+        "On-Off": "-1.680",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "1.048",
+        "Off": "2.708",
+        "On-Off": "-1.660",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "3.070",
+        "Off": "3.421",
+        "On-Off": "-0.351",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "9.429",
+        "Off": "10.287",
+        "On-Off": "-0.859",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "4.812",
+        "Off": "5.118",
+        "On-Off": "-0.306",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "0.469",
+        "Off": "2.062",
+        "On-Off": "-1.592",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "1.242",
+        "Off": "2.140",
+        "On-Off": "-0.898",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "3.306",
+        "Off": "6.175",
+        "On-Off": "-2.869",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "5.882",
+        "Off": "4.274",
+        "On-Off": "1.609",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "5.357",
+        "Off": "3.922",
+        "On-Off": "1.436",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "11.111",
+        "Off": "7.692",
+        "On-Off": "3.419",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "4.186",
+        "Off": "3.909",
+        "On-Off": "0.278",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "1.619",
+        "Off": "1.083",
+        "On-Off": "0.536",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "3.837",
+        "Off": "4.211",
+        "On-Off": "-0.373",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "2.607",
+        "Off": "2.723",
+        "On-Off": "-0.116",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "4.498",
+        "Off": "3.543",
+        "On-Off": "0.955",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "2.817",
+        "Off": "3.093",
+        "On-Off": "-0.276",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "2.573",
+        "Off": "2.335",
+        "On-Off": "0.239",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.826",
+        "Off": "2.058",
+        "On-Off": "-1.232",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "1.730",
+        "Off": "3.846",
+        "On-Off": "-2.116",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "1.786",
+        "Off": "1.961",
+        "On-Off": "-0.175",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "5.556",
+        "Off": "1.923",
+        "On-Off": "3.632",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Courtney Vandersloot",
+        "On": "10.181",
+        "Off": "13.681",
+        "On-Off": "-3.500",
+        "MinutesOn": 539,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "Kayla Thornton",
+        "On": "2.095",
+        "Off": "0.903",
+        "On-Off": "1.193",
+        "MinutesOn": 536,
+        "MinutesOff": 273
+      },
+      {
+        "Name": "Betnijah Laney-Hamilton",
+        "On": "4.988",
+        "Off": "7.368",
+        "On-Off": "-2.380",
+        "MinutesOn": 656,
+        "MinutesOff": 192
+      },
+      {
+        "Name": "Breanna Stewart",
+        "On": "5.768",
+        "Off": "4.539",
+        "On-Off": "1.230",
+        "MinutesOn": 913,
+        "MinutesOff": 330
+      },
+      {
+        "Name": "Sabrina Ionescu",
+        "On": "9.519",
+        "Off": "10.433",
+        "On-Off": "-0.914",
+        "MinutesOn": 970,
+        "MinutesOff": 251
+      },
+      {
+        "Name": "Kennedy Burke",
+        "On": "3.286",
+        "Off": "3.918",
+        "On-Off": "-0.631",
+        "MinutesOn": 217,
+        "MinutesOff": 242
+      },
+      {
+        "Name": "Leonie Fiebich",
+        "On": "4.525",
+        "Off": "3.696",
+        "On-Off": "0.829",
+        "MinutesOn": 580,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Nyara Sabally",
+        "On": "0.826",
+        "Off": "2.401",
+        "On-Off": "-1.575",
+        "MinutesOn": 63,
+        "MinutesOff": 289
+      },
+      {
+        "Name": "Ivana Dojkic",
+        "On": "2.076",
+        "Off": "5.983",
+        "On-Off": "-3.907",
+        "MinutesOn": 142,
+        "MinutesOff": 116
+      },
+      {
+        "Name": "Marquesha Davis",
+        "On": "5.357",
+        "Off": "0.980",
+        "On-Off": "4.377",
+        "MinutesOn": 30,
+        "MinutesOff": 50
+      },
+      {
+        "Name": "Jaylyn Sherrod",
+        "On": "5.556",
+        "Off": "7.692",
+        "On-Off": "-2.137",
+        "MinutesOn": 11,
+        "MinutesOff": 26
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Jonquel Jones",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Jonquel Jones",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Jonquel Jones"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Jonquel Jones"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

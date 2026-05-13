@@ -1,0 +1,7944 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.664",
+        "Off": "0.614",
+        "On-Off": "0.050",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.600",
+        "Off": "0.609",
+        "On-Off": "-0.009",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.714",
+        "On-Off": "-0.714",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.750",
+        "Off": "0.714",
+        "On-Off": "0.036",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.571",
+        "Off": "0.667",
+        "On-Off": "-0.095",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.643",
+        "Off": "0.524",
+        "On-Off": "0.119",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.591",
+        "Off": "0.649",
+        "On-Off": "-0.058",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.387",
+        "Off": "0.348",
+        "On-Off": "0.039",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.364",
+        "Off": "0.000",
+        "On-Off": "0.364",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.875",
+        "On-Off": "-0.875",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.716",
+        "Off": "0.614",
+        "On-Off": "0.102",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.673",
+        "Off": "0.718",
+        "On-Off": "-0.045",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.750",
+        "Off": "0.714",
+        "On-Off": "0.036",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.571",
+        "Off": "0.706",
+        "On-Off": "-0.134",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.667",
+        "Off": "0.524",
+        "On-Off": "0.143",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.625",
+        "Off": "0.686",
+        "On-Off": "-0.061",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.393",
+        "Off": "0.348",
+        "On-Off": "0.046",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.364",
+        "Off": "0.000",
+        "On-Off": "0.364",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.933",
+        "On-Off": "-0.933",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.941",
+        "Off": "0.833",
+        "On-Off": "0.108",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.875",
+        "Off": "0.867",
+        "On-Off": "0.008",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.667",
+        "Off": "0.533",
+        "On-Off": "0.133",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.889",
+        "Off": "1.000",
+        "On-Off": "-0.111",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.878",
+        "Off": "1.000",
+        "On-Off": "-0.122",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.258",
+        "Off": "0.369",
+        "On-Off": "-0.112",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "0.250",
+        "On-Off": "0.750",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.320",
+        "Off": "0.366",
+        "On-Off": "-0.046",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.143",
+        "On-Off": "0.257",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.429",
+        "Off": "0.417",
+        "On-Off": "0.012",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.240",
+        "Off": "0.276",
+        "On-Off": "-0.036",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.408",
+        "Off": "0.344",
+        "On-Off": "0.065",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.261",
+        "Off": "0.500",
+        "On-Off": "-0.239",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.258",
+        "Off": "0.375",
+        "On-Off": "-0.117",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "0.250",
+        "On-Off": "0.750",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.320",
+        "Off": "0.366",
+        "On-Off": "-0.046",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.143",
+        "On-Off": "0.257",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.429",
+        "Off": "0.429",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.240",
+        "Off": "0.286",
+        "On-Off": "-0.046",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.412",
+        "Off": "0.344",
+        "On-Off": "0.068",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.261",
+        "Off": "0.538",
+        "On-Off": "-0.278",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.478",
+        "Off": "0.518",
+        "On-Off": "-0.039",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.529",
+        "Off": "0.484",
+        "On-Off": "0.044",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.571",
+        "Off": "0.318",
+        "On-Off": "0.253",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.389",
+        "Off": "0.367",
+        "On-Off": "0.022",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.519",
+        "Off": "0.500",
+        "On-Off": "0.019",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.462",
+        "Off": "0.425",
+        "On-Off": "0.037",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.437",
+        "Off": "0.489",
+        "On-Off": "-0.053",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.524",
+        "Off": "0.143",
+        "On-Off": "0.381",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.490",
+        "On-Off": "0.510",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.445",
+        "Off": "0.533",
+        "On-Off": "-0.089",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.524",
+        "Off": "0.474",
+        "On-Off": "0.050",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.750",
+        "Off": "0.429",
+        "On-Off": "0.321",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.500",
+        "Off": "0.468",
+        "On-Off": "0.032",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.435",
+        "Off": "0.333",
+        "On-Off": "0.101",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.585",
+        "Off": "0.558",
+        "On-Off": "0.028",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.438",
+        "Off": "0.422",
+        "On-Off": "0.015",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.517",
+        "Off": "0.500",
+        "On-Off": "0.017",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.455",
+        "Off": "0.446",
+        "On-Off": "0.008",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.490",
+        "On-Off": "0.510",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.498",
+        "Off": "0.579",
+        "On-Off": "-0.082",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.563",
+        "Off": "0.500",
+        "On-Off": "0.063",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.750",
+        "Off": "0.500",
+        "On-Off": "0.250",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.544",
+        "Off": "0.469",
+        "On-Off": "0.075",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.416",
+        "On-Off": "0.084",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.596",
+        "Off": "0.566",
+        "On-Off": "0.030",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.490",
+        "Off": "0.514",
+        "On-Off": "-0.024",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.549",
+        "Off": "0.547",
+        "On-Off": "0.002",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.528",
+        "Off": "0.541",
+        "On-Off": "-0.012",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.535",
+        "On-Off": "0.465",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.365",
+        "Off": "0.433",
+        "On-Off": "-0.069",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.009",
+        "Off": "0.021",
+        "On-Off": "-0.012",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.500",
+        "Off": "0.364",
+        "On-Off": "0.136",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.500",
+        "Off": "0.571",
+        "On-Off": "-0.071",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.781",
+        "Off": "0.651",
+        "On-Off": "0.130",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.217",
+        "Off": "0.222",
+        "On-Off": "-0.005",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.538",
+        "Off": "0.462",
+        "On-Off": "0.077",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.240",
+        "Off": "0.250",
+        "On-Off": "-0.010",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.458",
+        "Off": "0.405",
+        "On-Off": "0.053",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.523",
+        "Off": "0.500",
+        "On-Off": "0.023",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.008",
+        "Off": "0.015",
+        "On-Off": "-0.008",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.049",
+        "On-Off": "-0.049",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.016",
+        "Off": "0.028",
+        "On-Off": "-0.012",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.013",
+        "Off": "0.000",
+        "On-Off": "0.013",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.008",
+        "Off": "0.000",
+        "On-Off": "0.008",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.100",
+        "Off": "0.094",
+        "On-Off": "0.006",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.093",
+        "Off": "0.095",
+        "On-Off": "-0.002",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.028",
+        "Off": "0.122",
+        "On-Off": "-0.095",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.056",
+        "Off": "0.071",
+        "On-Off": "-0.016",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.109",
+        "Off": "0.149",
+        "On-Off": "-0.040",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.070",
+        "Off": "0.085",
+        "On-Off": "-0.015",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.048",
+        "Off": "0.214",
+        "On-Off": "-0.167",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.122",
+        "On-Off": "-0.122",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "21.530",
+        "Off": "24.832",
+        "On-Off": "-3.302",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "17.483",
+        "Off": "21.891",
+        "On-Off": "-4.408",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "15.385",
+        "Off": "15.909",
+        "On-Off": "-0.524",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "5.714",
+        "Off": "17.822",
+        "On-Off": "-12.107",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "15.880",
+        "Off": "19.672",
+        "On-Off": "-3.792",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "16.209",
+        "Off": "18.777",
+        "On-Off": "-2.569",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "22.439",
+        "Off": "26.377",
+        "On-Off": "-3.938",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "21.999",
+        "Off": "23.130",
+        "On-Off": "-1.131",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "17.971",
+        "Off": "15.693",
+        "On-Off": "2.278",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "12.698",
+        "Off": "12.039",
+        "On-Off": "0.659",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "35.294",
+        "On-Off": "-35.294",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "6.250",
+        "Off": "15.703",
+        "On-Off": "-9.453",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "11.538",
+        "On-Off": "-11.538",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "5.882",
+        "On-Off": "-5.882",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.718",
+        "Off": "0.471",
+        "On-Off": "0.247",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.540",
+        "Off": "0.517",
+        "On-Off": "0.023",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.333",
+        "Off": "0.625",
+        "On-Off": "-0.292",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.667",
+        "Off": "0.333",
+        "On-Off": "0.333",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.632",
+        "Off": "0.500",
+        "On-Off": "0.132",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.593",
+        "Off": "0.600",
+        "On-Off": "-0.007",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "1.000",
+        "Off": "0.917",
+        "On-Off": "0.083",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.621",
+        "On-Off": "-0.621",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.174",
+        "Off": "0.273",
+        "On-Off": "-0.099",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.464",
+        "Off": "0.286",
+        "On-Off": "0.179",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.091",
+        "Off": "0.158",
+        "On-Off": "-0.067",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.158",
+        "Off": "0.000",
+        "On-Off": "0.158",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.348",
+        "On-Off": "-0.348",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.018",
+        "Off": "0.056",
+        "On-Off": "-0.037",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.190",
+        "Off": "0.135",
+        "On-Off": "0.055",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.227",
+        "Off": "0.215",
+        "On-Off": "0.012",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.250",
+        "Off": "0.205",
+        "On-Off": "0.045",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.061",
+        "Off": "0.094",
+        "On-Off": "-0.033",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.044",
+        "Off": "0.092",
+        "On-Off": "-0.048",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.105",
+        "Off": "0.099",
+        "On-Off": "0.006",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.119",
+        "Off": "0.151",
+        "On-Off": "-0.032",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.073",
+        "Off": "0.049",
+        "On-Off": "0.024",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.075",
+        "Off": "0.091",
+        "On-Off": "-0.016",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.333",
+        "Off": "0.145",
+        "On-Off": "0.188",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.024",
+        "Off": "0.005",
+        "On-Off": "0.019",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.082",
+        "Off": "0.074",
+        "On-Off": "0.008",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.038",
+        "On-Off": "-0.038",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.018",
+        "Off": "0.010",
+        "On-Off": "0.008",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.022",
+        "Off": "0.037",
+        "On-Off": "-0.016",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.006",
+        "Off": "0.022",
+        "On-Off": "-0.016",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.049",
+        "Off": "0.038",
+        "On-Off": "0.011",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.010",
+        "Off": "0.012",
+        "On-Off": "-0.002",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.044",
+        "Off": "0.031",
+        "On-Off": "0.013",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.250",
+        "Off": "0.080",
+        "On-Off": "0.170",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.221",
+        "Off": "0.160",
+        "On-Off": "0.062",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.156",
+        "Off": "0.214",
+        "On-Off": "-0.058",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.143",
+        "Off": "0.088",
+        "On-Off": "0.055",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.065",
+        "Off": "0.040",
+        "On-Off": "0.025",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.229",
+        "Off": "0.065",
+        "On-Off": "0.164",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.156",
+        "Off": "0.196",
+        "On-Off": "-0.040",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.050",
+        "Off": "0.062",
+        "On-Off": "-0.013",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.132",
+        "Off": "0.082",
+        "On-Off": "0.050",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.137",
+        "On-Off": "-0.137",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.022",
+        "Off": "0.010",
+        "On-Off": "0.013",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.086",
+        "Off": "0.104",
+        "On-Off": "-0.018",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.047",
+        "Off": "0.032",
+        "On-Off": "0.015",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.024",
+        "Off": "0.000",
+        "On-Off": "0.024",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.056",
+        "Off": "0.051",
+        "On-Off": "0.005",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.013",
+        "Off": "0.000",
+        "On-Off": "0.013",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.053",
+        "Off": "0.038",
+        "On-Off": "0.015",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.087",
+        "On-Off": "-0.087",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.202",
+        "Off": "0.145",
+        "On-Off": "0.057",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.200",
+        "Off": "0.215",
+        "On-Off": "-0.014",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.167",
+        "Off": "0.181",
+        "On-Off": "-0.014",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.095",
+        "Off": "0.092",
+        "On-Off": "0.004",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.053",
+        "Off": "0.072",
+        "On-Off": "-0.020",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.145",
+        "Off": "0.085",
+        "On-Off": "0.060",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.133",
+        "Off": "0.170",
+        "On-Off": "-0.037",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.064",
+        "Off": "0.054",
+        "On-Off": "0.010",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.094",
+        "Off": "0.087",
+        "On-Off": "0.006",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.200",
+        "Off": "0.142",
+        "On-Off": "0.058",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.024",
+        "Off": "0.007",
+        "On-Off": "0.017",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.083",
+        "Off": "0.084",
+        "On-Off": "-0.001",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.010",
+        "Off": "0.013",
+        "On-Off": "-0.003",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.030",
+        "Off": "0.036",
+        "On-Off": "-0.006",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.012",
+        "Off": "0.015",
+        "On-Off": "-0.003",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.051",
+        "Off": "0.042",
+        "On-Off": "0.008",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.011",
+        "Off": "0.008",
+        "On-Off": "0.002",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.047",
+        "Off": "0.034",
+        "On-Off": "0.014",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.250",
+        "Off": "0.082",
+        "On-Off": "0.168",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.014",
+        "Off": "0.015",
+        "On-Off": "-0.001",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.105",
+        "Off": "0.097",
+        "On-Off": "0.007",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.065",
+        "Off": "0.037",
+        "On-Off": "0.027",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.018",
+        "Off": "0.000",
+        "On-Off": "0.018",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.039",
+        "Off": "0.016",
+        "On-Off": "0.023",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.005",
+        "Off": "0.018",
+        "On-Off": "-0.013",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.054",
+        "Off": "0.038",
+        "On-Off": "0.016",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.101",
+        "On-Off": "0.899",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.038",
+        "Off": "0.000",
+        "On-Off": "0.038",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.065",
+        "Off": "0.060",
+        "On-Off": "0.005",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.068",
+        "On-Off": "-0.068",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.048",
+        "Off": "0.060",
+        "On-Off": "-0.012",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.010",
+        "Off": "0.000",
+        "On-Off": "0.010",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.020",
+        "Off": "0.020",
+        "On-Off": "0.001",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.069",
+        "On-Off": "-0.069",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.015",
+        "Off": "0.000",
+        "On-Off": "0.015",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.076",
+        "Off": "0.064",
+        "On-Off": "0.013",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.105",
+        "On-Off": "-0.105",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.067",
+        "Off": "0.024",
+        "On-Off": "0.042",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.017",
+        "Off": "0.022",
+        "On-Off": "-0.005",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.074",
+        "Off": "0.053",
+        "On-Off": "0.021",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.015",
+        "Off": "0.013",
+        "On-Off": "0.002",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.097",
+        "Off": "0.107",
+        "On-Off": "-0.010",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.065",
+        "Off": "0.039",
+        "On-Off": "0.025",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.030",
+        "Off": "0.000",
+        "On-Off": "0.030",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.055",
+        "Off": "0.051",
+        "On-Off": "0.004",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.011",
+        "Off": "0.000",
+        "On-Off": "0.011",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.022",
+        "Off": "0.047",
+        "On-Off": "-0.025",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.096",
+        "On-Off": "-0.096",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.044",
+        "Off": "0.000",
+        "On-Off": "0.044",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.049",
+        "Off": "0.091",
+        "On-Off": "-0.042",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.062",
+        "Off": "0.053",
+        "On-Off": "0.010",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.018",
+        "Off": "0.000",
+        "On-Off": "0.018",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.182",
+        "Off": "0.000",
+        "On-Off": "0.182",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.183",
+        "Off": "0.115",
+        "On-Off": "0.068",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.167",
+        "Off": "0.183",
+        "On-Off": "-0.017",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.500",
+        "Off": "0.214",
+        "On-Off": "0.286",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.059",
+        "Off": "0.074",
+        "On-Off": "-0.015",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.080",
+        "Off": "0.122",
+        "On-Off": "-0.042",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.112",
+        "Off": "0.023",
+        "On-Off": "0.089",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.062",
+        "Off": "0.083",
+        "On-Off": "-0.021",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.500",
+        "Off": "0.137",
+        "On-Off": "0.363",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.170",
+        "Off": "0.110",
+        "On-Off": "0.061",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.252",
+        "Off": "0.213",
+        "On-Off": "0.039",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.238",
+        "On-Off": "-0.238",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.040",
+        "Off": "0.125",
+        "On-Off": "-0.085",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.091",
+        "Off": "0.096",
+        "On-Off": "-0.005",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.091",
+        "Off": "0.085",
+        "On-Off": "0.006",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.110",
+        "Off": "0.147",
+        "On-Off": "-0.037",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.053",
+        "Off": "0.061",
+        "On-Off": "-0.007",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.061",
+        "Off": "0.082",
+        "On-Off": "-0.020",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.175",
+        "On-Off": "-0.175",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.255",
+        "Off": "0.200",
+        "On-Off": "0.055",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.241",
+        "Off": "0.270",
+        "On-Off": "-0.030",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.200",
+        "Off": "0.059",
+        "On-Off": "0.141",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.120",
+        "On-Off": "-0.120",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.182",
+        "Off": "0.176",
+        "On-Off": "0.005",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.183",
+        "Off": "0.200",
+        "On-Off": "-0.017",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.076",
+        "Off": "0.057",
+        "On-Off": "0.019",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.115",
+        "Off": "0.120",
+        "On-Off": "-0.005",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.098",
+        "On-Off": "-0.098",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.233",
+        "Off": "0.161",
+        "On-Off": "0.072",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.140",
+        "Off": "0.228",
+        "On-Off": "-0.088",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.136",
+        "On-Off": "-0.136",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.172",
+        "Off": "0.068",
+        "On-Off": "0.104",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.061",
+        "Off": "0.034",
+        "On-Off": "0.027",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.194",
+        "Off": "0.064",
+        "On-Off": "0.131",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.173",
+        "Off": "0.189",
+        "On-Off": "-0.016",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.055",
+        "Off": "0.079",
+        "On-Off": "-0.025",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.146",
+        "Off": "0.105",
+        "On-Off": "0.041",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.183",
+        "Off": "0.154",
+        "On-Off": "0.029",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.212",
+        "Off": "0.160",
+        "On-Off": "0.052",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.077",
+        "Off": "0.059",
+        "On-Off": "0.018",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.455",
+        "Off": "0.067",
+        "On-Off": "0.388",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.098",
+        "Off": "0.227",
+        "On-Off": "-0.129",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.032",
+        "Off": "0.000",
+        "On-Off": "0.032",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.083",
+        "Off": "0.000",
+        "On-Off": "0.083",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.242",
+        "On-Off": "-0.242",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.588",
+        "Off": "0.500",
+        "On-Off": "0.088",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.600",
+        "Off": "0.333",
+        "On-Off": "0.267",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.200",
+        "Off": "0.200",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.571",
+        "Off": "0.500",
+        "On-Off": "0.071",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.700",
+        "Off": "0.667",
+        "On-Off": "0.033",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.667",
+        "Off": "0.750",
+        "On-Off": "-0.083",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "15.333",
+        "Off": "15.461",
+        "On-Off": "-0.129",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "15.298",
+        "Off": "15.577",
+        "On-Off": "-0.279",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "17.739",
+        "Off": "16.692",
+        "On-Off": "1.047",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "18.222",
+        "Off": "15.708",
+        "On-Off": "2.514",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "16.650",
+        "Off": "15.473",
+        "On-Off": "1.177",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "16.363",
+        "Off": "16.188",
+        "On-Off": "0.175",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "13.683",
+        "Off": "15.391",
+        "On-Off": "-1.708",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "15.210",
+        "Off": "15.554",
+        "On-Off": "-0.344",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "15.574",
+        "Off": "15.401",
+        "On-Off": "0.173",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "15.658",
+        "Off": "15.629",
+        "On-Off": "0.029",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "15.929",
+        "On-Off": "-15.929",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "17.667",
+        "Off": "15.888",
+        "On-Off": "1.779",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "17.988",
+        "On-Off": "-17.988",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "15.714",
+        "Off": "14.353",
+        "On-Off": "1.361",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "15.735",
+        "Off": "14.874",
+        "On-Off": "0.861",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "15.868",
+        "Off": "14.391",
+        "On-Off": "1.477",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "10.000",
+        "Off": "14.821",
+        "On-Off": "-4.821",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "14.345",
+        "Off": "14.989",
+        "On-Off": "-0.644",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "15.065",
+        "Off": "15.056",
+        "On-Off": "0.009",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "16.321",
+        "Off": "15.469",
+        "On-Off": "0.853",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "15.568",
+        "Off": "14.262",
+        "On-Off": "1.307",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "15.757",
+        "Off": "14.136",
+        "On-Off": "1.621",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "15.902",
+        "Off": "15.853",
+        "On-Off": "0.049",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "15.780",
+        "Off": "15.772",
+        "On-Off": "0.009",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "14.857",
+        "On-Off": "-14.857",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "17.235",
+        "Off": "15.034",
+        "On-Off": "2.202",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "14.514",
+        "On-Off": "-14.514",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "10.625",
+        "Off": "15.000",
+        "On-Off": "-4.375",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.232",
+        "Off": "0.260",
+        "On-Off": "-0.028",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.629",
+        "Off": "0.464",
+        "On-Off": "0.165",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.391",
+        "Off": "0.317",
+        "On-Off": "0.074",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.077",
+        "Off": "0.115",
+        "On-Off": "-0.038",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.463",
+        "Off": "0.466",
+        "On-Off": "-0.002",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.122",
+        "Off": "0.215",
+        "On-Off": "-0.093",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.182",
+        "Off": "0.143",
+        "On-Off": "0.039",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.531",
+        "On-Off": "0.469",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.702",
+        "Off": "0.718",
+        "On-Off": "-0.016",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.618",
+        "Off": "0.622",
+        "On-Off": "-0.004",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.556",
+        "Off": "0.350",
+        "On-Off": "0.206",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.778",
+        "Off": "0.667",
+        "On-Off": "0.111",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.545",
+        "Off": "0.556",
+        "On-Off": "-0.011",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.719",
+        "Off": "0.647",
+        "On-Off": "0.072",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.750",
+        "Off": "0.000",
+        "On-Off": "0.750",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.538",
+        "On-Off": "0.462",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.627",
+        "Off": "0.607",
+        "On-Off": "0.020",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.539",
+        "Off": "0.571",
+        "On-Off": "-0.032",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.600",
+        "Off": "0.429",
+        "On-Off": "0.171",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.714",
+        "Off": "0.667",
+        "On-Off": "0.048",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.582",
+        "Off": "0.567",
+        "On-Off": "0.016",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.348",
+        "Off": "0.455",
+        "On-Off": "-0.107",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.821",
+        "On-Off": "-0.821",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.215",
+        "Off": "0.147",
+        "On-Off": "0.069",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.301",
+        "Off": "0.402",
+        "On-Off": "-0.101",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.227",
+        "On-Off": "-0.227",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.500",
+        "Off": "0.143",
+        "On-Off": "0.357",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.196",
+        "Off": "0.317",
+        "On-Off": "-0.122",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.222",
+        "Off": "0.192",
+        "On-Off": "0.030",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.268",
+        "Off": "0.259",
+        "On-Off": "0.010",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.156",
+        "Off": "0.190",
+        "On-Off": "-0.033",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.182",
+        "Off": "0.214",
+        "On-Off": "-0.032",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.449",
+        "On-Off": "-0.449",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.321",
+        "Off": "0.364",
+        "On-Off": "-0.043",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.391",
+        "Off": "0.359",
+        "On-Off": "0.032",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.333",
+        "Off": "0.400",
+        "On-Off": "-0.067",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.423",
+        "Off": "0.400",
+        "On-Off": "0.023",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.333",
+        "Off": "0.200",
+        "On-Off": "0.133",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.341",
+        "Off": "0.467",
+        "On-Off": "-0.125",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.125",
+        "Off": "0.333",
+        "On-Off": "-0.208",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.600",
+        "Off": "0.750",
+        "On-Off": "-0.150",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.741",
+        "Off": "0.643",
+        "On-Off": "0.098",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.333",
+        "Off": "0.875",
+        "On-Off": "-0.542",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.636",
+        "Off": "0.333",
+        "On-Off": "0.303",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.607",
+        "Off": "1.000",
+        "On-Off": "-0.393",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.286",
+        "Off": "0.143",
+        "On-Off": "0.143",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.950",
+        "On-Off": "-0.950",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.188",
+        "Off": "0.160",
+        "On-Off": "0.028",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.061",
+        "Off": "0.113",
+        "On-Off": "-0.052",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.500",
+        "Off": "0.318",
+        "On-Off": "0.182",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.219",
+        "Off": "0.286",
+        "On-Off": "-0.067",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.196",
+        "Off": "0.143",
+        "On-Off": "0.053",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.162",
+        "Off": "0.231",
+        "On-Off": "-0.068",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.029",
+        "Off": "0.026",
+        "On-Off": "0.003",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.263",
+        "Off": "0.190",
+        "On-Off": "0.073",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.114",
+        "Off": "0.143",
+        "On-Off": "-0.029",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.382",
+        "Off": "0.333",
+        "On-Off": "0.049",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.286",
+        "Off": "0.364",
+        "On-Off": "-0.078",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.571",
+        "Off": "0.333",
+        "On-Off": "0.238",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.111",
+        "Off": "0.333",
+        "On-Off": "-0.222",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.526",
+        "Off": "0.500",
+        "On-Off": "0.026",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.362",
+        "Off": "0.333",
+        "On-Off": "0.029",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.800",
+        "Off": "0.000",
+        "On-Off": "0.800",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.808",
+        "Off": "0.500",
+        "On-Off": "0.308",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.750",
+        "Off": "0.667",
+        "On-Off": "0.083",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.600",
+        "Off": "0.556",
+        "On-Off": "0.044",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.480",
+        "Off": "0.400",
+        "On-Off": "0.080",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.119",
+        "Off": "0.087",
+        "On-Off": "0.032",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.062",
+        "Off": "0.048",
+        "On-Off": "0.015",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.109",
+        "Off": "0.095",
+        "On-Off": "0.013",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.034",
+        "Off": "0.064",
+        "On-Off": "-0.030",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.045",
+        "Off": "0.043",
+        "On-Off": "0.002",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.115",
+        "Off": "0.051",
+        "On-Off": "0.064",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.136",
+        "Off": "0.143",
+        "On-Off": "-0.006",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.209",
+        "Off": "0.154",
+        "On-Off": "0.055",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.500",
+        "Off": "0.333",
+        "On-Off": "0.167",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.000",
+        "On-Off": "0.400",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.500",
+        "Off": "0.600",
+        "On-Off": "-0.100",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.357",
+        "Off": "0.000",
+        "On-Off": "0.357",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.367",
+        "Off": "0.500",
+        "On-Off": "-0.133",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.333",
+        "Off": "0.750",
+        "On-Off": "-0.417",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.246",
+        "Off": "0.347",
+        "On-Off": "-0.101",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.009",
+        "Off": "0.021",
+        "On-Off": "-0.012",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.500",
+        "Off": "0.273",
+        "On-Off": "0.227",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.500",
+        "Off": "0.571",
+        "On-Off": "-0.071",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.719",
+        "Off": "0.603",
+        "On-Off": "0.116",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.109",
+        "Off": "0.127",
+        "On-Off": "-0.018",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.504",
+        "Off": "0.397",
+        "On-Off": "0.107",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.195",
+        "Off": "0.207",
+        "On-Off": "-0.012",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.344",
+        "Off": "0.354",
+        "On-Off": "-0.011",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.386",
+        "Off": "0.357",
+        "On-Off": "0.029",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.281",
+        "Off": "0.423",
+        "On-Off": "-0.142",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "0.250",
+        "On-Off": "0.750",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.304",
+        "Off": "0.368",
+        "On-Off": "-0.064",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.250",
+        "On-Off": "0.150",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.424",
+        "Off": "0.387",
+        "On-Off": "0.037",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.213",
+        "Off": "0.333",
+        "On-Off": "-0.120",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.422",
+        "Off": "0.321",
+        "On-Off": "0.101",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.235",
+        "Off": "0.400",
+        "On-Off": "-0.165",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.920",
+        "Off": "0.818",
+        "On-Off": "0.102",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.857",
+        "Off": "0.857",
+        "On-Off": "0.000",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.640",
+        "Off": "0.500",
+        "On-Off": "0.140",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.846",
+        "Off": "1.000",
+        "On-Off": "-0.154",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.842",
+        "Off": "1.000",
+        "On-Off": "-0.158",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.597",
+        "Off": "0.693",
+        "On-Off": "-0.097",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.638",
+        "Off": "0.485",
+        "On-Off": "0.153",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.500",
+        "Off": "0.455",
+        "On-Off": "0.045",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.500",
+        "Off": "0.714",
+        "On-Off": "-0.214",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.781",
+        "Off": "0.667",
+        "On-Off": "0.115",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.609",
+        "Off": "0.540",
+        "On-Off": "0.069",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.615",
+        "Off": "0.577",
+        "On-Off": "0.038",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.703",
+        "Off": "0.716",
+        "On-Off": "-0.013",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.580",
+        "Off": "0.620",
+        "On-Off": "-0.040",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.705",
+        "Off": "0.643",
+        "On-Off": "0.062",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.531",
+        "On-Off": "0.469",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.281",
+        "Off": "0.431",
+        "On-Off": "-0.150",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "0.250",
+        "On-Off": "0.750",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.304",
+        "Off": "0.368",
+        "On-Off": "-0.064",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.400",
+        "Off": "0.250",
+        "On-Off": "0.150",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.424",
+        "Off": "0.400",
+        "On-Off": "0.024",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.213",
+        "Off": "0.348",
+        "On-Off": "-0.135",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.427",
+        "Off": "0.321",
+        "On-Off": "0.106",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.235",
+        "Off": "0.444",
+        "On-Off": "-0.209",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.502",
+        "Off": "0.504",
+        "On-Off": "-0.002",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.558",
+        "Off": "0.499",
+        "On-Off": "0.059",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.428",
+        "Off": "0.425",
+        "On-Off": "0.002",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.396",
+        "Off": "0.470",
+        "On-Off": "-0.074",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.453",
+        "Off": "0.474",
+        "On-Off": "-0.021",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.500",
+        "Off": "0.489",
+        "On-Off": "0.010",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.479",
+        "Off": "0.459",
+        "On-Off": "0.020",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.562",
+        "Off": "0.557",
+        "On-Off": "0.005",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.482",
+        "Off": "0.492",
+        "On-Off": "-0.010",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.487",
+        "Off": "0.464",
+        "On-Off": "0.024",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.440",
+        "On-Off": "-0.440",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.704",
+        "Off": "0.510",
+        "On-Off": "0.194",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.504",
+        "On-Off": "-0.504",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.358",
+        "On-Off": "-0.358",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.099",
+        "Off": "0.120",
+        "On-Off": "-0.021",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.181",
+        "Off": "0.170",
+        "On-Off": "0.011",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.120",
+        "On-Off": "-0.120",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.059",
+        "Off": "0.016",
+        "On-Off": "0.043",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.170",
+        "Off": "0.184",
+        "On-Off": "-0.014",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.017",
+        "Off": "0.061",
+        "On-Off": "-0.044",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.127",
+        "Off": "0.231",
+        "On-Off": "-0.104",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.102",
+        "Off": "0.095",
+        "On-Off": "0.007",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.085",
+        "Off": "0.222",
+        "On-Off": "-0.137",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.173",
+        "On-Off": "-0.173",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.143",
+        "Off": "0.198",
+        "On-Off": "-0.055",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.182",
+        "Off": "0.173",
+        "On-Off": "0.009",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.176",
+        "On-Off": "-0.176",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.125",
+        "Off": "0.043",
+        "On-Off": "0.082",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.209",
+        "Off": "0.226",
+        "On-Off": "-0.017",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.036",
+        "Off": "0.109",
+        "On-Off": "-0.073",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.162",
+        "Off": "0.289",
+        "On-Off": "-0.128",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.172",
+        "Off": "0.154",
+        "On-Off": "0.018",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.167",
+        "Off": "0.364",
+        "On-Off": "-0.197",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.173",
+        "On-Off": "-0.173",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.015",
+        "Off": "0.000",
+        "On-Off": "0.015",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.038",
+        "Off": "0.000",
+        "On-Off": "0.038",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.008",
+        "Off": "0.000",
+        "On-Off": "0.008",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.149",
+        "Off": "0.071",
+        "On-Off": "0.078",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.138",
+        "Off": "0.229",
+        "On-Off": "-0.091",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.240",
+        "On-Off": "-0.240",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.162",
+        "Off": "0.127",
+        "On-Off": "0.035",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.037",
+        "Off": "0.156",
+        "On-Off": "-0.119",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.103",
+        "Off": "0.117",
+        "On-Off": "-0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.140",
+        "Off": "0.119",
+        "On-Off": "0.020",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.104",
+        "Off": "0.065",
+        "On-Off": "0.040",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.089",
+        "Off": "0.075",
+        "On-Off": "0.014",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.154",
+        "On-Off": "0.846",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.131",
+        "Off": "0.303",
+        "On-Off": "-0.172",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.216",
+        "Off": "0.271",
+        "On-Off": "-0.055",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.560",
+        "On-Off": "-0.560",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.351",
+        "Off": "0.206",
+        "On-Off": "0.145",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.056",
+        "Off": "0.391",
+        "On-Off": "-0.335",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.159",
+        "Off": "0.138",
+        "On-Off": "0.020",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.105",
+        "Off": "0.245",
+        "On-Off": "-0.140",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.187",
+        "Off": "0.247",
+        "On-Off": "-0.061",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.339",
+        "Off": "0.375",
+        "On-Off": "-0.036",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "1.000",
+        "Off": "0.325",
+        "On-Off": "0.675",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.154",
+        "Off": "0.262",
+        "On-Off": "-0.108",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.160",
+        "Off": "0.275",
+        "On-Off": "-0.115",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.369",
+        "On-Off": "-0.369",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.148",
+        "Off": "0.483",
+        "On-Off": "-0.335",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.170",
+        "Off": "0.326",
+        "On-Off": "-0.156",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.160",
+        "Off": "0.317",
+        "On-Off": "-0.157",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.229",
+        "Off": "0.234",
+        "On-Off": "-0.005",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.151",
+        "Off": "0.282",
+        "On-Off": "-0.131",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.140",
+        "Off": "0.257",
+        "On-Off": "-0.117",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.210",
+        "Off": "0.296",
+        "On-Off": "-0.087",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.643",
+        "On-Off": "-0.643",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.267",
+        "Off": "0.300",
+        "On-Off": "-0.034",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.577",
+        "On-Off": "-0.577",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.647",
+        "On-Off": "-0.647",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "8.845",
+        "Off": "8.061",
+        "On-Off": "0.784",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "4.526",
+        "Off": "6.025",
+        "On-Off": "-1.499",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "19.600",
+        "Off": "11.686",
+        "On-Off": "7.914",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "11.400",
+        "Off": "9.767",
+        "On-Off": "1.633",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "17.071",
+        "Off": "16.414",
+        "On-Off": "0.658",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "8.017",
+        "Off": "7.602",
+        "On-Off": "0.415",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "9.907",
+        "Off": "10.560",
+        "On-Off": "-0.652",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "4.081",
+        "Off": "4.005",
+        "On-Off": "0.076",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "11.617",
+        "Off": "9.181",
+        "On-Off": "2.436",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "8.319",
+        "Off": "8.000",
+        "On-Off": "0.319",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "7.400",
+        "On-Off": "-7.400",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.600",
+        "Off": "4.635",
+        "On-Off": "-4.035",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "15.100",
+        "On-Off": "-15.100",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "25.264",
+        "Off": "25.723",
+        "On-Off": "-0.459",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "26.800",
+        "Off": "62.100",
+        "On-Off": "-35.300",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "25.250",
+        "Off": "25.037",
+        "On-Off": "0.213",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "25.000",
+        "Off": "25.825",
+        "On-Off": "-0.825",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "26.032",
+        "Off": "25.180",
+        "On-Off": "0.852",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "23.340",
+        "Off": "23.936",
+        "On-Off": "-0.596",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "25.563",
+        "Off": "26.736",
+        "On-Off": "-1.173",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "25.224",
+        "Off": "26.331",
+        "On-Off": "-1.107",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "24.836",
+        "Off": "24.813",
+        "On-Off": "0.023",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "25.361",
+        "Off": "26.821",
+        "On-Off": "-1.461",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "24.667",
+        "On-Off": "-24.667",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.201",
+        "Off": "0.154",
+        "On-Off": "0.047",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.209",
+        "Off": "0.218",
+        "On-Off": "-0.009",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.167",
+        "Off": "0.183",
+        "On-Off": "-0.016",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.051",
+        "On-Off": "-0.051",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.090",
+        "Off": "0.088",
+        "On-Off": "0.002",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.055",
+        "Off": "0.080",
+        "On-Off": "-0.025",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.140",
+        "Off": "0.089",
+        "On-Off": "0.052",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.134",
+        "Off": "0.161",
+        "On-Off": "-0.027",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.062",
+        "Off": "0.050",
+        "On-Off": "0.012",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.091",
+        "Off": "0.079",
+        "On-Off": "0.012",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.167",
+        "Off": "0.154",
+        "On-Off": "0.013",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "0.022",
+        "Off": "0.006",
+        "On-Off": "0.016",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "0.078",
+        "Off": "0.084",
+        "On-Off": "-0.006",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "0.010",
+        "Off": "0.012",
+        "On-Off": "-0.002",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "0.028",
+        "Off": "0.033",
+        "On-Off": "-0.005",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "0.011",
+        "Off": "0.014",
+        "On-Off": "-0.002",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "0.049",
+        "Off": "0.043",
+        "On-Off": "0.005",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "0.010",
+        "Off": "0.008",
+        "On-Off": "0.002",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.044",
+        "Off": "0.030",
+        "On-Off": "0.014",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.250",
+        "Off": "0.076",
+        "On-Off": "0.174",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "22.722",
+        "Off": "30.322",
+        "On-Off": "-7.599",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "17.154",
+        "Off": "16.667",
+        "On-Off": "0.487",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "15.924",
+        "On-Off": "-15.924",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "11.111",
+        "Off": "17.978",
+        "On-Off": "-6.866",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "18.500",
+        "Off": "19.207",
+        "On-Off": "-0.707",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "16.615",
+        "Off": "15.842",
+        "On-Off": "0.774",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "26.557",
+        "Off": "30.519",
+        "On-Off": "-3.963",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "21.622",
+        "Off": "23.930",
+        "On-Off": "-2.309",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "19.494",
+        "Off": "17.714",
+        "On-Off": "1.780",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "14.854",
+        "Off": "10.782",
+        "On-Off": "4.072",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "14.286",
+        "On-Off": "-14.286",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "13.333",
+        "Off": "15.204",
+        "On-Off": "-1.871",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "11.765",
+        "On-Off": "-11.765",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "6.412",
+        "Off": "9.342",
+        "On-Off": "-2.930",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "29.303",
+        "Off": "28.107",
+        "On-Off": "1.195",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.274",
+        "On-Off": "-1.274",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "22.222",
+        "Off": "6.742",
+        "On-Off": "15.481",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "4.000",
+        "Off": "6.707",
+        "On-Off": "-2.707",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "6.154",
+        "Off": "5.941",
+        "On-Off": "0.213",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "13.370",
+        "Off": "13.312",
+        "On-Off": "0.058",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "6.600",
+        "Off": "6.022",
+        "On-Off": "0.577",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "11.659",
+        "Off": "14.286",
+        "On-Off": "-2.626",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "19.098",
+        "Off": "15.903",
+        "On-Off": "3.195",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "2.472",
+        "On-Off": "-2.472",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "5.624",
+        "Off": "6.738",
+        "On-Off": "-1.114",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "5.568",
+        "Off": "6.497",
+        "On-Off": "-0.929",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "3.822",
+        "On-Off": "-3.822",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "4.494",
+        "On-Off": "-4.494",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "2.500",
+        "Off": "1.524",
+        "On-Off": "0.976",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "5.231",
+        "Off": "7.178",
+        "On-Off": "-1.947",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "2.015",
+        "Off": "3.571",
+        "On-Off": "-1.557",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "5.531",
+        "Off": "10.777",
+        "On-Off": "-5.245",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "3.825",
+        "Off": "2.857",
+        "On-Off": "0.968",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "5.040",
+        "Off": "4.852",
+        "On-Off": "0.188",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "14.286",
+        "On-Off": "-14.286",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "5.068",
+        "On-Off": "-5.068",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "2.193",
+        "Off": "2.603",
+        "On-Off": "-0.410",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "4.893",
+        "Off": "8.192",
+        "On-Off": "-3.299",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "1.911",
+        "On-Off": "-1.911",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "0.000",
+        "Off": "2.247",
+        "On-Off": "-2.247",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "1.500",
+        "Off": "2.439",
+        "On-Off": "-0.939",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "1.846",
+        "Off": "2.228",
+        "On-Off": "-0.382",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "3.480",
+        "Off": "2.597",
+        "On-Off": "0.882",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "3.394",
+        "Off": "3.170",
+        "On-Off": "0.225",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "2.776",
+        "Off": "1.714",
+        "On-Off": "1.062",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "0.796",
+        "Off": "3.235",
+        "On-Off": "-2.439",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "3.585",
+        "On-Off": "-3.585",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "DeWanna Bonner",
+        "On": "2.925",
+        "Off": "4.288",
+        "On-Off": "-1.363",
+        "MinutesOn": 920,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Alyssa Thomas",
+        "On": "13.048",
+        "Off": "12.006",
+        "On-Off": "1.043",
+        "MinutesOn": 924,
+        "MinutesOff": 352
+      },
+      {
+        "Name": "Astou Ndour-Fall",
+        "On": "0.000",
+        "Off": "0.637",
+        "On-Off": "-0.637",
+        "MinutesOn": 11,
+        "MinutesOff": 82
+      },
+      {
+        "Name": "Moriah Jefferson",
+        "On": "11.111",
+        "Off": "3.371",
+        "On-Off": "7.740",
+        "MinutesOn": 15,
+        "MinutesOff": 46
+      },
+      {
+        "Name": "Rachel Banham",
+        "On": "2.000",
+        "Off": "3.049",
+        "On-Off": "-1.049",
+        "MinutesOn": 106,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Tiffany Mitchell",
+        "On": "3.077",
+        "Off": "2.228",
+        "On-Off": "0.849",
+        "MinutesOn": 179,
+        "MinutesOff": 212
+      },
+      {
+        "Name": "Marina Mabrey",
+        "On": "6.227",
+        "Off": "6.169",
+        "On-Off": "0.058",
+        "MinutesOn": 266,
+        "MinutesOff": 153
+      },
+      {
+        "Name": "DiJonai Carrington",
+        "On": "2.828",
+        "Off": "2.536",
+        "On-Off": "0.293",
+        "MinutesOn": 824,
+        "MinutesOff": 312
+      },
+      {
+        "Name": "Tyasha Harris",
+        "On": "5.305",
+        "Off": "6.286",
+        "On-Off": "-0.980",
+        "MinutesOn": 851,
+        "MinutesOff": 274
+      },
+      {
+        "Name": "Veronica Burton",
+        "On": "8.753",
+        "Off": "6.739",
+        "On-Off": "2.015",
+        "MinutesOn": 198,
+        "MinutesOff": 195
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 7
+      },
+      {
+        "Name": "Olivia Nelson-Ododa",
+        "On": "0.000",
+        "Off": "0.989",
+        "On-Off": "-0.989",
+        "MinutesOn": 9,
+        "MinutesOff": 417
+      },
+      {
+        "Name": "Caitlin Bickle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 15
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 8
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Brionna Jones",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Brionna Jones",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Brionna Jones"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Brionna Jones"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

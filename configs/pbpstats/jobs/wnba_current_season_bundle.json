@@ -1,0 +1,114 @@
+{
+  "bundle_id": "wnba_current_season_bundle",
+  "league": "wnba",
+  "minimum_seasons": [2026],
+  "season_types": ["Regular Season", "Playoffs"],
+  "fallback_season_type": "Regular Season",
+  "output_root": "data/raw/pbpstats/current_season_2026",
+  "jobs": [
+    {
+      "job_id": "wnba_current_season_league_discovery",
+      "family": "league_discovery",
+      "description": "Current-season team catalogs and team-player catalogs for WNBA 2026.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "season_team_catalog",
+          "endpoint": "get-games",
+          "scope": "season",
+          "request_params": {}
+        },
+        {
+          "name": "team_player_catalog",
+          "endpoint": "get-team-players-for-season",
+          "scope": "team",
+          "request_params": {}
+        }
+      ]
+    },
+    {
+      "job_id": "wnba_current_season_on_off",
+      "family": "on_off",
+      "description": "Current-season player and team on/off totals for WNBA 2026.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "player_on_off",
+          "endpoint": "get-on-off",
+          "scope": "team_player",
+          "stat_type": "player",
+          "request_params": {}
+        },
+        {
+          "name": "team_on_off",
+          "endpoint": "get-on-off",
+          "scope": "team",
+          "stat_type": "team",
+          "request_params": {}
+        }
+      ]
+    },
+    {
+      "job_id": "wnba_current_season_shot_pace",
+      "family": "shot_pace",
+      "description": "Current-season shot and pace outputs used by the 2026 value chain.",
+      "output_profiles": ["raw_json", "normalized_csv", "derived_csv", "parquet"],
+      "variants": [
+        {
+          "name": "pace_by_season",
+          "endpoint": "get-pace-efficiency-by-season",
+          "scope": "season_type_only",
+          "request_params": {}
+        },
+        {
+          "name": "shot_query_summary",
+          "endpoint": "get-shot-query-summary",
+          "scope": "season",
+          "request_params": {
+            "Type": "Team",
+            "FromMargin": -3,
+            "ToMargin": 3,
+            "FromTime": 300,
+            "ToTime": 120,
+            "PeriodGte": 4
+          }
+        },
+        {
+          "name": "shots",
+          "endpoint": "get-shots",
+          "scope": "team",
+          "request_params": {
+            "EntityType": "Team",
+            "StartType": "All",
+            "Blocked": false
+          }
+        },
+        {
+          "name": "possessions",
+          "endpoint": "get-possessions",
+          "scope": "team",
+          "request_params": {
+            "OffDef": "Offense",
+            "FilterComparison": "Exactly",
+            "FilterEvent": "OnFloor",
+            "FilterValue": 5,
+            "StartType": "All"
+          }
+        },
+        {
+          "name": "score_time_summary",
+          "endpoint": "get-score-time-summary",
+          "scope": "season",
+          "request_params": {
+            "Type": "Team",
+            "FromMargin": -3,
+            "ToMargin": 3,
+            "FromTime": 300,
+            "ToTime": 120,
+            "PeriodGte": 4
+          }
+        }
+      ]
+    }
+  ]
+}

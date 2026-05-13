@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WNBA 2026 Team Roster Grade Analysis</title>
+  <style>
+    :root {
+      --bg: #f4efe6;
+      --paper: rgba(255,255,255,0.82);
+      --paper-strong: rgba(255,255,255,0.93);
+      --ink: #112031;
+      --muted: #536277;
+      --line: rgba(17,32,49,0.12);
+      --line-strong: rgba(17,32,49,0.22);
+      --navy: #18324b;
+      --amber: #d97706;
+      --shadow: 0 24px 70px rgba(17,32,49,0.10);
+      --radius: 24px;
+      --font-display: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+      --font-body: "Avenir Next", "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: var(--font-body);
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(251,191,36,0.16), transparent 28%),
+        radial-gradient(circle at top right, rgba(96,165,250,0.14), transparent 24%),
+        linear-gradient(180deg, #f9f5ee 0%, var(--bg) 100%);
+    }
+    a { color: inherit; }
+    .page {
+      width: min(1420px, calc(100vw - 40px));
+      margin: 24px auto 48px;
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      gap: 22px;
+      align-items: start;
+    }
+    .sidebar {
+      position: sticky;
+      top: 18px;
+      padding: 22px;
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(24,50,75,0.98), rgba(17,32,49,0.94));
+      color: #f8fafc;
+      box-shadow: var(--shadow);
+    }
+    .eyebrow {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: rgba(248,250,252,0.72);
+      margin-bottom: 10px;
+    }
+    .sidebar h1 {
+      margin: 0 0 12px;
+      font-family: var(--font-display);
+      font-size: 32px;
+      line-height: 1.05;
+    }
+    .sidebar p {
+      margin: 0 0 14px;
+      color: rgba(248,250,252,0.8);
+      line-height: 1.55;
+      font-size: 14px;
+    }
+    .nav {
+      margin-top: 24px;
+      display: grid;
+      gap: 10px;
+    }
+    .nav a {
+      text-decoration: none;
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 999px;
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.06);
+      font-size: 13px;
+    }
+    main {
+      display: grid;
+      gap: 22px;
+    }
+    .hero, .section {
+      padding: 28px 30px 30px;
+      border-radius: 28px;
+      background: var(--paper);
+      backdrop-filter: blur(16px);
+      box-shadow: var(--shadow);
+      border: 1px solid rgba(255,255,255,0.4);
+    }
+    .hero {
+      background:
+        linear-gradient(135deg, rgba(24,50,75,0.96), rgba(40,62,87,0.92)),
+        linear-gradient(180deg, rgba(255,255,255,0.12), rgba(255,255,255,0.02));
+      color: #f8fafc;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.3fr 0.9fr;
+      gap: 20px;
+      align-items: end;
+    }
+    .hero h2 {
+      margin: 0 0 10px;
+      font-family: var(--font-display);
+      font-size: clamp(34px, 4vw, 54px);
+      line-height: 0.98;
+    }
+    .hero p {
+      margin: 0 0 12px;
+      line-height: 1.65;
+      color: rgba(248,250,252,0.84);
+    }
+    .hero-note {
+      padding: 16px 18px;
+      border-radius: 20px;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.10);
+    }
+    .metric-grid {
+      margin-top: 22px;
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 14px;
+    }
+    .metric-card {
+      padding: 18px;
+      border-radius: 20px;
+      background: var(--paper-strong);
+      border: 1px solid var(--line);
+    }
+    .metric-kicker {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .metric-value {
+      font-family: var(--font-display);
+      font-size: 30px;
+      line-height: 1;
+      margin-bottom: 6px;
+      color: var(--navy);
+    }
+    .metric-sub {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: end;
+      margin-bottom: 18px;
+    }
+    .section-id {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: var(--amber);
+      margin-bottom: 8px;
+    }
+    .section h3 {
+      margin: 0;
+      font-family: var(--font-display);
+      font-size: 34px;
+      line-height: 1.04;
+    }
+    .section-head p, .section > p, .section li {
+      color: var(--muted);
+      line-height: 1.65;
+      font-size: 15px;
+    }
+    .section > p { margin: 0 0 14px; }
+    .section ul {
+      margin: 12px 0 0 18px;
+      padding: 0;
+    }
+    .callout-row {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 18px;
+    }
+    .callout {
+      padding: 16px 18px;
+      border-radius: 20px;
+      background: #fffdf8;
+      border: 1px solid rgba(217,119,6,0.16);
+    }
+    .callout strong {
+      display: block;
+      margin-bottom: 6px;
+      color: var(--navy);
+    }
+    .chart-shell {
+      margin-top: 16px;
+      padding: 18px;
+      border-radius: 24px;
+      background: linear-gradient(180deg, rgba(255,255,255,0.96), rgba(246,248,250,0.94));
+      border: 1px solid var(--line);
+      overflow-x: auto;
+    }
+    .chart-svg {
+      width: 100%;
+      min-width: 940px;
+      height: auto;
+      display: block;
+    }
+    .chart-panel { fill: rgba(248,250,252,0.9); }
+    .bar-track-chart { fill: rgba(17,32,49,0.08); }
+    .grid-line {
+      stroke: rgba(17,32,49,0.10);
+      stroke-width: 1;
+    }
+    .ref-line {
+      stroke: rgba(217,119,6,0.6);
+      stroke-width: 1.6;
+      stroke-dasharray: 6 6;
+    }
+    .chart-label {
+      font-size: 13px;
+      fill: #112031;
+      font-weight: 600;
+    }
+    .chart-value {
+      font-size: 13px;
+      fill: #112031;
+      font-weight: 700;
+    }
+    .chart-sub {
+      font-size: 12px;
+      fill: #536277;
+    }
+    .axis-label, .axis-note, .legend-label, .segment-label, .scatter-point-label, .scatter-annotation, .quadrant-label {
+      fill: #536277;
+      font-size: 12px;
+    }
+    .segment-label {
+      fill: #0f172a;
+      font-weight: 700;
+    }
+    .scatter-point-label {
+      fill: #112031;
+      font-weight: 700;
+    }
+    .scatter-annotation {
+      fill: #112031;
+      font-size: 11px;
+      font-weight: 600;
+    }
+    .quadrant-label {
+      fill: rgba(17,32,49,0.38);
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .table-wrap {
+      overflow-x: auto;
+      border-radius: 20px;
+      border: 1px solid var(--line);
+      background: rgba(255,255,255,0.72);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 720px;
+    }
+    th, td {
+      padding: 12px 14px;
+      text-align: left;
+      border-bottom: 1px solid var(--line);
+      font-size: 13px;
+    }
+    th {
+      background: rgba(24,50,75,0.06);
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 11px;
+    }
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(217,119,6,0.12);
+      color: var(--amber);
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+    .muted {
+      color: var(--muted);
+    }
+    @media (max-width: 1120px) {
+      .page {
+        width: min(100vw - 26px, 980px);
+        grid-template-columns: 1fr;
+      }
+      .sidebar {
+        position: relative;
+        top: 0;
+      }
+      .hero-grid, .metric-grid, .callout-row {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <aside class="sidebar">
+      <div class="eyebrow">WNBA 2026 Notebook</div>
+      <h1>Team Roster Grade Analysis</h1>
+      <p>This notebook rebuilds the team roster grade story from the current local roster-value tables so the ranking, visuals, and narrative all stay on one fresh calculation path.</p>
+      <p>Fresh vs. saved Tableau comparison: grade match rate 33%; median rank diff 4.0; median value diff 5.46. The saved Tableau layer does not materially match the fresh analysis, so the notebook keeps the fresh local build as the source of truth.</p>
+      <nav class="nav">
+        <a href="#overview">Overview</a>
+        <a href="#method">Method</a>
+        <a href="#leaderboard">Leaderboard</a>
+        <a href="#scatter">Cap Concentration</a>
+        <a href="#tiers">Roster Tiers</a>
+        <a href="#hidden">Hidden Value</a>
+        <a href="#appendix">Appendix</a>
+      </nav>
+    </aside>
+    <main>
+      <section class="hero" id="overview">
+        <div class="hero-grid">
+          <div>
+            <div class="eyebrow">Fresh Team-Level Rollup</div>
+            <h2>Median roster quality is the anchor, and the live local tables now drive every team-grade view.</h2>
+            <p>The framework memo defines team grades around the middle roster slot, not the loudest star contract. This rebuild follows that logic: teams are ranked by the median player value score from the current 2026 value table, then grouped into a league-relative A-to-F curve.</p>
+            <p>Las Vegas Aces sits at the top of the current board at 46.24, while Indiana Fever anchors the bottom at 41.42. The range is still tight, which matches the memo’s warning that partial coverage compresses separation.</p>
+          </div>
+          <div class="hero-note">
+            <div class="eyebrow">Source-of-truth note</div>
+            <p>The notebook uses <strong>fresh local tables</strong> as the source of truth. Saved Tableau extracts are compared for drift, but they are not allowed to overwrite the live ranking if the two paths materially disagree.</p>
+            <div class="pill">Tableau QA mismatch</div>
+          </div>
+        </div>
+        <div class="metric-grid">
+          
+        <article class="metric-card">
+          <div class="metric-kicker">Fresh team universe</div>
+          <div class="metric-value">15</div>
+          <div class="metric-sub">All 15 teams rebuilt from current local roster-value tables</div>
+        </article>
+        
+        <article class="metric-card">
+          <div class="metric-kicker">Primary grade signal</div>
+          <div class="metric-value">Median value score</div>
+          <div class="metric-sub">Letter grades are assigned on a league-relative quintile curve</div>
+        </article>
+        
+        <article class="metric-card">
+          <div class="metric-kicker">Median value range</div>
+          <div class="metric-value">41.42 - 46.24</div>
+          <div class="metric-sub">Current live spread across the league</div>
+        </article>
+        
+        <article class="metric-card">
+          <div class="metric-kicker">Tableau comparison</div>
+          <div class="metric-value">Mismatch</div>
+          <div class="metric-sub">Saved Tableau files stay QA-only unless they materially match the fresh calculation</div>
+        </article>
+        
+        </div>
+      </section>
+
+      <section class="section" id="method">
+        <div class="section-head">
+          <div>
+            <div class="section-id">1. Method snapshot</div>
+            <h3>One calculation path for the ranking, visuals, and write-up</h3>
+          </div>
+          <div class="pill">2026 local build</div>
+        </div>
+        <p>The deliverable reads the updated <code>team_roster_grades</code>, <code>value_scores</code>, <code>team_rosters</code>, and <code>team_salary_cap</code> tables, then rebuilds the team view directly from those files. That keeps the HTML narrative aligned with the same tables you are updating elsewhere in the project.</p>
+        <ul>
+          <li>Team grades are rebuilt from the 2026 local value-score table and sorted by median player value score, which keeps the grade focused on the typical roster slot instead of one star contract.</li><li>Cap concentration is recalculated as the share of total cap hit carried by each team’s top two salaries, using live salary rows with the team salary-cap table as the denominator.</li><li>Roster tiers, undervalued counts, and hidden-value counts are all derived from the same fresh player universe so every chart and takeaway stays on one calculation path.</li><li>Saved Tableau extracts are loaded only as a comparison check. If they drift materially from the fresh analysis, this notebook does not inherit those rankings.</li>
+        </ul>
+        <div class="callout-row">
+          <div class="callout">
+            <strong>League midpoint used for the scatter</strong>
+            Median value score split: 44.01. Top-2 cap concentration split: 39.7%.
+          </div>
+          <div class="callout">
+            <strong>Current model caveat</strong>
+            Hidden-value counts are driven by the live model definition. If that count stays low or zero, the notebook preserves that signal instead of forcing a more dramatic story than the data supports today.
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="leaderboard">
+        <div class="section-head">
+          <div>
+            <div class="section-id">2. Team Value Leaderboard</div>
+            <h3>The cleanest read is still the middle roster slot</h3>
+          </div>
+        </div>
+        <p>The leaderboard is sorted by median player value score. That makes it a roster-quality chart first, rather than a star-power chart. Hidden-value counts sit to the right as a quick read on whether each team is also finding cheap excess value.</p>
+        <div class="chart-shell">
+          
+    <svg viewBox="0 0 1040 670" class="chart-svg" role="img" aria-label="Team value leaderboard">
+      
+            <text x="206" y="46" text-anchor="end" class="chart-label">1. Las Vegas Aces</text>
+            <rect x="220" y="28" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="28" width="736.0" height="28" rx="12" fill="#34d399" />
+            <text x="966.0" y="46" class="chart-value">46.24</text>
+            <text x="1030" y="46" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="86" text-anchor="end" class="chart-label">2. New York Liberty</text>
+            <rect x="220" y="68" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="68" width="395.5" height="28" rx="12" fill="#34d399" />
+            <text x="625.5" y="86" class="chart-value">44.01</text>
+            <text x="1030" y="86" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="126" text-anchor="end" class="chart-label">3. Phoenix Mercury</text>
+            <rect x="220" y="108" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="108" width="395.5" height="28" rx="12" fill="#34d399" />
+            <text x="625.5" y="126" class="chart-value">44.01</text>
+            <text x="1030" y="126" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="166" text-anchor="end" class="chart-label">4. Minnesota Lynx</text>
+            <rect x="220" y="148" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="148" width="395.5" height="28" rx="12" fill="#60a5fa" />
+            <text x="625.5" y="166" class="chart-value">44.01</text>
+            <text x="1030" y="166" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="206" text-anchor="end" class="chart-label">5. Washington Mystics</text>
+            <rect x="220" y="188" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="188" width="395.5" height="28" rx="12" fill="#60a5fa" />
+            <text x="625.5" y="206" class="chart-value">44.01</text>
+            <text x="1030" y="206" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="246" text-anchor="end" class="chart-label">6. Connecticut Sun</text>
+            <rect x="220" y="228" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="228" width="395.5" height="28" rx="12" fill="#60a5fa" />
+            <text x="625.5" y="246" class="chart-value">44.01</text>
+            <text x="1030" y="246" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="286" text-anchor="end" class="chart-label">7. Chicago Sky</text>
+            <rect x="220" y="268" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="268" width="395.5" height="28" rx="12" fill="#fbbf24" />
+            <text x="625.5" y="286" class="chart-value">44.01</text>
+            <text x="1030" y="286" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="326" text-anchor="end" class="chart-label">8. Atlanta Dream</text>
+            <rect x="220" y="308" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="308" width="395.5" height="28" rx="12" fill="#fbbf24" />
+            <text x="625.5" y="326" class="chart-value">44.01</text>
+            <text x="1030" y="326" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="366" text-anchor="end" class="chart-label">9. Toronto Tempo</text>
+            <rect x="220" y="348" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="348" width="395.5" height="28" rx="12" fill="#fbbf24" />
+            <text x="625.5" y="366" class="chart-value">44.01</text>
+            <text x="1030" y="366" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="406" text-anchor="end" class="chart-label">10. Dallas Wings</text>
+            <rect x="220" y="388" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="388" width="387.9" height="28" rx="12" fill="#fb923c" />
+            <text x="617.9" y="406" class="chart-value">43.96</text>
+            <text x="1030" y="406" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="446" text-anchor="end" class="chart-label">11. Los Angeles Sparks</text>
+            <rect x="220" y="428" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="428" width="354.3" height="28" rx="12" fill="#fb923c" />
+            <text x="584.3" y="446" class="chart-value">43.74</text>
+            <text x="1030" y="446" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="486" text-anchor="end" class="chart-label">12. Golden State Valkyries</text>
+            <rect x="220" y="468" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="468" width="329.8" height="28" rx="12" fill="#fb923c" />
+            <text x="559.8" y="486" class="chart-value">43.58</text>
+            <text x="1030" y="486" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="526" text-anchor="end" class="chart-label">13. Portland Fire</text>
+            <rect x="220" y="508" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="508" width="281.0" height="28" rx="12" fill="#f87171" />
+            <text x="511.0" y="526" class="chart-value">43.26</text>
+            <text x="1030" y="526" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="566" text-anchor="end" class="chart-label">14. Seattle Storm</text>
+            <rect x="220" y="548" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="548" width="265.7" height="28" rx="12" fill="#f87171" />
+            <text x="495.7" y="566" class="chart-value">43.16</text>
+            <text x="1030" y="566" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+            <text x="206" y="606" text-anchor="end" class="chart-label">15. Indiana Fever</text>
+            <rect x="220" y="588" width="736" height="28" rx="12" class="bar-track-chart" />
+            <rect x="220" y="588" width="28.0" height="28" rx="12" fill="#f87171" />
+            <text x="258.0" y="606" class="chart-value">41.42</text>
+            <text x="1030" y="606" text-anchor="end" class="chart-sub">Hidden value: 0</text>
+            
+      <text x="220" y="658" class="axis-note">Bar length = median player value score. Teams are ranked off the fresh local analysis, not the saved Tableau layer.</text>
+    </svg>
+    
+        </div>
+      </section>
+
+      <section class="section" id="scatter">
+        <div class="section-head">
+          <div>
+            <div class="section-id">3. Cap Concentration vs. Team Value</div>
+            <h3>High-value teams are not all built the same way</h3>
+          </div>
+        </div>
+        <p>The scatter separates teams by how much of the cap sits in the top two contracts and whether the median roster slot still grades well. It is a quick way to isolate star-dependent builds from teams getting similar quality with a more distributed payroll.</p>
+        <div class="chart-shell">
+          
+    <svg viewBox="0 0 1040 520" class="chart-svg" role="img" aria-label="Cap concentration versus team value scatter">
+      <rect x="84" y="40" width="922" height="420" class="chart-panel" />
+      <line x1="15.8" y1="40" x2="15.8" y2="460" class="grid-line" /><text x="15.8" y="494" text-anchor="middle" class="axis-label">28%</text><line x1="98.0" y1="40" x2="98.0" y2="460" class="grid-line" /><text x="98.0" y="494" text-anchor="middle" class="axis-label">30%</text><line x1="180.2" y1="40" x2="180.2" y2="460" class="grid-line" /><text x="180.2" y="494" text-anchor="middle" class="axis-label">32%</text><line x1="262.4" y1="40" x2="262.4" y2="460" class="grid-line" /><text x="262.4" y="494" text-anchor="middle" class="axis-label">34%</text><line x1="344.6" y1="40" x2="344.6" y2="460" class="grid-line" /><text x="344.6" y="494" text-anchor="middle" class="axis-label">36%</text><line x1="426.8" y1="40" x2="426.8" y2="460" class="grid-line" /><text x="426.8" y="494" text-anchor="middle" class="axis-label">38%</text><line x1="509.0" y1="40" x2="509.0" y2="460" class="grid-line" /><text x="509.0" y="494" text-anchor="middle" class="axis-label">40%</text><line x1="591.2" y1="40" x2="591.2" y2="460" class="grid-line" /><text x="591.2" y="494" text-anchor="middle" class="axis-label">42%</text><line x1="673.5" y1="40" x2="673.5" y2="460" class="grid-line" /><text x="673.5" y="494" text-anchor="middle" class="axis-label">44%</text><line x1="755.7" y1="40" x2="755.7" y2="460" class="grid-line" /><text x="755.7" y="494" text-anchor="middle" class="axis-label">46%</text><line x1="837.9" y1="40" x2="837.9" y2="460" class="grid-line" /><text x="837.9" y="494" text-anchor="middle" class="axis-label">48%</text><line x1="920.1" y1="40" x2="920.1" y2="460" class="grid-line" /><text x="920.1" y="494" text-anchor="middle" class="axis-label">50%</text><line x1="1002.3" y1="40" x2="1002.3" y2="460" class="grid-line" /><text x="1002.3" y="494" text-anchor="middle" class="axis-label">52%</text><line x1="1084.5" y1="40" x2="1084.5" y2="460" class="grid-line" /><text x="1084.5" y="494" text-anchor="middle" class="axis-label">54%</text>
+      <line x1="84" y1="485.9" x2="1006" y2="485.9" class="grid-line" /><text x="72" y="489.9" text-anchor="end" class="axis-label">40</text><line x1="84" y1="424.3" x2="1006" y2="424.3" class="grid-line" /><text x="72" y="428.3" text-anchor="end" class="axis-label">41</text><line x1="84" y1="362.7" x2="1006" y2="362.7" class="grid-line" /><text x="72" y="366.7" text-anchor="end" class="axis-label">42</text><line x1="84" y1="301.1" x2="1006" y2="301.1" class="grid-line" /><text x="72" y="305.1" text-anchor="end" class="axis-label">43</text><line x1="84" y1="239.5" x2="1006" y2="239.5" class="grid-line" /><text x="72" y="243.5" text-anchor="end" class="axis-label">44</text><line x1="84" y1="177.9" x2="1006" y2="177.9" class="grid-line" /><text x="72" y="181.9" text-anchor="end" class="axis-label">45</text><line x1="84" y1="116.4" x2="1006" y2="116.4" class="grid-line" /><text x="72" y="120.4" text-anchor="end" class="axis-label">46</text><line x1="84" y1="54.8" x2="1006" y2="54.8" class="grid-line" /><text x="72" y="58.8" text-anchor="end" class="axis-label">47</text><line x1="84" y1="-6.8" x2="1006" y2="-6.8" class="grid-line" /><text x="72" y="-2.8" text-anchor="end" class="axis-label">48</text>
+      <line x1="495.1" y1="40" x2="495.1" y2="460" class="ref-line" />
+      <line x1="84" y1="238.9" x2="1006" y2="238.9" class="ref-line" />
+      <text x="289.5" y="46.2" text-anchor="middle" class="quadrant-label">Efficient Stars</text><text x="750.5" y="46.2" text-anchor="middle" class="quadrant-label">Star-Dependent</text><text x="289.5" y="404.6" text-anchor="middle" class="quadrant-label">Distributed Mediocrity</text><text x="750.5" y="404.6" text-anchor="middle" class="quadrant-label">Cap Trapped</text>
+      
+            <circle cx="761.8" cy="101.6" r="9" fill="#34d399" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="761.8" y="87.6" text-anchor="middle" class="scatter-point-label">LVA</text>
+            <text x="773.8" y="105.6" class="scatter-annotation">Las Vegas Aces</text>
+            <circle cx="666.9" cy="238.9" r="9" fill="#34d399" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="666.9" y="224.9" text-anchor="middle" class="scatter-point-label">NYL</text>
+            
+            <circle cx="903.6" cy="238.9" r="9" fill="#34d399" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="903.6" y="224.9" text-anchor="middle" class="scatter-point-label">PHX</text>
+            
+            <circle cx="592.1" cy="238.9" r="9" fill="#60a5fa" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="592.1" y="224.9" text-anchor="middle" class="scatter-point-label">MIN</text>
+            
+            <circle cx="923.8" cy="238.9" r="9" fill="#60a5fa" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="923.8" y="224.9" text-anchor="middle" class="scatter-point-label">WAS</text>
+            <text x="935.8" y="242.9" class="scatter-annotation">Washington Mystics</text>
+            <circle cx="753.2" cy="238.9" r="9" fill="#60a5fa" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="753.2" y="224.9" text-anchor="middle" class="scatter-point-label">CON</text>
+            
+            <circle cx="166.2" cy="238.9" r="9" fill="#fbbf24" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="166.2" y="224.9" text-anchor="middle" class="scatter-point-label">CHI</text>
+            <text x="178.2" y="242.9" class="scatter-annotation">Chicago Sky</text>
+            <circle cx="445.3" cy="238.9" r="9" fill="#fbbf24" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="445.3" y="224.9" text-anchor="middle" class="scatter-point-label">ATL</text>
+            
+            <circle cx="751.6" cy="238.9" r="9" fill="#fbbf24" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="751.6" y="224.9" text-anchor="middle" class="scatter-point-label">TOR</text>
+            
+            <circle cx="333.5" cy="242.0" r="9" fill="#fb923c" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="333.5" y="228.0" text-anchor="middle" class="scatter-point-label">DAL</text>
+            
+            <circle cx="425.6" cy="255.5" r="9" fill="#fb923c" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="425.6" y="241.5" text-anchor="middle" class="scatter-point-label">LAS</text>
+            
+            <circle cx="270.6" cy="265.4" r="9" fill="#fb923c" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="270.6" y="251.4" text-anchor="middle" class="scatter-point-label">GSV</text>
+            
+            <circle cx="495.1" cy="285.1" r="9" fill="#f87171" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="495.1" y="271.1" text-anchor="middle" class="scatter-point-label">POR</text>
+            
+            <circle cx="451.1" cy="291.3" r="9" fill="#f87171" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="451.1" y="277.3" text-anchor="middle" class="scatter-point-label">SEA</text>
+            
+            <circle cx="399.3" cy="398.4" r="9" fill="#f87171" stroke="#f8fafc" stroke-width="1.8" />
+            <text x="399.3" y="384.4" text-anchor="middle" class="scatter-point-label">IND</text>
+            <text x="411.3" y="402.4" class="scatter-annotation">Indiana Fever</text>
+      <text x="545.0" y="510" text-anchor="middle" class="axis-note">Top-2 cap concentration percent</text>
+      <text x="18" y="250.0" transform="rotate(-90 18 250.0)" text-anchor="middle" class="axis-note">Median player value score</text>
+    </svg>
+    
+        </div>
+      </section>
+
+      <section class="section" id="tiers">
+        <div class="section-head">
+          <div>
+            <div class="section-id">4. Roster Tier Stacked Bar by Team</div>
+            <h3>Depth quality becomes visible when every roster is broken into the same value tiers</h3>
+          </div>
+        </div>
+        <p>This view keeps the leaderboard order but replaces the single team score with a full roster composition read. Teams with a broader fair-to-strong middle look sturdier than clubs that rely on one or two acceptable contracts while the rest of the roster sits in the risk band.</p>
+        <div class="chart-shell">
+          
+    <svg viewBox="0 0 1040 664" class="chart-svg" role="img" aria-label="Roster tier stacked bar by team">
+      <rect x="220" y="16" width="14" height="14" rx="4" fill="#ef4444" /><text x="242" y="28" class="legend-label">Overvalued</text><rect x="370" y="16" width="14" height="14" rx="4" fill="#f97316" /><text x="392" y="28" class="legend-label">Risk</text><rect x="520" y="16" width="14" height="14" rx="4" fill="#fbbf24" /><text x="542" y="28" class="legend-label">Fair Value</text><rect x="670" y="16" width="14" height="14" rx="4" fill="#38bdf8" /><text x="692" y="28" class="legend-label">Strong Value</text><rect x="820" y="16" width="14" height="14" rx="4" fill="#34d399" /><text x="842" y="28" class="legend-label">Elite Value</text>
+      <text x="206" y="66" text-anchor="end" class="chart-label">Las Vegas Aces</text><rect x="220" y="48" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="48" width="59.7" height="26" fill="#ef4444" rx="12" /><text x="249.8" y="66" text-anchor="middle" class="segment-label">1</text><rect x="279.7" y="48" width="417.8" height="26" fill="#f97316" rx="12" /><text x="488.6" y="66" text-anchor="middle" class="segment-label">7</text><rect x="697.5" y="48" width="298.5" height="26" fill="#fbbf24" rx="12" /><text x="846.8" y="66" text-anchor="middle" class="segment-label">5</text><text x="206" y="104" text-anchor="end" class="chart-label">New York Liberty</text><rect x="220" y="86" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="86" width="573.6" height="26" fill="#f97316" rx="12" /><text x="506.8" y="104" text-anchor="middle" class="segment-label">17</text><rect x="793.6" y="86" width="202.4" height="26" fill="#fbbf24" rx="12" /><text x="894.8" y="104" text-anchor="middle" class="segment-label">6</text><text x="206" y="142" text-anchor="end" class="chart-label">Phoenix Mercury</text><rect x="220" y="124" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="124" width="665.1" height="26" fill="#f97316" rx="12" /><text x="552.6" y="142" text-anchor="middle" class="segment-label">24</text><rect x="885.1" y="124" width="110.9" height="26" fill="#fbbf24" rx="12" /><text x="940.6" y="142" text-anchor="middle" class="segment-label">4</text><text x="206" y="180" text-anchor="end" class="chart-label">Minnesota Lynx</text><rect x="220" y="162" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="162" width="674.8" height="26" fill="#f97316" rx="12" /><text x="557.4" y="180" text-anchor="middle" class="segment-label">20</text><rect x="894.8" y="162" width="101.2" height="26" fill="#fbbf24" rx="12" /><text x="945.4" y="180" text-anchor="middle" class="segment-label">3</text><text x="206" y="218" text-anchor="end" class="chart-label">Washington Mystics</text><rect x="220" y="200" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="200" width="776.0" height="26" fill="#f97316" rx="12" /><text x="608.0" y="218" text-anchor="middle" class="segment-label">19</text><text x="206" y="256" text-anchor="end" class="chart-label">Connecticut Sun</text><rect x="220" y="238" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="238" width="776.0" height="26" fill="#f97316" rx="12" /><text x="608.0" y="256" text-anchor="middle" class="segment-label">22</text><text x="206" y="294" text-anchor="end" class="chart-label">Chicago Sky</text><rect x="220" y="276" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="276" width="776.0" height="26" fill="#f97316" rx="12" /><text x="608.0" y="294" text-anchor="middle" class="segment-label">21</text><text x="206" y="332" text-anchor="end" class="chart-label">Atlanta Dream</text><rect x="220" y="314" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="314" width="77.6" height="26" fill="#ef4444" rx="12" /><text x="258.8" y="332" text-anchor="middle" class="segment-label">2</text><rect x="297.6" y="314" width="698.4" height="26" fill="#f97316" rx="12" /><text x="646.8" y="332" text-anchor="middle" class="segment-label">18</text><text x="206" y="370" text-anchor="end" class="chart-label">Toronto Tempo</text><rect x="220" y="352" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="352" width="776.0" height="26" fill="#f97316" rx="12" /><text x="608.0" y="370" text-anchor="middle" class="segment-label">24</text><text x="206" y="408" text-anchor="end" class="chart-label">Dallas Wings</text><rect x="220" y="390" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="390" width="77.6" height="26" fill="#ef4444" rx="12" /><text x="258.8" y="408" text-anchor="middle" class="segment-label">2</text><rect x="297.6" y="390" width="698.4" height="26" fill="#f97316" rx="12" /><text x="646.8" y="408" text-anchor="middle" class="segment-label">18</text><text x="206" y="446" text-anchor="end" class="chart-label">Los Angeles Sparks</text><rect x="220" y="428" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="428" width="720.6" height="26" fill="#f97316" rx="12" /><text x="580.3" y="446" text-anchor="middle" class="segment-label">13</text><rect x="940.6" y="428" width="55.4" height="26" fill="#fbbf24" rx="12" /><text x="968.3" y="446" text-anchor="middle" class="segment-label">1</text><text x="206" y="484" text-anchor="end" class="chart-label">Golden State Valkyries</text><rect x="220" y="466" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="466" width="732.9" height="26" fill="#f97316" rx="12" /><text x="586.4" y="484" text-anchor="middle" class="segment-label">17</text><rect x="952.9" y="466" width="43.1" height="26" fill="#fbbf24" rx="12" /><text x="974.4" y="484" text-anchor="middle" class="segment-label">1</text><text x="206" y="522" text-anchor="end" class="chart-label">Portland Fire</text><rect x="220" y="504" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="504" width="776.0" height="26" fill="#f97316" rx="12" /><text x="608.0" y="522" text-anchor="middle" class="segment-label">18</text><text x="206" y="560" text-anchor="end" class="chart-label">Seattle Storm</text><rect x="220" y="542" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="542" width="81.7" height="26" fill="#ef4444" rx="12" /><text x="260.8" y="560" text-anchor="middle" class="segment-label">2</text><rect x="301.7" y="542" width="653.5" height="26" fill="#f97316" rx="12" /><text x="628.4" y="560" text-anchor="middle" class="segment-label">16</text><rect x="955.2" y="542" width="40.8" height="26" fill="#fbbf24" rx="12" /><text x="975.6" y="560" text-anchor="middle" class="segment-label">1</text><text x="206" y="598" text-anchor="end" class="chart-label">Indiana Fever</text><rect x="220" y="580" width="776" height="26" rx="12" class="bar-track-chart" /><rect x="220.0" y="580" width="86.2" height="26" fill="#ef4444" rx="12" /><text x="263.1" y="598" text-anchor="middle" class="segment-label">2</text><rect x="306.2" y="580" width="689.8" height="26" fill="#f97316" rx="12" /><text x="651.1" y="598" text-anchor="middle" class="segment-label">16</text>
+      <text x="220" y="652" class="axis-note">Each bar sums to the fresh roster universe for that team. Tier cutoffs follow the live value-score pipeline.</text>
+    </svg>
+    
+        </div>
+      </section>
+
+      <section class="section" id="hidden">
+        <div class="section-head">
+          <div>
+            <div class="section-id">5. Hidden Value Talent by Team</div>
+            <h3>Cheap surplus talent is still the fastest leverage story in the model</h3>
+          </div>
+        </div>
+        <p>The dot plot isolates which teams are turning low-cost contracts into real value. Dot size adds roster size context so a team with the same hidden-value count but a smaller roster reads as a more concentrated efficiency win.</p>
+        <div class="chart-shell">
+          
+    <svg viewBox="0 0 1040 724" class="chart-svg" role="img" aria-label="Hidden value talent by team">
+      <line x1="220.0" y1="40" x2="220.0" y2="670" class="grid-line" /><text x="220.0" y="700" text-anchor="middle" class="axis-label">0</text><line x1="984.0" y1="40" x2="984.0" y2="670" class="grid-line" /><text x="984.0" y="700" text-anchor="middle" class="axis-label">1</text>
+      <text x="206" y="59.0" text-anchor="end" class="chart-label">Las Vegas Aces</text><circle cx="220.0" cy="55.0" r="12.1" fill="#34d399" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="240.1" y="59.0" class="chart-sub">0 hidden | 4 undervalued</text><text x="206" y="101.0" text-anchor="end" class="chart-label">New York Liberty</text><circle cx="220.0" cy="97.0" r="16.0" fill="#34d399" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="244.0" y="101.0" class="chart-sub">0 hidden | 1 undervalued</text><text x="206" y="143.0" text-anchor="end" class="chart-label">Phoenix Mercury</text><circle cx="220.0" cy="139.0" r="18.0" fill="#34d399" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="246.0" y="143.0" class="chart-sub">0 hidden | 1 undervalued</text><text x="206" y="185.0" text-anchor="end" class="chart-label">Minnesota Lynx</text><circle cx="220.0" cy="181.0" r="16.0" fill="#60a5fa" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="244.0" y="185.0" class="chart-sub">0 hidden | 2 undervalued</text><text x="206" y="227.0" text-anchor="end" class="chart-label">Washington Mystics</text><circle cx="220.0" cy="223.0" r="14.5" fill="#60a5fa" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.5" y="227.0" class="chart-sub">0 hidden | 3 undervalued</text><text x="206" y="269.0" text-anchor="end" class="chart-label">Connecticut Sun</text><circle cx="220.0" cy="265.0" r="15.6" fill="#60a5fa" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="243.6" y="269.0" class="chart-sub">0 hidden | 3 undervalued</text><text x="206" y="311.0" text-anchor="end" class="chart-label">Chicago Sky</text><circle cx="220.0" cy="307.0" r="15.2" fill="#fbbf24" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="243.2" y="311.0" class="chart-sub">0 hidden | 4 undervalued</text><text x="206" y="353.0" text-anchor="end" class="chart-label">Atlanta Dream</text><circle cx="220.0" cy="349.0" r="14.9" fill="#fbbf24" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.9" y="353.0" class="chart-sub">0 hidden | 2 undervalued</text><text x="206" y="395.0" text-anchor="end" class="chart-label">Toronto Tempo</text><circle cx="220.0" cy="391.0" r="16.4" fill="#fbbf24" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="244.4" y="395.0" class="chart-sub">0 hidden | 3 undervalued</text><text x="206" y="437.0" text-anchor="end" class="chart-label">Dallas Wings</text><circle cx="220.0" cy="433.0" r="14.9" fill="#fb923c" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.9" y="437.0" class="chart-sub">0 hidden | 6 undervalued</text><text x="206" y="479.0" text-anchor="end" class="chart-label">Los Angeles Sparks</text><circle cx="220.0" cy="475.0" r="12.5" fill="#fb923c" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="240.5" y="479.0" class="chart-sub">0 hidden | 1 undervalued</text><text x="206" y="521.0" text-anchor="end" class="chart-label">Golden State Valkyries</text><circle cx="220.0" cy="517.0" r="14.1" fill="#fb923c" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.1" y="521.0" class="chart-sub">0 hidden | 5 undervalued</text><text x="206" y="563.0" text-anchor="end" class="chart-label">Portland Fire</text><circle cx="220.0" cy="559.0" r="14.1" fill="#f87171" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.1" y="563.0" class="chart-sub">0 hidden | 5 undervalued</text><text x="206" y="605.0" text-anchor="end" class="chart-label">Seattle Storm</text><circle cx="220.0" cy="601.0" r="14.5" fill="#f87171" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.5" y="605.0" class="chart-sub">0 hidden | 5 undervalued</text><text x="206" y="647.0" text-anchor="end" class="chart-label">Indiana Fever</text><circle cx="220.0" cy="643.0" r="14.1" fill="#f87171" fill-opacity="0.78" stroke="#f8fafc" stroke-width="1.6" /><text x="242.1" y="647.0" class="chart-sub">0 hidden | 5 undervalued</text>
+      <text x="602.0" y="716" text-anchor="middle" class="axis-note">Hidden value count. Dot size scales with roster size.</text>
+    </svg>
+    
+        </div>
+      </section>
+
+      <section class="section" id="appendix">
+        <div class="section-head">
+          <div>
+            <div class="section-id">6. Takeaways and QA appendix</div>
+            <h3>What stands out in the fresh build, and where the old presentation layer drifts</h3>
+          </div>
+        </div>
+        <ul>
+          <li>Las Vegas Aces leads the fresh 2026 board with a median value score of 46.24 and a league-best grade of A.</li><li>Washington Mystics is the most top-heavy cap build at 50.1%, while Chicago Sky is the most distributed at 31.7%.</li><li>Dallas Wings carries the deepest undervalued count in the live model with 6 players flagged as returning more value than price.</li><li>Dallas Wings currently tops the hidden-value chart at 0; if that number stays low league-wide, it is a signal that the current 2026 file is still identifying very little true below-market breakout talent.</li><li>Indiana Fever lands at the bottom of the current snapshot with a F grade, reminding us that this notebook is grading the typical roster slot, not just headline star power.</li>
+        </ul>
+        <div class="callout-row">
+          <div class="callout">
+            <strong>Fresh source-of-truth outputs</strong>
+            Notebook-support CSVs were written into <code>data/doc2_roster_value/notebook/team_roster_grade_analysis_2026/</code> so the visual extracts stay separate from the saved Tableau layer.
+          </div>
+          <div class="callout">
+            <strong>Saved Tableau comparison</strong>
+            The saved Tableau layer does not materially match the fresh calculation, so the notebook keeps the fresh ranking and records the drift below.
+          </div>
+        </div>
+        <div style="margin-top:18px">
+          
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Team</th><th>Fresh Rank</th><th>Tableau Rank</th><th>Rank Diff</th><th>Fresh Grade</th><th>Tableau Grade</th><th>Fresh Median</th><th>Tableau Median</th></tr></thead>
+        <tbody><tr><td>Las Vegas Aces</td><td>1</td><td>4</td><td>3</td><td>A</td><td>B</td><td>46.24</td><td>52.19</td></tr><tr><td>New York Liberty</td><td>2</td><td>1</td><td>1</td><td>A</td><td>A</td><td>44.01</td><td>55.82</td></tr><tr><td>Phoenix Mercury</td><td>3</td><td>6</td><td>3</td><td>A</td><td>B</td><td>44.01</td><td>50.54</td></tr><tr><td>Minnesota Lynx</td><td>4</td><td>12</td><td>8</td><td>B</td><td>D</td><td>44.01</td><td>47.44</td></tr><tr><td>Washington Mystics</td><td>5</td><td>9</td><td>4</td><td>B</td><td>C</td><td>44.01</td><td>48.42</td></tr><tr><td>Connecticut Sun</td><td>6</td><td>10</td><td>4</td><td>B</td><td>D</td><td>44.01</td><td>48.22</td></tr><tr><td>Chicago Sky</td><td>7</td><td>13</td><td>6</td><td>C</td><td>F</td><td>44.01</td><td>46.46</td></tr><tr><td>Atlanta Dream</td><td>8</td><td>2</td><td>6</td><td>C</td><td>A</td><td>44.01</td><td>54.18</td></tr><tr><td>Toronto Tempo</td><td>9</td><td>7</td><td>2</td><td>C</td><td>C</td><td>44.01</td><td>49.54</td></tr><tr><td>Dallas Wings</td><td>10</td><td>11</td><td>1</td><td>D</td><td>D</td><td>43.96</td><td>47.75</td></tr><tr><td>Los Angeles Sparks</td><td>11</td><td>3</td><td>8</td><td>D</td><td>A</td><td>43.74</td><td>53.44</td></tr><tr><td>Golden State Valkyries</td><td>12</td><td>8</td><td>4</td><td>D</td><td>C</td><td>43.58</td><td>49.04</td></tr><tr><td>Portland Fire</td><td>13</td><td>14</td><td>1</td><td>F</td><td>F</td><td>43.26</td><td>45.66</td></tr><tr><td>Seattle Storm</td><td>14</td><td>15</td><td>1</td><td>F</td><td>F</td><td>43.16</td><td>43.24</td></tr><tr><td>Indiana Fever</td><td>15</td><td>5</td><td>10</td><td>F</td><td>B</td><td>41.42</td><td>50.54</td></tr></tbody>
+      </table>
+    </div>
+    
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

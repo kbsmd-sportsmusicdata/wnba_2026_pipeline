@@ -1,0 +1,126 @@
+{
+  "default_league": "wnba",
+  "minimum_seasons": [2025, 2024, 2023],
+  "requested_season_types": ["Regular Season", "Playoffs"],
+  "fallback_season_type": "Regular Season",
+  "families": {
+    "league_discovery": {
+      "description": "Discovery helpers for teams, games, and roster membership.",
+      "endpoints": {
+        "get-teams": {
+          "path": "get-teams/{league}",
+          "supports_playoffs": false,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["teams"]
+        },
+        "get-games": {
+          "path": "get-games/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        },
+        "get-team-players-for-season": {
+          "path": "get-team-players-for-season",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["players"]
+        },
+        "get-all-players-for-league": {
+          "path": "get-all-players-for-league/{league}",
+          "supports_playoffs": false,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["players"]
+        }
+      }
+    },
+    "totals": {
+      "description": "Player/team totals and season-by-season history.",
+      "endpoints": {
+        "get-totals": {
+          "path": "get-totals/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["single_row_table_data", "multi_row_table_data"]
+        },
+        "get-all-season-stats": {
+          "path": "get-all-season-stats/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results", "career_totals", "header"]
+        }
+      }
+    },
+    "on_off": {
+      "description": "On/off and WOWY-style player/team context.",
+      "endpoints": {
+        "get-on-off": {
+          "path": "get-on-off/{league}/{stat_type}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["single_row_table_data", "multi_row_table_data"]
+        },
+        "get-wowy-stats": {
+          "path": "get-wowy-stats/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["single_row_table_data", "multi_row_table_data", "win_loss_record"]
+        },
+        "get-wowy-combination-stats": {
+          "path": "get-wowy-combination-stats/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        }
+      }
+    },
+    "shot_pace": {
+      "description": "Pace, shot-state, and score/time query outputs.",
+      "endpoints": {
+        "get-pace-efficiency-by-season": {
+          "path": "get-pace-efficiency-by-season/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        },
+        "get-shot-query-summary": {
+          "path": "get-shot-query-summary/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        },
+        "get-shots": {
+          "path": "get-shots/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        },
+        "get-possessions": {
+          "path": "get-possessions/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["possessions", "player_results", "team_results"]
+        },
+        "get-score-time-summary": {
+          "path": "get-score-time-summary/{league}",
+          "supports_playoffs": true,
+          "default_season_type": "Regular Season",
+          "emit_season_type_column": true,
+          "response_tables": ["results"]
+        }
+      }
+    }
+  }
+}

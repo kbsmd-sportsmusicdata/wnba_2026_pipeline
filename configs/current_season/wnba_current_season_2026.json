@@ -1,0 +1,28 @@
+{
+  "season": 2026,
+  "source_policy": "pbpstats_first",
+  "paths": {
+    "pbpstats_bundle_path": "configs/pbpstats/jobs/wnba_current_season_bundle.json",
+    "pbpstats_registry_path": "configs/pbpstats/endpoint_registry.json",
+    "pbpstats_output_root": "data/raw/pbpstats/current_season_2026",
+    "wehoop_raw_root": "data/raw/wehoop/current_season_2026",
+    "master_root": "data/current_season_2026/masters"
+  },
+  "wehoop_sources": {
+    "player_boxscores": {
+      "release_tag": "espn_wnba_player_boxscores"
+    },
+    "team_boxscores": {
+      "release_tag": "espn_wnba_team_boxscores"
+    },
+    "schedules": {
+      "release_tag": "espn_wnba_schedules"
+    }
+  },
+  "optional_sources": {
+    "shots": {
+      "release_tag": "espn_wnba_shots",
+      "enabled": false
+    }
+  }
+}

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WNBA 2026 Roster Value Framework</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #060d1a; display: flex; justify-content: center; align-items: flex-start; min-height: 100vh; padding: 32px 16px; font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif; }
+    .rvf { background: #0f172a; color: #e2e8f0; padding: 28px 24px; border-radius: 16px; width: 940px; max-width: 100%; }
+    .section-label { font-size: 9px; text-transform: uppercase; letter-spacing: 2px; color: #475569; text-align: center; margin-bottom: 8px; }
+    .arrow { text-align: center; color: #1e293b; font-size: 18px; line-height: 1; margin: 4px 0; }
+    /* Threads */
+    .thread-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 8px; margin-bottom: 2px; }
+    .thread { background: #1e3a5f; border: 1px solid #3b82f6; border-radius: 8px; padding: 12px; text-align: center; }
+    .thread-num { font-size: 9px; color: #60a5fa; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
+    .thread-title { font-size: 12px; font-weight: 600; color: #f1f5f9; margin-bottom: 4px; }
+    .thread-q { font-size: 10px; color: #93c5fd; line-height: 1.5; }
+    /* Criteria */
+    .crit-grid { display: grid; grid-template-columns: repeat(6,1fr); gap: 6px; margin-bottom: 2px; }
+    .crit { background: #1a1410; border: 1px solid #ea580c; border-radius: 7px; padding: 10px 7px; text-align: center; }
+    .crit-title { font-size: 11px; font-weight: 600; color: #fb923c; margin-bottom: 3px; }
+    .crit-sub { font-size: 9px; color: #78716c; line-height: 1.3; }
+    /* Formula */
+    .formula { display: flex; border-radius: 8px; overflow: hidden; border: 1px solid #c2410c; margin-bottom: 2px; }
+    .fseg { padding: 10px 5px; text-align: center; }
+    .fseg-pct { font-size: 13px; font-weight: 700; color: #fde68a; }
+    .fseg-label { font-size: 9px; color: #fbbf24; margin-top: 3px; line-height: 1.2; }
+    .fdivider { width: 1px; background: #0f172a; flex-shrink: 0; }
+    /* Bands */
+    .band-grid { display: grid; grid-template-columns: repeat(6,1fr); gap: 5px; margin-bottom: 2px; }
+    .band { border-radius: 7px; padding: 9px 6px; text-align: center; }
+    .band-score { font-size: 13px; font-weight: 700; }
+    .band-name { font-size: 10px; font-weight: 600; margin: 3px 0; }
+    .band-desc { font-size: 9px; line-height: 1.3; }
+    /* Bottom */
+    .bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .team-grade { background: #1a1625; border: 1px solid #7c3aed; border-radius: 10px; padding: 14px; }
+    .tg-row { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; }
+    .tg-pct { min-width: 32px; font-size: 11px; font-weight: 700; color: #a78bfa; text-align: right; }
+    .tg-bar { flex: 1; background: #2d1f5e; border-radius: 5px; padding: 6px 10px; display: flex; align-items: baseline; gap: 8px; }
+    .tg-name { font-size: 11px; font-weight: 600; color: #c4b5fd; }
+    .tg-sub { font-size: 10px; color: #7c6fc9; }
+    .right-col { display: flex; flex-direction: column; gap: 8px; }
+    .use-cases { background: #0c1a2a; border: 1px solid #0891b2; border-radius: 10px; padding: 12px; flex: 1; }
+    .uc-row { background: #0c2535; border-radius: 5px; padding: 6px 10px; margin-bottom: 5px; }
+    .uc-title { font-size: 11px; font-weight: 600; color: #38bdf8; }
+    .uc-sub { font-size: 10px; color: #7dd3fc; }
+    .deliverables { background: #0c1a15; border: 1px solid #16a34a; border-radius: 10px; padding: 12px; }
+    .del-grid { display: flex; gap: 6px; }
+    .del-card { flex: 1; background: #0c2515; border: 1px solid #166534; border-radius: 6px; padding: 9px; text-align: center; }
+    .del-title { font-size: 11px; font-weight: 600; color: #4ade80; }
+    .del-sub { font-size: 9px; color: #86efac; margin-top: 3px; }
+    @media (max-width: 640px) {
+      .thread-grid { grid-template-columns: repeat(2,1fr); }
+      .crit-grid { grid-template-columns: repeat(3,1fr); }
+      .band-grid { grid-template-columns: repeat(3,1fr); }
+      .bottom-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<main class="rvf">
+
+  <!-- HEADER -->
+  <div style="text-align:center;margin-bottom:18px;">
+    <div style="font-size:9px;text-transform:uppercase;letter-spacing:2px;color:#475569;margin-bottom:6px;">WNBA 2026 · Roster Intelligence System</div>
+    <h1 style="font-size:22px;font-weight:700;color:#f8fafc;letter-spacing:-0.3px;margin-bottom:12px;">Roster Value Framework</h1>
+    <div style="background:#1e293b;border:1px solid #3b82f6;border-radius:8px;padding:12px 28px;display:inline-block;max-width:740px;">
+      <p style="font-size:13px;color:#93c5fd;font-style:italic;line-height:1.6;">"Which players are still undervalued after the market reset — and which teams are allocating their new cap space the smartest?"</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼</div>
+
+  <!-- THREADS -->
+  <div class="section-label">4 EVALUATION THREADS</div>
+  <div class="thread-grid">
+    <div class="thread">
+      <div class="thread-num">Thread 1</div>
+      <div class="thread-title">Market Reset Value</div>
+      <div class="thread-q">Underpaid vs. new 2026 positional market rates?</div>
+    </div>
+    <div class="thread">
+      <div class="thread-num">Thread 2</div>
+      <div class="thread-title">Role Scarcity</div>
+      <div class="thread-q">Profile that's genuinely hard to find or replace?</div>
+    </div>
+    <div class="thread">
+      <div class="thread-num">Thread 3</div>
+      <div class="thread-title">Roster Construction Fit</div>
+      <div class="thread-q">Does team context change how this player is valued?</div>
+    </div>
+    <div class="thread">
+      <div class="thread-num">Thread 4</div>
+      <div class="thread-title">Pricing-Out Risk</div>
+      <div class="thread-q">Did rising minimums price out certain archetypes?</div>
+    </div>
+  </div>
+
+  <div class="arrow">▼</div>
+
+  <!-- 6 CRITERIA -->
+  <div class="section-label">6 PLAYER EVALUATION CRITERIA — UNDERVALUED DEFINITION</div>
+  <div class="crit-grid">
+    <div class="crit">
+      <div class="crit-title">Below-Market Salary</div>
+      <div class="crit-sub">15%+ below comparable market rate</div>
+    </div>
+    <div class="crit">
+      <div class="crit-title">Production Strength</div>
+      <div class="crit-sub">70th+ percentile vs. position</div>
+    </div>
+    <div class="crit">
+      <div class="crit-title">Role Scarcity</div>
+      <div class="crit-sub">Fills a scarce 2026 archetype</div>
+    </div>
+    <div class="crit">
+      <div class="crit-title">Hidden Value</div>
+      <div class="crit-sub">2+ confirmed hidden strengths</div>
+    </div>
+    <div class="crit">
+      <div class="crit-title">Salary Alignment</div>
+      <div class="crit-sub">Salary understates the role</div>
+    </div>
+    <div class="crit">
+      <div class="crit-title">Risk Adjustment</div>
+      <div class="crit-sub">Age, injury, regression risk</div>
+    </div>
+  </div>
+
+  <div class="arrow">▼</div>
+
+  <!-- FORMULA -->
+  <div class="section-label">PLAYER VALUE SCORE (0–100) — WEIGHTED FORMULA</div>
+  <div class="formula">
+    <div class="fseg" style="flex:25;background:#7c2d12;"><div class="fseg-pct">25%</div><div class="fseg-label">Production<br>Percentile</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:20;background:#6b2a10;"><div class="fseg-pct">20%</div><div class="fseg-label">Salary<br>Value</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:15;background:#5c2510;"><div class="fseg-pct">15%</div><div class="fseg-label">Scarcity<br>Score</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:15;background:#5c2510;"><div class="fseg-pct">15%</div><div class="fseg-label">Hidden<br>Impact</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:10;background:#451e0c;"><div class="fseg-pct">10%</div><div class="fseg-label">Scalability</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:10;background:#451e0c;"><div class="fseg-pct">10%</div><div class="fseg-label">Playoff<br>Utility</div></div>
+    <div class="fdivider"></div>
+    <div class="fseg" style="flex:5;background:#2d1408;"><div class="fseg-pct">5%</div><div class="fseg-label">Risk</div></div>
+  </div>
+
+  <div class="arrow">▼</div>
+
+  <!-- BANDS -->
+  <div class="section-label">SCORE BANDS</div>
+  <div class="band-grid">
+    <div class="band" style="background:#14532d;border:1px solid #166534;">
+      <div class="band-score" style="color:#86efac;">90–100</div>
+      <div class="band-name" style="color:#4ade80;">Elite Value</div>
+      <div class="band-desc" style="color:#6ee7b7;">Star-level, below market</div>
+    </div>
+    <div class="band" style="background:#14532d;border:1px solid #16a34a;">
+      <div class="band-score" style="color:#86efac;">80–89</div>
+      <div class="band-name" style="color:#4ade80;">Strong Undervalued</div>
+      <div class="band-desc" style="color:#6ee7b7;">Clear positive contract</div>
+    </div>
+    <div class="band" style="background:#1a3520;border:1px solid #15803d;">
+      <div class="band-score" style="color:#a3e635;">70–79</div>
+      <div class="band-name" style="color:#86efac;">Hidden Talent</div>
+      <div class="band-desc" style="color:#6ee7b7;">Strong role-adjusted value</div>
+    </div>
+    <div class="band" style="background:#1e2a15;border:1px solid #4d7c0f;">
+      <div class="band-score" style="color:#bef264;">60–69</div>
+      <div class="band-name" style="color:#a3e635;">Fair Value</div>
+      <div class="band-desc" style="color:#bef264;">Salary matches profile</div>
+    </div>
+    <div class="band" style="background:#292215;border:1px solid #a16207;">
+      <div class="band-score" style="color:#fde047;">50–59</div>
+      <div class="band-name" style="color:#facc15;">Fragile Value</div>
+      <div class="band-desc" style="color:#fde047;">Context-dependent risk</div>
+    </div>
+    <div class="band" style="background:#2d1515;border:1px solid #b91c1c;">
+      <div class="band-score" style="color:#fca5a5;">&lt;50</div>
+      <div class="band-name" style="color:#f87171;">Overpriced Risk</div>
+      <div class="band-desc" style="color:#fca5a5;">Salary exceeds production</div>
+    </div>
+  </div>
+
+  <div class="arrow">▼</div>
+
+  <!-- BOTTOM ROW -->
+  <div class="bottom-grid">
+
+    <!-- TEAM GRADE -->
+    <div class="team-grade">
+      <div class="section-label" style="text-align:left;color:#7c3aed;margin-bottom:10px;">TEAM ROSTER GRADE (A–F) — 5 DIMENSIONS</div>
+      <div class="tg-row"><span class="tg-pct">25%</span><div class="tg-bar"><span class="tg-name">Cap Efficiency</span><span class="tg-sub">Production per cap dollar</span></div></div>
+      <div class="tg-row"><span class="tg-pct">20%</span><div class="tg-bar"><span class="tg-name">Role Balance</span><span class="tg-sub">Functional role coverage</span></div></div>
+      <div class="tg-row"><span class="tg-pct">20%</span><div class="tg-bar"><span class="tg-name">Scarcity Coverage</span><span class="tg-sub">Hard-to-replace archetypes</span></div></div>
+      <div class="tg-row"><span class="tg-pct">20%</span><div class="tg-bar"><span class="tg-name">Playoff Utility</span><span class="tg-sub">High-leverage viability</span></div></div>
+      <div class="tg-row" style="margin-bottom:0;"><span class="tg-pct">15%</span><div class="tg-bar"><span class="tg-name">Age / Experience Curve</span><span class="tg-sub">Development–prime–veteran mix</span></div></div>
+    </div>
+
+    <!-- USE CASES + DELIVERABLES -->
+    <div class="right-col">
+      <div class="use-cases">
+        <div class="section-label" style="text-align:left;color:#0891b2;margin-bottom:8px;">USE CASES</div>
+        <div class="uc-row"><div class="uc-title">A — Grade Current Rosters</div><div class="uc-sub">Value scores + cap allocation by team</div></div>
+        <div class="uc-row"><div class="uc-title">B — Hidden Talent Discovery</div><div class="uc-sub">Scalable, efficient, high-impact low-salary players</div></div>
+        <div class="uc-row"><div class="uc-title">C — Natasha Cloud Case Study</div><div class="uc-sub">Market demand + fair salary range estimate</div></div>
+        <div class="uc-row" style="margin-bottom:0;"><div class="uc-title">D — Market Structure Analysis</div><div class="uc-sub">Pricing distortion + 2024–26 roster shift</div></div>
+      </div>
+      <div class="deliverables">
+        <div class="section-label" style="text-align:left;color:#16a34a;margin-bottom:8px;">DELIVERABLES</div>
+        <div class="del-grid">
+          <div class="del-card"><div class="del-title">Dashboard</div><div class="del-sub">6-page interactive</div></div>
+          <div class="del-card"><div class="del-title">Slide Deck</div><div class="del-sub">15-slide front-office</div></div>
+          <div class="del-card"><div class="del-title">Exec Summary</div><div class="del-sub">1-page hero findings</div></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</main>
+</body>
+</html>

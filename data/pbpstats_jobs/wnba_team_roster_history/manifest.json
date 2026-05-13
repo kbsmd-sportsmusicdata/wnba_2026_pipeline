@@ -1,0 +1,727 @@
+{
+  "bundle_id": "team_roster_history_2023_2025",
+  "league": "wnba",
+  "seasons": [
+    2023,
+    2024,
+    2025
+  ],
+  "season_type": "Regular Season",
+  "output_root": "data/doc2_roster_value/tables/team_roster_history",
+  "source_root": "data/pbpstats_jobs/wnba_team_roster_history",
+  "roster_files": [
+    "data/doc2_roster_value/tables/team_roster_history/team_roster_history.csv",
+    "data/doc2_roster_value/tables/team_roster_history/team_roster_history.parquet"
+  ],
+  "summary_files": [
+    "data/doc2_roster_value/tables/team_roster_history/team_roster_history_summary.csv",
+    "data/doc2_roster_value/tables/team_roster_history/team_roster_history_summary.parquet"
+  ],
+  "team_count": 13,
+  "row_count": 555,
+  "summary_row_count": 37,
+  "request_manifest": [
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661330",
+      "team_abbreviation": "ATL",
+      "team_name": "Atlanta Dream",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661330",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661330"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661330.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661329",
+      "team_abbreviation": "CHI",
+      "team_name": "Chicago Sky",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661329",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661329"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661329.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661323",
+      "team_abbreviation": "CON",
+      "team_name": "Connecticut Sun",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661323",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661323"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661323.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661321",
+      "team_abbreviation": "DAL",
+      "team_name": "Dallas Wings",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661321",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661321"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661321.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661331",
+      "team_abbreviation": "GSV",
+      "team_name": "Golden State Valkyries",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661331",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661331"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661331.json",
+      "ok": true,
+      "player_count": 0
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661325",
+      "team_abbreviation": "IND",
+      "team_name": "Indiana Fever",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661325",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661325"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661325.json",
+      "ok": true,
+      "player_count": 13
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661320",
+      "team_abbreviation": "LAS",
+      "team_name": "Los Angeles Sparks",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661320",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661320"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661320.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661319",
+      "team_abbreviation": "LVA",
+      "team_name": "Las Vegas Aces",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661319",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661319"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661319.json",
+      "ok": true,
+      "player_count": 13
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661324",
+      "team_abbreviation": "MIN",
+      "team_name": "Minnesota Lynx",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661324",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661324"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661324.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661313",
+      "team_abbreviation": "NYL",
+      "team_name": "New York Liberty",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661313",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661313"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661313.json",
+      "ok": true,
+      "player_count": 12
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661317",
+      "team_abbreviation": "PHX",
+      "team_name": "Phoenix Mercury",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661317",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661317"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661317.json",
+      "ok": true,
+      "player_count": 19
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661328",
+      "team_abbreviation": "SEA",
+      "team_name": "Seattle Storm",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661328",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661328"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661328.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2023,
+      "season_type": "Regular Season",
+      "team_id": "1611661322",
+      "team_abbreviation": "WAS",
+      "team_name": "Washington Mystics",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2023&SeasonType=Regular+Season&TeamId=1611661322",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2023,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661322"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2023__season_type-Regular_Season__team_id-1611661322.json",
+      "ok": true,
+      "player_count": 16
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661330",
+      "team_abbreviation": "ATL",
+      "team_name": "Atlanta Dream",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661330",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661330"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661330.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661329",
+      "team_abbreviation": "CHI",
+      "team_name": "Chicago Sky",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661329",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661329"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661329.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661323",
+      "team_abbreviation": "CON",
+      "team_name": "Connecticut Sun",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661323",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661323"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661323.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661321",
+      "team_abbreviation": "DAL",
+      "team_name": "Dallas Wings",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661321",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661321"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661321.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661331",
+      "team_abbreviation": "GSV",
+      "team_name": "Golden State Valkyries",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661331",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661331"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661331.json",
+      "ok": true,
+      "player_count": 0
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661325",
+      "team_abbreviation": "IND",
+      "team_name": "Indiana Fever",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661325",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661325"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661325.json",
+      "ok": true,
+      "player_count": 13
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661320",
+      "team_abbreviation": "LAS",
+      "team_name": "Los Angeles Sparks",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661320",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661320"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661320.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661319",
+      "team_abbreviation": "LVA",
+      "team_name": "Las Vegas Aces",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661319",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661319"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661319.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661324",
+      "team_abbreviation": "MIN",
+      "team_name": "Minnesota Lynx",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661324",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661324"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661324.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661313",
+      "team_abbreviation": "NYL",
+      "team_name": "New York Liberty",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661313",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661313"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661313.json",
+      "ok": true,
+      "player_count": 12
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661317",
+      "team_abbreviation": "PHX",
+      "team_name": "Phoenix Mercury",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661317",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661317"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661317.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661328",
+      "team_abbreviation": "SEA",
+      "team_name": "Seattle Storm",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661328",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661328"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661328.json",
+      "ok": true,
+      "player_count": 13
+    },
+    {
+      "league": "wnba",
+      "season": 2024,
+      "season_type": "Regular Season",
+      "team_id": "1611661322",
+      "team_abbreviation": "WAS",
+      "team_name": "Washington Mystics",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2024&SeasonType=Regular+Season&TeamId=1611661322",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2024,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661322"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2024__season_type-Regular_Season__team_id-1611661322.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661330",
+      "team_abbreviation": "ATL",
+      "team_name": "Atlanta Dream",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661330",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661330"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661330.json",
+      "ok": true,
+      "player_count": 13
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661329",
+      "team_abbreviation": "CHI",
+      "team_name": "Chicago Sky",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661329",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661329"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661329.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661323",
+      "team_abbreviation": "CON",
+      "team_name": "Connecticut Sun",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661323",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661323"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661323.json",
+      "ok": true,
+      "player_count": 16
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661321",
+      "team_abbreviation": "DAL",
+      "team_name": "Dallas Wings",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661321",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661321"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661321.json",
+      "ok": true,
+      "player_count": 21
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661331",
+      "team_abbreviation": "GSV",
+      "team_name": "Golden State Valkyries",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661331",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661331"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661331.json",
+      "ok": true,
+      "player_count": 20
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661325",
+      "team_abbreviation": "IND",
+      "team_name": "Indiana Fever",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661325",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661325"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661325.json",
+      "ok": true,
+      "player_count": 18
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661320",
+      "team_abbreviation": "LAS",
+      "team_name": "Los Angeles Sparks",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661320",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661320"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661320.json",
+      "ok": true,
+      "player_count": 17
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661319",
+      "team_abbreviation": "LVA",
+      "team_name": "Las Vegas Aces",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661319",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661319"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661319.json",
+      "ok": true,
+      "player_count": 15
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661324",
+      "team_abbreviation": "MIN",
+      "team_name": "Minnesota Lynx",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661324",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661324"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661324.json",
+      "ok": true,
+      "player_count": 17
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661313",
+      "team_abbreviation": "NYL",
+      "team_name": "New York Liberty",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661313",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661313"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661313.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661317",
+      "team_abbreviation": "PHX",
+      "team_name": "Phoenix Mercury",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661317",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661317"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661317.json",
+      "ok": true,
+      "player_count": 17
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661328",
+      "team_abbreviation": "SEA",
+      "team_name": "Seattle Storm",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661328",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661328"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661328.json",
+      "ok": true,
+      "player_count": 14
+    },
+    {
+      "league": "wnba",
+      "season": 2025,
+      "season_type": "Regular Season",
+      "team_id": "1611661322",
+      "team_abbreviation": "WAS",
+      "team_name": "Washington Mystics",
+      "request_url": "https://api.pbpstats.com/get-team-players-for-season?Season=2025&SeasonType=Regular+Season&TeamId=1611661322",
+      "request_status": 200,
+      "request_params": {
+        "Season": 2025,
+        "SeasonType": "Regular Season",
+        "TeamId": "1611661322"
+      },
+      "raw_path": "data/pbpstats_jobs/wnba_team_roster_history/raw/get-team-players-for-season/team_players__season-2025__season_type-Regular_Season__team_id-1611661322.json",
+      "ok": true,
+      "player_count": 15
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2023&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Regular_Season__96a2bdf9__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 156
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2023",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2023&SeasonType=Playoffs",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2023__season_type-Playoffs__c3cdee4a__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 79
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2023",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2023",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2024&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Regular_Season__e5a689d3__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 157
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2024",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2024&SeasonType=Playoffs",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2024__season_type-Playoffs__1b153632",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2024__season_type-Playoffs__1b153632.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Playoffs__1b153632__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Playoffs__1b153632__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Playoffs__1b153632__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2024__season_type-Playoffs__1b153632__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 89
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2024",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2025&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2025__season_type-Regular_Season__38618f45",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2025__season_type-Regular_Season__38618f45.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Regular_Season__38618f45__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Regular_Season__38618f45__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Regular_Season__38618f45__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Regular_Season__38618f45__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 182
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2025",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "player_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Player&Season=2025&SeasonType=Playoffs",
+    "request_status": 200,
+    "request_id": "get-totals__player_totals__type-Player__season-2025__season_type-Playoffs__513e9b1d",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/player_totals__get-totals__player_totals__type-Player__season-2025__season_type-Playoffs__513e9b1d.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Playoffs__513e9b1d__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Playoffs__513e9b1d__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Playoffs__513e9b1d__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/player_totals__get-totals__type-Player__season-2025__season_type-Playoffs__513e9b1d__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 91
+    },
+    "request_params": {
+      "Type": "Player",
+      "Season": "2025",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2023&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__team_totals__type-Team__season-2023__season_type-Regular_Season__74c1df75",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2023__season_type-Regular_Season__74c1df75.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2023__season_type-Regular_Season__74c1df75__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2023__season_type-Regular_Season__74c1df75__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2023__season_type-Regular_Season__74c1df75__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2023__season_type-Regular_Season__74c1df75__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 12
+    },
+    "request_params": {
+      "Type": "Team",
+      "Season": "2023",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2023",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba",
+    "request_status": 503,
+    "request_id": "get-totals__team_totals__type-Team__season-2023__season_type-Playoffs__6996b2fe",
+    "ok": false,
+    "error": {
+      "error_type": "RuntimeError",
+      "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-totals/wnba with params {'Type': 'Team', 'Season': '2023', 'SeasonType': 'Playoffs'}: 503 Server Error: Service Temporarily Unavailable for url: https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2023&SeasonType=Playoffs",
+      "status": 503,
+      "response_text": "<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2023__season_type-Playoffs__6996b2fe__error.json",
+    "table_paths": [],
+    "derived_paths": [],
+    "table_counts": {},
+    "request_params": {
+      "Type": "Team",
+      "Season": "2023",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2023",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2024&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__team_totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2024__season_type-Regular_Season__3d0b117e__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 12
+    },
+    "request_params": {
+      "Type": "Team",
+      "Season": "2024",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba",
+    "request_status": 503,
+    "request_id": "get-totals__team_totals__type-Team__season-2024__season_type-Playoffs__9e028ce5",
+    "ok": false,
+    "error": {
+      "error_type": "RuntimeError",
+      "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-totals/wnba with params {'Type': 'Team', 'Season': '2024', 'SeasonType': 'Playoffs'}: 503 Server Error: Service Temporarily Unavailable for url: https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2024&SeasonType=Playoffs",
+      "status": 503,
+      "response_text": "<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2024__season_type-Playoffs__9e028ce5__error.json",
+    "table_paths": [],
+    "derived_paths": [],
+    "table_counts": {},
+    "request_params": {
+      "Type": "Team",
+      "Season": "2024",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2024",
+    "season_type": "Playoffs"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2025&SeasonType=Regular+Season",
+    "request_status": 200,
+    "request_id": "get-totals__team_totals__type-Team__season-2025__season_type-Regular_Season__59a346cd",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2025__season_type-Regular_Season__59a346cd.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2025__season_type-Regular_Season__59a346cd__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/normalized/get-totals/team_totals__get-totals__type-Team__season-2025__season_type-Regular_Season__59a346cd__multi_row_table_data.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2025__season_type-Regular_Season__59a346cd__multi_row_table_data.csv",
+      "data/pbpstats_jobs/wnba_totals/derived/get-totals/team_totals__get-totals__type-Team__season-2025__season_type-Regular_Season__59a346cd__multi_row_table_data.parquet"
+    ],
+    "table_counts": {
+      "multi_row_table_data": 13
+    },
+    "request_params": {
+      "Type": "Team",
+      "Season": "2025",
+      "SeasonType": "Regular Season"
+    },
+    "season": "2025",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_totals",
+    "family": "totals",
+    "variant": "team_totals",
+    "endpoint": "get-totals",
+    "request_url": "https://api.pbpstats.com/get-totals/wnba",
+    "request_status": 503,
+    "request_id": "get-totals__team_totals__type-Team__season-2025__season_type-Playoffs__6cb56240",
+    "ok": false,
+    "error": {
+      "error_type": "RuntimeError",
+      "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-totals/wnba with params {'Type': 'Team', 'Season': '2025', 'SeasonType': 'Playoffs'}: 503 Server Error: Service Temporarily Unavailable for url: https://api.pbpstats.com/get-totals/wnba?Type=Team&Season=2025&SeasonType=Playoffs",
+      "status": 503,
+      "response_text": "<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "raw_path": "data/pbpstats_jobs/wnba_totals/raw/get-totals/team_totals__get-totals__team_totals__type-Team__season-2025__season_type-Playoffs__6cb56240__error.json",
+    "table_paths": [],
+    "derived_paths": [],
+    "table_counts": {},
+    "request_params": {
+      "Type": "Team",
+      "Season": "2025",
+      "SeasonType": "Playoffs"
+    },
+    "season": "2025",
+    "season_type": "Playoffs"
+  }
+]

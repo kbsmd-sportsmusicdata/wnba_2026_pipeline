@@ -1,0 +1,7944 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.637",
+        "On-Off": "-0.637",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.795",
+        "On-Off": "-0.795",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.481",
+        "On-Off": "-0.481",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.269",
+        "On-Off": "-0.269",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.452",
+        "On-Off": "-0.452",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.714",
+        "On-Off": "-0.714",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.697",
+        "On-Off": "-0.697",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.889",
+        "On-Off": "-0.889",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.884",
+        "On-Off": "-0.884",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.909",
+        "On-Off": "-0.909",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.615",
+        "On-Off": "-0.615",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.646",
+        "On-Off": "-0.646",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.850",
+        "On-Off": "-0.850",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.481",
+        "On-Off": "-0.481",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.269",
+        "On-Off": "-0.269",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.459",
+        "On-Off": "-0.459",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.882",
+        "On-Off": "-0.882",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.719",
+        "On-Off": "-0.719",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.953",
+        "On-Off": "-0.953",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.843",
+        "On-Off": "-0.843",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.889",
+        "On-Off": "-0.889",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.920",
+        "On-Off": "-0.920",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.651",
+        "On-Off": "-0.651",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.940",
+        "On-Off": "0.060",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.894",
+        "On-Off": "-0.894",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.332",
+        "On-Off": "-0.332",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.362",
+        "On-Off": "-0.362",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.312",
+        "On-Off": "0.188",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.315",
+        "On-Off": "0.685",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.377",
+        "On-Off": "-0.377",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.314",
+        "On-Off": "0.686",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.265",
+        "On-Off": "-0.265",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.231",
+        "On-Off": "-0.231",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.362",
+        "On-Off": "-0.362",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.319",
+        "On-Off": "0.181",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.315",
+        "On-Off": "0.685",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.379",
+        "On-Off": "-0.379",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.314",
+        "On-Off": "0.686",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.281",
+        "On-Off": "-0.281",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.231",
+        "On-Off": "-0.231",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.207",
+        "On-Off": "-0.207",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "1.000",
+        "Off": "0.488",
+        "On-Off": "0.512",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.587",
+        "On-Off": "-0.587",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.491",
+        "On-Off": "-0.491",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.444",
+        "On-Off": "-0.444",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.501",
+        "On-Off": "-0.501",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.457",
+        "On-Off": "-0.457",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.569",
+        "On-Off": "-0.569",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.308",
+        "On-Off": "-0.308",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.545",
+        "On-Off": "-0.545",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.303",
+        "On-Off": "-0.303",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.595",
+        "On-Off": "-0.345",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.393",
+        "On-Off": "-0.393",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.433",
+        "On-Off": "-0.433",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.494",
+        "On-Off": "0.006",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.595",
+        "On-Off": "-0.595",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.520",
+        "On-Off": "-0.520",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.750",
+        "Off": "0.453",
+        "On-Off": "0.297",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.750",
+        "Off": "0.491",
+        "On-Off": "0.259",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.453",
+        "On-Off": "-0.453",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.567",
+        "On-Off": "-0.567",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.259",
+        "On-Off": "-0.259",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.500",
+        "Off": "0.500",
+        "On-Off": "1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.351",
+        "On-Off": "-0.351",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.580",
+        "On-Off": "-0.330",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.367",
+        "On-Off": "-0.367",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.393",
+        "On-Off": "-0.393",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.367",
+        "On-Off": "-0.367",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.549",
+        "On-Off": "-0.049",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.635",
+        "On-Off": "-0.635",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.524",
+        "On-Off": "-0.524",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.750",
+        "Off": "0.510",
+        "On-Off": "0.240",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.750",
+        "Off": "0.542",
+        "On-Off": "0.208",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.508",
+        "On-Off": "-0.508",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.614",
+        "On-Off": "-0.614",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.339",
+        "On-Off": "-0.339",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.500",
+        "Off": "0.505",
+        "On-Off": "0.995",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.384",
+        "On-Off": "-0.384",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.300",
+        "Off": "0.587",
+        "On-Off": "-0.287",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.441",
+        "On-Off": "-0.441",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.396",
+        "On-Off": "-0.396",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.604",
+        "On-Off": "-0.104",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.556",
+        "On-Off": "-0.556",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "1.000",
+        "Off": "0.371",
+        "On-Off": "0.629",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.500",
+        "Off": "0.349",
+        "On-Off": "0.151",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.132",
+        "On-Off": "-0.132",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "1.000",
+        "Off": "0.751",
+        "On-Off": "0.249",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.519",
+        "On-Off": "-0.519",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.607",
+        "On-Off": "0.393",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.507",
+        "On-Off": "0.493",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.867",
+        "On-Off": "-0.867",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.011",
+        "On-Off": "-0.011",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.059",
+        "On-Off": "0.941",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.098",
+        "On-Off": "-0.098",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.098",
+        "On-Off": "-0.098",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.138",
+        "On-Off": "-0.138",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.069",
+        "On-Off": "0.181",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.179",
+        "On-Off": "-0.179",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "28.571",
+        "Off": "23.636",
+        "On-Off": "4.936",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "42.857",
+        "Off": "25.814",
+        "On-Off": "17.043",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "15.203",
+        "On-Off": "-15.203",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "20.000",
+        "Off": "19.821",
+        "On-Off": "0.179",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "66.667",
+        "Off": "31.745",
+        "On-Off": "34.922",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "14.808",
+        "On-Off": "-14.808",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "14.286",
+        "Off": "12.669",
+        "On-Off": "1.617",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "22.222",
+        "On-Off": "-22.222",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "7.143",
+        "Off": "14.979",
+        "On-Off": "-7.836",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "28.571",
+        "Off": "14.702",
+        "On-Off": "13.870",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "29.412",
+        "Off": "11.518",
+        "On-Off": "17.893",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "14.729",
+        "On-Off": "-14.729",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "7.143",
+        "Off": "11.681",
+        "On-Off": "-4.538",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "13.497",
+        "On-Off": "-13.497",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.531",
+        "On-Off": "-0.531",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.412",
+        "On-Off": "-0.412",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.765",
+        "On-Off": "-0.765",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.579",
+        "On-Off": "-0.579",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.537",
+        "On-Off": "-0.537",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.357",
+        "On-Off": "-0.357",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.459",
+        "On-Off": "-0.459",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.444",
+        "On-Off": "-0.444",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.733",
+        "On-Off": "-0.733",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.536",
+        "On-Off": "0.464",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.429",
+        "On-Off": "-0.429",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.156",
+        "On-Off": "-0.156",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.533",
+        "On-Off": "-0.533",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.364",
+        "On-Off": "-0.364",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.089",
+        "On-Off": "-0.089",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.292",
+        "On-Off": "-0.292",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.200",
+        "On-Off": "0.800",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.054",
+        "On-Off": "-0.054",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.041",
+        "On-Off": "-0.041",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.115",
+        "On-Off": "-0.115",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.196",
+        "On-Off": "-0.196",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.076",
+        "On-Off": "-0.076",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.104",
+        "On-Off": "-0.104",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.134",
+        "On-Off": "-0.134",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.500",
+        "Off": "0.124",
+        "On-Off": "0.376",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.103",
+        "On-Off": "-0.103",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.333",
+        "Off": "0.220",
+        "On-Off": "0.114",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.057",
+        "On-Off": "-0.057",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.200",
+        "Off": "0.240",
+        "On-Off": "-0.040",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.333",
+        "Off": "0.051",
+        "On-Off": "0.282",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.068",
+        "On-Off": "-0.068",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.009",
+        "On-Off": "-0.009",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.086",
+        "On-Off": "-0.086",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.031",
+        "On-Off": "-0.031",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.333",
+        "Off": "0.111",
+        "On-Off": "0.223",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.141",
+        "On-Off": "-0.141",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.147",
+        "On-Off": "-0.147",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.168",
+        "On-Off": "-0.168",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.105",
+        "On-Off": "-0.105",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.142",
+        "On-Off": "-0.142",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.128",
+        "On-Off": "-0.128",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.072",
+        "On-Off": "-0.072",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.201",
+        "On-Off": "-0.201",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.063",
+        "On-Off": "0.937",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.104",
+        "On-Off": "-0.104",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.097",
+        "On-Off": "-0.097",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.500",
+        "Off": "0.049",
+        "On-Off": "0.451",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.105",
+        "On-Off": "-0.105",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.016",
+        "On-Off": "0.984",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.080",
+        "On-Off": "-0.080",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.159",
+        "On-Off": "-0.159",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.102",
+        "On-Off": "-0.102",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.120",
+        "On-Off": "-0.120",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.126",
+        "On-Off": "-0.126",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.333",
+        "Off": "0.126",
+        "On-Off": "0.207",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.047",
+        "On-Off": "-0.047",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.089",
+        "On-Off": "-0.089",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.286",
+        "Off": "0.211",
+        "On-Off": "0.075",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.041",
+        "On-Off": "-0.041",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.333",
+        "Off": "0.159",
+        "On-Off": "0.174",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.068",
+        "On-Off": "-0.068",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.200",
+        "Off": "0.072",
+        "On-Off": "0.128",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.167",
+        "Off": "0.032",
+        "On-Off": "0.135",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.085",
+        "On-Off": "-0.085",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.046",
+        "On-Off": "-0.046",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.250",
+        "Off": "0.017",
+        "On-Off": "0.233",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.096",
+        "On-Off": "0.154",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.060",
+        "On-Off": "-0.060",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.084",
+        "On-Off": "-0.084",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.500",
+        "Off": "0.072",
+        "On-Off": "0.428",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.044",
+        "On-Off": "-0.044",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.074",
+        "On-Off": "-0.074",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.500",
+        "Off": "0.137",
+        "On-Off": "0.363",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.207",
+        "On-Off": "-0.207",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.034",
+        "On-Off": "-0.034",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.039",
+        "On-Off": "-0.039",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.011",
+        "On-Off": "-0.011",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.093",
+        "On-Off": "0.157",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.132",
+        "On-Off": "-0.132",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.120",
+        "On-Off": "-0.120",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.094",
+        "On-Off": "-0.094",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.500",
+        "Off": "0.053",
+        "On-Off": "0.447",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.021",
+        "On-Off": "-0.021",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.107",
+        "On-Off": "-0.107",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.138",
+        "On-Off": "-0.138",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.076",
+        "On-Off": "-0.076",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.011",
+        "On-Off": "0.989",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.087",
+        "On-Off": "-0.087",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.042",
+        "On-Off": "-0.042",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.106",
+        "On-Off": "-0.106",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.030",
+        "On-Off": "-0.030",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.039",
+        "On-Off": "-0.039",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.031",
+        "On-Off": "-0.031",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.068",
+        "On-Off": "-0.068",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.193",
+        "On-Off": "-0.193",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.085",
+        "On-Off": "-0.085",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.055",
+        "On-Off": "-0.055",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.139",
+        "On-Off": "-0.139",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.078",
+        "On-Off": "-0.078",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.182",
+        "On-Off": "-0.182",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "1.000",
+        "Off": "0.230",
+        "On-Off": "0.770",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.316",
+        "On-Off": "-0.316",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.243",
+        "On-Off": "-0.243",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.070",
+        "On-Off": "-0.070",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.112",
+        "On-Off": "-0.112",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.106",
+        "On-Off": "-0.106",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "1.000",
+        "Off": "0.131",
+        "On-Off": "0.869",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.130",
+        "On-Off": "-0.130",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.084",
+        "On-Off": "-0.084",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.333",
+        "Off": "0.194",
+        "On-Off": "0.140",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.333",
+        "Off": "0.205",
+        "On-Off": "0.128",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.150",
+        "On-Off": "-0.150",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.140",
+        "On-Off": "-0.140",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.131",
+        "On-Off": "-0.131",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.144",
+        "On-Off": "-0.144",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.103",
+        "On-Off": "-0.103",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.157",
+        "On-Off": "-0.157",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.051",
+        "On-Off": "-0.051",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.260",
+        "On-Off": "-0.260",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.235",
+        "On-Off": "-0.235",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.044",
+        "On-Off": "-0.044",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.104",
+        "On-Off": "-0.104",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.173",
+        "On-Off": "-0.173",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.112",
+        "On-Off": "-0.112",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.146",
+        "On-Off": "-0.146",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.115",
+        "On-Off": "-0.115",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.193",
+        "On-Off": "-0.193",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.082",
+        "On-Off": "0.918",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.114",
+        "On-Off": "-0.114",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.144",
+        "On-Off": "-0.144",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.152",
+        "On-Off": "-0.152",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.080",
+        "On-Off": "-0.080",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.127",
+        "On-Off": "-0.127",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.161",
+        "On-Off": "-0.161",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.075",
+        "On-Off": "-0.075",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.040",
+        "On-Off": "-0.040",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.224",
+        "On-Off": "-0.224",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.069",
+        "On-Off": "-0.069",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "1.000",
+        "Off": "0.465",
+        "On-Off": "0.535",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.818",
+        "On-Off": "-0.818",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.625",
+        "On-Off": "0.375",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "18.400",
+        "Off": "15.042",
+        "On-Off": "3.358",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "18.400",
+        "Off": "15.194",
+        "On-Off": "3.206",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "17.500",
+        "Off": "14.886",
+        "On-Off": "2.614",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "13.222",
+        "Off": "15.077",
+        "On-Off": "-1.855",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "16.000",
+        "Off": "15.137",
+        "On-Off": "0.863",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "15.325",
+        "On-Off": "-15.325",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "18.400",
+        "Off": "15.151",
+        "On-Off": "3.249",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "14.195",
+        "On-Off": "-14.195",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "13.500",
+        "Off": "15.569",
+        "On-Off": "-2.069",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "16.000",
+        "Off": "15.734",
+        "On-Off": "0.266",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "14.077",
+        "Off": "15.258",
+        "On-Off": "-1.181",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "15.407",
+        "On-Off": "-15.407",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "13.500",
+        "Off": "15.201",
+        "On-Off": "-1.701",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "15.054",
+        "On-Off": "-15.054",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "15.400",
+        "Off": "15.201",
+        "On-Off": "0.199",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "15.400",
+        "Off": "15.673",
+        "On-Off": "-0.273",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "18.250",
+        "Off": "15.021",
+        "On-Off": "3.229",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "18.700",
+        "Off": "15.294",
+        "On-Off": "3.406",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "23.000",
+        "Off": "15.393",
+        "On-Off": "7.607",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "15.362",
+        "On-Off": "-15.362",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "15.400",
+        "Off": "15.462",
+        "On-Off": "-0.062",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "15.703",
+        "On-Off": "-15.703",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "16.182",
+        "Off": "15.154",
+        "On-Off": "1.028",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "15.000",
+        "Off": "14.788",
+        "On-Off": "0.212",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "17.643",
+        "Off": "15.169",
+        "On-Off": "2.474",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "15.870",
+        "On-Off": "-15.870",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "16.182",
+        "Off": "15.570",
+        "On-Off": "0.612",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "15.622",
+        "On-Off": "-15.622",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.159",
+        "On-Off": "-0.159",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.667",
+        "Off": "0.320",
+        "On-Off": "0.346",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.121",
+        "On-Off": "-0.121",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.210",
+        "On-Off": "-0.210",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.280",
+        "On-Off": "-0.280",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.472",
+        "On-Off": "-0.472",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.155",
+        "On-Off": "-0.155",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.155",
+        "On-Off": "-0.155",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.134",
+        "On-Off": "-0.134",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.500",
+        "Off": "0.429",
+        "On-Off": "0.071",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.571",
+        "On-Off": "-0.571",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.267",
+        "On-Off": "-0.267",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.621",
+        "On-Off": "-0.621",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.826",
+        "On-Off": "-0.826",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.526",
+        "On-Off": "-0.526",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.673",
+        "On-Off": "-0.673",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.560",
+        "On-Off": "-0.560",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.722",
+        "On-Off": "-0.722",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.769",
+        "On-Off": "-0.769",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.556",
+        "On-Off": "-0.556",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.745",
+        "On-Off": "-0.745",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.438",
+        "On-Off": "-0.438",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.562",
+        "On-Off": "-0.562",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.659",
+        "On-Off": "-0.659",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.726",
+        "On-Off": "-0.726",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.444",
+        "On-Off": "-0.444",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.220",
+        "On-Off": "-0.220",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.513",
+        "On-Off": "-0.513",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.643",
+        "On-Off": "-0.643",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.654",
+        "On-Off": "-0.654",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.842",
+        "On-Off": "-0.842",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.857",
+        "On-Off": "-0.857",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.128",
+        "On-Off": "0.372",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.524",
+        "On-Off": "-0.524",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.169",
+        "On-Off": "-0.169",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.245",
+        "On-Off": "-0.245",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.500",
+        "Off": "0.197",
+        "On-Off": "0.303",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.340",
+        "On-Off": "-0.340",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.069",
+        "On-Off": "-0.069",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.296",
+        "On-Off": "-0.296",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.299",
+        "On-Off": "-0.299",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.500",
+        "Off": "0.496",
+        "On-Off": "0.004",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.357",
+        "On-Off": "0.643",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "1.000",
+        "Off": "0.340",
+        "On-Off": "0.660",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.495",
+        "On-Off": "-0.495",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.619",
+        "On-Off": "-0.619",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.385",
+        "On-Off": "-0.385",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.389",
+        "On-Off": "-0.389",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.150",
+        "On-Off": "-0.150",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.500",
+        "Off": "0.441",
+        "On-Off": "0.059",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.849",
+        "On-Off": "-0.849",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.385",
+        "On-Off": "-0.385",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.422",
+        "On-Off": "-0.422",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.857",
+        "On-Off": "-0.857",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.923",
+        "On-Off": "-0.923",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.333",
+        "Off": "0.106",
+        "On-Off": "0.227",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.153",
+        "On-Off": "-0.153",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.175",
+        "On-Off": "-0.175",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.174",
+        "On-Off": "-0.174",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.057",
+        "On-Off": "-0.057",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.060",
+        "On-Off": "-0.060",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.183",
+        "On-Off": "-0.183",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.467",
+        "On-Off": "-0.467",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.316",
+        "On-Off": "-0.316",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.263",
+        "On-Off": "-0.263",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.431",
+        "On-Off": "-0.431",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.368",
+        "On-Off": "-0.368",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.833",
+        "On-Off": "-0.833",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.273",
+        "On-Off": "-0.273",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.571",
+        "On-Off": "-0.571",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.917",
+        "On-Off": "-0.917",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.179",
+        "On-Off": "-0.179",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.308",
+        "On-Off": "-0.308",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.065",
+        "On-Off": "-0.065",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.006",
+        "On-Off": "-0.006",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.161",
+        "On-Off": "-0.161",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.011",
+        "On-Off": "-0.011",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.085",
+        "On-Off": "-0.085",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.113",
+        "On-Off": "-0.113",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.185",
+        "On-Off": "-0.185",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.259",
+        "On-Off": "-0.259",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.190",
+        "On-Off": "-0.190",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.164",
+        "On-Off": "-0.164",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.267",
+        "On-Off": "-0.267",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.327",
+        "On-Off": "-0.327",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.442",
+        "On-Off": "-0.442",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.889",
+        "On-Off": "-0.889",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.539",
+        "On-Off": "-0.039",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.045",
+        "On-Off": "-0.045",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.395",
+        "On-Off": "-0.395",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "1.000",
+        "Off": "0.360",
+        "On-Off": "0.640",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.500",
+        "Off": "0.264",
+        "On-Off": "0.236",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "1.000",
+        "Off": "0.567",
+        "On-Off": "0.433",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.259",
+        "On-Off": "-0.259",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.417",
+        "On-Off": "0.583",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.343",
+        "On-Off": "0.657",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.017",
+        "On-Off": "-0.017",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.332",
+        "On-Off": "-0.332",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.388",
+        "On-Off": "-0.388",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.299",
+        "On-Off": "0.201",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.311",
+        "On-Off": "0.689",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.356",
+        "On-Off": "-0.356",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.286",
+        "On-Off": "0.714",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.348",
+        "On-Off": "-0.348",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.838",
+        "On-Off": "-0.838",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.895",
+        "On-Off": "-0.895",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.625",
+        "On-Off": "-0.625",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.920",
+        "On-Off": "0.080",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.851",
+        "On-Off": "-0.851",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.625",
+        "On-Off": "-0.625",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.500",
+        "Off": "0.763",
+        "On-Off": "-0.263",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.667",
+        "Off": "0.370",
+        "On-Off": "0.296",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.677",
+        "On-Off": "-0.677",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "1.000",
+        "Off": "0.581",
+        "On-Off": "0.419",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.500",
+        "Off": "0.630",
+        "On-Off": "-0.130",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.604",
+        "On-Off": "-0.604",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "1.000",
+        "Off": "0.906",
+        "On-Off": "0.094",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.762",
+        "On-Off": "0.238",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.642",
+        "On-Off": "0.358",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.500",
+        "Off": "0.454",
+        "On-Off": "0.046",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.867",
+        "On-Off": "-0.867",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.571",
+        "On-Off": "-0.571",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.767",
+        "On-Off": "-0.767",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.388",
+        "On-Off": "-0.388",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.500",
+        "Off": "0.305",
+        "On-Off": "0.195",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "1.000",
+        "Off": "0.311",
+        "On-Off": "0.689",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.359",
+        "On-Off": "-0.359",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.286",
+        "On-Off": "0.714",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.381",
+        "On-Off": "-0.381",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.176",
+        "On-Off": "-0.176",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.443",
+        "Off": "0.505",
+        "On-Off": "-0.062",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.544",
+        "Off": "0.462",
+        "On-Off": "0.082",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.509",
+        "On-Off": "-0.509",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.492",
+        "Off": "0.485",
+        "On-Off": "0.007",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.443",
+        "Off": "0.512",
+        "On-Off": "-0.069",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.530",
+        "On-Off": "-0.530",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.437",
+        "Off": "0.532",
+        "On-Off": "-0.095",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.516",
+        "On-Off": "-0.516",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.542",
+        "Off": "0.503",
+        "On-Off": "0.039",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.457",
+        "Off": "0.493",
+        "On-Off": "-0.036",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.532",
+        "Off": "0.501",
+        "On-Off": "0.031",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.497",
+        "On-Off": "-0.497",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.321",
+        "Off": "0.499",
+        "On-Off": "-0.178",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.519",
+        "On-Off": "-0.519",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.146",
+        "On-Off": "-0.146",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.139",
+        "On-Off": "-0.139",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.131",
+        "On-Off": "-0.131",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.061",
+        "On-Off": "-0.061",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.079",
+        "On-Off": "-0.079",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.108",
+        "On-Off": "-0.108",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.219",
+        "On-Off": "-0.219",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.153",
+        "On-Off": "-0.153",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.186",
+        "On-Off": "-0.186",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.193",
+        "On-Off": "-0.193",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.188",
+        "On-Off": "-0.188",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.188",
+        "On-Off": "-0.188",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.081",
+        "On-Off": "-0.081",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.007",
+        "On-Off": "-0.007",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.011",
+        "On-Off": "-0.011",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.150",
+        "On-Off": "-0.150",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.114",
+        "On-Off": "-0.114",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.076",
+        "On-Off": "-0.076",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.063",
+        "On-Off": "-0.063",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.099",
+        "On-Off": "-0.099",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.219",
+        "On-Off": "-0.219",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.148",
+        "On-Off": "-0.148",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.238",
+        "On-Off": "-0.238",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "1.000",
+        "Off": "0.128",
+        "On-Off": "0.872",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.151",
+        "On-Off": "-0.151",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.175",
+        "On-Off": "-0.175",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.147",
+        "On-Off": "-0.147",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.084",
+        "On-Off": "-0.084",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.248",
+        "On-Off": "-0.248",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.240",
+        "On-Off": "-0.240",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.219",
+        "On-Off": "-0.219",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.380",
+        "On-Off": "-0.380",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.429",
+        "On-Off": "-0.429",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.179",
+        "On-Off": "0.821",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.232",
+        "On-Off": "-0.232",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "1.000",
+        "Off": "0.196",
+        "On-Off": "0.804",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.367",
+        "On-Off": "-0.367",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.264",
+        "On-Off": "-0.264",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.198",
+        "On-Off": "-0.198",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.189",
+        "On-Off": "-0.189",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.667",
+        "Off": "0.214",
+        "On-Off": "0.453",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.192",
+        "On-Off": "-0.192",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.178",
+        "On-Off": "-0.178",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.226",
+        "On-Off": "-0.226",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.258",
+        "On-Off": "-0.258",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "1.000",
+        "Off": "0.286",
+        "On-Off": "0.714",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "0.270",
+        "On-Off": "0.730",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.769",
+        "Off": "0.221",
+        "On-Off": "0.548",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.257",
+        "On-Off": "-0.257",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "1.000",
+        "Off": "0.261",
+        "On-Off": "0.739",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.185",
+        "On-Off": "-0.185",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "12.900",
+        "Off": "8.232",
+        "On-Off": "4.668",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "6.467",
+        "Off": "7.153",
+        "On-Off": "-0.687",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "9.907",
+        "On-Off": "-9.907",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "8.600",
+        "On-Off": "-8.600",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "12.900",
+        "Off": "7.849",
+        "On-Off": "5.051",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "5.283",
+        "On-Off": "-5.283",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "4.991",
+        "On-Off": "-4.991",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "6.085",
+        "On-Off": "-6.085",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "9.030",
+        "On-Off": "-9.030",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "7.167",
+        "On-Off": "-7.167",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "4.200",
+        "Off": "6.086",
+        "On-Off": "-1.886",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "15.600",
+        "On-Off": "-15.600",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "11.900",
+        "Off": "5.771",
+        "On-Off": "6.129",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "8.483",
+        "On-Off": "-8.483",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "25.800",
+        "Off": "25.420",
+        "On-Off": "0.380",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "24.383",
+        "On-Off": "-24.383",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "24.564",
+        "On-Off": "-24.564",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "24.450",
+        "Off": "25.267",
+        "On-Off": "-0.817",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "26.500",
+        "Off": "24.334",
+        "On-Off": "2.166",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "23.357",
+        "On-Off": "-23.357",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "28.900",
+        "Off": "25.094",
+        "On-Off": "3.806",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "25.307",
+        "On-Off": "-25.307",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "25.000",
+        "Off": "24.625",
+        "On-Off": "0.375",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "24.400",
+        "Off": "25.556",
+        "On-Off": "-1.156",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "24.300",
+        "On-Off": "-24.300",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "24.462",
+        "On-Off": "-24.462",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "24.980",
+        "On-Off": "-24.980",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.117",
+        "On-Off": "-0.117",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "0.159",
+        "On-Off": "-0.159",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.132",
+        "On-Off": "-0.132",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.107",
+        "On-Off": "-0.107",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.119",
+        "On-Off": "-0.119",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.137",
+        "On-Off": "-0.137",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.333",
+        "Off": "0.124",
+        "On-Off": "0.209",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.088",
+        "On-Off": "-0.088",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.054",
+        "On-Off": "-0.054",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.214",
+        "On-Off": "0.036",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.040",
+        "On-Off": "-0.040",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.429",
+        "Off": "0.162",
+        "On-Off": "0.266",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.069",
+        "On-Off": "-0.069",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.200",
+        "Off": "0.071",
+        "On-Off": "0.129",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.167",
+        "Off": "0.031",
+        "On-Off": "0.136",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "0.014",
+        "On-Off": "-0.014",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.088",
+        "On-Off": "-0.088",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.085",
+        "On-Off": "-0.085",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "0.046",
+        "On-Off": "-0.046",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.250",
+        "Off": "0.016",
+        "On-Off": "0.234",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.250",
+        "Off": "0.097",
+        "On-Off": "0.153",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "0.086",
+        "On-Off": "-0.086",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.022",
+        "On-Off": "-0.022",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "40.000",
+        "Off": "25.585",
+        "On-Off": "14.415",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "31.556",
+        "On-Off": "-31.556",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "15.558",
+        "On-Off": "-15.558",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "33.333",
+        "Off": "17.601",
+        "On-Off": "15.732",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "100.000",
+        "Off": "33.159",
+        "On-Off": "66.841",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "14.035",
+        "On-Off": "-14.035",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "15.161",
+        "On-Off": "-15.161",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "13.208",
+        "On-Off": "-13.208",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "30.000",
+        "Off": "14.937",
+        "On-Off": "15.063",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "9.226",
+        "On-Off": "-9.226",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "23.077",
+        "Off": "12.500",
+        "On-Off": "10.577",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "13.274",
+        "On-Off": "-13.274",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "9.901",
+        "On-Off": "-9.901",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "8.983",
+        "On-Off": "-8.983",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "12.942",
+        "On-Off": "-12.942",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "10.539",
+        "On-Off": "-10.539",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "37.500",
+        "Off": "4.869",
+        "On-Off": "32.631",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "25.021",
+        "On-Off": "-25.021",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "8.410",
+        "On-Off": "-8.410",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "3.509",
+        "On-Off": "-3.509",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "8.891",
+        "On-Off": "-8.891",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "3.145",
+        "On-Off": "-3.145",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "3.616",
+        "On-Off": "-3.616",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "18.122",
+        "On-Off": "-18.122",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "9.375",
+        "On-Off": "-9.375",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "12.389",
+        "On-Off": "-12.389",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "6.601",
+        "On-Off": "-6.601",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "10.508",
+        "On-Off": "-10.508",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "6.122",
+        "On-Off": "-6.122",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "6.510",
+        "On-Off": "-6.510",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "0.356",
+        "On-Off": "-0.356",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "4.493",
+        "On-Off": "-4.493",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "8.802",
+        "On-Off": "-8.802",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "4.386",
+        "On-Off": "-4.386",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "3.229",
+        "On-Off": "-3.229",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "5.031",
+        "On-Off": "-5.031",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "3.145",
+        "On-Off": "-3.145",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "2.142",
+        "On-Off": "-2.142",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "15.385",
+        "Off": "1.436",
+        "On-Off": "13.949",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "4.425",
+        "On-Off": "-4.425",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "3.300",
+        "On-Off": "-3.300",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "2.712",
+        "On-Off": "-2.712",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "3.186",
+        "On-Off": "-3.186",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "3.162",
+        "On-Off": "-3.162",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "0.000",
+        "Off": "2.019",
+        "On-Off": "-2.019",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "4.699",
+        "On-Off": "-4.699",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "4.706",
+        "On-Off": "-4.706",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "3.070",
+        "On-Off": "-3.070",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "1.731",
+        "On-Off": "-1.731",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "5.660",
+        "On-Off": "-5.660",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "2.358",
+        "On-Off": "-2.358",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "25.000",
+        "Off": "4.613",
+        "On-Off": "20.387",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "2.365",
+        "On-Off": "-2.365",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "1.770",
+        "On-Off": "-1.770",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "2.640",
+        "On-Off": "-2.640",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "3.559",
+        "On-Off": "-3.559",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Diana Taurasi",
+        "On": "0.000",
+        "Off": "5.874",
+        "On-Off": "-5.874",
+        "MinutesOn": 3,
+        "MinutesOff": 1011
+      },
+      {
+        "Name": "Brittney Griner",
+        "On": "0.000",
+        "Off": "4.216",
+        "On-Off": "-4.216",
+        "MinutesOn": 3,
+        "MinutesOff": 827
+      },
+      {
+        "Name": "Rebecca Allen",
+        "On": "12.500",
+        "Off": "2.138",
+        "On-Off": "10.362",
+        "MinutesOn": 5,
+        "MinutesOff": 419
+      },
+      {
+        "Name": "Natasha Cloud",
+        "On": "0.000",
+        "Off": "10.594",
+        "On-Off": "-10.594",
+        "MinutesOn": 5,
+        "MinutesOff": 1225
+      },
+      {
+        "Name": "Kahleah Copper",
+        "On": "0.000",
+        "Off": "3.442",
+        "On-Off": "-3.442",
+        "MinutesOn": 2,
+        "MinutesOff": 1164
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "1.535",
+        "On-Off": "-1.535",
+        "MinutesOn": 0,
+        "MinutesOff": 234
+      },
+      {
+        "Name": "Sophie Cunningham",
+        "On": "0.000",
+        "Off": "3.650",
+        "On-Off": "-3.650",
+        "MinutesOn": 3,
+        "MinutesOff": 1086
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "1.258",
+        "On-Off": "-1.258",
+        "MinutesOn": 0,
+        "MinutesOff": 78
+      },
+      {
+        "Name": "Mikiah Herbert Harrigan",
+        "On": "0.000",
+        "Off": "1.415",
+        "On-Off": "-1.415",
+        "MinutesOn": 5,
+        "MinutesOff": 331
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "7.743",
+        "On-Off": "-7.743",
+        "MinutesOn": 2,
+        "MinutesOff": 311
+      },
+      {
+        "Name": "Natasha Mack",
+        "On": "0.000",
+        "Off": "3.632",
+        "On-Off": "-3.632",
+        "MinutesOn": 7,
+        "MinutesOff": 604
+      },
+      {
+        "Name": "Amy Atwell",
+        "On": "0.000",
+        "Off": "5.310",
+        "On-Off": "-5.310",
+        "MinutesOn": 0,
+        "MinutesOff": 59
+      },
+      {
+        "Name": "Liz Dixon",
+        "On": "0.000",
+        "Off": "2.970",
+        "On-Off": "-2.970",
+        "MinutesOn": 5,
+        "MinutesOff": 155
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "4.576",
+        "On-Off": "-4.576",
+        "MinutesOn": 0,
+        "MinutesOff": 300
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Charisma Osborne",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Charisma Osborne",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Charisma Osborne"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Charisma Osborne"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

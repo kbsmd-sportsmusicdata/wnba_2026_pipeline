@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-shots/wnba with params {'EntityType': 'Team', 'StartType': 'All', 'Blocked': False, 'Season': '2025', 'SeasonType': 'Regular Season', 'EntityId': '1611661317'}: 503 Server Error: Service Temporarily Unavailable for url: https://api.pbpstats.com/get-shots/wnba?EntityType=Team&StartType=All&Blocked=False&Season=2025&SeasonType=Regular+Season&EntityId=1611661317",
+  "status": 503,
+  "response_text": "<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+}

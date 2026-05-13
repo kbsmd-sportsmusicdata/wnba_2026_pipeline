@@ -1,0 +1,4 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-on-off/wnba/player with params {'Season': '2023', 'SeasonType': 'Regular Season', 'TeamId': '1611661324', 'PlayerId': '1631263'}: HTTPSConnectionPool(host='api.pbpstats.com', port=443): Max retries exceeded with url: /get-on-off/wnba/player?Season=2023&SeasonType=Regular+Season&TeamId=1611661324&PlayerId=1631263 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='api.pbpstats.com', port=443): Read timed out. (read timeout=30)\"))"
+}

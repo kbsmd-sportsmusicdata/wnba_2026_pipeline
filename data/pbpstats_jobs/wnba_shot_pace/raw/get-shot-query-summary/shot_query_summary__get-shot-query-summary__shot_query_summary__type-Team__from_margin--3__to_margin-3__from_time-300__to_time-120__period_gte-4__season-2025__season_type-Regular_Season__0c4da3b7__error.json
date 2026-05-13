@@ -1,0 +1,6 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-shot-query-summary/wnba with params {'Type': 'Team', 'FromMargin': -3, 'ToMargin': 3, 'FromTime': 300, 'ToTime': 120, 'PeriodGte': 4, 'Season': '2025', 'SeasonType': 'Regular Season'}: 500 Server Error: Internal Server Error for url: https://api.pbpstats.com/get-shot-query-summary/wnba?Type=Team&FromMargin=-3&ToMargin=3&FromTime=300&ToTime=120&PeriodGte=4&Season=2025&SeasonType=Regular+Season",
+  "status": 500,
+  "response_text": "{\"detail\":\"Internal Server Error\"}"
+}

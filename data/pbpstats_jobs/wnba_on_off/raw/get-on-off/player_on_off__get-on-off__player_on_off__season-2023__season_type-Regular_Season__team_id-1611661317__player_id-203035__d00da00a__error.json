@@ -1,0 +1,4 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-on-off/wnba/player with params {'Season': '2023', 'SeasonType': 'Regular Season', 'TeamId': '1611661317', 'PlayerId': '203035'}: ('Connection broken: IncompleteRead(0 bytes read, 128500 more expected)', IncompleteRead(0 bytes read, 128500 more expected))"
+}

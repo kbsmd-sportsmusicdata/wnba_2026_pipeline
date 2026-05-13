@@ -1,0 +1,7944 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.426",
+        "Off": "0.462",
+        "On-Off": "-0.036",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.355",
+        "Off": "0.261",
+        "On-Off": "0.094",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.789",
+        "Off": "0.671",
+        "On-Off": "0.119",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.636",
+        "Off": "0.538",
+        "On-Off": "0.098",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.520",
+        "Off": "0.513",
+        "On-Off": "0.007",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.733",
+        "Off": "0.800",
+        "On-Off": "-0.067",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.636",
+        "Off": "0.736",
+        "On-Off": "-0.099",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.720",
+        "Off": "0.764",
+        "On-Off": "-0.043",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.316",
+        "Off": "0.536",
+        "On-Off": "-0.220",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.426",
+        "Off": "0.471",
+        "On-Off": "-0.045",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.367",
+        "Off": "0.261",
+        "On-Off": "0.106",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.882",
+        "Off": "0.735",
+        "On-Off": "0.147",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.778",
+        "Off": "0.636",
+        "On-Off": "0.141",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.520",
+        "Off": "0.526",
+        "On-Off": "-0.006",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.846",
+        "Off": "0.923",
+        "On-Off": "-0.077",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.636",
+        "Off": "0.753",
+        "On-Off": "-0.117",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.848",
+        "Off": "0.890",
+        "On-Off": "-0.042",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.316",
+        "Off": "0.556",
+        "On-Off": "-0.240",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.538",
+        "Off": "0.931",
+        "On-Off": "-0.393",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.667",
+        "Off": "0.824",
+        "On-Off": "-0.157",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.828",
+        "Off": "0.942",
+        "On-Off": "-0.115",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "1.000",
+        "Off": "0.923",
+        "On-Off": "0.077",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.200",
+        "Off": "0.269",
+        "On-Off": "-0.069",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.227",
+        "Off": "0.364",
+        "On-Off": "-0.136",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.289",
+        "Off": "0.392",
+        "On-Off": "-0.103",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.259",
+        "On-Off": "-0.059",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.257",
+        "Off": "0.283",
+        "On-Off": "-0.026",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.475",
+        "Off": "0.430",
+        "On-Off": "0.046",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.200",
+        "Off": "0.167",
+        "On-Off": "0.033",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.214",
+        "Off": "0.310",
+        "On-Off": "-0.095",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.200",
+        "Off": "0.269",
+        "On-Off": "-0.069",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.227",
+        "Off": "0.364",
+        "On-Off": "-0.136",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.289",
+        "Off": "0.397",
+        "On-Off": "-0.108",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.268",
+        "On-Off": "-0.068",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.257",
+        "Off": "0.293",
+        "On-Off": "-0.036",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.483",
+        "Off": "0.430",
+        "On-Off": "0.054",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.200",
+        "Off": "0.167",
+        "On-Off": "0.033",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.214",
+        "Off": "0.310",
+        "On-Off": "-0.095",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.333",
+        "Off": "0.632",
+        "On-Off": "-0.298",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.423",
+        "Off": "0.371",
+        "On-Off": "0.052",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.477",
+        "Off": "0.469",
+        "On-Off": "0.008",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.500",
+        "Off": "0.385",
+        "On-Off": "0.115",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.452",
+        "Off": "0.480",
+        "On-Off": "-0.028",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.550",
+        "Off": "0.510",
+        "On-Off": "0.040",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.446",
+        "Off": "0.527",
+        "On-Off": "-0.081",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.500",
+        "Off": "0.526",
+        "On-Off": "-0.026",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.491",
+        "Off": "0.483",
+        "On-Off": "0.008",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.520",
+        "Off": "0.479",
+        "On-Off": "0.040",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.528",
+        "Off": "0.528",
+        "On-Off": "-0.001",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.312",
+        "Off": "0.500",
+        "On-Off": "-0.188",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.410",
+        "Off": "0.413",
+        "On-Off": "-0.003",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.459",
+        "Off": "0.520",
+        "On-Off": "-0.061",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.833",
+        "Off": "0.333",
+        "On-Off": "0.500",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.442",
+        "Off": "0.470",
+        "On-Off": "-0.028",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.500",
+        "Off": "0.445",
+        "On-Off": "0.055",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.423",
+        "Off": "0.481",
+        "On-Off": "-0.058",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.455",
+        "Off": "0.492",
+        "On-Off": "-0.037",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.643",
+        "On-Off": "-0.643",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.569",
+        "Off": "0.548",
+        "On-Off": "0.021",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.514",
+        "Off": "0.474",
+        "On-Off": "0.039",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.438",
+        "Off": "0.500",
+        "On-Off": "-0.062",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.312",
+        "Off": "0.520",
+        "On-Off": "-0.207",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.497",
+        "Off": "0.493",
+        "On-Off": "0.004",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.488",
+        "Off": "0.541",
+        "On-Off": "-0.054",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.167",
+        "Off": "0.444",
+        "On-Off": "0.722",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.500",
+        "Off": "0.512",
+        "On-Off": "-0.012",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.552",
+        "Off": "0.467",
+        "On-Off": "0.085",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.462",
+        "Off": "0.516",
+        "On-Off": "-0.054",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.512",
+        "Off": "0.533",
+        "On-Off": "-0.021",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.722",
+        "On-Off": "-0.722",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.615",
+        "Off": "0.601",
+        "On-Off": "0.015",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.571",
+        "Off": "0.534",
+        "On-Off": "0.036",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.447",
+        "Off": "0.525",
+        "On-Off": "-0.078",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.625",
+        "Off": "0.578",
+        "On-Off": "0.047",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.165",
+        "Off": "0.239",
+        "On-Off": "-0.074",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.409",
+        "Off": "0.430",
+        "On-Off": "-0.021",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.333",
+        "Off": "0.133",
+        "On-Off": "0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.023",
+        "Off": "0.038",
+        "On-Off": "-0.015",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.200",
+        "Off": "0.532",
+        "On-Off": "-0.332",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.385",
+        "Off": "0.448",
+        "On-Off": "-0.063",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.091",
+        "Off": "0.066",
+        "On-Off": "0.025",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.667",
+        "Off": "0.571",
+        "On-Off": "0.095",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.353",
+        "Off": "0.402",
+        "On-Off": "-0.049",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.027",
+        "Off": "0.022",
+        "On-Off": "0.005",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.438",
+        "Off": "0.442",
+        "On-Off": "-0.005",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.111",
+        "Off": "0.053",
+        "On-Off": "0.058",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.090",
+        "Off": "0.057",
+        "On-Off": "0.033",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.077",
+        "Off": "0.051",
+        "On-Off": "0.026",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.500",
+        "Off": "0.231",
+        "On-Off": "0.269",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.071",
+        "Off": "0.099",
+        "On-Off": "-0.027",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.050",
+        "Off": "0.039",
+        "On-Off": "0.011",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.125",
+        "Off": "0.068",
+        "On-Off": "0.057",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.067",
+        "Off": "0.123",
+        "On-Off": "-0.056",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.071",
+        "Off": "0.089",
+        "On-Off": "-0.017",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.067",
+        "Off": "0.091",
+        "On-Off": "-0.024",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.056",
+        "Off": "0.057",
+        "On-Off": "-0.001",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Alysha Clark",
+        "On": "10.425",
+        "Off": "11.648",
+        "On-Off": "-1.224",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "31.353",
+        "Off": "23.545",
+        "On-Off": "7.808",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "18.735",
+        "Off": "14.535",
+        "On-Off": "4.200",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "11.765",
+        "Off": "17.293",
+        "On-Off": "-5.529",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "26.852",
+        "Off": "29.935",
+        "On-Off": "-3.083",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "18.135",
+        "Off": "16.159",
+        "On-Off": "1.975",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "15.862",
+        "Off": "14.502",
+        "On-Off": "1.361",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "24.880",
+        "Off": "20.408",
+        "On-Off": "4.472",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "11.111",
+        "Off": "23.810",
+        "On-Off": "-12.698",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "21.306",
+        "Off": "19.716",
+        "On-Off": "1.589",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "27.939",
+        "Off": "22.051",
+        "On-Off": "5.888",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "19.250",
+        "Off": "15.076",
+        "On-Off": "4.174",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "14.141",
+        "On-Off": "-14.141",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.577",
+        "Off": "0.524",
+        "On-Off": "0.053",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.667",
+        "Off": "0.509",
+        "On-Off": "0.157",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.667",
+        "Off": "0.542",
+        "On-Off": "0.124",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.833",
+        "Off": "0.375",
+        "On-Off": "0.458",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.606",
+        "Off": "0.564",
+        "On-Off": "0.042",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.556",
+        "Off": "0.429",
+        "On-Off": "0.127",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.667",
+        "Off": "0.707",
+        "On-Off": "-0.040",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.393",
+        "Off": "0.537",
+        "On-Off": "-0.144",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.636",
+        "Off": "0.800",
+        "On-Off": "-0.164",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.050",
+        "Off": "0.045",
+        "On-Off": "0.005",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.500",
+        "Off": "0.154",
+        "On-Off": "0.346",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.333",
+        "Off": "0.167",
+        "On-Off": "0.167",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.130",
+        "Off": "0.083",
+        "On-Off": "0.047",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.200",
+        "Off": "0.154",
+        "On-Off": "0.046",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.103",
+        "Off": "0.150",
+        "On-Off": "-0.047",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.450",
+        "Off": "0.464",
+        "On-Off": "-0.014",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.000",
+        "Off": "0.018",
+        "On-Off": "-0.018",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.158",
+        "Off": "0.040",
+        "On-Off": "0.118",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.147",
+        "Off": "0.106",
+        "On-Off": "0.041",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.103",
+        "Off": "0.082",
+        "On-Off": "0.021",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.059",
+        "Off": "0.049",
+        "On-Off": "0.009",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.250",
+        "Off": "0.258",
+        "On-Off": "-0.008",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.149",
+        "Off": "0.268",
+        "On-Off": "-0.119",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.310",
+        "Off": "0.171",
+        "On-Off": "0.138",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.082",
+        "Off": "0.038",
+        "On-Off": "0.045",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.213",
+        "Off": "0.155",
+        "On-Off": "0.058",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.089",
+        "Off": "0.094",
+        "On-Off": "-0.005",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.249",
+        "Off": "0.211",
+        "On-Off": "0.037",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.049",
+        "Off": "0.090",
+        "On-Off": "-0.040",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.016",
+        "Off": "0.024",
+        "On-Off": "-0.008",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.012",
+        "Off": "0.019",
+        "On-Off": "-0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.009",
+        "Off": "0.007",
+        "On-Off": "0.002",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.167",
+        "Off": "0.056",
+        "On-Off": "0.111",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.035",
+        "Off": "0.069",
+        "On-Off": "-0.034",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.120",
+        "Off": "0.069",
+        "On-Off": "0.051",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.013",
+        "Off": "0.022",
+        "On-Off": "-0.009",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.119",
+        "Off": "0.056",
+        "On-Off": "0.062",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.016",
+        "Off": "0.022",
+        "On-Off": "-0.006",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.110",
+        "Off": "0.110",
+        "On-Off": "-0.001",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.030",
+        "Off": "0.020",
+        "On-Off": "0.010",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.208",
+        "Off": "0.161",
+        "On-Off": "0.047",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.106",
+        "Off": "0.121",
+        "On-Off": "-0.014",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.088",
+        "Off": "0.087",
+        "On-Off": "0.001",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.333",
+        "Off": "0.103",
+        "On-Off": "0.230",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.275",
+        "Off": "0.199",
+        "On-Off": "0.076",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.154",
+        "Off": "0.191",
+        "On-Off": "-0.037",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.065",
+        "Off": "0.081",
+        "On-Off": "-0.016",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.170",
+        "Off": "0.159",
+        "On-Off": "0.011",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.155",
+        "Off": "0.115",
+        "On-Off": "0.040",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.233",
+        "Off": "0.231",
+        "On-Off": "0.002",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.141",
+        "Off": "0.076",
+        "On-Off": "0.065",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.045",
+        "Off": "0.015",
+        "On-Off": "0.030",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.013",
+        "Off": "0.018",
+        "On-Off": "-0.004",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.017",
+        "Off": "0.006",
+        "On-Off": "0.011",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.030",
+        "Off": "0.077",
+        "On-Off": "-0.047",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.030",
+        "Off": "0.047",
+        "On-Off": "-0.017",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.017",
+        "Off": "0.025",
+        "On-Off": "-0.008",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.103",
+        "Off": "0.125",
+        "On-Off": "-0.022",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.029",
+        "Off": "0.032",
+        "On-Off": "-0.003",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.130",
+        "Off": "0.091",
+        "On-Off": "0.039",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.016",
+        "Off": "0.033",
+        "On-Off": "-0.017",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.174",
+        "Off": "0.133",
+        "On-Off": "0.041",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.105",
+        "Off": "0.097",
+        "On-Off": "0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.072",
+        "Off": "0.064",
+        "On-Off": "0.008",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.308",
+        "Off": "0.183",
+        "On-Off": "0.124",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.207",
+        "Off": "0.240",
+        "On-Off": "-0.033",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.235",
+        "Off": "0.180",
+        "On-Off": "0.054",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.074",
+        "Off": "0.056",
+        "On-Off": "0.018",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.191",
+        "Off": "0.156",
+        "On-Off": "0.035",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.091",
+        "Off": "0.071",
+        "On-Off": "0.019",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.120",
+        "Off": "0.102",
+        "On-Off": "0.018",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.241",
+        "Off": "0.219",
+        "On-Off": "0.022",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.094",
+        "Off": "0.083",
+        "On-Off": "0.011",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.028",
+        "Off": "0.021",
+        "On-Off": "0.007",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.012",
+        "Off": "0.019",
+        "On-Off": "-0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.012",
+        "Off": "0.007",
+        "On-Off": "0.005",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.083",
+        "Off": "0.037",
+        "On-Off": "0.046",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.033",
+        "Off": "0.071",
+        "On-Off": "-0.038",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.084",
+        "Off": "0.061",
+        "On-Off": "0.023",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.015",
+        "Off": "0.023",
+        "On-Off": "-0.008",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.114",
+        "Off": "0.076",
+        "On-Off": "0.038",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.020",
+        "Off": "0.025",
+        "On-Off": "-0.005",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.116",
+        "Off": "0.105",
+        "On-Off": "0.011",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.024",
+        "Off": "0.024",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.056",
+        "Off": "0.030",
+        "On-Off": "0.025",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.100",
+        "Off": "0.084",
+        "On-Off": "0.016",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.029",
+        "Off": "0.034",
+        "On-Off": "-0.005",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.075",
+        "On-Off": "-0.075",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.024",
+        "Off": "0.024",
+        "On-Off": "-0.001",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.156",
+        "Off": "0.077",
+        "On-Off": "0.079",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.025",
+        "Off": "0.019",
+        "On-Off": "0.006",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.019",
+        "Off": "0.009",
+        "On-Off": "0.009",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.057",
+        "On-Off": "-0.057",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.148",
+        "Off": "0.081",
+        "On-Off": "0.067",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.009",
+        "Off": "0.018",
+        "On-Off": "-0.009",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.167",
+        "Off": "0.045",
+        "On-Off": "0.122",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.006",
+        "Off": "0.026",
+        "On-Off": "-0.020",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.120",
+        "Off": "0.140",
+        "On-Off": "-0.019",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.056",
+        "Off": "0.045",
+        "On-Off": "0.010",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.019",
+        "On-Off": "-0.019",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.010",
+        "On-Off": "-0.010",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.076",
+        "On-Off": "-0.076",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.167",
+        "Off": "0.103",
+        "On-Off": "0.063",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.013",
+        "On-Off": "-0.013",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.091",
+        "Off": "0.059",
+        "On-Off": "0.032",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.031",
+        "Off": "0.009",
+        "On-Off": "0.021",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.036",
+        "Off": "0.094",
+        "On-Off": "-0.059",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.029",
+        "Off": "0.000",
+        "On-Off": "0.029",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.019",
+        "Off": "0.012",
+        "On-Off": "0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.022",
+        "Off": "0.007",
+        "On-Off": "0.015",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.038",
+        "Off": "0.076",
+        "On-Off": "-0.038",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.038",
+        "Off": "0.033",
+        "On-Off": "0.005",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.022",
+        "Off": "0.024",
+        "On-Off": "-0.002",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.136",
+        "Off": "0.103",
+        "On-Off": "0.034",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.029",
+        "Off": "0.031",
+        "On-Off": "-0.002",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.127",
+        "Off": "0.116",
+        "On-Off": "0.011",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.023",
+        "Off": "0.040",
+        "On-Off": "-0.017",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.100",
+        "Off": "0.062",
+        "On-Off": "0.038",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.032",
+        "On-Off": "-0.032",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.078",
+        "On-Off": "-0.078",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.029",
+        "Off": "0.035",
+        "On-Off": "-0.006",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.138",
+        "Off": "0.020",
+        "On-Off": "0.118",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.188",
+        "Off": "0.067",
+        "On-Off": "0.121",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.100",
+        "Off": "0.093",
+        "On-Off": "0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.040",
+        "Off": "0.029",
+        "On-Off": "0.011",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.125",
+        "Off": "0.239",
+        "On-Off": "-0.114",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.250",
+        "Off": "0.158",
+        "On-Off": "0.092",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.082",
+        "Off": "0.012",
+        "On-Off": "0.070",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.077",
+        "Off": "0.138",
+        "On-Off": "-0.061",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.062",
+        "Off": "0.079",
+        "On-Off": "-0.018",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.228",
+        "Off": "0.202",
+        "On-Off": "0.026",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.080",
+        "Off": "0.171",
+        "On-Off": "-0.091",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.156",
+        "Off": "0.163",
+        "On-Off": "-0.007",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.058",
+        "Off": "0.056",
+        "On-Off": "0.002",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.047",
+        "Off": "0.053",
+        "On-Off": "-0.005",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.312",
+        "On-Off": "-0.312",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.115",
+        "Off": "0.289",
+        "On-Off": "-0.173",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.300",
+        "Off": "0.139",
+        "On-Off": "0.161",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.064",
+        "Off": "0.056",
+        "On-Off": "0.008",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.261",
+        "Off": "0.143",
+        "On-Off": "0.118",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.115",
+        "Off": "0.093",
+        "On-Off": "0.022",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.218",
+        "Off": "0.212",
+        "On-Off": "0.006",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.026",
+        "Off": "0.063",
+        "On-Off": "-0.038",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.100",
+        "Off": "0.048",
+        "On-Off": "0.052",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.222",
+        "Off": "0.123",
+        "On-Off": "0.099",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.102",
+        "Off": "0.065",
+        "On-Off": "0.038",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.231",
+        "Off": "0.258",
+        "On-Off": "-0.028",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.400",
+        "Off": "0.267",
+        "On-Off": "0.133",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.109",
+        "Off": "0.031",
+        "On-Off": "0.078",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.273",
+        "Off": "0.200",
+        "On-Off": "0.073",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.062",
+        "Off": "0.111",
+        "On-Off": "-0.049",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.340",
+        "Off": "0.221",
+        "On-Off": "0.119",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.059",
+        "Off": "0.065",
+        "On-Off": "-0.006",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.200",
+        "Off": "0.197",
+        "On-Off": "0.003",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.120",
+        "Off": "0.125",
+        "On-Off": "-0.005",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.088",
+        "Off": "0.084",
+        "On-Off": "0.004",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.167",
+        "Off": "0.150",
+        "On-Off": "0.017",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.321",
+        "Off": "0.191",
+        "On-Off": "0.130",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.097",
+        "Off": "0.195",
+        "On-Off": "-0.098",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.058",
+        "Off": "0.077",
+        "On-Off": "-0.019",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.158",
+        "Off": "0.146",
+        "On-Off": "0.012",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.150",
+        "Off": "0.114",
+        "On-Off": "0.036",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.232",
+        "Off": "0.248",
+        "On-Off": "-0.016",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.115",
+        "Off": "0.083",
+        "On-Off": "0.032",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.222",
+        "Off": "0.048",
+        "On-Off": "0.175",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.061",
+        "Off": "0.109",
+        "On-Off": "-0.048",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.087",
+        "Off": "0.097",
+        "On-Off": "-0.010",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.167",
+        "Off": "0.224",
+        "On-Off": "-0.057",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.375",
+        "Off": "0.182",
+        "On-Off": "0.193",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.082",
+        "Off": "0.093",
+        "On-Off": "-0.011",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.222",
+        "Off": "0.200",
+        "On-Off": "0.022",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.167",
+        "Off": "0.118",
+        "On-Off": "0.048",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.235",
+        "Off": "0.182",
+        "On-Off": "0.053",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.192",
+        "Off": "0.057",
+        "On-Off": "0.135",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.750",
+        "Off": "0.750",
+        "On-Off": "0.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.500",
+        "Off": "0.590",
+        "On-Off": "-0.090",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.250",
+        "Off": "0.348",
+        "On-Off": "-0.098",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.571",
+        "Off": "0.000",
+        "On-Off": "0.571",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.250",
+        "Off": "0.500",
+        "On-Off": "-0.250",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.400",
+        "Off": "0.583",
+        "On-Off": "-0.183",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.667",
+        "Off": "0.250",
+        "On-Off": "0.417",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Alysha Clark",
+        "On": "16.192",
+        "Off": "17.213",
+        "On-Off": "-1.021",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "14.620",
+        "Off": "15.194",
+        "On-Off": "-0.574",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "15.557",
+        "Off": "15.906",
+        "On-Off": "-0.350",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "14.375",
+        "Off": "14.965",
+        "On-Off": "-0.590",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "16.723",
+        "Off": "16.020",
+        "On-Off": "0.703",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "15.455",
+        "Off": "15.185",
+        "On-Off": "0.269",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "15.526",
+        "Off": "15.778",
+        "On-Off": "-0.253",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "15.254",
+        "Off": "15.934",
+        "On-Off": "-0.680",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "17.680",
+        "Off": "13.650",
+        "On-Off": "4.030",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "15.564",
+        "Off": "15.719",
+        "On-Off": "-0.155",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "15.401",
+        "Off": "15.765",
+        "On-Off": "-0.364",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "15.632",
+        "Off": "15.640",
+        "On-Off": "-0.008",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "15.500",
+        "Off": "15.507",
+        "On-Off": "-0.007",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Alysha Clark",
+        "On": "7.472",
+        "Off": "14.849",
+        "On-Off": "-7.377",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "16.026",
+        "Off": "15.522",
+        "On-Off": "0.504",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "13.824",
+        "Off": "15.259",
+        "On-Off": "-1.435",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "15.438",
+        "Off": "15.109",
+        "On-Off": "0.328",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "11.653",
+        "Off": "15.243",
+        "On-Off": "-3.589",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "14.676",
+        "Off": "15.523",
+        "On-Off": "-0.846",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "14.846",
+        "Off": "14.951",
+        "On-Off": "-0.104",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "15.154",
+        "Off": "14.726",
+        "On-Off": "0.428",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "12.808",
+        "Off": "15.486",
+        "On-Off": "-2.679",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "14.425",
+        "Off": "15.057",
+        "On-Off": "-0.633",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "14.030",
+        "Off": "14.970",
+        "On-Off": "-0.940",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "12.908",
+        "Off": "15.041",
+        "On-Off": "-2.133",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "21.050",
+        "Off": "15.063",
+        "On-Off": "5.987",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.208",
+        "Off": "0.200",
+        "On-Off": "0.008",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.346",
+        "Off": "0.304",
+        "On-Off": "0.042",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.164",
+        "Off": "0.163",
+        "On-Off": "0.001",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.333",
+        "Off": "0.400",
+        "On-Off": "-0.067",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.512",
+        "Off": "0.427",
+        "On-Off": "0.085",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.440",
+        "Off": "0.211",
+        "On-Off": "0.229",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.341",
+        "Off": "0.313",
+        "On-Off": "0.027",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.364",
+        "Off": "0.443",
+        "On-Off": "-0.079",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.333",
+        "Off": "0.143",
+        "On-Off": "0.190",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.254",
+        "Off": "0.206",
+        "On-Off": "0.048",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.446",
+        "Off": "0.546",
+        "On-Off": "-0.100",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.062",
+        "Off": "0.105",
+        "On-Off": "-0.043",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.455",
+        "On-Off": "-0.455",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.200",
+        "Off": "0.667",
+        "On-Off": "-0.467",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.652",
+        "Off": "0.607",
+        "On-Off": "0.045",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.667",
+        "Off": "0.571",
+        "On-Off": "0.095",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.636",
+        "Off": "0.662",
+        "On-Off": "-0.026",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.818",
+        "Off": "0.783",
+        "On-Off": "0.036",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.548",
+        "Off": "0.500",
+        "On-Off": "0.048",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.583",
+        "Off": "0.667",
+        "On-Off": "-0.083",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.636",
+        "Off": "0.758",
+        "On-Off": "-0.122",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.671",
+        "Off": "0.622",
+        "On-Off": "0.049",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.750",
+        "Off": "0.800",
+        "On-Off": "-0.050",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.367",
+        "Off": "0.471",
+        "On-Off": "-0.104",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.333",
+        "Off": "0.250",
+        "On-Off": "0.083",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.786",
+        "Off": "0.702",
+        "On-Off": "0.084",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.667",
+        "Off": "0.444",
+        "On-Off": "0.222",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.529",
+        "Off": "0.524",
+        "On-Off": "0.006",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "1.000",
+        "Off": "0.778",
+        "On-Off": "0.222",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.536",
+        "Off": "0.787",
+        "On-Off": "-0.252",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.636",
+        "Off": "0.761",
+        "On-Off": "-0.125",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.333",
+        "Off": "0.500",
+        "On-Off": "-0.167",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.125",
+        "Off": "0.156",
+        "On-Off": "-0.031",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.316",
+        "Off": "0.321",
+        "On-Off": "-0.005",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.336",
+        "Off": "0.262",
+        "On-Off": "0.075",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.333",
+        "Off": "0.400",
+        "On-Off": "-0.067",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.372",
+        "Off": "0.416",
+        "On-Off": "-0.044",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.320",
+        "Off": "0.211",
+        "On-Off": "0.109",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.242",
+        "Off": "0.216",
+        "On-Off": "0.025",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.424",
+        "Off": "0.328",
+        "On-Off": "0.096",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.237",
+        "Off": "0.272",
+        "On-Off": "-0.035",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.353",
+        "Off": "0.273",
+        "On-Off": "0.080",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.266",
+        "Off": "0.242",
+        "On-Off": "0.024",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.273",
+        "On-Off": "-0.273",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.667",
+        "Off": "0.857",
+        "On-Off": "-0.190",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.310",
+        "Off": "0.237",
+        "On-Off": "0.072",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.432",
+        "Off": "0.422",
+        "On-Off": "0.010",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.188",
+        "Off": "0.333",
+        "On-Off": "-0.146",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.250",
+        "Off": "0.304",
+        "On-Off": "-0.054",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.364",
+        "Off": "0.552",
+        "On-Off": "-0.188",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.357",
+        "Off": "0.450",
+        "On-Off": "-0.093",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.390",
+        "Off": "0.329",
+        "On-Off": "0.061",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.323",
+        "Off": "0.324",
+        "On-Off": "-0.001",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.471",
+        "Off": "0.478",
+        "On-Off": "-0.008",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.385",
+        "Off": "0.286",
+        "On-Off": "0.099",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.438",
+        "Off": "0.263",
+        "On-Off": "0.174",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.667",
+        "Off": "0.588",
+        "On-Off": "0.078",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.500",
+        "Off": "0.714",
+        "On-Off": "-0.214",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.500",
+        "Off": "0.438",
+        "On-Off": "0.062",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.200",
+        "Off": "0.778",
+        "On-Off": "-0.578",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.812",
+        "Off": "0.667",
+        "On-Off": "0.146",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.762",
+        "Off": "0.667",
+        "On-Off": "0.095",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.125",
+        "Off": "0.364",
+        "On-Off": "-0.239",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.042",
+        "Off": "0.067",
+        "On-Off": "-0.025",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.173",
+        "Off": "0.136",
+        "On-Off": "0.037",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.091",
+        "Off": "0.145",
+        "On-Off": "-0.054",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.093",
+        "Off": "0.120",
+        "On-Off": "-0.027",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.040",
+        "Off": "0.046",
+        "On-Off": "-0.006",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.033",
+        "Off": "0.022",
+        "On-Off": "0.011",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.121",
+        "Off": "0.164",
+        "On-Off": "-0.043",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.156",
+        "Off": "0.120",
+        "On-Off": "0.036",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.174",
+        "Off": "0.159",
+        "On-Off": "0.015",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.234",
+        "Off": "0.211",
+        "On-Off": "0.024",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.182",
+        "On-Off": "-0.182",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.174",
+        "Off": "0.160",
+        "On-Off": "0.014",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.300",
+        "Off": "0.440",
+        "On-Off": "-0.140",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.500",
+        "Off": "0.341",
+        "On-Off": "0.159",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.750",
+        "Off": "0.300",
+        "On-Off": "0.450",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.407",
+        "Off": "0.361",
+        "On-Off": "0.046",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.531",
+        "Off": "0.256",
+        "On-Off": "0.275",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.533",
+        "Off": "0.450",
+        "On-Off": "0.083",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.273",
+        "On-Off": "-0.273",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "1.000",
+        "Off": "0.733",
+        "On-Off": "0.267",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.636",
+        "Off": "0.692",
+        "On-Off": "-0.056",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.941",
+        "Off": "1.000",
+        "On-Off": "-0.059",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.500",
+        "Off": "0.778",
+        "On-Off": "-0.278",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.125",
+        "Off": "0.244",
+        "On-Off": "-0.119",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.045",
+        "Off": "0.065",
+        "On-Off": "-0.020",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.100",
+        "Off": "0.081",
+        "On-Off": "0.019",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.003",
+        "On-Off": "-0.003",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.080",
+        "Off": "0.183",
+        "On-Off": "-0.103",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.110",
+        "Off": "0.104",
+        "On-Off": "0.005",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.033",
+        "On-Off": "-0.033",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.110",
+        "Off": "0.086",
+        "On-Off": "0.023",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.000",
+        "Off": "0.004",
+        "On-Off": "-0.004",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.141",
+        "Off": "0.105",
+        "On-Off": "0.035",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.333",
+        "Off": "0.273",
+        "On-Off": "0.061",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.417",
+        "On-Off": "-0.417",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.091",
+        "Off": "0.500",
+        "On-Off": "-0.409",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.300",
+        "On-Off": "-0.300",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.200",
+        "Off": "0.357",
+        "On-Off": "-0.157",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.632",
+        "Off": "0.385",
+        "On-Off": "0.247",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.111",
+        "Off": "0.400",
+        "On-Off": "-0.289",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.833",
+        "Off": "1.000",
+        "On-Off": "-0.167",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.500",
+        "Off": "0.333",
+        "On-Off": "0.167",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.120",
+        "Off": "0.174",
+        "On-Off": "-0.054",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.309",
+        "Off": "0.349",
+        "On-Off": "-0.040",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.333",
+        "Off": "0.133",
+        "On-Off": "0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.023",
+        "Off": "0.035",
+        "On-Off": "-0.012",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.120",
+        "Off": "0.349",
+        "On-Off": "-0.229",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.275",
+        "Off": "0.343",
+        "On-Off": "-0.069",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.091",
+        "Off": "0.033",
+        "On-Off": "0.058",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.667",
+        "Off": "0.429",
+        "On-Off": "0.238",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.243",
+        "Off": "0.316",
+        "On-Off": "-0.073",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.027",
+        "Off": "0.018",
+        "On-Off": "0.009",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.297",
+        "Off": "0.337",
+        "On-Off": "-0.040",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.167",
+        "Off": "0.267",
+        "On-Off": "-0.100",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.312",
+        "Off": "0.344",
+        "On-Off": "-0.031",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.353",
+        "Off": "0.367",
+        "On-Off": "-0.014",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.333",
+        "Off": "0.237",
+        "On-Off": "0.096",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.280",
+        "Off": "0.261",
+        "On-Off": "0.019",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.405",
+        "Off": "0.442",
+        "On-Off": "-0.037",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.200",
+        "Off": "0.200",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.263",
+        "Off": "0.281",
+        "On-Off": "-0.018",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.500",
+        "Off": "1.000",
+        "On-Off": "-0.500",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.500",
+        "Off": "0.909",
+        "On-Off": "-0.409",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.571",
+        "Off": "0.750",
+        "On-Off": "-0.179",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.824",
+        "Off": "0.929",
+        "On-Off": "-0.105",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "1.000",
+        "Off": "0.889",
+        "On-Off": "0.111",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.833",
+        "Off": "0.778",
+        "On-Off": "0.056",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.511",
+        "Off": "0.543",
+        "On-Off": "-0.032",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.573",
+        "Off": "0.593",
+        "On-Off": "-0.020",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.667",
+        "Off": "0.533",
+        "On-Off": "0.133",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.535",
+        "Off": "0.465",
+        "On-Off": "0.070",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.640",
+        "Off": "0.743",
+        "On-Off": "-0.103",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.725",
+        "Off": "0.761",
+        "On-Off": "-0.036",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.455",
+        "Off": "0.508",
+        "On-Off": "-0.054",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "1.000",
+        "Off": "0.714",
+        "On-Off": "0.286",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.607",
+        "Off": "0.608",
+        "On-Off": "-0.001",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.473",
+        "Off": "0.568",
+        "On-Off": "-0.095",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.500",
+        "Off": "0.547",
+        "On-Off": "-0.047",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.545",
+        "On-Off": "-0.545",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.167",
+        "Off": "0.267",
+        "On-Off": "-0.100",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.312",
+        "Off": "0.344",
+        "On-Off": "-0.031",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.353",
+        "Off": "0.373",
+        "On-Off": "-0.020",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.333",
+        "Off": "0.250",
+        "On-Off": "0.083",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.280",
+        "Off": "0.273",
+        "On-Off": "0.007",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.415",
+        "Off": "0.442",
+        "On-Off": "-0.027",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.200",
+        "Off": "0.200",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.263",
+        "Off": "0.281",
+        "On-Off": "-0.018",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.533",
+        "Off": "0.514",
+        "On-Off": "0.019",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.476",
+        "Off": "0.483",
+        "On-Off": "-0.007",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.476",
+        "Off": "0.483",
+        "On-Off": "-0.007",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.493",
+        "Off": "0.501",
+        "On-Off": "-0.007",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.491",
+        "Off": "0.473",
+        "On-Off": "0.018",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.528",
+        "Off": "0.509",
+        "On-Off": "0.018",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.521",
+        "Off": "0.511",
+        "On-Off": "0.010",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.501",
+        "Off": "0.485",
+        "On-Off": "0.016",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.523",
+        "Off": "0.523",
+        "On-Off": "0.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.489",
+        "Off": "0.487",
+        "On-Off": "0.002",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.486",
+        "Off": "0.502",
+        "On-Off": "-0.016",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.458",
+        "Off": "0.467",
+        "On-Off": "-0.009",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.538",
+        "On-Off": "-0.538",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.064",
+        "On-Off": "-0.064",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.192",
+        "Off": "0.162",
+        "On-Off": "0.030",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.100",
+        "Off": "0.034",
+        "On-Off": "0.066",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.176",
+        "On-Off": "-0.176",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.184",
+        "Off": "0.161",
+        "On-Off": "0.023",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.143",
+        "Off": "0.061",
+        "On-Off": "0.082",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.126",
+        "Off": "0.129",
+        "On-Off": "-0.003",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.175",
+        "Off": "0.247",
+        "On-Off": "-0.072",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.106",
+        "Off": "0.088",
+        "On-Off": "0.018",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.154",
+        "Off": "0.173",
+        "On-Off": "-0.019",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.031",
+        "Off": "0.051",
+        "On-Off": "-0.020",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.224",
+        "Off": "0.195",
+        "On-Off": "0.029",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.160",
+        "Off": "0.058",
+        "On-Off": "0.102",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.188",
+        "Off": "0.166",
+        "On-Off": "0.021",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.174",
+        "Off": "0.123",
+        "On-Off": "0.051",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.191",
+        "Off": "0.218",
+        "On-Off": "-0.027",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.189",
+        "Off": "0.261",
+        "On-Off": "-0.072",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.157",
+        "Off": "0.142",
+        "On-Off": "0.015",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.158",
+        "Off": "0.176",
+        "On-Off": "-0.018",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.054",
+        "Off": "0.071",
+        "On-Off": "-0.017",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.000",
+        "Off": "0.023",
+        "On-Off": "-0.023",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.043",
+        "Off": "0.099",
+        "On-Off": "-0.056",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.091",
+        "Off": "0.061",
+        "On-Off": "0.030",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.286",
+        "Off": "0.250",
+        "On-Off": "0.036",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.143",
+        "Off": "0.162",
+        "On-Off": "-0.019",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.188",
+        "Off": "0.167",
+        "On-Off": "0.021",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.113",
+        "Off": "0.095",
+        "On-Off": "0.018",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.159",
+        "Off": "0.185",
+        "On-Off": "-0.026",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.060",
+        "Off": "0.094",
+        "On-Off": "-0.034",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.211",
+        "Off": "0.205",
+        "On-Off": "0.006",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.034",
+        "Off": "0.094",
+        "On-Off": "-0.060",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.189",
+        "On-Off": "-0.189",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.344",
+        "Off": "0.324",
+        "On-Off": "0.019",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.331",
+        "Off": "0.199",
+        "On-Off": "0.132",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.286",
+        "Off": "0.250",
+        "On-Off": "0.036",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.122",
+        "Off": "0.206",
+        "On-Off": "-0.084",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.250",
+        "Off": "0.316",
+        "On-Off": "-0.066",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.206",
+        "Off": "0.278",
+        "On-Off": "-0.072",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.341",
+        "Off": "0.346",
+        "On-Off": "-0.005",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.247",
+        "Off": "0.313",
+        "On-Off": "-0.066",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.273",
+        "Off": "0.275",
+        "On-Off": "-0.002",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.271",
+        "Off": "0.226",
+        "On-Off": "0.045",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.286",
+        "On-Off": "-0.286",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.185",
+        "Off": "0.200",
+        "On-Off": "-0.016",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.246",
+        "Off": "0.255",
+        "On-Off": "-0.009",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.206",
+        "Off": "0.239",
+        "On-Off": "-0.033",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.344",
+        "Off": "0.228",
+        "On-Off": "0.116",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.195",
+        "Off": "0.212",
+        "On-Off": "-0.017",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.222",
+        "Off": "0.333",
+        "On-Off": "-0.111",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.229",
+        "Off": "0.286",
+        "On-Off": "-0.057",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.265",
+        "Off": "0.367",
+        "On-Off": "-0.102",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.480",
+        "Off": "0.275",
+        "On-Off": "0.205",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.199",
+        "Off": "0.251",
+        "On-Off": "-0.053",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.216",
+        "Off": "0.261",
+        "On-Off": "-0.046",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.245",
+        "Off": "0.308",
+        "On-Off": "-0.063",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "1.000",
+        "Off": "0.299",
+        "On-Off": "0.701",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Alysha Clark",
+        "On": "5.556",
+        "Off": "6.889",
+        "On-Off": "-1.334",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "7.565",
+        "Off": "7.482",
+        "On-Off": "0.083",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "8.195",
+        "Off": "9.301",
+        "On-Off": "-1.106",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "4.050",
+        "Off": "6.292",
+        "On-Off": "-2.242",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "5.498",
+        "Off": "6.189",
+        "On-Off": "-0.691",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "4.565",
+        "Off": "5.986",
+        "On-Off": "-1.421",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "4.814",
+        "Off": "4.697",
+        "On-Off": "0.117",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "6.707",
+        "Off": "6.418",
+        "On-Off": "0.289",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "3.300",
+        "Off": "4.367",
+        "On-Off": "-1.067",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "8.472",
+        "Off": "7.987",
+        "On-Off": "0.486",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "6.734",
+        "Off": "6.139",
+        "On-Off": "0.595",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "11.544",
+        "Off": "10.598",
+        "On-Off": "0.946",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "8.680",
+        "On-Off": "-8.680",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Alysha Clark",
+        "On": "24.480",
+        "Off": "24.331",
+        "On-Off": "0.149",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "24.591",
+        "Off": "24.898",
+        "On-Off": "-0.307",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "24.847",
+        "Off": "25.593",
+        "On-Off": "-0.747",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "24.800",
+        "Off": "25.200",
+        "On-Off": "-0.400",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "26.500",
+        "Off": "24.857",
+        "On-Off": "1.643",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "24.740",
+        "Off": "25.322",
+        "On-Off": "-0.582",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "25.183",
+        "Off": "26.367",
+        "On-Off": "-1.184",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "24.033",
+        "Off": "24.800",
+        "On-Off": "-0.767",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "25.250",
+        "Off": "24.000",
+        "On-Off": "1.250",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "25.359",
+        "Off": "25.061",
+        "On-Off": "0.298",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "25.540",
+        "Off": "25.000",
+        "On-Off": "0.540",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "24.800",
+        "Off": "25.005",
+        "On-Off": "-0.205",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "24.100",
+        "On-Off": "-24.100",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.168",
+        "Off": "0.130",
+        "On-Off": "0.038",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.101",
+        "Off": "0.095",
+        "On-Off": "0.006",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.068",
+        "Off": "0.063",
+        "On-Off": "0.005",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.286",
+        "Off": "0.169",
+        "On-Off": "0.116",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.232",
+        "Off": "0.237",
+        "On-Off": "-0.005",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.238",
+        "Off": "0.179",
+        "On-Off": "0.059",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.078",
+        "Off": "0.058",
+        "On-Off": "0.020",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.192",
+        "Off": "0.156",
+        "On-Off": "0.036",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.083",
+        "Off": "0.062",
+        "On-Off": "0.021",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.120",
+        "Off": "0.105",
+        "On-Off": "0.015",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.252",
+        "Off": "0.229",
+        "On-Off": "0.023",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.090",
+        "Off": "0.079",
+        "On-Off": "0.011",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.028",
+        "Off": "0.020",
+        "On-Off": "0.008",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "0.012",
+        "Off": "0.019",
+        "On-Off": "-0.008",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "0.011",
+        "Off": "0.006",
+        "On-Off": "0.005",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "0.083",
+        "Off": "0.033",
+        "On-Off": "0.050",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "0.032",
+        "Off": "0.074",
+        "On-Off": "-0.042",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "0.080",
+        "Off": "0.078",
+        "On-Off": "0.002",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "0.014",
+        "Off": "0.021",
+        "On-Off": "-0.007",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "0.108",
+        "Off": "0.077",
+        "On-Off": "0.031",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "0.020",
+        "Off": "0.025",
+        "On-Off": "-0.005",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "0.118",
+        "Off": "0.100",
+        "On-Off": "0.018",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "0.023",
+        "Off": "0.023",
+        "On-Off": "0.001",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "6.303",
+        "Off": "12.958",
+        "On-Off": "-6.656",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "29.529",
+        "Off": "23.005",
+        "On-Off": "6.524",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "16.176",
+        "Off": "13.920",
+        "On-Off": "2.256",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "21.875",
+        "Off": "14.035",
+        "On-Off": "7.840",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "24.500",
+        "Off": "29.169",
+        "On-Off": "-4.669",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "18.182",
+        "Off": "13.636",
+        "On-Off": "4.545",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "12.420",
+        "Off": "13.574",
+        "On-Off": "-1.154",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "23.784",
+        "Off": "21.372",
+        "On-Off": "2.412",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "32.500",
+        "On-Off": "-32.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "25.176",
+        "Off": "23.387",
+        "On-Off": "1.788",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "31.469",
+        "Off": "22.079",
+        "On-Off": "9.391",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "16.620",
+        "Off": "16.511",
+        "On-Off": "0.109",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "16.092",
+        "On-Off": "-16.092",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "8.824",
+        "Off": "7.824",
+        "On-Off": "1.000",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "14.312",
+        "Off": "16.269",
+        "On-Off": "-1.958",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "13.904",
+        "Off": "18.892",
+        "On-Off": "-4.988",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "6.250",
+        "Off": "8.772",
+        "On-Off": "-2.522",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "3.000",
+        "Off": "10.668",
+        "On-Off": "-7.668",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "11.364",
+        "Off": "13.158",
+        "On-Off": "-1.794",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "17.157",
+        "Off": "12.457",
+        "On-Off": "4.700",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "3.784",
+        "Off": "3.430",
+        "On-Off": "0.354",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "5.000",
+        "On-Off": "-5.000",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "7.523",
+        "Off": "9.447",
+        "On-Off": "-1.924",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "7.022",
+        "Off": "6.843",
+        "On-Off": "0.179",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "9.296",
+        "Off": "11.526",
+        "On-Off": "-2.231",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "5.747",
+        "On-Off": "-5.747",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "3.178",
+        "On-Off": "-3.178",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "12.681",
+        "Off": "9.119",
+        "On-Off": "3.562",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "4.011",
+        "Off": "1.278",
+        "On-Off": "2.732",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "6.250",
+        "Off": "6.140",
+        "On-Off": "0.110",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "7.500",
+        "Off": "8.845",
+        "On-Off": "-1.345",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "5.114",
+        "Off": "3.230",
+        "On-Off": "1.884",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "3.713",
+        "Off": "3.780",
+        "On-Off": "-0.067",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "10.811",
+        "Off": "9.499",
+        "On-Off": "1.312",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "12.500",
+        "On-Off": "-12.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "6.520",
+        "Off": "4.839",
+        "On-Off": "1.681",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "8.583",
+        "Off": "7.101",
+        "On-Off": "1.481",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "1.408",
+        "Off": "1.869",
+        "On-Off": "-0.461",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "4.598",
+        "On-Off": "-4.598",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.261",
+        "Off": "0.489",
+        "On-Off": "0.772",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "4.710",
+        "Off": "4.352",
+        "On-Off": "0.358",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "4.011",
+        "Off": "3.764",
+        "On-Off": "0.246",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "3.125",
+        "Off": "4.386",
+        "On-Off": "-1.261",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "4.500",
+        "Off": "5.604",
+        "On-Off": "-1.104",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "3.409",
+        "Off": "3.828",
+        "On-Off": "-0.419",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "4.225",
+        "Off": "3.351",
+        "On-Off": "0.875",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "4.865",
+        "Off": "3.694",
+        "On-Off": "1.171",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "2.500",
+        "On-Off": "-2.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "3.310",
+        "Off": "3.341",
+        "On-Off": "-0.031",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "3.641",
+        "Off": "4.325",
+        "On-Off": "-0.684",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "3.099",
+        "Off": "1.558",
+        "On-Off": "1.541",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "1.149",
+        "On-Off": "-1.149",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "3.782",
+        "Off": "3.423",
+        "On-Off": "0.359",
+        "MinutesOn": 94,
+        "MinutesOff": 219
+      },
+      {
+        "Name": "Brittney Sykes",
+        "On": "6.341",
+        "Off": "7.565",
+        "On-Off": "-1.224",
+        "MinutesOn": 281,
+        "MinutesOff": 493
+      },
+      {
+        "Name": "Sug Sutton",
+        "On": "6.016",
+        "Off": "8.594",
+        "On-Off": "-2.578",
+        "MinutesOn": 365,
+        "MinutesOff": 733
+      },
+      {
+        "Name": "Sika Koné",
+        "On": "3.125",
+        "Off": "3.509",
+        "On-Off": "-0.384",
+        "MinutesOn": 16,
+        "MinutesOff": 58
+      },
+      {
+        "Name": "Shakira Austin",
+        "On": "1.500",
+        "Off": "4.389",
+        "On-Off": "-2.889",
+        "MinutesOn": 94,
+        "MinutesOff": 770
+      },
+      {
+        "Name": "Emily Engstler",
+        "On": "5.114",
+        "Off": "5.861",
+        "On-Off": "-0.748",
+        "MinutesOn": 87,
+        "MinutesOff": 430
+      },
+      {
+        "Name": "Jade Melbourne",
+        "On": "7.682",
+        "Off": "5.498",
+        "On-Off": "2.184",
+        "MinutesOn": 392,
+        "MinutesOff": 599
+      },
+      {
+        "Name": "Aaliyah Edwards",
+        "On": "1.622",
+        "Off": "1.583",
+        "On-Off": "0.039",
+        "MinutesOn": 96,
+        "MinutesOff": 193
+      },
+      {
+        "Name": "Jacy Sheldon",
+        "On": "0.000",
+        "Off": "2.500",
+        "On-Off": "-2.500",
+        "MinutesOn": 13,
+        "MinutesOff": 19
+      },
+      {
+        "Name": "Georgia Amoore",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 0
+      },
+      {
+        "Name": "Sonia Citron",
+        "On": "3.410",
+        "Off": "4.032",
+        "On-Off": "-0.622",
+        "MinutesOn": 499,
+        "MinutesOff": 888
+      },
+      {
+        "Name": "Kiki Iriafen",
+        "On": "2.991",
+        "Off": "2.970",
+        "On-Off": "0.021",
+        "MinutesOn": 375,
+        "MinutesOff": 795
+      },
+      {
+        "Name": "Lucy Olsen",
+        "On": "4.225",
+        "Off": "5.296",
+        "On-Off": "-1.071",
+        "MinutesOn": 168,
+        "MinutesOff": 329
+      },
+      {
+        "Name": "Madison Scott",
+        "On": "0.000",
+        "Off": "2.299",
+        "On-Off": "-2.299",
+        "MinutesOn": 1,
+        "MinutesOff": 46
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Stefanie Dolson",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Stefanie Dolson",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Stefanie Dolson"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Stefanie Dolson"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

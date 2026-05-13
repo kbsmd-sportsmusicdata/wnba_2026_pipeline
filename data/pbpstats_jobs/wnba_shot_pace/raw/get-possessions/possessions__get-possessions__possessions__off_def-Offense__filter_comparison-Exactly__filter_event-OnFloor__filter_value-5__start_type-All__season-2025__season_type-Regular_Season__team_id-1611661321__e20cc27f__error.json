@@ -1,0 +1,4 @@
+{
+  "error_type": "RuntimeError",
+  "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-possessions/wnba with params {'OffDef': 'Offense', 'FilterComparison': 'Exactly', 'FilterEvent': 'OnFloor', 'FilterValue': 5, 'StartType': 'All', 'Season': '2025', 'SeasonType': 'Regular Season', 'TeamId': '1611661321'}: HTTPSConnectionPool(host='api.pbpstats.com', port=443): Max retries exceeded with url: /get-possessions/wnba?OffDef=Offense&FilterComparison=Exactly&FilterEvent=OnFloor&FilterValue=5&StartType=All&Season=2025&SeasonType=Regular+Season&TeamId=1611661321 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='api.pbpstats.com', port=443): Read timed out. (read timeout=30)\"))"
+}

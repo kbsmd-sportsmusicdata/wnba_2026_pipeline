@@ -1,0 +1,376 @@
+[
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "season_team_catalog",
+    "endpoint": "get-games",
+    "request_url": "https://api.pbpstats.com/get-games/wnba?SeasonType=Regular+Season&Season=2024",
+    "request_status": 200,
+    "request_id": "get-games__season_team_catalog__season_type-Regular_Season__season-2024__50322006",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-games/season_team_catalog__get-games__season_team_catalog__season_type-Regular_Season__season-2024__50322006.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-games/season_team_catalog__get-games__season_type-Regular_Season__season-2024__50322006__results.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-games/season_team_catalog__get-games__season_type-Regular_Season__season-2024__50322006__results.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-games/season_team_catalog__get-games__season_type-Regular_Season__season-2024__50322006__results.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-games/season_team_catalog__get-games__season_type-Regular_Season__season-2024__50322006__results.parquet"
+    ],
+    "table_counts": {
+      "results": 239
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661324",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661324__2978b0a7__players.parquet"
+    ],
+    "table_counts": {
+      "players": 14
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661324"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661313",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661313__84ef4c66__players.parquet"
+    ],
+    "table_counts": {
+      "players": 12
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661313"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661329",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661329__755d8209__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661329"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661323",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661323__0466310d__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661323"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661319",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661319__ddb32d0d__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661319"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661325",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661325__dd3c53f8__players.parquet"
+    ],
+    "table_counts": {
+      "players": 13
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661325"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661328",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661328__b409d1c3__players.parquet"
+    ],
+    "table_counts": {
+      "players": 13
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661328"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661322",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661322__fdabdfb0__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661322"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661317",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661317__7e482f28__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661317"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661321",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661321__faee1475__players.parquet"
+    ],
+    "table_counts": {
+      "players": 14
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661321"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season",
+    "request_status": 503,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661330__d69d714f",
+    "ok": false,
+    "error": {
+      "error_type": "RuntimeError",
+      "error_message": "Failed to fetch pbpstats payload from https://api.pbpstats.com/get-team-players-for-season with params {'SeasonType': 'Regular Season', 'Season': '2024', 'TeamId': '1611661330'}: 503 Server Error: Service Temporarily Unavailable for url: https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661330",
+      "status": 503,
+      "response_text": "<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n"
+    },
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661330__d69d714f__error.json",
+    "table_paths": [],
+    "derived_paths": [],
+    "table_counts": {},
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661330"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  },
+  {
+    "job_id": "wnba_league_discovery",
+    "family": "league_discovery",
+    "variant": "team_player_catalog",
+    "endpoint": "get-team-players-for-season",
+    "request_url": "https://api.pbpstats.com/get-team-players-for-season?SeasonType=Regular+Season&Season=2024&TeamId=1611661320",
+    "request_status": 200,
+    "request_id": "get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee",
+    "ok": true,
+    "raw_path": "data/pbpstats_jobs/wnba_league_discovery/raw/get-team-players-for-season/team_player_catalog__get-team-players-for-season__team_player_catalog__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee.json",
+    "table_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/normalized/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee__players.parquet"
+    ],
+    "derived_paths": [
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee__players.csv",
+      "data/pbpstats_jobs/wnba_league_discovery/derived/get-team-players-for-season/team_player_catalog__get-team-players-for-season__season_type-Regular_Season__season-2024__team_id-1611661320__32ebfdee__players.parquet"
+    ],
+    "table_counts": {
+      "players": 15
+    },
+    "request_params": {
+      "SeasonType": "Regular Season",
+      "Season": "2024",
+      "TeamId": "1611661320"
+    },
+    "season": "2024",
+    "season_type": "Regular Season"
+  }
+]

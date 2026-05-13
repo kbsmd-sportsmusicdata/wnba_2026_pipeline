@@ -1,0 +1,7408 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.382",
+        "Off": "0.182",
+        "On-Off": "0.201",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.715",
+        "Off": "0.717",
+        "On-Off": "-0.002",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.667",
+        "Off": "0.806",
+        "On-Off": "-0.140",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.719",
+        "Off": "0.690",
+        "On-Off": "0.029",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.758",
+        "Off": "0.733",
+        "On-Off": "0.025",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.333",
+        "Off": "0.378",
+        "On-Off": "-0.044",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.571",
+        "Off": "0.438",
+        "On-Off": "0.134",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.721",
+        "Off": "0.698",
+        "On-Off": "0.023",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.600",
+        "Off": "1.000",
+        "On-Off": "-0.400",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.833",
+        "Off": "1.000",
+        "On-Off": "-0.167",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.250",
+        "Off": "0.361",
+        "On-Off": "-0.111",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.433",
+        "Off": "0.182",
+        "On-Off": "0.252",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.793",
+        "Off": "0.776",
+        "On-Off": "0.017",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.778",
+        "Off": "0.926",
+        "On-Off": "-0.148",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.958",
+        "Off": "0.952",
+        "On-Off": "0.006",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.940",
+        "Off": "0.846",
+        "On-Off": "0.094",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.333",
+        "Off": "0.381",
+        "On-Off": "-0.048",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.606",
+        "Off": "0.500",
+        "On-Off": "0.106",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.838",
+        "Off": "0.822",
+        "On-Off": "0.016",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.800",
+        "On-Off": "-0.800",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.600",
+        "Off": "1.000",
+        "On-Off": "-0.400",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.833",
+        "Off": "1.000",
+        "On-Off": "-0.167",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.273",
+        "Off": "0.361",
+        "On-Off": "-0.088",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.750",
+        "Off": "1.000",
+        "On-Off": "-0.250",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.672",
+        "Off": "0.600",
+        "On-Off": "0.072",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.900",
+        "Off": "0.750",
+        "On-Off": "0.150",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.500",
+        "Off": "0.778",
+        "On-Off": "-0.278",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.214",
+        "Off": "0.154",
+        "On-Off": "0.060",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.374",
+        "Off": "0.310",
+        "On-Off": "0.064",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.476",
+        "Off": "0.381",
+        "On-Off": "0.095",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.385",
+        "Off": "0.208",
+        "On-Off": "0.176",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.200",
+        "Off": "0.143",
+        "On-Off": "0.057",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.286",
+        "Off": "0.125",
+        "On-Off": "0.161",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.111",
+        "Off": "0.273",
+        "On-Off": "-0.162",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.522",
+        "Off": "0.500",
+        "On-Off": "0.022",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.214",
+        "Off": "0.154",
+        "On-Off": "0.060",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.376",
+        "Off": "0.310",
+        "On-Off": "0.066",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.476",
+        "Off": "0.381",
+        "On-Off": "0.095",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.385",
+        "Off": "0.208",
+        "On-Off": "0.176",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.200",
+        "Off": "0.143",
+        "On-Off": "0.057",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.286",
+        "Off": "0.125",
+        "On-Off": "0.161",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.111",
+        "Off": "0.273",
+        "On-Off": "-0.162",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.586",
+        "Off": "0.458",
+        "On-Off": "0.128",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.492",
+        "Off": "0.505",
+        "On-Off": "-0.013",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.356",
+        "Off": "0.559",
+        "On-Off": "-0.203",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.582",
+        "Off": "0.565",
+        "On-Off": "0.017",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.660",
+        "Off": "0.492",
+        "On-Off": "0.168",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.379",
+        "Off": "0.439",
+        "On-Off": "-0.060",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.402",
+        "Off": "0.421",
+        "On-Off": "-0.019",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.524",
+        "Off": "0.582",
+        "On-Off": "-0.058",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.471",
+        "On-Off": "-0.471",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.455",
+        "Off": "0.250",
+        "On-Off": "0.205",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.600",
+        "Off": "0.333",
+        "On-Off": "0.267",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.400",
+        "Off": "0.424",
+        "On-Off": "-0.024",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.634",
+        "Off": "0.531",
+        "On-Off": "0.103",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.467",
+        "Off": "0.475",
+        "On-Off": "-0.007",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.369",
+        "Off": "0.534",
+        "On-Off": "-0.166",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.575",
+        "Off": "0.567",
+        "On-Off": "0.008",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.646",
+        "Off": "0.484",
+        "On-Off": "0.162",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.470",
+        "Off": "0.450",
+        "On-Off": "0.020",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.533",
+        "Off": "0.475",
+        "On-Off": "0.059",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.532",
+        "Off": "0.526",
+        "On-Off": "0.005",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.150",
+        "Off": "0.396",
+        "On-Off": "-0.246",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.444",
+        "Off": "0.219",
+        "On-Off": "0.226",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.429",
+        "Off": "0.706",
+        "On-Off": "-0.277",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.312",
+        "Off": "0.417",
+        "On-Off": "-0.105",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.652",
+        "Off": "0.542",
+        "On-Off": "0.110",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.497",
+        "Off": "0.529",
+        "On-Off": "-0.032",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.421",
+        "Off": "0.576",
+        "On-Off": "-0.155",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.605",
+        "Off": "0.607",
+        "On-Off": "-0.001",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.665",
+        "Off": "0.529",
+        "On-Off": "0.137",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.531",
+        "Off": "0.500",
+        "On-Off": "0.031",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.579",
+        "Off": "0.545",
+        "On-Off": "0.034",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.563",
+        "Off": "0.552",
+        "On-Off": "0.012",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.227",
+        "Off": "0.396",
+        "On-Off": "-0.169",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.444",
+        "Off": "0.250",
+        "On-Off": "0.194",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.433",
+        "Off": "0.706",
+        "On-Off": "-0.273",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.330",
+        "Off": "0.447",
+        "On-Off": "-0.117",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.293",
+        "Off": "0.250",
+        "On-Off": "0.043",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.144",
+        "Off": "0.110",
+        "On-Off": "0.034",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.033",
+        "Off": "0.043",
+        "On-Off": "-0.010",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.012",
+        "Off": "0.013",
+        "On-Off": "-0.001",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.021",
+        "Off": "0.016",
+        "On-Off": "0.005",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.496",
+        "Off": "0.394",
+        "On-Off": "0.102",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.420",
+        "Off": "0.356",
+        "On-Off": "0.064",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.137",
+        "Off": "0.209",
+        "On-Off": "-0.072",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.500",
+        "Off": "0.292",
+        "On-Off": "0.208",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.389",
+        "Off": "0.500",
+        "On-Off": "-0.111",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.286",
+        "Off": "0.471",
+        "On-Off": "-0.185",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.375",
+        "Off": "0.437",
+        "On-Off": "-0.062",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.017",
+        "Off": "0.000",
+        "On-Off": "0.017",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.016",
+        "Off": "0.000",
+        "On-Off": "0.016",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.069",
+        "Off": "0.167",
+        "On-Off": "-0.098",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.036",
+        "Off": "0.057",
+        "On-Off": "-0.021",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.068",
+        "Off": "0.054",
+        "On-Off": "0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.121",
+        "Off": "0.117",
+        "On-Off": "0.004",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.117",
+        "Off": "0.148",
+        "On-Off": "-0.031",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.027",
+        "Off": "0.058",
+        "On-Off": "-0.031",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.069",
+        "Off": "0.079",
+        "On-Off": "-0.010",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.122",
+        "Off": "0.143",
+        "On-Off": "-0.021",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.400",
+        "Off": "0.118",
+        "On-Off": "0.282",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.133",
+        "Off": "0.082",
+        "On-Off": "0.051",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "20.482",
+        "Off": "18.056",
+        "On-Off": "2.426",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "28.810",
+        "Off": "26.248",
+        "On-Off": "2.562",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "15.113",
+        "Off": "19.407",
+        "On-Off": "-4.294",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "19.469",
+        "Off": "20.170",
+        "On-Off": "-0.701",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "19.559",
+        "Off": "17.917",
+        "On-Off": "1.643",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "23.436",
+        "Off": "30.321",
+        "On-Off": "-6.885",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "21.622",
+        "Off": "0.000",
+        "On-Off": "21.622",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "23.606",
+        "Off": "19.372",
+        "On-Off": "4.234",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "18.242",
+        "Off": "14.844",
+        "On-Off": "3.398",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "14.050",
+        "Off": "10.490",
+        "On-Off": "3.560",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "16.800",
+        "Off": "12.805",
+        "On-Off": "3.995",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "10.526",
+        "Off": "15.789",
+        "On-Off": "-5.263",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "17.136",
+        "Off": "14.070",
+        "On-Off": "3.066",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.769",
+        "Off": "1.000",
+        "On-Off": "-0.231",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.449",
+        "Off": "0.481",
+        "On-Off": "-0.033",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.500",
+        "Off": "0.556",
+        "On-Off": "-0.056",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.404",
+        "Off": "0.226",
+        "On-Off": "0.178",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.400",
+        "Off": "0.375",
+        "On-Off": "0.025",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.500",
+        "Off": "0.447",
+        "On-Off": "0.053",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.655",
+        "Off": "0.625",
+        "On-Off": "0.030",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.714",
+        "Off": "0.750",
+        "On-Off": "-0.036",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.600",
+        "Off": "0.286",
+        "On-Off": "0.314",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.778",
+        "Off": "0.782",
+        "On-Off": "-0.004",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.345",
+        "Off": "0.438",
+        "On-Off": "-0.093",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.429",
+        "Off": "0.300",
+        "On-Off": "0.129",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.235",
+        "Off": "0.333",
+        "On-Off": "-0.098",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.067",
+        "Off": "0.167",
+        "On-Off": "-0.100",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.086",
+        "Off": "0.000",
+        "On-Off": "0.086",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.133",
+        "Off": "0.000",
+        "On-Off": "0.133",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.105",
+        "On-Off": "-0.105",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.333",
+        "Off": "0.250",
+        "On-Off": "0.083",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.143",
+        "Off": "0.079",
+        "On-Off": "0.064",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.158",
+        "Off": "0.118",
+        "On-Off": "0.040",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.067",
+        "Off": "0.091",
+        "On-Off": "-0.024",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.031",
+        "Off": "0.050",
+        "On-Off": "-0.019",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.043",
+        "Off": "0.000",
+        "On-Off": "0.043",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.068",
+        "Off": "0.000",
+        "On-Off": "0.068",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.177",
+        "Off": "0.134",
+        "On-Off": "0.042",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.234",
+        "Off": "0.221",
+        "On-Off": "0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.248",
+        "Off": "0.198",
+        "On-Off": "0.051",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.149",
+        "Off": "0.091",
+        "On-Off": "0.058",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.109",
+        "Off": "0.090",
+        "On-Off": "0.019",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.146",
+        "Off": "0.188",
+        "On-Off": "-0.041",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.060",
+        "Off": "0.107",
+        "On-Off": "-0.048",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.125",
+        "Off": "0.250",
+        "On-Off": "-0.125",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.054",
+        "Off": "0.030",
+        "On-Off": "0.024",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.093",
+        "Off": "0.079",
+        "On-Off": "0.014",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.073",
+        "Off": "0.058",
+        "On-Off": "0.016",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.045",
+        "Off": "0.035",
+        "On-Off": "0.010",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.066",
+        "Off": "0.065",
+        "On-Off": "0.002",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.053",
+        "Off": "0.060",
+        "On-Off": "-0.007",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.140",
+        "Off": "0.138",
+        "On-Off": "0.001",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.098",
+        "Off": "0.109",
+        "On-Off": "-0.011",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.021",
+        "Off": "0.024",
+        "On-Off": "-0.003",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.021",
+        "Off": "0.040",
+        "On-Off": "-0.018",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.089",
+        "Off": "0.073",
+        "On-Off": "0.016",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.125",
+        "Off": "0.107",
+        "On-Off": "0.018",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.091",
+        "Off": "0.021",
+        "On-Off": "0.070",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.045",
+        "Off": "0.152",
+        "On-Off": "-0.107",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.137",
+        "Off": "0.172",
+        "On-Off": "-0.035",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.184",
+        "Off": "0.098",
+        "On-Off": "0.086",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.169",
+        "Off": "0.229",
+        "On-Off": "-0.061",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.196",
+        "Off": "0.213",
+        "On-Off": "-0.017",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.130",
+        "Off": "0.110",
+        "On-Off": "0.021",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.197",
+        "Off": "0.119",
+        "On-Off": "0.078",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.095",
+        "Off": "0.036",
+        "On-Off": "0.060",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.067",
+        "Off": "0.091",
+        "On-Off": "-0.024",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.125",
+        "Off": "0.167",
+        "On-Off": "-0.042",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.103",
+        "Off": "0.222",
+        "On-Off": "-0.119",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.091",
+        "Off": "0.079",
+        "On-Off": "0.012",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.034",
+        "Off": "0.048",
+        "On-Off": "-0.014",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.045",
+        "Off": "0.029",
+        "On-Off": "0.016",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.079",
+        "Off": "0.125",
+        "On-Off": "-0.046",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.048",
+        "Off": "0.094",
+        "On-Off": "-0.046",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.048",
+        "Off": "0.083",
+        "On-Off": "-0.036",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.019",
+        "Off": "0.016",
+        "On-Off": "0.003",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.043",
+        "Off": "0.062",
+        "On-Off": "-0.019",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.042",
+        "Off": "0.054",
+        "On-Off": "-0.012",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.045",
+        "Off": "0.114",
+        "On-Off": "-0.069",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.120",
+        "On-Off": "-0.120",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.036",
+        "Off": "0.021",
+        "On-Off": "0.015",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.059",
+        "Off": "0.064",
+        "On-Off": "-0.005",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.160",
+        "Off": "0.150",
+        "On-Off": "0.010",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.216",
+        "Off": "0.174",
+        "On-Off": "0.042",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.219",
+        "Off": "0.211",
+        "On-Off": "0.008",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.167",
+        "Off": "0.141",
+        "On-Off": "0.027",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.117",
+        "Off": "0.098",
+        "On-Off": "0.019",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.200",
+        "Off": "0.250",
+        "On-Off": "-0.050",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.168",
+        "Off": "0.156",
+        "On-Off": "0.012",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.072",
+        "Off": "0.079",
+        "On-Off": "-0.007",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.109",
+        "Off": "0.183",
+        "On-Off": "-0.074",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.075",
+        "Off": "0.078",
+        "On-Off": "-0.003",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.097",
+        "Off": "0.125",
+        "On-Off": "-0.028",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.079",
+        "Off": "0.066",
+        "On-Off": "0.013",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.042",
+        "Off": "0.038",
+        "On-Off": "0.003",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.059",
+        "Off": "0.054",
+        "On-Off": "0.005",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.061",
+        "Off": "0.081",
+        "On-Off": "-0.020",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.110",
+        "Off": "0.124",
+        "On-Off": "-0.015",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.083",
+        "Off": "0.102",
+        "On-Off": "-0.018",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.020",
+        "Off": "0.021",
+        "On-Off": "-0.001",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.028",
+        "Off": "0.047",
+        "On-Off": "-0.018",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.075",
+        "Off": "0.067",
+        "On-Off": "0.008",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.087",
+        "Off": "0.109",
+        "On-Off": "-0.022",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.044",
+        "On-Off": "-0.044",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.061",
+        "Off": "0.029",
+        "On-Off": "0.032",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.013",
+        "Off": "0.010",
+        "On-Off": "0.003",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.024",
+        "Off": "0.000",
+        "On-Off": "0.024",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.064",
+        "Off": "0.039",
+        "On-Off": "0.025",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.059",
+        "Off": "0.060",
+        "On-Off": "-0.001",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.162",
+        "Off": "0.190",
+        "On-Off": "-0.028",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.098",
+        "Off": "0.159",
+        "On-Off": "-0.061",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.029",
+        "Off": "0.016",
+        "On-Off": "0.013",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.026",
+        "Off": "0.000",
+        "On-Off": "0.026",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.100",
+        "Off": "0.127",
+        "On-Off": "-0.027",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.400",
+        "Off": "0.174",
+        "On-Off": "0.226",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.111",
+        "Off": "0.000",
+        "On-Off": "0.111",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.008",
+        "On-Off": "-0.008",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.083",
+        "Off": "0.087",
+        "On-Off": "-0.004",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.070",
+        "Off": "0.052",
+        "On-Off": "0.018",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.027",
+        "Off": "0.074",
+        "On-Off": "-0.047",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.136",
+        "Off": "0.128",
+        "On-Off": "0.007",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.118",
+        "Off": "0.127",
+        "On-Off": "-0.010",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.018",
+        "Off": "0.035",
+        "On-Off": "-0.017",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.009",
+        "Off": "0.022",
+        "On-Off": "-0.013",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.069",
+        "Off": "0.057",
+        "On-Off": "0.012",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.067",
+        "Off": "0.091",
+        "On-Off": "-0.024",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.100",
+        "Off": "0.050",
+        "On-Off": "0.050",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.023",
+        "Off": "0.000",
+        "On-Off": "0.023",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.062",
+        "Off": "0.119",
+        "On-Off": "-0.057",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.091",
+        "Off": "0.035",
+        "On-Off": "0.056",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.115",
+        "Off": "0.092",
+        "On-Off": "0.023",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.064",
+        "Off": "0.026",
+        "On-Off": "0.038",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.015",
+        "Off": "0.010",
+        "On-Off": "0.005",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.040",
+        "Off": "0.143",
+        "On-Off": "-0.103",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.108",
+        "Off": "0.043",
+        "On-Off": "0.065",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.059",
+        "Off": "0.000",
+        "On-Off": "0.059",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.024",
+        "Off": "0.053",
+        "On-Off": "-0.029",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.050",
+        "Off": "0.038",
+        "On-Off": "0.012",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.081",
+        "Off": "0.137",
+        "On-Off": "-0.056",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.047",
+        "Off": "0.090",
+        "On-Off": "-0.044",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.056",
+        "Off": "0.077",
+        "On-Off": "-0.021",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.024",
+        "Off": "0.013",
+        "On-Off": "0.011",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.051",
+        "Off": "0.056",
+        "On-Off": "-0.005",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.051",
+        "Off": "0.065",
+        "On-Off": "-0.014",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.056",
+        "Off": "0.074",
+        "On-Off": "-0.019",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.022",
+        "Off": "0.019",
+        "On-Off": "0.003",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.059",
+        "Off": "0.000",
+        "On-Off": "0.059",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.026",
+        "Off": "0.000",
+        "On-Off": "0.026",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.071",
+        "Off": "0.059",
+        "On-Off": "0.013",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.053",
+        "Off": "0.111",
+        "On-Off": "-0.058",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.100",
+        "Off": "0.029",
+        "On-Off": "0.071",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.061",
+        "Off": "0.000",
+        "On-Off": "0.061",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.143",
+        "Off": "0.105",
+        "On-Off": "0.038",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.175",
+        "Off": "0.190",
+        "On-Off": "-0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.284",
+        "Off": "0.176",
+        "On-Off": "0.108",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.177",
+        "Off": "0.081",
+        "On-Off": "0.096",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.097",
+        "Off": "0.028",
+        "On-Off": "0.069",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.135",
+        "Off": "0.250",
+        "On-Off": "-0.115",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.019",
+        "Off": "0.116",
+        "On-Off": "-0.097",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.438",
+        "On-Off": "-0.438",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.083",
+        "Off": "0.000",
+        "On-Off": "0.083",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.111",
+        "Off": "0.000",
+        "On-Off": "0.111",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.068",
+        "Off": "0.051",
+        "On-Off": "0.018",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.061",
+        "Off": "0.000",
+        "On-Off": "0.061",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.187",
+        "Off": "0.125",
+        "On-Off": "0.062",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.295",
+        "Off": "0.205",
+        "On-Off": "0.090",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.217",
+        "Off": "0.261",
+        "On-Off": "-0.045",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.158",
+        "Off": "0.087",
+        "On-Off": "0.071",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.128",
+        "Off": "0.116",
+        "On-Off": "0.012",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.400",
+        "Off": "0.000",
+        "On-Off": "0.400",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.145",
+        "Off": "0.220",
+        "On-Off": "-0.075",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.062",
+        "Off": "0.093",
+        "On-Off": "-0.031",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.222",
+        "Off": "0.208",
+        "On-Off": "0.014",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.050",
+        "Off": "0.083",
+        "On-Off": "-0.033",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.045",
+        "Off": "0.042",
+        "On-Off": "0.004",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.064",
+        "Off": "0.052",
+        "On-Off": "0.012",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.095",
+        "Off": "0.000",
+        "On-Off": "0.095",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.210",
+        "Off": "0.188",
+        "On-Off": "0.022",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.222",
+        "Off": "0.266",
+        "On-Off": "-0.043",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.250",
+        "Off": "0.116",
+        "On-Off": "0.134",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.067",
+        "Off": "0.111",
+        "On-Off": "-0.044",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.090",
+        "Off": "0.120",
+        "On-Off": "-0.030",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.160",
+        "Off": "0.053",
+        "On-Off": "0.107",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.118",
+        "Off": "0.119",
+        "On-Off": "-0.001",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.100",
+        "Off": "0.150",
+        "On-Off": "-0.050",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.167",
+        "Off": "0.250",
+        "On-Off": "-0.083",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.111",
+        "Off": "0.075",
+        "On-Off": "0.036",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.043",
+        "Off": "0.148",
+        "On-Off": "-0.106",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.141",
+        "Off": "0.147",
+        "On-Off": "-0.006",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.164",
+        "Off": "0.082",
+        "On-Off": "0.082",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.156",
+        "Off": "0.207",
+        "On-Off": "-0.051",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.197",
+        "Off": "0.208",
+        "On-Off": "-0.010",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.153",
+        "Off": "0.110",
+        "On-Off": "0.043",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.236",
+        "Off": "0.143",
+        "On-Off": "0.093",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.104",
+        "Off": "0.046",
+        "On-Off": "0.059",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.091",
+        "Off": "0.079",
+        "On-Off": "0.012",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.091",
+        "Off": "0.188",
+        "On-Off": "-0.097",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.091",
+        "Off": "0.231",
+        "On-Off": "-0.140",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.075",
+        "Off": "0.076",
+        "On-Off": "-0.001",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.050",
+        "Off": "0.167",
+        "On-Off": "-0.117",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.127",
+        "Off": "0.240",
+        "On-Off": "-0.113",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.250",
+        "Off": "0.160",
+        "On-Off": "0.090",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.226",
+        "Off": "0.314",
+        "On-Off": "-0.088",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.194",
+        "Off": "0.227",
+        "On-Off": "-0.034",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.050",
+        "Off": "0.109",
+        "On-Off": "-0.059",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.065",
+        "Off": "0.056",
+        "On-Off": "0.009",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.059",
+        "Off": "0.000",
+        "On-Off": "0.059",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.143",
+        "Off": "0.200",
+        "On-Off": "-0.057",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.133",
+        "Off": "0.091",
+        "On-Off": "0.042",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.750",
+        "Off": "0.000",
+        "On-Off": "0.750",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.471",
+        "Off": "0.750",
+        "On-Off": "-0.279",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.667",
+        "Off": "0.571",
+        "On-Off": "0.095",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.286",
+        "Off": "0.500",
+        "On-Off": "-0.214",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.750",
+        "Off": "0.300",
+        "On-Off": "0.450",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.750",
+        "Off": "0.333",
+        "On-Off": "0.417",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.714",
+        "Off": "0.000",
+        "On-Off": "0.714",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.625",
+        "On-Off": "-0.625",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "15.053",
+        "Off": "13.628",
+        "On-Off": "1.425",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "14.796",
+        "Off": "14.168",
+        "On-Off": "0.628",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "15.247",
+        "Off": "15.437",
+        "On-Off": "-0.190",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "15.418",
+        "Off": "15.396",
+        "On-Off": "0.022",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "14.290",
+        "Off": "14.907",
+        "On-Off": "-0.617",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "14.929",
+        "Off": "15.170",
+        "On-Off": "-0.242",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "15.500",
+        "Off": "12.667",
+        "On-Off": "2.833",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "14.466",
+        "Off": "14.210",
+        "On-Off": "0.255",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "15.178",
+        "Off": "15.430",
+        "On-Off": "-0.252",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "15.019",
+        "Off": "16.215",
+        "On-Off": "-1.197",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "14.728",
+        "Off": "14.437",
+        "On-Off": "0.291",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "14.378",
+        "Off": "14.879",
+        "On-Off": "-0.501",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "15.478",
+        "Off": "15.218",
+        "On-Off": "0.261",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "14.828",
+        "Off": "14.439",
+        "On-Off": "0.389",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "14.941",
+        "Off": "14.649",
+        "On-Off": "0.293",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "14.787",
+        "Off": "14.671",
+        "On-Off": "0.116",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "14.660",
+        "Off": "14.913",
+        "On-Off": "-0.253",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "15.323",
+        "Off": "14.379",
+        "On-Off": "0.944",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "14.873",
+        "Off": "14.749",
+        "On-Off": "0.124",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "14.250",
+        "Off": "12.167",
+        "On-Off": "2.083",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "14.783",
+        "Off": "15.294",
+        "On-Off": "-0.511",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "14.766",
+        "Off": "14.706",
+        "On-Off": "0.060",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "14.963",
+        "Off": "14.346",
+        "On-Off": "0.617",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "15.579",
+        "Off": "14.333",
+        "On-Off": "1.246",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "15.724",
+        "Off": "13.933",
+        "On-Off": "1.791",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "14.912",
+        "Off": "14.723",
+        "On-Off": "0.189",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.317",
+        "Off": "0.156",
+        "On-Off": "0.161",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.284",
+        "Off": "0.415",
+        "On-Off": "-0.131",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.459",
+        "Off": "0.440",
+        "On-Off": "0.019",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.713",
+        "Off": "0.660",
+        "On-Off": "0.052",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.583",
+        "Off": "0.661",
+        "On-Off": "-0.078",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.100",
+        "Off": "0.139",
+        "On-Off": "-0.039",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.187",
+        "Off": "0.305",
+        "On-Off": "-0.118",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.442",
+        "Off": "0.391",
+        "On-Off": "0.051",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.200",
+        "Off": "0.458",
+        "On-Off": "-0.258",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.111",
+        "Off": "0.000",
+        "On-Off": "0.111",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.214",
+        "Off": "0.059",
+        "On-Off": "0.155",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.250",
+        "Off": "0.199",
+        "On-Off": "0.051",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.654",
+        "Off": "0.600",
+        "On-Off": "0.054",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.627",
+        "Off": "0.714",
+        "On-Off": "-0.088",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.464",
+        "Off": "0.588",
+        "On-Off": "-0.124",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.655",
+        "Off": "0.699",
+        "On-Off": "-0.044",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.750",
+        "Off": "0.610",
+        "On-Off": "0.140",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.444",
+        "Off": "0.647",
+        "On-Off": "-0.203",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.571",
+        "Off": "0.667",
+        "On-Off": "-0.095",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.571",
+        "Off": "0.733",
+        "On-Off": "-0.162",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.727",
+        "On-Off": "-0.727",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.750",
+        "Off": "0.633",
+        "On-Off": "0.117",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.235",
+        "Off": "0.333",
+        "On-Off": "-0.098",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.712",
+        "Off": "0.743",
+        "On-Off": "-0.031",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.615",
+        "Off": "0.767",
+        "On-Off": "-0.151",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.679",
+        "Off": "0.681",
+        "On-Off": "-0.001",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.714",
+        "Off": "0.720",
+        "On-Off": "-0.006",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.562",
+        "Off": "0.500",
+        "On-Off": "0.062",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.667",
+        "Off": "0.727",
+        "On-Off": "-0.061",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.222",
+        "Off": "0.368",
+        "On-Off": "-0.146",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.280",
+        "Off": "0.500",
+        "On-Off": "-0.220",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.421",
+        "Off": "0.390",
+        "On-Off": "0.031",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.377",
+        "Off": "0.362",
+        "On-Off": "0.015",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.192",
+        "Off": "0.256",
+        "On-Off": "-0.065",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.229",
+        "Off": "0.161",
+        "On-Off": "0.068",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.191",
+        "Off": "0.228",
+        "On-Off": "-0.037",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.233",
+        "Off": "0.220",
+        "On-Off": "0.013",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.347",
+        "Off": "0.348",
+        "On-Off": "-0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.200",
+        "Off": "0.083",
+        "On-Off": "0.117",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.111",
+        "Off": "0.188",
+        "On-Off": "-0.076",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.214",
+        "Off": "0.118",
+        "On-Off": "0.097",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.208",
+        "Off": "0.265",
+        "On-Off": "-0.057",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.609",
+        "Off": "0.438",
+        "On-Off": "0.171",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.439",
+        "Off": "0.391",
+        "On-Off": "0.048",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.217",
+        "Off": "0.595",
+        "On-Off": "-0.378",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.469",
+        "Off": "0.300",
+        "On-Off": "0.169",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.545",
+        "Off": "0.100",
+        "On-Off": "0.445",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.319",
+        "Off": "0.274",
+        "On-Off": "0.045",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.314",
+        "Off": "0.231",
+        "On-Off": "0.084",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.485",
+        "Off": "0.425",
+        "On-Off": "0.060",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.100",
+        "Off": "0.300",
+        "On-Off": "-0.200",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.429",
+        "Off": "0.143",
+        "On-Off": "0.286",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.600",
+        "Off": "0.800",
+        "On-Off": "-0.200",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.867",
+        "Off": "0.667",
+        "On-Off": "0.200",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.833",
+        "Off": "1.000",
+        "On-Off": "-0.167",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.318",
+        "Off": "0.217",
+        "On-Off": "0.101",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.545",
+        "Off": "0.333",
+        "On-Off": "0.212",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.812",
+        "Off": "0.647",
+        "On-Off": "0.165",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.110",
+        "Off": "0.094",
+        "On-Off": "0.016",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.151",
+        "Off": "0.085",
+        "On-Off": "0.066",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.131",
+        "Off": "0.155",
+        "On-Off": "-0.024",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.084",
+        "Off": "0.071",
+        "On-Off": "0.013",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.167",
+        "Off": "0.161",
+        "On-Off": "0.005",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.213",
+        "Off": "0.239",
+        "On-Off": "-0.026",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.160",
+        "Off": "0.119",
+        "On-Off": "0.041",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.074",
+        "Off": "0.052",
+        "On-Off": "0.022",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.100",
+        "Off": "0.167",
+        "On-Off": "-0.067",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.389",
+        "Off": "0.312",
+        "On-Off": "0.076",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.286",
+        "Off": "0.353",
+        "On-Off": "-0.067",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.167",
+        "Off": "0.099",
+        "On-Off": "0.067",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.386",
+        "Off": "0.000",
+        "On-Off": "0.386",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.375",
+        "Off": "0.389",
+        "On-Off": "-0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.214",
+        "Off": "0.273",
+        "On-Off": "-0.058",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.403",
+        "Off": "0.477",
+        "On-Off": "-0.075",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.333",
+        "Off": "0.143",
+        "On-Off": "0.190",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.429",
+        "Off": "0.500",
+        "On-Off": "-0.071",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.429",
+        "Off": "0.400",
+        "On-Off": "0.029",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.750",
+        "Off": "0.333",
+        "On-Off": "0.417",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.882",
+        "Off": "0.000",
+        "On-Off": "0.882",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.875",
+        "Off": "0.750",
+        "On-Off": "0.125",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.387",
+        "Off": "0.500",
+        "On-Off": "-0.113",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.625",
+        "Off": "0.000",
+        "On-Off": "0.625",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.667",
+        "Off": "0.667",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.500",
+        "Off": "0.400",
+        "On-Off": "0.100",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.049",
+        "Off": "0.094",
+        "On-Off": "-0.045",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.021",
+        "Off": "0.025",
+        "On-Off": "-0.005",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.009",
+        "On-Off": "-0.009",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.010",
+        "Off": "0.000",
+        "On-Off": "0.010",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.053",
+        "Off": "0.035",
+        "On-Off": "0.017",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.047",
+        "Off": "0.034",
+        "On-Off": "0.013",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.053",
+        "Off": "0.061",
+        "On-Off": "-0.008",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.200",
+        "Off": "0.083",
+        "On-Off": "0.117",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.278",
+        "Off": "0.062",
+        "On-Off": "0.215",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.083",
+        "Off": "0.132",
+        "On-Off": "-0.049",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.250",
+        "Off": "0.667",
+        "On-Off": "-0.417",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.167",
+        "Off": "0.333",
+        "On-Off": "-0.167",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.211",
+        "Off": "0.308",
+        "On-Off": "-0.097",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.286",
+        "Off": "0.500",
+        "On-Off": "-0.214",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.600",
+        "Off": "0.429",
+        "On-Off": "0.171",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.400",
+        "Off": "0.000",
+        "On-Off": "0.400",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.250",
+        "Off": "0.250",
+        "On-Off": "0.000",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.244",
+        "Off": "0.156",
+        "On-Off": "0.088",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.123",
+        "Off": "0.085",
+        "On-Off": "0.039",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.033",
+        "Off": "0.034",
+        "On-Off": "-0.002",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.012",
+        "Off": "0.013",
+        "On-Off": "-0.001",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.010",
+        "Off": "0.016",
+        "On-Off": "-0.006",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.443",
+        "Off": "0.359",
+        "On-Off": "0.085",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.373",
+        "Off": "0.322",
+        "On-Off": "0.051",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.084",
+        "Off": "0.148",
+        "On-Off": "-0.064",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.300",
+        "Off": "0.208",
+        "On-Off": "0.092",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.111",
+        "Off": "0.438",
+        "On-Off": "-0.326",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.286",
+        "Off": "0.353",
+        "On-Off": "-0.067",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.292",
+        "Off": "0.305",
+        "On-Off": "-0.013",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.550",
+        "Off": "0.400",
+        "On-Off": "0.150",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.222",
+        "Off": "0.100",
+        "On-Off": "0.122",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.394",
+        "Off": "0.311",
+        "On-Off": "0.083",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.500",
+        "Off": "0.368",
+        "On-Off": "0.132",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.250",
+        "Off": "0.118",
+        "On-Off": "0.132",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.833",
+        "On-Off": "-0.833",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.071",
+        "Off": "0.283",
+        "On-Off": "-0.211",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.727",
+        "Off": "1.000",
+        "On-Off": "-0.273",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.651",
+        "Off": "0.561",
+        "On-Off": "0.090",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.893",
+        "Off": "0.714",
+        "On-Off": "0.179",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.692",
+        "On-Off": "-0.692",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.610",
+        "Off": "0.406",
+        "On-Off": "0.204",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.428",
+        "Off": "0.525",
+        "On-Off": "-0.097",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.492",
+        "Off": "0.483",
+        "On-Off": "0.009",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.725",
+        "Off": "0.673",
+        "On-Off": "0.051",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.604",
+        "Off": "0.677",
+        "On-Off": "-0.073",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.596",
+        "Off": "0.533",
+        "On-Off": "0.063",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.607",
+        "Off": "0.661",
+        "On-Off": "-0.054",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.579",
+        "Off": "0.600",
+        "On-Off": "-0.021",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.700",
+        "Off": "0.750",
+        "On-Off": "-0.050",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.500",
+        "Off": "0.529",
+        "On-Off": "-0.029",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.625",
+        "Off": "0.636",
+        "On-Off": "-0.011",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.579",
+        "Off": "0.400",
+        "On-Off": "0.179",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.222",
+        "Off": "0.100",
+        "On-Off": "0.122",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.396",
+        "Off": "0.311",
+        "On-Off": "0.086",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.500",
+        "Off": "0.368",
+        "On-Off": "0.132",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.250",
+        "Off": "0.118",
+        "On-Off": "0.132",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.833",
+        "On-Off": "-0.833",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.071",
+        "Off": "0.283",
+        "On-Off": "-0.211",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.498",
+        "Off": "0.451",
+        "On-Off": "0.046",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.474",
+        "Off": "0.499",
+        "On-Off": "-0.025",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.498",
+        "Off": "0.512",
+        "On-Off": "-0.014",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.551",
+        "Off": "0.543",
+        "On-Off": "0.008",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.526",
+        "Off": "0.530",
+        "On-Off": "-0.004",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.482",
+        "Off": "0.470",
+        "On-Off": "0.012",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.615",
+        "Off": "0.000",
+        "On-Off": "0.615",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.488",
+        "Off": "0.493",
+        "On-Off": "-0.005",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.511",
+        "Off": "0.530",
+        "On-Off": "-0.019",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.500",
+        "Off": "0.521",
+        "On-Off": "-0.021",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.464",
+        "Off": "0.400",
+        "On-Off": "0.064",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.510",
+        "Off": "0.471",
+        "On-Off": "0.039",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.494",
+        "Off": "0.503",
+        "On-Off": "-0.008",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.070",
+        "Off": "0.143",
+        "On-Off": "-0.073",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.106",
+        "Off": "0.142",
+        "On-Off": "-0.036",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.103",
+        "Off": "0.132",
+        "On-Off": "-0.029",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.165",
+        "Off": "0.146",
+        "On-Off": "0.019",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.189",
+        "Off": "0.149",
+        "On-Off": "0.040",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.102",
+        "Off": "0.083",
+        "On-Off": "0.019",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.144",
+        "Off": "0.182",
+        "On-Off": "-0.038",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.097",
+        "Off": "0.089",
+        "On-Off": "0.008",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.133",
+        "Off": "0.000",
+        "On-Off": "0.133",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.020",
+        "Off": "0.051",
+        "On-Off": "-0.031",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.097",
+        "Off": "0.185",
+        "On-Off": "-0.088",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.121",
+        "Off": "0.150",
+        "On-Off": "-0.029",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.106",
+        "Off": "0.137",
+        "On-Off": "-0.031",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.167",
+        "Off": "0.148",
+        "On-Off": "0.019",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.193",
+        "Off": "0.152",
+        "On-Off": "0.041",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.169",
+        "Off": "0.120",
+        "On-Off": "0.049",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.333",
+        "Off": "0.000",
+        "On-Off": "0.333",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.206",
+        "Off": "0.267",
+        "On-Off": "-0.061",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.111",
+        "Off": "0.111",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.182",
+        "Off": "0.000",
+        "On-Off": "0.182",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.032",
+        "Off": "0.088",
+        "On-Off": "-0.056",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.027",
+        "Off": "0.020",
+        "On-Off": "0.007",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.046",
+        "Off": "0.000",
+        "On-Off": "0.046",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.095",
+        "Off": "0.000",
+        "On-Off": "0.095",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.167",
+        "Off": "0.132",
+        "On-Off": "0.035",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.220",
+        "Off": "0.192",
+        "On-Off": "0.028",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.297",
+        "Off": "0.324",
+        "On-Off": "-0.028",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.235",
+        "Off": "0.270",
+        "On-Off": "-0.035",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.096",
+        "Off": "0.154",
+        "On-Off": "-0.058",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.173",
+        "Off": "0.125",
+        "On-Off": "0.048",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.224",
+        "Off": "0.266",
+        "On-Off": "-0.042",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.000",
+        "Off": "0.316",
+        "On-Off": "-0.316",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.188",
+        "Off": "0.222",
+        "On-Off": "-0.035",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.231",
+        "Off": "0.000",
+        "On-Off": "0.231",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.061",
+        "Off": "0.134",
+        "On-Off": "-0.073",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.207",
+        "Off": "0.538",
+        "On-Off": "-0.332",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.152",
+        "Off": "0.354",
+        "On-Off": "-0.203",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.373",
+        "Off": "0.252",
+        "On-Off": "0.121",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.174",
+        "Off": "0.243",
+        "On-Off": "-0.070",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.255",
+        "Off": "0.324",
+        "On-Off": "-0.069",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.240",
+        "Off": "0.303",
+        "On-Off": "-0.063",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.122",
+        "Off": "0.278",
+        "On-Off": "-0.156",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.302",
+        "Off": "0.216",
+        "On-Off": "0.086",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.600",
+        "Off": "0.105",
+        "On-Off": "0.495",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.438",
+        "Off": "0.000",
+        "On-Off": "0.438",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.462",
+        "Off": "0.125",
+        "On-Off": "0.337",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.121",
+        "Off": "0.239",
+        "On-Off": "-0.118",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.221",
+        "Off": "0.340",
+        "On-Off": "-0.120",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.181",
+        "Off": "0.295",
+        "On-Off": "-0.114",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.284",
+        "Off": "0.228",
+        "On-Off": "0.056",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.170",
+        "Off": "0.201",
+        "On-Off": "-0.030",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.282",
+        "Off": "0.326",
+        "On-Off": "-0.044",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.209",
+        "Off": "0.246",
+        "On-Off": "-0.037",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.206",
+        "Off": "0.000",
+        "On-Off": "0.206",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.145",
+        "Off": "0.279",
+        "On-Off": "-0.134",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.269",
+        "Off": "0.242",
+        "On-Off": "0.027",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.426",
+        "Off": "0.215",
+        "On-Off": "0.211",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.333",
+        "Off": "0.430",
+        "On-Off": "-0.096",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.359",
+        "Off": "0.348",
+        "On-Off": "0.010",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.246",
+        "Off": "0.246",
+        "On-Off": "0.001",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "6.781",
+        "Off": "8.137",
+        "On-Off": "-1.356",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "7.760",
+        "Off": "6.549",
+        "On-Off": "1.212",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "6.536",
+        "Off": "6.501",
+        "On-Off": "0.035",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "4.177",
+        "Off": "4.449",
+        "On-Off": "-0.272",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "6.053",
+        "Off": "5.508",
+        "On-Off": "0.545",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "11.901",
+        "Off": "11.049",
+        "On-Off": "0.851",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "2.850",
+        "Off": "0.000",
+        "On-Off": "2.850",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "8.859",
+        "Off": "7.853",
+        "On-Off": "1.006",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "6.004",
+        "Off": "5.880",
+        "On-Off": "0.123",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "7.440",
+        "Off": "6.247",
+        "On-Off": "1.193",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "13.082",
+        "Off": "15.363",
+        "On-Off": "-2.281",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "11.010",
+        "Off": "13.056",
+        "On-Off": "-2.046",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "8.457",
+        "Off": "7.606",
+        "On-Off": "0.851",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "27.004",
+        "Off": "24.912",
+        "On-Off": "2.092",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "24.360",
+        "Off": "24.269",
+        "On-Off": "0.090",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "25.050",
+        "Off": "43.940",
+        "On-Off": "-18.890",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "23.750",
+        "Off": "24.500",
+        "On-Off": "-0.750",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "24.650",
+        "Off": "24.500",
+        "On-Off": "0.150",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "25.093",
+        "Off": "24.994",
+        "On-Off": "0.098",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "26.000",
+        "Off": "0.000",
+        "On-Off": "26.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "25.049",
+        "Off": "25.110",
+        "On-Off": "-0.060",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "24.092",
+        "Off": "24.583",
+        "On-Off": "-0.491",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "24.200",
+        "Off": "24.229",
+        "On-Off": "-0.029",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "23.943",
+        "Off": "24.788",
+        "On-Off": "-0.845",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "24.800",
+        "Off": "24.575",
+        "On-Off": "0.225",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "24.689",
+        "Off": "24.306",
+        "On-Off": "0.383",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.056",
+        "Off": "0.059",
+        "On-Off": "-0.003",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.171",
+        "Off": "0.169",
+        "On-Off": "0.002",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.222",
+        "Off": "0.181",
+        "On-Off": "0.041",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.219",
+        "Off": "0.217",
+        "On-Off": "0.002",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.162",
+        "Off": "0.143",
+        "On-Off": "0.019",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.116",
+        "Off": "0.092",
+        "On-Off": "0.024",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.188",
+        "Off": "0.250",
+        "On-Off": "-0.062",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.167",
+        "Off": "0.148",
+        "On-Off": "0.018",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.071",
+        "Off": "0.080",
+        "On-Off": "-0.010",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.121",
+        "Off": "0.190",
+        "On-Off": "-0.069",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.070",
+        "Off": "0.073",
+        "On-Off": "-0.003",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.092",
+        "Off": "0.117",
+        "On-Off": "-0.025",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.082",
+        "Off": "0.067",
+        "On-Off": "0.015",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "0.038",
+        "Off": "0.036",
+        "On-Off": "0.003",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "0.066",
+        "Off": "0.058",
+        "On-Off": "0.007",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "0.061",
+        "Off": "0.082",
+        "On-Off": "-0.020",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "0.105",
+        "Off": "0.121",
+        "On-Off": "-0.016",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "0.077",
+        "Off": "0.097",
+        "On-Off": "-0.020",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "0.019",
+        "Off": "0.020",
+        "On-Off": "-0.001",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "0.029",
+        "Off": "0.045",
+        "On-Off": "-0.015",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "0.071",
+        "Off": "0.065",
+        "On-Off": "0.006",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.085",
+        "Off": "0.112",
+        "On-Off": "-0.027",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "0.042",
+        "On-Off": "-0.042",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "0.054",
+        "Off": "0.028",
+        "On-Off": "0.026",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.012",
+        "Off": "0.011",
+        "On-Off": "0.001",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "26.667",
+        "Off": "20.745",
+        "On-Off": "5.922",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "29.049",
+        "Off": "26.916",
+        "On-Off": "2.133",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "10.946",
+        "Off": "22.370",
+        "On-Off": "-11.424",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "22.327",
+        "Off": "24.749",
+        "On-Off": "-2.422",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "23.209",
+        "Off": "18.137",
+        "On-Off": "5.071",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "25.536",
+        "Off": "32.937",
+        "On-Off": "-7.402",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "2.941",
+        "Off": "0.000",
+        "On-Off": "2.941",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "27.707",
+        "Off": "21.622",
+        "On-Off": "6.086",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "22.011",
+        "Off": "18.386",
+        "On-Off": "3.625",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "4.630",
+        "Off": "8.017",
+        "On-Off": "-3.387",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "14.035",
+        "Off": "6.338",
+        "On-Off": "7.697",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "8.333",
+        "Off": "18.182",
+        "On-Off": "-9.848",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "9.565",
+        "Off": "11.033",
+        "On-Off": "-1.468",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "17.471",
+        "Off": "20.745",
+        "On-Off": "-3.273",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "12.236",
+        "Off": "7.290",
+        "On-Off": "4.946",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "6.679",
+        "Off": "9.185",
+        "On-Off": "-2.506",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "6.717",
+        "Off": "8.027",
+        "On-Off": "-1.310",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "7.632",
+        "Off": "9.314",
+        "On-Off": "-1.681",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "15.357",
+        "Off": "13.618",
+        "On-Off": "1.739",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "14.768",
+        "Off": "16.817",
+        "On-Off": "-2.049",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "7.021",
+        "Off": "3.836",
+        "On-Off": "3.185",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "2.778",
+        "Off": "9.283",
+        "On-Off": "-6.505",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "7.895",
+        "Off": "9.155",
+        "On-Off": "-1.260",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "3.846",
+        "Off": "5.303",
+        "On-Off": "-1.457",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "17.391",
+        "Off": "15.695",
+        "On-Off": "1.696",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "3.678",
+        "Off": "5.319",
+        "On-Off": "-1.641",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "7.306",
+        "Off": "7.664",
+        "On-Off": "-0.357",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "3.340",
+        "Off": "4.889",
+        "On-Off": "-1.549",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "6.244",
+        "Off": "6.466",
+        "On-Off": "-0.222",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "5.919",
+        "Off": "5.147",
+        "On-Off": "0.772",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "5.833",
+        "Off": "7.284",
+        "On-Off": "-1.451",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "5.882",
+        "Off": "0.000",
+        "On-Off": "5.882",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "6.892",
+        "Off": "5.706",
+        "On-Off": "1.186",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "3.605",
+        "Off": "3.175",
+        "On-Off": "0.431",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "1.852",
+        "Off": "0.000",
+        "On-Off": "1.852",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "0.000",
+        "Off": "2.817",
+        "On-Off": "-2.817",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "1.923",
+        "Off": "0.000",
+        "On-Off": "1.923",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "0.870",
+        "Off": "1.554",
+        "On-Off": "-0.684",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "2.989",
+        "Off": "1.596",
+        "On-Off": "1.393",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "4.313",
+        "Off": "5.047",
+        "On-Off": "-0.733",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "4.453",
+        "Off": "4.000",
+        "On-Off": "0.453",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "4.447",
+        "Off": "3.456",
+        "On-Off": "0.991",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "4.673",
+        "Off": "3.922",
+        "On-Off": "0.751",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "3.333",
+        "Off": "3.721",
+        "On-Off": "-0.388",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "11.765",
+        "Off": "0.000",
+        "On-Off": "11.765",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "4.079",
+        "Off": "2.402",
+        "On-Off": "1.676",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "1.328",
+        "Off": "1.058",
+        "On-Off": "0.270",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "5.556",
+        "Off": "2.532",
+        "On-Off": "3.024",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "2.632",
+        "Off": "2.113",
+        "On-Off": "0.519",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "3.205",
+        "Off": "5.303",
+        "On-Off": "-2.098",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "5.217",
+        "Off": "4.274",
+        "On-Off": "0.944",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Odyssey Sims",
+        "On": "7.586",
+        "Off": "9.043",
+        "On-Off": "-1.456",
+        "MinutesOn": 217,
+        "MinutesOff": 88
+      },
+      {
+        "Name": "Natasha Howard",
+        "On": "5.282",
+        "Off": "3.364",
+        "On-Off": "1.917",
+        "MinutesOn": 568,
+        "MinutesOff": 257
+      },
+      {
+        "Name": "Monique Billings",
+        "On": "3.340",
+        "Off": "4.148",
+        "On-Off": "-0.809",
+        "MinutesOn": 266,
+        "MinutesOff": 342
+      },
+      {
+        "Name": "Teaira McCowan",
+        "On": "2.744",
+        "Off": "3.567",
+        "On-Off": "-0.824",
+        "MinutesOn": 533,
+        "MinutesOff": 454
+      },
+      {
+        "Name": "Kalani Brown",
+        "On": "3.583",
+        "Off": "4.412",
+        "On-Off": "-0.829",
+        "MinutesOn": 312,
+        "MinutesOff": 200
+      },
+      {
+        "Name": "Arike Ogunbowale",
+        "On": "6.845",
+        "Off": "6.334",
+        "On-Off": "0.511",
+        "MinutesOn": 833,
+        "MinutesOff": 632
+      },
+      {
+        "Name": "Morgan Bertsch",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 17,
+        "MinutesOff": 5
+      },
+      {
+        "Name": "Satou Sabally",
+        "On": "6.892",
+        "Off": "7.808",
+        "On-Off": "-0.916",
+        "MinutesOn": 348,
+        "MinutesOff": 165
+      },
+      {
+        "Name": "Maddy Siegrist",
+        "On": "2.657",
+        "Off": "1.720",
+        "On-Off": "0.937",
+        "MinutesOn": 264,
+        "MinutesOff": 380
+      },
+      {
+        "Name": "Stephanie Soares",
+        "On": "0.926",
+        "Off": "3.797",
+        "On-Off": "-2.872",
+        "MinutesOn": 54,
+        "MinutesOff": 121
+      },
+      {
+        "Name": "Lou Lopez Sénéchal",
+        "On": "3.509",
+        "Off": "4.225",
+        "On-Off": "-0.717",
+        "MinutesOn": 58,
+        "MinutesOff": 68
+      },
+      {
+        "Name": "Jaelyn Brown",
+        "On": "1.923",
+        "Off": "2.273",
+        "On-Off": "-0.350",
+        "MinutesOn": 77,
+        "MinutesOff": 64
+      },
+      {
+        "Name": "Sevgi Uzun",
+        "On": "7.826",
+        "Off": "7.148",
+        "On-Off": "0.678",
+        "MinutesOn": 176,
+        "MinutesOff": 644
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Jacy Sheldon",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Jacy Sheldon",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Jacy Sheldon"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Jacy Sheldon"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

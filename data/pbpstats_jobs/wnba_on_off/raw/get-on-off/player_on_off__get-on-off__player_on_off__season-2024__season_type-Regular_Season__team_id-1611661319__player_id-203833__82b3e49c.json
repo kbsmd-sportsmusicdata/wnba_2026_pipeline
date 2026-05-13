@@ -1,0 +1,7944 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.792",
+        "On-Off": "0.208",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.500",
+        "Off": "0.300",
+        "On-Off": "0.200",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.483",
+        "Off": "0.565",
+        "On-Off": "-0.082",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.444",
+        "Off": "0.323",
+        "On-Off": "0.121",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.658",
+        "Off": "0.729",
+        "On-Off": "-0.070",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.917",
+        "Off": "0.737",
+        "On-Off": "0.180",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.545",
+        "Off": "0.444",
+        "On-Off": "0.101",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.826",
+        "On-Off": "0.174",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.500",
+        "Off": "0.300",
+        "On-Off": "0.200",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.519",
+        "Off": "0.605",
+        "On-Off": "-0.086",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.453",
+        "Off": "0.323",
+        "On-Off": "0.130",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.707",
+        "Off": "0.767",
+        "On-Off": "-0.060",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.000",
+        "Off": "0.933",
+        "On-Off": "0.067",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.556",
+        "Off": "0.444",
+        "On-Off": "0.111",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.778",
+        "Off": "0.792",
+        "On-Off": "-0.014",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.791",
+        "Off": "0.831",
+        "On-Off": "-0.040",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.833",
+        "Off": "0.697",
+        "On-Off": "0.136",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.396",
+        "Off": "0.355",
+        "On-Off": "0.041",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.250",
+        "Off": "0.370",
+        "On-Off": "-0.120",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.375",
+        "Off": "0.429",
+        "On-Off": "-0.054",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.235",
+        "Off": "0.217",
+        "On-Off": "0.018",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.398",
+        "Off": "0.357",
+        "On-Off": "0.041",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.333",
+        "Off": "0.281",
+        "On-Off": "0.052",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.529",
+        "Off": "0.333",
+        "On-Off": "0.196",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.370",
+        "Off": "0.289",
+        "On-Off": "0.081",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.500",
+        "Off": "0.320",
+        "On-Off": "0.180",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.396",
+        "Off": "0.355",
+        "On-Off": "0.041",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.250",
+        "Off": "0.385",
+        "On-Off": "-0.135",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.375",
+        "Off": "0.429",
+        "On-Off": "-0.054",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.235",
+        "Off": "0.217",
+        "On-Off": "0.018",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.398",
+        "Off": "0.359",
+        "On-Off": "0.039",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.333",
+        "Off": "0.281",
+        "On-Off": "0.052",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.529",
+        "Off": "0.333",
+        "On-Off": "0.196",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.370",
+        "Off": "0.289",
+        "On-Off": "0.081",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.500",
+        "Off": "0.327",
+        "On-Off": "0.173",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.520",
+        "Off": "0.600",
+        "On-Off": "-0.080",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.500",
+        "Off": "0.455",
+        "On-Off": "0.045",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.604",
+        "Off": "0.529",
+        "On-Off": "0.075",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.429",
+        "Off": "0.571",
+        "On-Off": "-0.143",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.529",
+        "Off": "0.461",
+        "On-Off": "0.068",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.521",
+        "Off": "0.547",
+        "On-Off": "-0.025",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.600",
+        "Off": "0.655",
+        "On-Off": "-0.055",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.524",
+        "Off": "0.500",
+        "On-Off": "0.024",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.227",
+        "On-Off": "-0.227",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.568",
+        "Off": "0.556",
+        "On-Off": "0.012",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.417",
+        "Off": "0.510",
+        "On-Off": "-0.094",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.590",
+        "Off": "0.573",
+        "On-Off": "0.017",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.375",
+        "Off": "0.419",
+        "On-Off": "-0.044",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.564",
+        "Off": "0.503",
+        "On-Off": "0.061",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.520",
+        "Off": "0.537",
+        "On-Off": "-0.017",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.689",
+        "Off": "0.566",
+        "On-Off": "0.123",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.538",
+        "Off": "0.471",
+        "On-Off": "0.067",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.562",
+        "Off": "0.403",
+        "On-Off": "0.160",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.581",
+        "Off": "0.574",
+        "On-Off": "0.007",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.417",
+        "Off": "0.547",
+        "On-Off": "-0.131",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.607",
+        "Off": "0.610",
+        "On-Off": "-0.004",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.375",
+        "Off": "0.451",
+        "On-Off": "-0.076",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.601",
+        "Off": "0.538",
+        "On-Off": "0.063",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.576",
+        "Off": "0.594",
+        "On-Off": "-0.018",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.692",
+        "Off": "0.596",
+        "On-Off": "0.096",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.587",
+        "Off": "0.528",
+        "On-Off": "0.059",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.562",
+        "Off": "0.448",
+        "On-Off": "0.114",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.658",
+        "Off": "0.655",
+        "On-Off": "0.002",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.667",
+        "Off": "0.551",
+        "On-Off": "0.116",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.333",
+        "Off": "0.392",
+        "On-Off": "-0.058",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.708",
+        "Off": "0.622",
+        "On-Off": "0.087",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.514",
+        "Off": "0.563",
+        "On-Off": "-0.049",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.082",
+        "Off": "0.081",
+        "On-Off": "0.001",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.459",
+        "Off": "0.574",
+        "On-Off": "-0.114",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.435",
+        "Off": "0.442",
+        "On-Off": "-0.006",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.750",
+        "Off": "0.694",
+        "On-Off": "0.056",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.037",
+        "On-Off": "-0.037",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.043",
+        "On-Off": "-0.043",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.009",
+        "Off": "0.011",
+        "On-Off": "-0.002",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.160",
+        "Off": "0.050",
+        "On-Off": "0.110",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.021",
+        "Off": "0.103",
+        "On-Off": "-0.083",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.286",
+        "Off": "0.143",
+        "On-Off": "0.143",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.118",
+        "Off": "0.113",
+        "On-Off": "0.004",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.063",
+        "Off": "0.074",
+        "On-Off": "-0.011",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.200",
+        "Off": "0.069",
+        "On-Off": "0.131",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.067",
+        "Off": "0.083",
+        "On-Off": "-0.017",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.250",
+        "Off": "0.136",
+        "On-Off": "0.114",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Alysha Clark",
+        "On": "12.912",
+        "Off": "12.110",
+        "On-Off": "0.802",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "16.250",
+        "Off": "15.403",
+        "On-Off": "0.847",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "19.596",
+        "Off": "18.146",
+        "On-Off": "1.450",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "4.916",
+        "Off": "5.721",
+        "On-Off": "-0.806",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "18.182",
+        "On-Off": "-18.182",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "22.041",
+        "Off": "25.868",
+        "On-Off": "-3.826",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "32.925",
+        "Off": "30.833",
+        "On-Off": "2.092",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "12.903",
+        "Off": "14.674",
+        "On-Off": "-1.771",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "20.189",
+        "Off": "24.116",
+        "On-Off": "-3.927",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "18.182",
+        "On-Off": "-18.182",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "15.385",
+        "On-Off": "-15.385",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "18.182",
+        "On-Off": "-18.182",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "22.222",
+        "On-Off": "-22.222",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "13.699",
+        "Off": "13.184",
+        "On-Off": "0.515",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.643",
+        "Off": "0.605",
+        "On-Off": "0.038",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.625",
+        "Off": "0.526",
+        "On-Off": "0.099",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.125",
+        "Off": "0.286",
+        "On-Off": "-0.161",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.625",
+        "Off": "0.644",
+        "On-Off": "-0.019",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.714",
+        "Off": "0.708",
+        "On-Off": "0.006",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.200",
+        "Off": "0.375",
+        "On-Off": "-0.175",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.483",
+        "Off": "0.696",
+        "On-Off": "-0.213",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.500",
+        "Off": "0.647",
+        "On-Off": "-0.147",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.211",
+        "Off": "0.143",
+        "On-Off": "0.068",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.067",
+        "On-Off": "-0.067",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.077",
+        "Off": "0.080",
+        "On-Off": "-0.003",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.100",
+        "Off": "0.000",
+        "On-Off": "0.100",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.405",
+        "Off": "0.500",
+        "On-Off": "-0.095",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.083",
+        "Off": "0.188",
+        "On-Off": "-0.104",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.105",
+        "Off": "0.036",
+        "On-Off": "0.070",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.095",
+        "On-Off": "-0.095",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.056",
+        "Off": "0.091",
+        "On-Off": "-0.035",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.111",
+        "Off": "0.132",
+        "On-Off": "-0.020",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.095",
+        "Off": "0.043",
+        "On-Off": "0.053",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.069",
+        "Off": "0.077",
+        "On-Off": "-0.007",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.242",
+        "Off": "0.258",
+        "On-Off": "-0.016",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.086",
+        "Off": "0.042",
+        "On-Off": "0.043",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.244",
+        "Off": "0.279",
+        "On-Off": "-0.035",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.149",
+        "Off": "0.101",
+        "On-Off": "0.048",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.104",
+        "Off": "0.106",
+        "On-Off": "-0.002",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.133",
+        "On-Off": "-0.133",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.108",
+        "Off": "0.120",
+        "On-Off": "-0.013",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.025",
+        "Off": "0.017",
+        "On-Off": "0.008",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.045",
+        "Off": "0.043",
+        "On-Off": "0.002",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.025",
+        "Off": "0.040",
+        "On-Off": "-0.016",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.014",
+        "Off": "0.008",
+        "On-Off": "0.006",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.069",
+        "Off": "0.058",
+        "On-Off": "0.010",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.025",
+        "Off": "0.079",
+        "On-Off": "-0.054",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.014",
+        "Off": "0.029",
+        "On-Off": "-0.015",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.029",
+        "Off": "0.000",
+        "On-Off": "0.029",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.127",
+        "Off": "0.113",
+        "On-Off": "0.014",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.145",
+        "Off": "0.130",
+        "On-Off": "0.015",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.148",
+        "Off": "0.173",
+        "On-Off": "-0.025",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.102",
+        "Off": "0.059",
+        "On-Off": "0.043",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.275",
+        "Off": "0.272",
+        "On-Off": "0.002",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.077",
+        "Off": "0.145",
+        "On-Off": "-0.068",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.101",
+        "Off": "0.140",
+        "On-Off": "-0.039",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.118",
+        "Off": "0.144",
+        "On-Off": "-0.027",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.015",
+        "Off": "0.027",
+        "On-Off": "-0.011",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.009",
+        "On-Off": "-0.009",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.035",
+        "Off": "0.044",
+        "On-Off": "-0.009",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.017",
+        "Off": "0.053",
+        "On-Off": "-0.036",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.005",
+        "Off": "0.003",
+        "On-Off": "0.002",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.071",
+        "Off": "0.057",
+        "On-Off": "0.013",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.060",
+        "Off": "0.083",
+        "On-Off": "-0.023",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.020",
+        "Off": "0.018",
+        "On-Off": "0.002",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.028",
+        "On-Off": "-0.028",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.117",
+        "Off": "0.124",
+        "On-Off": "-0.008",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.065",
+        "Off": "0.049",
+        "On-Off": "0.015",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.095",
+        "Off": "0.097",
+        "On-Off": "-0.001",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.210",
+        "Off": "0.226",
+        "On-Off": "-0.016",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.091",
+        "Off": "0.049",
+        "On-Off": "0.042",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.254",
+        "Off": "0.277",
+        "On-Off": "-0.023",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.131",
+        "Off": "0.117",
+        "On-Off": "0.014",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.103",
+        "Off": "0.119",
+        "On-Off": "-0.016",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.109",
+        "On-Off": "-0.109",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.158",
+        "On-Off": "-0.158",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.110",
+        "Off": "0.129",
+        "On-Off": "-0.019",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.020",
+        "Off": "0.021",
+        "On-Off": "-0.001",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.041",
+        "Off": "0.043",
+        "On-Off": "-0.003",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.021",
+        "Off": "0.046",
+        "On-Off": "-0.025",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.010",
+        "Off": "0.006",
+        "On-Off": "0.005",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.069",
+        "Off": "0.058",
+        "On-Off": "0.012",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.038",
+        "Off": "0.081",
+        "On-Off": "-0.043",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.017",
+        "Off": "0.024",
+        "On-Off": "-0.007",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.026",
+        "On-Off": "-0.026",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.056",
+        "On-Off": "-0.056",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.018",
+        "Off": "0.014",
+        "On-Off": "0.004",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.056",
+        "Off": "0.000",
+        "On-Off": "0.056",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.088",
+        "Off": "0.098",
+        "On-Off": "-0.009",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.029",
+        "Off": "0.147",
+        "On-Off": "-0.118",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.030",
+        "Off": "0.000",
+        "On-Off": "0.030",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.108",
+        "Off": "0.096",
+        "On-Off": "0.012",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.000",
+        "Off": "0.016",
+        "On-Off": "-0.016",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.012",
+        "Off": "0.011",
+        "On-Off": "0.001",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.044",
+        "Off": "0.024",
+        "On-Off": "0.021",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.013",
+        "Off": "0.016",
+        "On-Off": "-0.003",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.008",
+        "Off": "0.014",
+        "On-Off": "-0.006",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.057",
+        "Off": "0.055",
+        "On-Off": "0.002",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.053",
+        "Off": "0.090",
+        "On-Off": "-0.037",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.015",
+        "Off": "0.038",
+        "On-Off": "-0.023",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.023",
+        "Off": "0.050",
+        "On-Off": "-0.027",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.049",
+        "On-Off": "-0.049",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.040",
+        "Off": "0.027",
+        "On-Off": "0.013",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.012",
+        "Off": "0.000",
+        "On-Off": "0.012",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.055",
+        "Off": "0.029",
+        "On-Off": "0.026",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.025",
+        "Off": "0.017",
+        "On-Off": "0.008",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.010",
+        "Off": "0.036",
+        "On-Off": "-0.026",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.030",
+        "Off": "0.046",
+        "On-Off": "-0.017",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.011",
+        "Off": "0.045",
+        "On-Off": "-0.034",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.007",
+        "Off": "0.004",
+        "On-Off": "0.003",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.063",
+        "Off": "0.068",
+        "On-Off": "-0.005",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.054",
+        "Off": "0.104",
+        "On-Off": "-0.050",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.014",
+        "Off": "0.024",
+        "On-Off": "-0.010",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.029",
+        "On-Off": "-0.029",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.030",
+        "Off": "0.000",
+        "On-Off": "0.030",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.048",
+        "On-Off": "-0.048",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.053",
+        "Off": "0.037",
+        "On-Off": "0.016",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.031",
+        "Off": "0.077",
+        "On-Off": "-0.046",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.089",
+        "Off": "0.026",
+        "On-Off": "0.063",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.077",
+        "Off": "0.031",
+        "On-Off": "0.046",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.036",
+        "Off": "0.000",
+        "On-Off": "0.036",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.024",
+        "On-Off": "-0.024",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.115",
+        "Off": "0.154",
+        "On-Off": "-0.038",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.077",
+        "On-Off": "-0.077",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.062",
+        "Off": "0.111",
+        "On-Off": "-0.049",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.264",
+        "Off": "0.214",
+        "On-Off": "0.050",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.051",
+        "Off": "0.036",
+        "On-Off": "0.015",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.257",
+        "Off": "0.244",
+        "On-Off": "0.014",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.059",
+        "Off": "0.087",
+        "On-Off": "-0.028",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.031",
+        "Off": "0.054",
+        "On-Off": "-0.023",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.154",
+        "Off": "0.038",
+        "On-Off": "0.115",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.107",
+        "Off": "0.121",
+        "On-Off": "-0.014",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.057",
+        "Off": "0.080",
+        "On-Off": "-0.023",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.252",
+        "Off": "0.280",
+        "On-Off": "-0.027",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.121",
+        "Off": "0.048",
+        "On-Off": "0.073",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.240",
+        "Off": "0.277",
+        "On-Off": "-0.037",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.182",
+        "Off": "0.104",
+        "On-Off": "0.078",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.118",
+        "Off": "0.088",
+        "On-Off": "0.030",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.182",
+        "On-Off": "-0.182",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.088",
+        "Off": "0.130",
+        "On-Off": "-0.042",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.115",
+        "Off": "0.137",
+        "On-Off": "-0.023",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.095",
+        "Off": "0.046",
+        "On-Off": "0.049",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.191",
+        "Off": "0.246",
+        "On-Off": "-0.055",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.054",
+        "Off": "0.036",
+        "On-Off": "0.018",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.239",
+        "Off": "0.312",
+        "On-Off": "-0.073",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.190",
+        "Off": "0.103",
+        "On-Off": "0.087",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.157",
+        "Off": "0.184",
+        "On-Off": "-0.026",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.111",
+        "Off": "0.143",
+        "On-Off": "-0.032",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.143",
+        "Off": "0.130",
+        "On-Off": "0.012",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.055",
+        "On-Off": "-0.055",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.145",
+        "Off": "0.117",
+        "On-Off": "0.028",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.149",
+        "Off": "0.174",
+        "On-Off": "-0.025",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.105",
+        "Off": "0.053",
+        "On-Off": "0.052",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.281",
+        "Off": "0.290",
+        "On-Off": "-0.009",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.033",
+        "Off": "0.156",
+        "On-Off": "-0.123",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.098",
+        "Off": "0.126",
+        "On-Off": "-0.028",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.167",
+        "Off": "0.143",
+        "On-Off": "0.024",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.053",
+        "Off": "0.043",
+        "On-Off": "0.009",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.143",
+        "Off": "0.176",
+        "On-Off": "-0.034",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.143",
+        "Off": "0.167",
+        "On-Off": "-0.024",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.080",
+        "Off": "0.087",
+        "On-Off": "-0.007",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.241",
+        "Off": "0.200",
+        "On-Off": "0.041",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.222",
+        "Off": "0.083",
+        "On-Off": "0.139",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.120",
+        "Off": "0.205",
+        "On-Off": "-0.085",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.150",
+        "On-Off": "-0.150",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.429",
+        "Off": "0.500",
+        "On-Off": "-0.071",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.667",
+        "Off": "0.500",
+        "On-Off": "0.167",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.667",
+        "Off": "0.722",
+        "On-Off": "-0.056",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.675",
+        "Off": "0.500",
+        "On-Off": "0.175",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.500",
+        "Off": "0.333",
+        "On-Off": "0.167",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "1.000",
+        "Off": "0.500",
+        "On-Off": "0.500",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Alysha Clark",
+        "On": "15.015",
+        "Off": "14.989",
+        "On-Off": "0.026",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "17.296",
+        "Off": "15.697",
+        "On-Off": "1.599",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "15.099",
+        "Off": "15.138",
+        "On-Off": "-0.039",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "15.610",
+        "Off": "15.389",
+        "On-Off": "0.221",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "14.053",
+        "On-Off": "-14.053",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "14.907",
+        "Off": "14.893",
+        "On-Off": "0.014",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "14.881",
+        "Off": "14.763",
+        "On-Off": "0.118",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "14.745",
+        "Off": "14.844",
+        "On-Off": "-0.099",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "15.020",
+        "Off": "14.988",
+        "On-Off": "0.032",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "16.141",
+        "On-Off": "-16.141",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "17.000",
+        "Off": "17.933",
+        "On-Off": "-0.933",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "16.889",
+        "On-Off": "-16.889",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "15.667",
+        "On-Off": "-15.667",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "14.223",
+        "Off": "14.685",
+        "On-Off": "-0.462",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Alysha Clark",
+        "On": "14.922",
+        "Off": "15.090",
+        "On-Off": "-0.169",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "15.224",
+        "Off": "14.668",
+        "On-Off": "0.555",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "15.121",
+        "Off": "14.783",
+        "On-Off": "0.338",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "15.571",
+        "Off": "15.191",
+        "On-Off": "0.380",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "14.350",
+        "On-Off": "-14.350",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "15.376",
+        "Off": "14.917",
+        "On-Off": "0.458",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "14.935",
+        "Off": "14.894",
+        "On-Off": "0.041",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "15.841",
+        "Off": "14.235",
+        "On-Off": "1.606",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "15.201",
+        "Off": "14.743",
+        "On-Off": "0.459",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "13.943",
+        "On-Off": "-13.943",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "19.500",
+        "Off": "14.871",
+        "On-Off": "4.629",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "10.500",
+        "On-Off": "-10.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "11.700",
+        "On-Off": "-11.700",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "15.796",
+        "Off": "14.385",
+        "On-Off": "1.411",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.178",
+        "Off": "0.138",
+        "On-Off": "0.040",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.083",
+        "Off": "0.102",
+        "On-Off": "-0.019",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.375",
+        "Off": "0.357",
+        "On-Off": "0.018",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.208",
+        "Off": "0.216",
+        "On-Off": "-0.008",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.167",
+        "Off": "0.124",
+        "On-Off": "0.043",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.282",
+        "Off": "0.199",
+        "On-Off": "0.082",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.216",
+        "Off": "0.118",
+        "On-Off": "0.099",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.140",
+        "Off": "0.105",
+        "On-Off": "0.035",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.062",
+        "Off": "0.056",
+        "On-Off": "0.007",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.538",
+        "Off": "0.750",
+        "On-Off": "-0.212",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.000",
+        "Off": "0.600",
+        "On-Off": "0.400",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.593",
+        "Off": "0.686",
+        "On-Off": "-0.094",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.600",
+        "Off": "0.500",
+        "On-Off": "0.100",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.686",
+        "Off": "0.600",
+        "On-Off": "0.086",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.645",
+        "Off": "0.709",
+        "On-Off": "-0.064",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.875",
+        "Off": "0.875",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.654",
+        "Off": "0.519",
+        "On-Off": "0.135",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.750",
+        "On-Off": "0.250",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.438",
+        "Off": "0.543",
+        "On-Off": "-0.105",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.333",
+        "Off": "0.375",
+        "On-Off": "-0.042",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.567",
+        "Off": "0.696",
+        "On-Off": "-0.130",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.706",
+        "Off": "0.357",
+        "On-Off": "0.349",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.123",
+        "Off": "0.155",
+        "On-Off": "-0.032",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.250",
+        "Off": "0.306",
+        "On-Off": "-0.056",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.278",
+        "Off": "0.238",
+        "On-Off": "0.040",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.083",
+        "Off": "0.135",
+        "On-Off": "-0.052",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.286",
+        "Off": "0.245",
+        "On-Off": "0.041",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.376",
+        "Off": "0.492",
+        "On-Off": "-0.117",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.324",
+        "Off": "0.294",
+        "On-Off": "0.030",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.306",
+        "Off": "0.357",
+        "On-Off": "-0.050",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.375",
+        "On-Off": "-0.375",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.125",
+        "Off": "0.222",
+        "On-Off": "-0.097",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.556",
+        "Off": "0.500",
+        "On-Off": "0.056",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.333",
+        "Off": "0.400",
+        "On-Off": "-0.067",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.650",
+        "Off": "0.294",
+        "On-Off": "0.356",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.600",
+        "On-Off": "-0.600",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.467",
+        "Off": "0.430",
+        "On-Off": "0.036",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.484",
+        "Off": "0.497",
+        "On-Off": "-0.014",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.417",
+        "Off": "0.600",
+        "On-Off": "-0.183",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.491",
+        "Off": "0.478",
+        "On-Off": "0.013",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.889",
+        "On-Off": "0.111",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.000",
+        "Off": "0.167",
+        "On-Off": "0.833",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.538",
+        "Off": "0.700",
+        "On-Off": "-0.162",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.571",
+        "Off": "0.235",
+        "On-Off": "0.336",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.667",
+        "Off": "0.680",
+        "On-Off": "-0.014",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.800",
+        "Off": "0.583",
+        "On-Off": "0.217",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.536",
+        "Off": "0.432",
+        "On-Off": "0.104",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.041",
+        "Off": "0.052",
+        "On-Off": "-0.011",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.041",
+        "On-Off": "-0.041",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.014",
+        "Off": "0.014",
+        "On-Off": "-0.000",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.033",
+        "Off": "0.068",
+        "On-Off": "-0.035",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.261",
+        "Off": "0.227",
+        "On-Off": "0.033",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.015",
+        "On-Off": "-0.015",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.118",
+        "Off": "0.097",
+        "On-Off": "0.021",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.062",
+        "Off": "0.028",
+        "On-Off": "0.035",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.333",
+        "Off": "0.500",
+        "On-Off": "-0.167",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.286",
+        "Off": "0.318",
+        "On-Off": "-0.032",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.442",
+        "Off": "0.511",
+        "On-Off": "-0.069",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.455",
+        "Off": "0.560",
+        "On-Off": "-0.105",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.000",
+        "Off": "0.571",
+        "On-Off": "-0.571",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.789",
+        "Off": "0.870",
+        "On-Off": "-0.080",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.300",
+        "Off": "0.571",
+        "On-Off": "-0.271",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.315",
+        "Off": "0.293",
+        "On-Off": "0.022",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.167",
+        "Off": "0.122",
+        "On-Off": "0.044",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.069",
+        "Off": "0.084",
+        "On-Off": "-0.014",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.542",
+        "Off": "0.459",
+        "On-Off": "0.082",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.090",
+        "Off": "0.087",
+        "On-Off": "0.004",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.012",
+        "Off": "0.008",
+        "On-Off": "0.005",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.243",
+        "Off": "0.324",
+        "On-Off": "-0.080",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.059",
+        "Off": "0.054",
+        "On-Off": "0.005",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.312",
+        "Off": "0.361",
+        "On-Off": "-0.049",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.304",
+        "Off": "0.324",
+        "On-Off": "-0.019",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.400",
+        "Off": "0.500",
+        "On-Off": "-0.100",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.308",
+        "Off": "0.294",
+        "On-Off": "0.014",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.368",
+        "Off": "0.464",
+        "On-Off": "-0.096",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.556",
+        "Off": "0.409",
+        "On-Off": "0.146",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.364",
+        "Off": "0.214",
+        "On-Off": "0.149",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.600",
+        "Off": "0.346",
+        "On-Off": "0.254",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "1.000",
+        "Off": "0.923",
+        "On-Off": "0.077",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.342",
+        "Off": "0.362",
+        "On-Off": "-0.020",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.500",
+        "Off": "0.429",
+        "On-Off": "0.071",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.264",
+        "Off": "0.308",
+        "On-Off": "-0.044",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.167",
+        "Off": "0.162",
+        "On-Off": "0.005",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.424",
+        "Off": "0.477",
+        "On-Off": "-0.053",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.070",
+        "Off": "0.073",
+        "On-Off": "-0.004",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.216",
+        "Off": "0.250",
+        "On-Off": "-0.034",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.376",
+        "Off": "0.388",
+        "On-Off": "-0.011",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.438",
+        "Off": "0.333",
+        "On-Off": "0.104",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.480",
+        "Off": "0.381",
+        "On-Off": "0.099",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.167",
+        "Off": "0.333",
+        "On-Off": "-0.167",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.368",
+        "Off": "0.409",
+        "On-Off": "-0.041",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.404",
+        "Off": "0.338",
+        "On-Off": "0.067",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.348",
+        "Off": "0.276",
+        "On-Off": "0.072",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.500",
+        "Off": "0.235",
+        "On-Off": "0.265",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.371",
+        "Off": "0.300",
+        "On-Off": "0.071",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.429",
+        "Off": "0.292",
+        "On-Off": "0.137",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Alysha Clark",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.000",
+        "Off": "0.429",
+        "On-Off": "0.571",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.714",
+        "Off": "0.778",
+        "On-Off": "-0.063",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.750",
+        "Off": "0.808",
+        "On-Off": "-0.058",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.808",
+        "Off": "0.667",
+        "On-Off": "0.141",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.836",
+        "Off": "0.793",
+        "On-Off": "0.043",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.750",
+        "Off": "0.653",
+        "On-Off": "0.097",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.708",
+        "Off": "0.748",
+        "On-Off": "-0.040",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.917",
+        "Off": "0.838",
+        "On-Off": "0.079",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.681",
+        "Off": "0.687",
+        "On-Off": "-0.006",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.364",
+        "Off": "0.280",
+        "On-Off": "0.083",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.676",
+        "Off": "0.691",
+        "On-Off": "-0.016",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.575",
+        "Off": "0.547",
+        "On-Off": "0.029",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.625",
+        "On-Off": "-0.625",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.812",
+        "Off": "0.750",
+        "On-Off": "0.062",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.480",
+        "Off": "0.381",
+        "On-Off": "0.099",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.167",
+        "Off": "0.350",
+        "On-Off": "-0.183",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.368",
+        "Off": "0.409",
+        "On-Off": "-0.041",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.404",
+        "Off": "0.340",
+        "On-Off": "0.065",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.348",
+        "Off": "0.276",
+        "On-Off": "0.072",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.500",
+        "Off": "0.235",
+        "On-Off": "0.265",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.371",
+        "Off": "0.300",
+        "On-Off": "0.071",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.429",
+        "Off": "0.304",
+        "On-Off": "0.124",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.534",
+        "Off": "0.526",
+        "On-Off": "0.008",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.470",
+        "Off": "0.496",
+        "On-Off": "-0.026",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.514",
+        "Off": "0.526",
+        "On-Off": "-0.012",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.557",
+        "Off": "0.540",
+        "On-Off": "0.017",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.490",
+        "On-Off": "-0.490",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.501",
+        "Off": "0.498",
+        "On-Off": "0.003",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.474",
+        "Off": "0.450",
+        "On-Off": "0.024",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.524",
+        "Off": "0.520",
+        "On-Off": "0.004",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.489",
+        "Off": "0.483",
+        "On-Off": "0.007",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.494",
+        "On-Off": "-0.494",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.454",
+        "On-Off": "-0.454",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.445",
+        "On-Off": "-0.445",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.362",
+        "On-Off": "-0.362",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.556",
+        "Off": "0.501",
+        "On-Off": "0.055",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.052",
+        "Off": "0.025",
+        "On-Off": "0.027",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.058",
+        "On-Off": "-0.058",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.205",
+        "Off": "0.138",
+        "On-Off": "0.066",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.122",
+        "On-Off": "-0.122",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.077",
+        "Off": "0.079",
+        "On-Off": "-0.002",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.143",
+        "Off": "0.160",
+        "On-Off": "-0.017",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.026",
+        "Off": "0.085",
+        "On-Off": "-0.058",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.104",
+        "Off": "0.117",
+        "On-Off": "-0.012",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.066",
+        "On-Off": "-0.066",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.138",
+        "Off": "0.071",
+        "On-Off": "0.067",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.083",
+        "On-Off": "-0.083",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.281",
+        "Off": "0.214",
+        "On-Off": "0.068",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.278",
+        "On-Off": "-0.278",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.149",
+        "Off": "0.157",
+        "On-Off": "-0.008",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.154",
+        "Off": "0.172",
+        "On-Off": "-0.018",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.048",
+        "Off": "0.188",
+        "On-Off": "-0.140",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.147",
+        "Off": "0.185",
+        "On-Off": "-0.038",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.111",
+        "On-Off": "-0.111",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.160",
+        "On-Off": "-0.160",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.036",
+        "On-Off": "-0.036",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.000",
+        "Off": "0.011",
+        "On-Off": "-0.011",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.047",
+        "Off": "0.017",
+        "On-Off": "0.030",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.020",
+        "On-Off": "-0.020",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.032",
+        "Off": "0.114",
+        "On-Off": "-0.082",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.300",
+        "Off": "0.172",
+        "On-Off": "0.128",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.111",
+        "Off": "0.101",
+        "On-Off": "0.011",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "0.027",
+        "On-Off": "-0.027",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.083",
+        "Off": "0.070",
+        "On-Off": "0.013",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.107",
+        "Off": "0.126",
+        "On-Off": "-0.019",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.056",
+        "Off": "0.218",
+        "On-Off": "-0.163",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.037",
+        "Off": "0.052",
+        "On-Off": "-0.015",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.217",
+        "On-Off": "-0.217",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.269",
+        "Off": "0.193",
+        "On-Off": "0.076",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.200",
+        "Off": "0.190",
+        "On-Off": "0.010",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.194",
+        "Off": "0.307",
+        "On-Off": "-0.112",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.167",
+        "Off": "0.243",
+        "On-Off": "-0.077",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.163",
+        "Off": "0.197",
+        "On-Off": "-0.034",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.230",
+        "Off": "0.184",
+        "On-Off": "0.046",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.130",
+        "Off": "0.149",
+        "On-Off": "-0.020",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.128",
+        "Off": "0.154",
+        "On-Off": "-0.026",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.118",
+        "On-Off": "-0.118",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "0.304",
+        "On-Off": "-0.304",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.269",
+        "Off": "0.193",
+        "On-Off": "0.076",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.113",
+        "Off": "0.194",
+        "On-Off": "-0.081",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.229",
+        "Off": "0.242",
+        "On-Off": "-0.013",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.059",
+        "Off": "0.163",
+        "On-Off": "-0.104",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.737",
+        "On-Off": "-0.737",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.185",
+        "Off": "0.209",
+        "On-Off": "-0.024",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.214",
+        "Off": "0.217",
+        "On-Off": "-0.003",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.135",
+        "Off": "0.249",
+        "On-Off": "-0.114",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.190",
+        "Off": "0.180",
+        "On-Off": "0.010",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.176",
+        "On-Off": "-0.176",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.151",
+        "Off": "0.280",
+        "On-Off": "-0.129",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Alysha Clark",
+        "On": "6.276",
+        "Off": "6.017",
+        "On-Off": "0.259",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "4.850",
+        "Off": "6.459",
+        "On-Off": "-1.609",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "3.933",
+        "Off": "4.262",
+        "On-Off": "-0.329",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "3.286",
+        "Off": "4.307",
+        "On-Off": "-1.021",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "11.250",
+        "On-Off": "-11.250",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "5.947",
+        "Off": "6.929",
+        "On-Off": "-0.982",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "9.123",
+        "Off": "9.124",
+        "On-Off": "-0.001",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "4.265",
+        "Off": "5.255",
+        "On-Off": "-0.990",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "8.595",
+        "Off": "7.966",
+        "On-Off": "0.629",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "5.775",
+        "On-Off": "-5.775",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "7.817",
+        "On-Off": "-7.817",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "6.400",
+        "On-Off": "-6.400",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "16.300",
+        "On-Off": "-16.300",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "9.825",
+        "Off": "6.823",
+        "On-Off": "3.002",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Alysha Clark",
+        "On": "24.092",
+        "Off": "24.133",
+        "On-Off": "-0.041",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "26.100",
+        "Off": "25.578",
+        "On-Off": "0.522",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "24.850",
+        "Off": "25.121",
+        "On-Off": "-0.271",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "23.959",
+        "Off": "23.743",
+        "On-Off": "0.215",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "25.300",
+        "On-Off": "-25.300",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "25.351",
+        "Off": "25.187",
+        "On-Off": "0.164",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "24.485",
+        "Off": "24.772",
+        "On-Off": "-0.287",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "24.024",
+        "Off": "24.164",
+        "On-Off": "-0.141",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "24.964",
+        "Off": "24.882",
+        "On-Off": "0.083",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "24.887",
+        "On-Off": "-24.887",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "27.800",
+        "On-Off": "-27.800",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "24.450",
+        "Off": "24.622",
+        "On-Off": "-0.172",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.122",
+        "Off": "0.125",
+        "On-Off": "-0.003",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.065",
+        "Off": "0.051",
+        "On-Off": "0.014",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.094",
+        "Off": "0.096",
+        "On-Off": "-0.001",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.212",
+        "Off": "0.230",
+        "On-Off": "-0.018",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.091",
+        "Off": "0.047",
+        "On-Off": "0.045",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.263",
+        "Off": "0.286",
+        "On-Off": "-0.023",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.128",
+        "Off": "0.122",
+        "On-Off": "0.006",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.104",
+        "Off": "0.115",
+        "On-Off": "-0.012",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.106",
+        "Off": "0.127",
+        "On-Off": "-0.021",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Alysha Clark",
+        "On": "0.023",
+        "Off": "0.024",
+        "On-Off": "-0.001",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "0.005",
+        "On-Off": "-0.005",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "0.038",
+        "Off": "0.041",
+        "On-Off": "-0.003",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.021",
+        "Off": "0.045",
+        "On-Off": "-0.024",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "0.010",
+        "Off": "0.006",
+        "On-Off": "0.004",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "0.066",
+        "Off": "0.055",
+        "On-Off": "0.011",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.037",
+        "Off": "0.078",
+        "On-Off": "-0.041",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "0.016",
+        "Off": "0.023",
+        "On-Off": "-0.007",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "0.025",
+        "On-Off": "-0.025",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.053",
+        "On-Off": "-0.053",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.018",
+        "Off": "0.016",
+        "On-Off": "0.001",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "13.676",
+        "Off": "11.745",
+        "On-Off": "1.932",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "14.085",
+        "Off": "15.426",
+        "On-Off": "-1.341",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "23.736",
+        "Off": "21.796",
+        "On-Off": "1.940",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "2.961",
+        "Off": "4.901",
+        "On-Off": "-1.940",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "21.053",
+        "On-Off": "-21.053",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "25.438",
+        "Off": "26.792",
+        "On-Off": "-1.354",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "38.698",
+        "Off": "38.338",
+        "On-Off": "0.360",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "16.981",
+        "Off": "17.647",
+        "On-Off": "-0.666",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "22.542",
+        "Off": "24.228",
+        "On-Off": "-1.686",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "20.000",
+        "On-Off": "-20.000",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "26.667",
+        "On-Off": "-26.667",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "12.950",
+        "Off": "10.665",
+        "On-Off": "2.285",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "8.088",
+        "Off": "9.312",
+        "On-Off": "-1.224",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "21.127",
+        "Off": "14.096",
+        "On-Off": "7.031",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "8.352",
+        "Off": "13.691",
+        "On-Off": "-5.339",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "4.605",
+        "Off": "5.430",
+        "On-Off": "-0.825",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "15.789",
+        "On-Off": "-15.789",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "13.548",
+        "Off": "15.101",
+        "On-Off": "-1.553",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "6.508",
+        "Off": "9.986",
+        "On-Off": "-3.478",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "2.201",
+        "Off": "3.245",
+        "On-Off": "-1.044",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "14.657",
+        "Off": "23.120",
+        "On-Off": "-8.463",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "15.294",
+        "On-Off": "-15.294",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "55.556",
+        "On-Off": "-55.556",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "9.353",
+        "Off": "8.810",
+        "On-Off": "0.543",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "2.059",
+        "Off": "1.007",
+        "On-Off": "1.052",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "0.000",
+        "Off": "2.394",
+        "On-Off": "-2.394",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "7.912",
+        "Off": "5.038",
+        "On-Off": "2.874",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "0.000",
+        "Off": "1.192",
+        "On-Off": "-1.192",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "3.779",
+        "Off": "5.150",
+        "On-Off": "-1.371",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "10.202",
+        "Off": "10.335",
+        "On-Off": "-0.133",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.258",
+        "Off": "2.637",
+        "On-Off": "-1.379",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "4.731",
+        "Off": "5.622",
+        "On-Off": "-0.891",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "2.353",
+        "On-Off": "-2.353",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "22.222",
+        "On-Off": "-22.222",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "0.000",
+        "Off": "1.855",
+        "On-Off": "-1.855",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "2.059",
+        "Off": "3.188",
+        "On-Off": "-1.129",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "1.408",
+        "Off": "3.191",
+        "On-Off": "-1.783",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "1.758",
+        "Off": "2.081",
+        "On-Off": "-0.323",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.316",
+        "Off": "0.927",
+        "On-Off": "0.389",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "5.263",
+        "On-Off": "-5.263",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "2.949",
+        "Off": "4.106",
+        "On-Off": "-1.156",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "1.847",
+        "Off": "1.676",
+        "On-Off": "0.171",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "1.572",
+        "Off": "1.623",
+        "On-Off": "-0.050",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "2.690",
+        "Off": "3.642",
+        "On-Off": "-0.952",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "1.176",
+        "On-Off": "-1.176",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "2.878",
+        "Off": "2.628",
+        "On-Off": "0.250",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Alysha Clark",
+        "On": "3.235",
+        "Off": "3.859",
+        "On-Off": "-0.624",
+        "MinutesOn": 339,
+        "MinutesOff": 598
+      },
+      {
+        "Name": "Sydney Colson",
+        "On": "8.451",
+        "Off": "5.585",
+        "On-Off": "2.866",
+        "MinutesOn": 40,
+        "MinutesOff": 191
+      },
+      {
+        "Name": "Tiffany Hayes",
+        "On": "3.516",
+        "Off": "5.696",
+        "On-Off": "-2.179",
+        "MinutesOn": 227,
+        "MinutesOff": 458
+      },
+      {
+        "Name": "Kiah Stokes",
+        "On": "1.974",
+        "Off": "2.119",
+        "On-Off": "-0.146",
+        "MinutesOn": 319,
+        "MinutesOff": 386
+      },
+      {
+        "Name": "Emma Cannon",
+        "On": "0.000",
+        "Off": "5.263",
+        "On-Off": "-5.263",
+        "MinutesOn": 0,
+        "MinutesOff": 9
+      },
+      {
+        "Name": "Kelsey Plum",
+        "On": "5.530",
+        "Off": "6.541",
+        "On-Off": "-1.011",
+        "MinutesOn": 544,
+        "MinutesOff": 715
+      },
+      {
+        "Name": "A'ja Wilson",
+        "On": "2.463",
+        "Off": "4.050",
+        "On-Off": "-1.588",
+        "MinutesOn": 564,
+        "MinutesOff": 709
+      },
+      {
+        "Name": "Megan Gustafson",
+        "On": "0.943",
+        "Off": "1.217",
+        "On-Off": "-0.274",
+        "MinutesOn": 161,
+        "MinutesOff": 240
+      },
+      {
+        "Name": "Jackie Young",
+        "On": "6.215",
+        "Off": "9.976",
+        "On-Off": "-3.761",
+        "MinutesOn": 543,
+        "MinutesOff": 629
+      },
+      {
+        "Name": "Kierstan Bell",
+        "On": "0.000",
+        "Off": "5.882",
+        "On-Off": "-5.882",
+        "MinutesOn": 0,
+        "MinutesOff": 43
+      },
+      {
+        "Name": "Queen Egbo",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 17
+      },
+      {
+        "Name": "Dyaisha Fair",
+        "On": "0.000",
+        "Off": "22.222",
+        "On-Off": "-22.222",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Jessika Carter",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 0,
+        "MinutesOff": 4
+      },
+      {
+        "Name": "Kate Martin",
+        "On": "4.317",
+        "Off": "3.709",
+        "On-Off": "0.607",
+        "MinutesOn": 69,
+        "MinutesOff": 313
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Chelsea Gray",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Chelsea Gray",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Chelsea Gray"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Chelsea Gray"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

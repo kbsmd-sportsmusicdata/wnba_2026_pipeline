@@ -1,0 +1,6872 @@
+{
+  "results": {
+    "Assisted2sPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.842",
+        "Off": "0.500",
+        "On-Off": "0.342",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.517",
+        "Off": "0.357",
+        "On-Off": "0.160",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.711",
+        "Off": "0.636",
+        "On-Off": "0.075",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.686",
+        "Off": "0.714",
+        "On-Off": "-0.029",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.708",
+        "Off": "0.667",
+        "On-Off": "0.042",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.938",
+        "Off": "1.000",
+        "On-Off": "-0.062",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.722",
+        "Off": "0.800",
+        "On-Off": "-0.078",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.700",
+        "Off": "0.571",
+        "On-Off": "0.129",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.650",
+        "Off": "0.417",
+        "On-Off": "0.233",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "NonPutbacksAssisted2sPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.889",
+        "Off": "1.000",
+        "On-Off": "-0.111",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.536",
+        "Off": "0.357",
+        "On-Off": "0.179",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.800",
+        "Off": "0.700",
+        "On-Off": "0.100",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.694",
+        "Off": "0.714",
+        "On-Off": "-0.020",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.773",
+        "Off": "0.667",
+        "On-Off": "0.106",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.938",
+        "Off": "1.000",
+        "On-Off": "-0.062",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.832",
+        "Off": "0.889",
+        "On-Off": "-0.057",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.737",
+        "Off": "0.800",
+        "On-Off": "-0.063",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.766",
+        "Off": "0.556",
+        "On-Off": "0.211",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Assisted3sPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.900",
+        "Off": "1.000",
+        "On-Off": "-0.100",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.862",
+        "Off": "0.600",
+        "On-Off": "0.262",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.000",
+        "Off": "0.833",
+        "On-Off": "0.167",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.967",
+        "Off": "1.000",
+        "On-Off": "-0.033",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.857",
+        "Off": "0.000",
+        "On-Off": "0.857",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Fg3Pct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.407",
+        "Off": "0.333",
+        "On-Off": "0.074",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.270",
+        "Off": "0.333",
+        "On-Off": "-0.063",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.100",
+        "Off": "0.500",
+        "On-Off": "-0.400",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.407",
+        "Off": "0.375",
+        "On-Off": "0.032",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.239",
+        "Off": "0.500",
+        "On-Off": "-0.261",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.310",
+        "Off": "0.438",
+        "On-Off": "-0.128",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.295",
+        "Off": "0.250",
+        "On-Off": "0.045",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.462",
+        "Off": "0.600",
+        "On-Off": "-0.138",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.318",
+        "Off": "0.000",
+        "On-Off": "0.318",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "NonHeaveFg3Pct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.407",
+        "Off": "0.333",
+        "On-Off": "0.074",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.270",
+        "Off": "0.357",
+        "On-Off": "-0.087",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.100",
+        "Off": "0.500",
+        "On-Off": "-0.400",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.409",
+        "Off": "0.375",
+        "On-Off": "0.034",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.244",
+        "Off": "0.500",
+        "On-Off": "-0.256",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.310",
+        "Off": "0.438",
+        "On-Off": "-0.128",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.295",
+        "Off": "0.250",
+        "On-Off": "0.045",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.462",
+        "Off": "0.600",
+        "On-Off": "-0.138",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.350",
+        "Off": "0.000",
+        "On-Off": "0.350",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Fg2Pct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.594",
+        "Off": "0.222",
+        "On-Off": "0.372",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.500",
+        "Off": "0.452",
+        "On-Off": "0.048",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.542",
+        "Off": "0.579",
+        "On-Off": "-0.037",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.530",
+        "Off": "0.452",
+        "On-Off": "0.078",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.511",
+        "Off": "0.500",
+        "On-Off": "0.011",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.390",
+        "Off": "0.400",
+        "On-Off": "-0.010",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.518",
+        "Off": "0.417",
+        "On-Off": "0.101",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.417",
+        "Off": "0.389",
+        "On-Off": "0.028",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.552",
+        "Off": "0.444",
+        "On-Off": "0.108",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.333",
+        "Off": "0.500",
+        "On-Off": "-0.167",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "EfgPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.602",
+        "Off": "0.333",
+        "On-Off": "0.268",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.463",
+        "Off": "0.467",
+        "On-Off": "-0.004",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.500",
+        "Off": "0.595",
+        "On-Off": "-0.095",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.565",
+        "Off": "0.514",
+        "On-Off": "0.051",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.435",
+        "Off": "0.625",
+        "On-Off": "-0.190",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.440",
+        "Off": "0.595",
+        "On-Off": "-0.155",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.508",
+        "Off": "0.411",
+        "On-Off": "0.097",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.575",
+        "Off": "0.500",
+        "On-Off": "0.075",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.548",
+        "Off": "0.387",
+        "On-Off": "0.161",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.333",
+        "Off": "0.538",
+        "On-Off": "-0.205",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.389",
+        "On-Off": "-0.389",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "TsPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.603",
+        "Off": "0.382",
+        "On-Off": "0.221",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.480",
+        "Off": "0.479",
+        "On-Off": "0.001",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.530",
+        "Off": "0.660",
+        "On-Off": "-0.130",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.594",
+        "Off": "0.551",
+        "On-Off": "0.043",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.454",
+        "Off": "0.625",
+        "On-Off": "-0.171",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.485",
+        "Off": "0.604",
+        "On-Off": "-0.119",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.528",
+        "Off": "0.468",
+        "On-Off": "0.060",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.606",
+        "Off": "0.552",
+        "On-Off": "0.055",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.573",
+        "Off": "0.439",
+        "On-Off": "0.134",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.469",
+        "Off": "0.533",
+        "On-Off": "-0.065",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.400",
+        "On-Off": "-0.400",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.750",
+        "On-Off": "-0.750",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "FG3APct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.458",
+        "Off": "0.400",
+        "On-Off": "0.058",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.389",
+        "Off": "0.326",
+        "On-Off": "0.063",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.108",
+        "Off": "0.095",
+        "On-Off": "0.012",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.435",
+        "Off": "0.563",
+        "On-Off": "-0.128",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.495",
+        "Off": "0.500",
+        "On-Off": "-0.005",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.672",
+        "Off": "0.762",
+        "On-Off": "-0.090",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.137",
+        "Off": "0.143",
+        "On-Off": "-0.006",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.575",
+        "Off": "0.217",
+        "On-Off": "0.358",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.053",
+        "Off": "0.129",
+        "On-Off": "-0.076",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.385",
+        "On-Off": "-0.385",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.444",
+        "On-Off": "-0.444",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "FG3APctBlocked": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.027",
+        "Off": "0.000",
+        "On-Off": "0.027",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.004",
+        "Off": "0.025",
+        "On-Off": "-0.021",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.045",
+        "Off": "0.000",
+        "On-Off": "0.045",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "FG2APctBlocked": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.052",
+        "Off": "0.065",
+        "On-Off": "-0.013",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.072",
+        "Off": "0.053",
+        "On-Off": "0.020",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.053",
+        "Off": "0.065",
+        "On-Off": "-0.011",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.021",
+        "Off": "0.000",
+        "On-Off": "0.021",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.049",
+        "Off": "0.200",
+        "On-Off": "-0.151",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.101",
+        "Off": "0.125",
+        "On-Off": "-0.024",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.208",
+        "Off": "0.000",
+        "On-Off": "0.208",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.097",
+        "Off": "0.037",
+        "On-Off": "0.060",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.167",
+        "Off": "0.125",
+        "On-Off": "0.042",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.200",
+        "On-Off": "-0.200",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Usage": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "18.462",
+        "Off": "23.529",
+        "On-Off": "-5.068",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "14.405",
+        "Off": "17.232",
+        "On-Off": "-2.827",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "15.511",
+        "Off": "18.868",
+        "On-Off": "-3.357",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "23.507",
+        "Off": "31.955",
+        "On-Off": "-8.448",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "13.704",
+        "Off": "15.897",
+        "On-Off": "-2.194",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "10.995",
+        "Off": "12.381",
+        "On-Off": "-1.386",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "20.115",
+        "Off": "20.442",
+        "On-Off": "-0.326",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "11.553",
+        "Off": "17.085",
+        "On-Off": "-5.532",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "20.598",
+        "Off": "18.269",
+        "On-Off": "2.329",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "17.742",
+        "Off": "18.269",
+        "On-Off": "-0.527",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "22.917",
+        "On-Off": "-22.917",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "9.677",
+        "On-Off": "-9.677",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "LiveBallTurnoverPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.333",
+        "Off": "1.000",
+        "On-Off": "-0.667",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.714",
+        "Off": "0.429",
+        "On-Off": "0.286",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.591",
+        "Off": "0.600",
+        "On-Off": "-0.009",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.456",
+        "Off": "0.429",
+        "On-Off": "0.028",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.571",
+        "Off": "0.667",
+        "On-Off": "-0.095",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.533",
+        "Off": "0.667",
+        "On-Off": "-0.133",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.500",
+        "Off": "0.833",
+        "On-Off": "-0.333",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.625",
+        "Off": "0.400",
+        "On-Off": "0.225",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.338",
+        "Off": "0.600",
+        "On-Off": "-0.262",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.500",
+        "Off": "0.500",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefFTReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.077",
+        "Off": "0.333",
+        "On-Off": "-0.256",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.533",
+        "Off": "0.500",
+        "On-Off": "0.033",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.073",
+        "Off": "0.000",
+        "On-Off": "0.073",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.067",
+        "Off": "0.000",
+        "On-Off": "0.067",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.136",
+        "Off": "0.000",
+        "On-Off": "0.136",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.250",
+        "Off": "0.800",
+        "On-Off": "-0.550",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.143",
+        "Off": "0.250",
+        "On-Off": "-0.107",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.385",
+        "Off": "0.250",
+        "On-Off": "0.135",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.200",
+        "Off": "0.333",
+        "On-Off": "-0.133",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffFTReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.034",
+        "Off": "0.200",
+        "On-Off": "-0.166",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.034",
+        "Off": "0.000",
+        "On-Off": "0.034",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.062",
+        "Off": "0.000",
+        "On-Off": "0.062",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefTwoPtReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.220",
+        "Off": "0.312",
+        "On-Off": "-0.093",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.047",
+        "Off": "0.110",
+        "On-Off": "-0.063",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.178",
+        "Off": "0.158",
+        "On-Off": "0.020",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.047",
+        "Off": "0.043",
+        "On-Off": "0.004",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.075",
+        "Off": "0.043",
+        "On-Off": "0.031",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.102",
+        "Off": "0.176",
+        "On-Off": "-0.074",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.174",
+        "Off": "0.208",
+        "On-Off": "-0.035",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.078",
+        "Off": "0.082",
+        "On-Off": "-0.003",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.217",
+        "Off": "0.200",
+        "On-Off": "0.017",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.094",
+        "Off": "0.036",
+        "On-Off": "0.058",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffTwoPtReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.050",
+        "On-Off": "-0.050",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.012",
+        "Off": "0.022",
+        "On-Off": "-0.010",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.102",
+        "Off": "0.000",
+        "On-Off": "0.102",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.021",
+        "Off": "0.015",
+        "On-Off": "0.007",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.023",
+        "Off": "0.067",
+        "On-Off": "-0.043",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.013",
+        "Off": "0.019",
+        "On-Off": "-0.006",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.068",
+        "Off": "0.047",
+        "On-Off": "0.021",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.038",
+        "Off": "0.042",
+        "On-Off": "-0.003",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.113",
+        "Off": "0.094",
+        "On-Off": "0.019",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.071",
+        "Off": "0.053",
+        "On-Off": "0.019",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefThreePtReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.134",
+        "Off": "0.143",
+        "On-Off": "-0.009",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.127",
+        "Off": "0.123",
+        "On-Off": "0.004",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.164",
+        "Off": "0.040",
+        "On-Off": "0.124",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.070",
+        "Off": "0.041",
+        "On-Off": "0.029",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.079",
+        "Off": "0.243",
+        "On-Off": "-0.164",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.085",
+        "Off": "0.091",
+        "On-Off": "-0.006",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.246",
+        "Off": "0.188",
+        "On-Off": "0.058",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.059",
+        "Off": "0.077",
+        "On-Off": "-0.018",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.137",
+        "Off": "0.235",
+        "On-Off": "-0.098",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.111",
+        "Off": "0.167",
+        "On-Off": "-0.056",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffThreePtReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.042",
+        "Off": "0.000",
+        "On-Off": "0.042",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.019",
+        "Off": "0.000",
+        "On-Off": "0.019",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.073",
+        "Off": "0.120",
+        "On-Off": "-0.047",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.019",
+        "Off": "0.022",
+        "On-Off": "-0.003",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.014",
+        "Off": "0.056",
+        "On-Off": "-0.042",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.036",
+        "Off": "0.061",
+        "On-Off": "-0.025",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.079",
+        "Off": "0.143",
+        "On-Off": "-0.064",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.074",
+        "Off": "0.111",
+        "On-Off": "-0.037",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.075",
+        "Off": "0.059",
+        "On-Off": "0.016",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefFGReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.184",
+        "Off": "0.216",
+        "On-Off": "-0.033",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.078",
+        "Off": "0.115",
+        "On-Off": "-0.037",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.172",
+        "Off": "0.111",
+        "On-Off": "0.061",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.056",
+        "Off": "0.042",
+        "On-Off": "0.014",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.076",
+        "Off": "0.133",
+        "On-Off": "-0.056",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.095",
+        "Off": "0.137",
+        "On-Off": "-0.041",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.203",
+        "Off": "0.200",
+        "On-Off": "0.003",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.070",
+        "Off": "0.080",
+        "On-Off": "-0.010",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.184",
+        "Off": "0.213",
+        "On-Off": "-0.029",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.100",
+        "Off": "0.087",
+        "On-Off": "0.013",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffFGReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.021",
+        "Off": "0.031",
+        "On-Off": "-0.011",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.015",
+        "Off": "0.013",
+        "On-Off": "0.002",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.089",
+        "Off": "0.043",
+        "On-Off": "0.046",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.020",
+        "Off": "0.018",
+        "On-Off": "0.003",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.019",
+        "Off": "0.062",
+        "On-Off": "-0.043",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.023",
+        "Off": "0.035",
+        "On-Off": "-0.011",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.073",
+        "Off": "0.090",
+        "On-Off": "-0.017",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.055",
+        "Off": "0.067",
+        "On-Off": "-0.012",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.096",
+        "Off": "0.080",
+        "On-Off": "0.015",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.047",
+        "Off": "0.056",
+        "On-Off": "-0.009",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffAtRimReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.031",
+        "Off": "0.056",
+        "On-Off": "-0.024",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.086",
+        "Off": "0.000",
+        "On-Off": "0.086",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.034",
+        "Off": "0.000",
+        "On-Off": "0.034",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.015",
+        "Off": "0.053",
+        "On-Off": "-0.037",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.007",
+        "Off": "0.000",
+        "On-Off": "0.007",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.083",
+        "Off": "0.091",
+        "On-Off": "-0.008",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.016",
+        "Off": "0.048",
+        "On-Off": "-0.032",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.136",
+        "Off": "0.043",
+        "On-Off": "0.092",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.091",
+        "Off": "0.000",
+        "On-Off": "0.091",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffShortMidRangeReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.100",
+        "Off": "0.000",
+        "On-Off": "0.100",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.019",
+        "Off": "0.059",
+        "On-Off": "-0.040",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.041",
+        "Off": "0.000",
+        "On-Off": "0.041",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.009",
+        "Off": "0.050",
+        "On-Off": "-0.041",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.050",
+        "Off": "0.000",
+        "On-Off": "0.050",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.029",
+        "Off": "0.000",
+        "On-Off": "0.029",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.109",
+        "Off": "0.154",
+        "On-Off": "-0.045",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffLongMidRangeReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.000",
+        "Off": "0.143",
+        "On-Off": "-0.143",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.038",
+        "Off": "0.000",
+        "On-Off": "0.038",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.067",
+        "Off": "0.000",
+        "On-Off": "0.067",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.088",
+        "Off": "0.077",
+        "On-Off": "0.011",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.065",
+        "Off": "0.118",
+        "On-Off": "-0.052",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffArc3ReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.034",
+        "Off": "0.000",
+        "On-Off": "0.034",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.007",
+        "Off": "0.000",
+        "On-Off": "0.007",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.063",
+        "Off": "0.136",
+        "On-Off": "-0.073",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.021",
+        "Off": "0.026",
+        "On-Off": "-0.005",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.000",
+        "Off": "0.071",
+        "On-Off": "-0.071",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.035",
+        "Off": "0.040",
+        "On-Off": "-0.005",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.075",
+        "Off": "0.161",
+        "On-Off": "-0.086",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.091",
+        "Off": "0.130",
+        "On-Off": "-0.039",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.075",
+        "Off": "0.036",
+        "On-Off": "0.040",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.091",
+        "On-Off": "-0.091",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffCorner3ReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.077",
+        "Off": "0.000",
+        "On-Off": "0.077",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.115",
+        "Off": "0.000",
+        "On-Off": "0.115",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.010",
+        "Off": "0.000",
+        "On-Off": "0.010",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.056",
+        "Off": "0.000",
+        "On-Off": "0.056",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.039",
+        "Off": "0.125",
+        "On-Off": "-0.086",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.096",
+        "Off": "0.000",
+        "On-Off": "0.096",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.074",
+        "Off": "0.167",
+        "On-Off": "-0.092",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefAtRimReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.235",
+        "Off": "0.333",
+        "On-Off": "-0.098",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.026",
+        "Off": "0.036",
+        "On-Off": "-0.009",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.100",
+        "Off": "0.100",
+        "On-Off": "0.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.038",
+        "Off": "0.000",
+        "On-Off": "0.038",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.097",
+        "Off": "0.083",
+        "On-Off": "0.013",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.079",
+        "Off": "0.231",
+        "On-Off": "-0.152",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.074",
+        "Off": "0.105",
+        "On-Off": "-0.031",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.109",
+        "Off": "0.154",
+        "On-Off": "-0.045",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.271",
+        "Off": "0.000",
+        "On-Off": "0.271",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefShortMidRangeReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.243",
+        "Off": "0.400",
+        "On-Off": "-0.157",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.047",
+        "Off": "0.091",
+        "On-Off": "-0.044",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.200",
+        "Off": "0.188",
+        "On-Off": "0.013",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.048",
+        "Off": "0.000",
+        "On-Off": "0.048",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.063",
+        "Off": "0.000",
+        "On-Off": "0.063",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.131",
+        "Off": "0.115",
+        "On-Off": "0.016",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.188",
+        "Off": "0.231",
+        "On-Off": "-0.043",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.068",
+        "Off": "0.000",
+        "On-Off": "0.068",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.193",
+        "Off": "0.318",
+        "On-Off": "-0.125",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.125",
+        "Off": "0.000",
+        "On-Off": "0.125",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefLongMidRangeReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.150",
+        "Off": "0.200",
+        "On-Off": "-0.050",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.075",
+        "Off": "0.200",
+        "On-Off": "-0.125",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.232",
+        "Off": "0.167",
+        "On-Off": "0.065",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.060",
+        "Off": "0.130",
+        "On-Off": "-0.071",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.068",
+        "Off": "0.083",
+        "On-Off": "-0.015",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.086",
+        "Off": "0.250",
+        "On-Off": "-0.164",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.312",
+        "Off": "0.312",
+        "On-Off": "0.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.043",
+        "Off": "0.105",
+        "On-Off": "-0.062",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.178",
+        "Off": "0.211",
+        "On-Off": "-0.033",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.200",
+        "Off": "0.000",
+        "On-Off": "0.200",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.250",
+        "On-Off": "-0.250",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefArc3ReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.132",
+        "Off": "0.176",
+        "On-Off": "-0.044",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.123",
+        "Off": "0.130",
+        "On-Off": "-0.007",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.165",
+        "Off": "0.045",
+        "On-Off": "0.120",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.049",
+        "Off": "0.054",
+        "On-Off": "-0.005",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.051",
+        "Off": "0.233",
+        "On-Off": "-0.183",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.076",
+        "Off": "0.051",
+        "On-Off": "0.025",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.253",
+        "Off": "0.208",
+        "On-Off": "0.045",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.063",
+        "Off": "0.048",
+        "On-Off": "0.016",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.132",
+        "Off": "0.192",
+        "On-Off": "-0.060",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.143",
+        "Off": "0.188",
+        "On-Off": "-0.045",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefCorner3ReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.143",
+        "Off": "0.000",
+        "On-Off": "0.143",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.139",
+        "Off": "0.091",
+        "On-Off": "0.048",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.161",
+        "Off": "0.000",
+        "On-Off": "0.161",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.156",
+        "Off": "0.000",
+        "On-Off": "0.156",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.185",
+        "Off": "0.286",
+        "On-Off": "-0.101",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.119",
+        "Off": "0.400",
+        "On-Off": "-0.281",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.214",
+        "Off": "0.125",
+        "On-Off": "0.089",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.041",
+        "Off": "0.200",
+        "On-Off": "-0.159",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.155",
+        "Off": "0.375",
+        "On-Off": "-0.220",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "BlocksRecoveredPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.545",
+        "Off": "0.250",
+        "On-Off": "0.295",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.429",
+        "Off": "0.500",
+        "On-Off": "-0.071",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.400",
+        "Off": "0.250",
+        "On-Off": "0.150",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.273",
+        "Off": "0.000",
+        "On-Off": "0.273",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.511",
+        "Off": "0.750",
+        "On-Off": "-0.239",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "SecondsPerPossOff": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "14.509",
+        "Off": "15.407",
+        "On-Off": "-0.899",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "15.251",
+        "Off": "16.345",
+        "On-Off": "-1.094",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "14.682",
+        "Off": "15.768",
+        "On-Off": "-1.086",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "14.938",
+        "Off": "16.374",
+        "On-Off": "-1.436",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "14.894",
+        "Off": "15.836",
+        "On-Off": "-0.942",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "15.088",
+        "Off": "15.640",
+        "On-Off": "-0.552",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "15.231",
+        "Off": "16.506",
+        "On-Off": "-1.275",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "14.811",
+        "Off": "15.904",
+        "On-Off": "-1.093",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "14.885",
+        "Off": "16.597",
+        "On-Off": "-1.712",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "14.795",
+        "Off": "15.053",
+        "On-Off": "-0.259",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "15.000",
+        "Off": "14.773",
+        "On-Off": "0.227",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "18.500",
+        "Off": "13.148",
+        "On-Off": "5.352",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "SecondsPerPossDef": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "14.677",
+        "Off": "15.104",
+        "On-Off": "-0.427",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "14.675",
+        "Off": "15.403",
+        "On-Off": "-0.728",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "14.949",
+        "Off": "14.985",
+        "On-Off": "-0.036",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "14.778",
+        "Off": "14.988",
+        "On-Off": "-0.209",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "14.917",
+        "Off": "14.169",
+        "On-Off": "0.747",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "14.641",
+        "Off": "15.130",
+        "On-Off": "-0.489",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "14.646",
+        "Off": "15.049",
+        "On-Off": "-0.403",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "15.024",
+        "Off": "16.023",
+        "On-Off": "-0.999",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "14.867",
+        "Off": "15.581",
+        "On-Off": "-0.714",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "14.469",
+        "Off": "16.056",
+        "On-Off": "-1.587",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "16.000",
+        "Off": "15.136",
+        "On-Off": "0.864",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "12.333",
+        "Off": "17.931",
+        "On-Off": "-5.598",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AtRimFrequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.153",
+        "Off": "0.200",
+        "On-Off": "-0.047",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.211",
+        "Off": "0.261",
+        "On-Off": "-0.050",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.527",
+        "Off": "0.619",
+        "On-Off": "-0.092",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.311",
+        "Off": "0.197",
+        "On-Off": "0.114",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.194",
+        "Off": "0.292",
+        "On-Off": "-0.098",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.120",
+        "Off": "0.048",
+        "On-Off": "0.072",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.450",
+        "Off": "0.393",
+        "On-Off": "0.057",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.354",
+        "Off": "0.435",
+        "On-Off": "-0.081",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.569",
+        "Off": "0.419",
+        "On-Off": "0.149",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AtRimAccuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.778",
+        "Off": "0.333",
+        "On-Off": "0.444",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.650",
+        "Off": "0.500",
+        "On-Off": "0.150",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.714",
+        "Off": "0.615",
+        "On-Off": "0.099",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.618",
+        "Off": "0.643",
+        "On-Off": "-0.025",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.611",
+        "Off": "0.429",
+        "On-Off": "0.183",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.667",
+        "Off": "1.000",
+        "On-Off": "-0.333",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.621",
+        "Off": "0.455",
+        "On-Off": "0.166",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.425",
+        "Off": "0.300",
+        "On-Off": "0.125",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.631",
+        "Off": "0.615",
+        "On-Off": "0.016",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.667",
+        "Off": "0.000",
+        "On-Off": "0.667",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AtRimPctAssisted": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.714",
+        "Off": "0.000",
+        "On-Off": "0.714",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.692",
+        "Off": "0.333",
+        "On-Off": "0.359",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.657",
+        "Off": "0.750",
+        "On-Off": "-0.093",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.696",
+        "Off": "0.667",
+        "On-Off": "0.029",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.000",
+        "Off": "0.333",
+        "On-Off": "0.667",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.678",
+        "Off": "0.600",
+        "On-Off": "0.078",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.706",
+        "Off": "0.667",
+        "On-Off": "0.039",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.611",
+        "Off": "0.250",
+        "On-Off": "0.361",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ShortMidRangeFrequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.220",
+        "Off": "0.333",
+        "On-Off": "-0.113",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.274",
+        "Off": "0.217",
+        "On-Off": "0.056",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.226",
+        "Off": "0.143",
+        "On-Off": "0.083",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.092",
+        "Off": "0.070",
+        "On-Off": "0.022",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.161",
+        "Off": "0.083",
+        "On-Off": "0.078",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.136",
+        "Off": "0.048",
+        "On-Off": "0.088",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.345",
+        "Off": "0.357",
+        "On-Off": "-0.012",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.062",
+        "Off": "0.174",
+        "On-Off": "-0.112",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.284",
+        "Off": "0.323",
+        "On-Off": "-0.038",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.250",
+        "Off": "0.308",
+        "On-Off": "-0.058",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ShortMidRangeAccuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.538",
+        "Off": "0.200",
+        "On-Off": "0.338",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.385",
+        "Off": "0.500",
+        "On-Off": "-0.115",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.238",
+        "Off": "0.667",
+        "On-Off": "-0.429",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.408",
+        "Off": "0.200",
+        "On-Off": "0.208",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.467",
+        "Off": "1.000",
+        "On-Off": "-0.533",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.294",
+        "Off": "0.000",
+        "On-Off": "0.294",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.432",
+        "Off": "0.500",
+        "On-Off": "-0.068",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.429",
+        "Off": "0.500",
+        "On-Off": "-0.071",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.475",
+        "Off": "0.300",
+        "On-Off": "0.175",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.333",
+        "Off": "0.750",
+        "On-Off": "-0.417",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ShortMidRangePctAssisted": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.857",
+        "Off": "1.000",
+        "On-Off": "-0.143",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.400",
+        "Off": "0.400",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.800",
+        "Off": "0.500",
+        "On-Off": "0.300",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.800",
+        "Off": "1.000",
+        "On-Off": "-0.200",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.571",
+        "Off": "1.000",
+        "On-Off": "-0.429",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.800",
+        "Off": "0.000",
+        "On-Off": "0.800",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.771",
+        "Off": "1.000",
+        "On-Off": "-0.229",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.667",
+        "Off": "0.500",
+        "On-Off": "0.167",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.696",
+        "Off": "0.667",
+        "On-Off": "0.030",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "LongMidRangeFrequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.169",
+        "Off": "0.067",
+        "On-Off": "0.103",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.126",
+        "Off": "0.196",
+        "On-Off": "-0.069",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.140",
+        "Off": "0.143",
+        "On-Off": "-0.003",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.162",
+        "Off": "0.169",
+        "On-Off": "-0.007",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.151",
+        "Off": "0.125",
+        "On-Off": "0.026",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.072",
+        "Off": "0.143",
+        "On-Off": "-0.071",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.068",
+        "Off": "0.107",
+        "On-Off": "-0.039",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.009",
+        "Off": "0.174",
+        "On-Off": "-0.165",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.094",
+        "Off": "0.129",
+        "On-Off": "-0.035",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.500",
+        "Off": "0.308",
+        "On-Off": "0.192",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "LongMidRangeAccuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.500",
+        "Off": "0.000",
+        "On-Off": "0.500",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.500",
+        "Off": "0.333",
+        "On-Off": "0.167",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.385",
+        "Off": "0.333",
+        "On-Off": "0.051",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.430",
+        "Off": "0.333",
+        "On-Off": "0.097",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.429",
+        "Off": "0.333",
+        "On-Off": "0.095",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.111",
+        "Off": "0.333",
+        "On-Off": "-0.222",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.273",
+        "Off": "0.000",
+        "On-Off": "0.273",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.308",
+        "Off": "0.250",
+        "On-Off": "0.058",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.167",
+        "Off": "0.250",
+        "On-Off": "-0.083",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "LongMidRangePctAssisted": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.333",
+        "Off": "0.333",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.595",
+        "Off": "0.750",
+        "On-Off": "-0.155",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.333",
+        "Off": "1.000",
+        "On-Off": "-0.667",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.917",
+        "Off": "1.000",
+        "On-Off": "-0.083",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Corner3Frequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.068",
+        "Off": "0.000",
+        "On-Off": "0.068",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.053",
+        "Off": "0.043",
+        "On-Off": "0.009",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.065",
+        "Off": "0.048",
+        "On-Off": "0.017",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.115",
+        "Off": "0.113",
+        "On-Off": "0.002",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.269",
+        "Off": "0.250",
+        "On-Off": "0.019",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.144",
+        "Off": "0.095",
+        "On-Off": "0.049",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.037",
+        "Off": "0.000",
+        "On-Off": "0.037",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.319",
+        "Off": "0.217",
+        "On-Off": "0.101",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.014",
+        "Off": "0.000",
+        "On-Off": "0.014",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.231",
+        "On-Off": "-0.231",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Corner3Accuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.400",
+        "Off": "0.500",
+        "On-Off": "-0.100",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.475",
+        "Off": "0.500",
+        "On-Off": "-0.025",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.280",
+        "Off": "0.500",
+        "On-Off": "-0.220",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.222",
+        "Off": "1.000",
+        "On-Off": "-0.778",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.361",
+        "Off": "0.600",
+        "On-Off": "-0.239",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.167",
+        "Off": "0.000",
+        "On-Off": "0.167",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.333",
+        "On-Off": "-0.333",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Corner3PctAssisted": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.931",
+        "Off": "1.000",
+        "On-Off": "-0.069",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.000",
+        "Off": "0.667",
+        "On-Off": "0.333",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.923",
+        "Off": "1.000",
+        "On-Off": "-0.077",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Arc3Frequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.390",
+        "Off": "0.400",
+        "On-Off": "-0.010",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.337",
+        "Off": "0.283",
+        "On-Off": "0.054",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.043",
+        "Off": "0.048",
+        "On-Off": "-0.005",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.320",
+        "Off": "0.451",
+        "On-Off": "-0.131",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.226",
+        "Off": "0.250",
+        "On-Off": "-0.024",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.528",
+        "Off": "0.667",
+        "On-Off": "-0.139",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.099",
+        "Off": "0.143",
+        "On-Off": "-0.043",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.257",
+        "Off": "0.000",
+        "On-Off": "0.257",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.039",
+        "Off": "0.129",
+        "On-Off": "-0.090",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.154",
+        "On-Off": "-0.154",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.222",
+        "On-Off": "-0.222",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Arc3Accuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.435",
+        "Off": "0.333",
+        "On-Off": "0.101",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.250",
+        "Off": "0.308",
+        "On-Off": "-0.058",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.382",
+        "Off": "0.344",
+        "On-Off": "0.039",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.190",
+        "Off": "0.500",
+        "On-Off": "-0.310",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.333",
+        "Off": "0.357",
+        "On-Off": "-0.024",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.312",
+        "Off": "0.250",
+        "On-Off": "0.062",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.586",
+        "Off": "0.000",
+        "On-Off": "0.586",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.375",
+        "Off": "0.000",
+        "On-Off": "0.375",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Arc3PctAssisted": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.875",
+        "Off": "1.000",
+        "On-Off": "-0.125",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.831",
+        "Off": "0.455",
+        "On-Off": "0.376",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "1.000",
+        "Off": "1.000",
+        "On-Off": "0.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.833",
+        "Off": "0.000",
+        "On-Off": "0.833",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AtRimFG3AFrequency": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.610",
+        "Off": "0.600",
+        "On-Off": "0.010",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.600",
+        "Off": "0.587",
+        "On-Off": "0.013",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.634",
+        "Off": "0.714",
+        "On-Off": "-0.080",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.746",
+        "Off": "0.761",
+        "On-Off": "-0.015",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.688",
+        "Off": "0.792",
+        "On-Off": "-0.103",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.792",
+        "Off": "0.810",
+        "On-Off": "-0.018",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.587",
+        "Off": "0.536",
+        "On-Off": "0.051",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.929",
+        "Off": "0.652",
+        "On-Off": "0.277",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.622",
+        "Off": "0.548",
+        "On-Off": "0.073",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.250",
+        "Off": "0.385",
+        "On-Off": "-0.135",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.778",
+        "On-Off": "-0.778",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "NonHeaveArc3Accuracy": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.435",
+        "Off": "0.333",
+        "On-Off": "0.101",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.250",
+        "Off": "0.333",
+        "On-Off": "-0.083",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.250",
+        "Off": "0.000",
+        "On-Off": "0.250",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.385",
+        "Off": "0.344",
+        "On-Off": "0.041",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.200",
+        "Off": "0.500",
+        "On-Off": "-0.300",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.333",
+        "Off": "0.357",
+        "On-Off": "-0.024",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.312",
+        "Off": "0.250",
+        "On-Off": "0.062",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.586",
+        "Off": "0.000",
+        "On-Off": "0.586",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.429",
+        "Off": "0.000",
+        "On-Off": "0.429",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ShotQualityAvg": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.485",
+        "Off": "0.496",
+        "On-Off": "-0.010",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.482",
+        "Off": "0.470",
+        "On-Off": "0.012",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.541",
+        "Off": "0.560",
+        "On-Off": "-0.019",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.538",
+        "Off": "0.509",
+        "On-Off": "0.029",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.515",
+        "Off": "0.529",
+        "On-Off": "-0.015",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.505",
+        "Off": "0.482",
+        "On-Off": "0.023",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.524",
+        "Off": "0.505",
+        "On-Off": "0.020",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.583",
+        "Off": "0.536",
+        "On-Off": "0.048",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.534",
+        "Off": "0.468",
+        "On-Off": "0.066",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.428",
+        "Off": "0.386",
+        "On-Off": "0.042",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.550",
+        "On-Off": "-0.550",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.681",
+        "On-Off": "-0.681",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ShootingFoulsDrawnPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.048",
+        "Off": "0.118",
+        "On-Off": "-0.069",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.031",
+        "Off": "0.000",
+        "On-Off": "0.031",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.090",
+        "Off": "0.174",
+        "On-Off": "-0.084",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.079",
+        "Off": "0.067",
+        "On-Off": "0.012",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.032",
+        "Off": "0.148",
+        "On-Off": "-0.117",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.039",
+        "Off": "0.087",
+        "On-Off": "-0.048",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.172",
+        "Off": "0.100",
+        "On-Off": "0.072",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.067",
+        "Off": "0.148",
+        "On-Off": "-0.081",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.108",
+        "Off": "0.091",
+        "On-Off": "0.017",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.154",
+        "Off": "0.133",
+        "On-Off": "0.021",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.100",
+        "On-Off": "-0.100",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "TwoPtShootingFoulsDrawnPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.086",
+        "Off": "0.182",
+        "On-Off": "-0.096",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.049",
+        "Off": "0.000",
+        "On-Off": "0.049",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.100",
+        "Off": "0.190",
+        "On-Off": "-0.090",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.128",
+        "Off": "0.114",
+        "On-Off": "0.014",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.061",
+        "Off": "0.267",
+        "On-Off": "-0.205",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.091",
+        "Off": "0.286",
+        "On-Off": "-0.195",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.195",
+        "Off": "0.115",
+        "On-Off": "0.080",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.145",
+        "Off": "0.182",
+        "On-Off": "-0.036",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.113",
+        "Off": "0.103",
+        "On-Off": "0.010",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.083",
+        "Off": "0.200",
+        "On-Off": "-0.117",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.167",
+        "On-Off": "-0.167",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.500",
+        "On-Off": "-0.500",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "ThreePtShootingFoulsDrawnPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.009",
+        "Off": "0.025",
+        "On-Off": "-0.016",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.012",
+        "Off": "0.000",
+        "On-Off": "0.012",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "1.000",
+        "Off": "0.000",
+        "On-Off": "1.000",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "SecondChancePointsPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.053",
+        "Off": "0.154",
+        "On-Off": "-0.101",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.093",
+        "Off": "0.222",
+        "On-Off": "-0.129",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.206",
+        "Off": "0.333",
+        "On-Off": "-0.128",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.118",
+        "Off": "0.080",
+        "On-Off": "0.038",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.068",
+        "Off": "0.171",
+        "On-Off": "-0.103",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.062",
+        "Off": "0.276",
+        "On-Off": "-0.214",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.188",
+        "Off": "0.069",
+        "On-Off": "0.119",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.123",
+        "Off": "0.156",
+        "On-Off": "-0.033",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.202",
+        "Off": "0.345",
+        "On-Off": "-0.143",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "0.062",
+        "On-Off": "-0.062",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "PenaltyPointsPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.211",
+        "Off": "0.385",
+        "On-Off": "-0.174",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.134",
+        "Off": "0.333",
+        "On-Off": "-0.199",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.168",
+        "Off": "0.152",
+        "On-Off": "0.017",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.152",
+        "Off": "0.261",
+        "On-Off": "-0.110",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.284",
+        "Off": "0.286",
+        "On-Off": "-0.002",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.215",
+        "Off": "0.207",
+        "On-Off": "0.008",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.135",
+        "Off": "0.448",
+        "On-Off": "-0.313",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.260",
+        "Off": "0.219",
+        "On-Off": "0.041",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.213",
+        "Off": "0.000",
+        "On-Off": "0.213",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.400",
+        "Off": "0.625",
+        "On-Off": "-0.225",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "1.000",
+        "On-Off": "-1.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.667",
+        "On-Off": "-0.667",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "PenaltyOffPossPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.183",
+        "Off": "0.284",
+        "On-Off": "-0.101",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.237",
+        "Off": "0.265",
+        "On-Off": "-0.028",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.224",
+        "Off": "0.275",
+        "On-Off": "-0.051",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.170",
+        "Off": "0.217",
+        "On-Off": "-0.047",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.188",
+        "Off": "0.292",
+        "On-Off": "-0.105",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.180",
+        "Off": "0.301",
+        "On-Off": "-0.121",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.146",
+        "Off": "0.266",
+        "On-Off": "-0.120",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.182",
+        "Off": "0.345",
+        "On-Off": "-0.163",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.169",
+        "Off": "0.134",
+        "On-Off": "0.035",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.286",
+        "Off": "0.479",
+        "On-Off": "-0.193",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "1.000",
+        "Off": "0.795",
+        "On-Off": "0.205",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.500",
+        "Off": "0.593",
+        "On-Off": "-0.093",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Avg2ptShotDistance": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "9.409",
+        "Off": "6.589",
+        "On-Off": "2.820",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "7.812",
+        "Off": "8.677",
+        "On-Off": "-0.865",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "5.664",
+        "Off": "5.289",
+        "On-Off": "0.374",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "7.272",
+        "Off": "8.919",
+        "On-Off": "-1.647",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "8.783",
+        "Off": "7.242",
+        "On-Off": "1.541",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "8.844",
+        "Off": "13.600",
+        "On-Off": "-4.756",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "5.542",
+        "Off": "6.071",
+        "On-Off": "-0.529",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "2.992",
+        "Off": "6.983",
+        "On-Off": "-3.992",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "4.948",
+        "Off": "6.422",
+        "On-Off": "-1.474",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "11.500",
+        "Off": "13.087",
+        "On-Off": "-1.587",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "3.980",
+        "On-Off": "-3.980",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "3.800",
+        "On-Off": "-3.800",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "Avg3ptShotDistance": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "24.793",
+        "Off": "24.733",
+        "On-Off": "0.059",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "24.876",
+        "Off": "27.427",
+        "On-Off": "-2.551",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "24.130",
+        "Off": "23.700",
+        "On-Off": "0.430",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "24.808",
+        "Off": "25.032",
+        "On-Off": "-0.224",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "24.972",
+        "Off": "24.425",
+        "On-Off": "0.547",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "24.857",
+        "Off": "25.369",
+        "On-Off": "-0.512",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "24.743",
+        "Off": "24.100",
+        "On-Off": "0.643",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "24.108",
+        "Off": "23.500",
+        "On-Off": "0.608",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "26.541",
+        "Off": "25.975",
+        "On-Off": "0.566",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.000",
+        "Off": "23.280",
+        "On-Off": "-23.280",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "24.275",
+        "On-Off": "-24.275",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "DefReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.175",
+        "Off": "0.225",
+        "On-Off": "-0.050",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.075",
+        "Off": "0.109",
+        "On-Off": "-0.034",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.188",
+        "Off": "0.123",
+        "On-Off": "0.065",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.057",
+        "Off": "0.040",
+        "On-Off": "0.017",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.076",
+        "Off": "0.124",
+        "On-Off": "-0.048",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.097",
+        "Off": "0.131",
+        "On-Off": "-0.034",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.205",
+        "Off": "0.235",
+        "On-Off": "-0.030",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.073",
+        "Off": "0.089",
+        "On-Off": "-0.015",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.193",
+        "Off": "0.215",
+        "On-Off": "-0.022",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.109",
+        "Off": "0.102",
+        "On-Off": "0.007",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.125",
+        "On-Off": "-0.125",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.059",
+        "On-Off": "-0.059",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "OffReboundPct": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "0.019",
+        "Off": "0.029",
+        "On-Off": "-0.009",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "0.015",
+        "Off": "0.012",
+        "On-Off": "0.002",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "0.087",
+        "Off": "0.042",
+        "On-Off": "0.046",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "0.021",
+        "Off": "0.025",
+        "On-Off": "-0.004",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "0.018",
+        "Off": "0.058",
+        "On-Off": "-0.040",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "0.024",
+        "Off": "0.033",
+        "On-Off": "-0.009",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "0.072",
+        "Off": "0.083",
+        "On-Off": "-0.011",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "0.054",
+        "Off": "0.062",
+        "On-Off": "-0.009",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "0.096",
+        "Off": "0.080",
+        "On-Off": "0.016",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "0.044",
+        "Off": "0.053",
+        "On-Off": "-0.008",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "PtsPer100Poss": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "21.714",
+        "Off": "16.049",
+        "On-Off": "5.665",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "12.797",
+        "Off": "14.377",
+        "On-Off": "-1.580",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "15.374",
+        "Off": "23.913",
+        "On-Off": "-8.539",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "29.017",
+        "Off": "37.447",
+        "On-Off": "-8.430",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "12.138",
+        "Off": "20.468",
+        "On-Off": "-8.330",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "11.121",
+        "Off": "15.591",
+        "On-Off": "-4.471",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "21.617",
+        "Off": "18.354",
+        "On-Off": "3.263",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "13.276",
+        "Off": "18.079",
+        "On-Off": "-4.803",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "23.117",
+        "Off": "15.591",
+        "On-Off": "7.526",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "13.393",
+        "Off": "17.021",
+        "On-Off": "-3.628",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "18.182",
+        "On-Off": "-18.182",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "11.111",
+        "On-Off": "-11.111",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AssistPointsPer100Poss": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "6.000",
+        "Off": "11.111",
+        "On-Off": "-5.111",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "12.797",
+        "Off": "23.323",
+        "On-Off": "-10.526",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "6.753",
+        "Off": "3.623",
+        "On-Off": "3.130",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "6.923",
+        "Off": "4.255",
+        "On-Off": "2.668",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "11.724",
+        "Off": "14.620",
+        "On-Off": "-2.896",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "7.870",
+        "Off": "13.441",
+        "On-Off": "-5.571",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "4.620",
+        "Off": "5.696",
+        "On-Off": "-1.076",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "6.897",
+        "Off": "5.650",
+        "On-Off": "1.247",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "12.364",
+        "Off": "15.591",
+        "On-Off": "-3.227",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "6.250",
+        "Off": "10.638",
+        "On-Off": "-4.388",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "7.407",
+        "On-Off": "-7.407",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "FTAPer100Poss": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "2.286",
+        "Off": "4.938",
+        "On-Off": "-2.653",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "1.451",
+        "Off": "0.639",
+        "On-Off": "0.812",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "2.586",
+        "Off": "7.246",
+        "On-Off": "-4.660",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "4.103",
+        "Off": "7.234",
+        "On-Off": "-3.131",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.241",
+        "Off": "5.263",
+        "On-Off": "-4.022",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.711",
+        "Off": "2.688",
+        "On-Off": "-0.977",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "6.601",
+        "Off": "4.430",
+        "On-Off": "2.170",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "2.500",
+        "Off": "6.780",
+        "On-Off": "-4.280",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "4.571",
+        "Off": "2.688",
+        "On-Off": "1.883",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "8.929",
+        "Off": "4.255",
+        "On-Off": "4.673",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "4.545",
+        "On-Off": "-4.545",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "7.407",
+        "On-Off": "-7.407",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "TurnoversPer100Poss": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "2.571",
+        "Off": "3.704",
+        "On-Off": "-1.132",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "2.770",
+        "Off": "4.473",
+        "On-Off": "-1.702",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "3.161",
+        "Off": "3.623",
+        "On-Off": "-0.462",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "2.436",
+        "Off": "2.979",
+        "On-Off": "-0.543",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "1.931",
+        "Off": "1.754",
+        "On-Off": "0.177",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "1.283",
+        "Off": "1.613",
+        "On-Off": "-0.330",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "2.530",
+        "Off": "3.797",
+        "On-Off": "-1.267",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "2.069",
+        "Off": "2.825",
+        "On-Off": "-0.756",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "3.222",
+        "Off": "2.688",
+        "On-Off": "0.533",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "5.357",
+        "Off": "4.255",
+        "On-Off": "1.102",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "2.273",
+        "On-Off": "-2.273",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "3.704",
+        "On-Off": "-3.704",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ],
+    "AssistsPer100Poss": [
+      {
+        "Name": "Damiris Dantas",
+        "On": "2.286",
+        "Off": "4.938",
+        "On-Off": "-2.653",
+        "MinutesOn": 170,
+        "MinutesOff": 40
+      },
+      {
+        "Name": "Erica Wheeler",
+        "On": "5.145",
+        "Off": "9.585",
+        "On-Off": "-4.440",
+        "MinutesOn": 380,
+        "MinutesOff": 166
+      },
+      {
+        "Name": "Temi Fagbenle",
+        "On": "2.586",
+        "Off": "1.449",
+        "On-Off": "1.137",
+        "MinutesOn": 346,
+        "MinutesOff": 69
+      },
+      {
+        "Name": "Kelsey Mitchell",
+        "On": "2.863",
+        "Off": "1.702",
+        "On-Off": "1.161",
+        "MinutesOn": 1156,
+        "MinutesOff": 125
+      },
+      {
+        "Name": "Kristy Wallace",
+        "On": "4.690",
+        "Off": "6.433",
+        "On-Off": "-1.743",
+        "MinutesOn": 359,
+        "MinutesOff": 87
+      },
+      {
+        "Name": "Katie Lou Samuelson",
+        "On": "3.422",
+        "Off": "5.914",
+        "On-Off": "-2.492",
+        "MinutesOn": 575,
+        "MinutesOff": 97
+      },
+      {
+        "Name": "NaLyssa Smith",
+        "On": "2.035",
+        "Off": "2.532",
+        "On-Off": "-0.496",
+        "MinutesOn": 908,
+        "MinutesOff": 85
+      },
+      {
+        "Name": "Lexie Hull",
+        "On": "2.759",
+        "Off": "2.260",
+        "On-Off": "0.499",
+        "MinutesOn": 578,
+        "MinutesOff": 93
+      },
+      {
+        "Name": "Aliyah Boston",
+        "On": "5.007",
+        "Off": "5.914",
+        "On-Off": "-0.907",
+        "MinutesOn": 1136,
+        "MinutesOff": 100
+      },
+      {
+        "Name": "Grace Berger",
+        "On": "2.679",
+        "Off": "4.255",
+        "On-Off": "-1.577",
+        "MinutesOn": 55,
+        "MinutesOff": 47
+      },
+      {
+        "Name": "Victaria Saxton",
+        "On": "0.000",
+        "Off": "0.000",
+        "On-Off": "0.000",
+        "MinutesOn": 1,
+        "MinutesOff": 22
+      },
+      {
+        "Name": "Celeste Taylor",
+        "On": "0.000",
+        "Off": "3.704",
+        "On-Off": "-3.704",
+        "MinutesOn": 1,
+        "MinutesOff": 15
+      }
+    ]
+  },
+  "headers": [
+    {
+      "field": "Name",
+      "label": "Player"
+    },
+    {
+      "field": "MinutesOn",
+      "label": "Minutes with Caitlin Clark",
+      "type": "number"
+    },
+    {
+      "field": "MinutesOff",
+      "label": "Minutes without Caitlin Clark",
+      "type": "number"
+    },
+    {
+      "field": "On",
+      "label": "Stat Value with Caitlin Clark"
+    },
+    {
+      "field": "Off",
+      "label": "Stat Value without Caitlin Clark"
+    },
+    {
+      "field": "On-Off",
+      "label": "Difference",
+      "type": "decimal"
+    }
+  ],
+  "stat_options": {
+    "label": "Stat",
+    "data": [
+      {
+        "id": "Assisted2sPct",
+        "text": "2pt FGM Assist%"
+      },
+      {
+        "id": "NonPutbacksAssisted2sPct",
+        "text": "Non Putback 2pt FGM Assist%"
+      },
+      {
+        "id": "Assisted3sPct",
+        "text": "3pt FGM Assist%"
+      },
+      {
+        "id": "Fg3Pct",
+        "text": "3pt FG%"
+      },
+      {
+        "id": "NonHeaveFg3Pct",
+        "text": "Non-Heave 3pt FG%"
+      },
+      {
+        "id": "Fg2Pct",
+        "text": "2pt FG%"
+      },
+      {
+        "id": "EfgPct",
+        "text": "eFG%"
+      },
+      {
+        "id": "TsPct",
+        "text": "TS%"
+      },
+      {
+        "id": "FG3APct",
+        "text": "3PAr"
+      },
+      {
+        "id": "FG3APctBlocked",
+        "text": "% of FG3A Blocked"
+      },
+      {
+        "id": "FG2APctBlocked",
+        "text": "% of FG2A Blocked"
+      },
+      {
+        "id": "Usage",
+        "text": "Usage"
+      },
+      {
+        "id": "LiveBallTurnoverPct",
+        "text": "Live Ball TO%"
+      },
+      {
+        "id": "DefFTReboundPct",
+        "text": "DReb% - Missed FTs"
+      },
+      {
+        "id": "OffFTReboundPct",
+        "text": "OReb% - Missed FTs"
+      },
+      {
+        "id": "DefTwoPtReboundPct",
+        "text": "DReb% - Missed 2s"
+      },
+      {
+        "id": "OffTwoPtReboundPct",
+        "text": "OReb% - Missed 2s"
+      },
+      {
+        "id": "DefThreePtReboundPct",
+        "text": "DReb% - Missed 3s"
+      },
+      {
+        "id": "OffThreePtReboundPct",
+        "text": "OReb% - Missed 3s"
+      },
+      {
+        "id": "DefFGReboundPct",
+        "text": "DReb% - Missed FGs"
+      },
+      {
+        "id": "OffFGReboundPct",
+        "text": "OReb% - Missed FGs"
+      },
+      {
+        "id": "OffAtRimReboundPct",
+        "text": "At Rim OReb%"
+      },
+      {
+        "id": "OffShortMidRangeReboundPct",
+        "text": "Short Mid-Range OReb%"
+      },
+      {
+        "id": "OffLongMidRangeReboundPct",
+        "text": "Long Mid-Range OReb%"
+      },
+      {
+        "id": "OffArc3ReboundPct",
+        "text": "Arc 3 OReb%"
+      },
+      {
+        "id": "OffCorner3ReboundPct",
+        "text": "Corner 3 OReb%"
+      },
+      {
+        "id": "DefAtRimReboundPct",
+        "text": "At Rim DReb%"
+      },
+      {
+        "id": "DefShortMidRangeReboundPct",
+        "text": "Short Mid-Range DReb%"
+      },
+      {
+        "id": "DefLongMidRangeReboundPct",
+        "text": "Long Mid-Range DReb%"
+      },
+      {
+        "id": "DefArc3ReboundPct",
+        "text": "Arc 3 DReb%"
+      },
+      {
+        "id": "DefCorner3ReboundPct",
+        "text": "Corner 3 DReb%"
+      },
+      {
+        "id": "BlocksRecoveredPct",
+        "text": "Blocks Recovered %"
+      },
+      {
+        "id": "SecondsPerPossOff",
+        "text": "Seconds Per Possession - Offense"
+      },
+      {
+        "id": "SecondsPerPossDef",
+        "text": "Seconds Per Possession - Defense"
+      },
+      {
+        "id": "AtRimFrequency",
+        "text": "At Rim Shot Frequency"
+      },
+      {
+        "id": "AtRimAccuracy",
+        "text": "At Rim FG%"
+      },
+      {
+        "id": "AtRimPctAssisted",
+        "text": "At Rim % Assisted"
+      },
+      {
+        "id": "ShortMidRangeFrequency",
+        "text": "Short Mid Range Shot Frequency"
+      },
+      {
+        "id": "ShortMidRangeAccuracy",
+        "text": "Short Mid Range FG%"
+      },
+      {
+        "id": "ShortMidRangePctAssisted",
+        "text": "Short Mid Range % Assisted"
+      },
+      {
+        "id": "LongMidRangeFrequency",
+        "text": "Long Mid Range Shot Frequency"
+      },
+      {
+        "id": "LongMidRangeAccuracy",
+        "text": "Long Mid Range FG%"
+      },
+      {
+        "id": "LongMidRangePctAssisted",
+        "text": "Long Mid % Assisted"
+      },
+      {
+        "id": "Corner3Frequency",
+        "text": "Corner 3 Shot Frequency"
+      },
+      {
+        "id": "Corner3Accuracy",
+        "text": "Corner 3 FG%"
+      },
+      {
+        "id": "Corner3PctAssisted",
+        "text": "Corner 3 % Assisted"
+      },
+      {
+        "id": "Arc3Frequency",
+        "text": "Arc 3 Shot Frequency"
+      },
+      {
+        "id": "Arc3Accuracy",
+        "text": "Arc 3 FG%"
+      },
+      {
+        "id": "Arc3PctAssisted",
+        "text": "Arc 3 % Assisted"
+      },
+      {
+        "id": "AtRimFG3AFrequency",
+        "text": "At Rim or 3pt Shot Frequency"
+      },
+      {
+        "id": "NonHeaveArc3Accuracy",
+        "text": "Non-Heave Arc 3 FG%"
+      },
+      {
+        "id": "ShotQualityAvg",
+        "text": "Shot Quality"
+      },
+      {
+        "id": "ShootingFoulsDrawnPct",
+        "text": "Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "TwoPtShootingFoulsDrawnPct",
+        "text": "3pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "ThreePtShootingFoulsDrawnPct",
+        "text": "2pt Shooting Foul Drawn Rate"
+      },
+      {
+        "id": "SecondChancePointsPct",
+        "text": "Second Chance Points%"
+      },
+      {
+        "id": "PenaltyPointsPct",
+        "text": "Penalty Points%"
+      },
+      {
+        "id": "PenaltyOffPossPct",
+        "text": "Penalty Possessions%"
+      },
+      {
+        "id": "Avg2ptShotDistance",
+        "text": "Avg 2pt Shot Distance"
+      },
+      {
+        "id": "Avg3ptShotDistance",
+        "text": "Avg 3pt Shot Distance"
+      },
+      {
+        "id": "DefReboundPct",
+        "text": "DReb%"
+      },
+      {
+        "id": "OffReboundPct",
+        "text": "OReb%"
+      },
+      {
+        "id": "PtsPer100Poss",
+        "text": "Pts per 100 Possessions"
+      },
+      {
+        "id": "AssistPointsPer100Poss",
+        "text": "Assist Points per 100 Possessions"
+      },
+      {
+        "id": "FTAPer100Poss",
+        "text": "FTA per 100 Possessions"
+      },
+      {
+        "id": "TurnoversPer100Poss",
+        "text": "TOs per 100 Possessions"
+      },
+      {
+        "id": "AssistsPer100Poss",
+        "text": "Assists per 100 Possessions"
+      }
+    ]
+  }
+}

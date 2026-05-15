@@ -1,0 +1,13 @@
+{
+  "season": 2026,
+  "paths": {
+    "wnba_stats_raw_root": "data/raw/wnba_stats/current_season_2026",
+    "wehoop_raw_root": "data/raw/wehoop/current_season_2026",
+    "summary_root": "data/raw/current_season_2026"
+  },
+  "wehoop_sources": {
+    "play_by_play": {
+      "release_tag": "espn_wnba_pbp"
+    }
+  }
+}

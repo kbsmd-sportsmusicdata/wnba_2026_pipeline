@@ -1,0 +1,47 @@
+name: wnba-raw-datasets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * 2"
+    - cron: "0 14 * * 5"
+
+permissions:
+  contents: write
+
+jobs:
+  pull-raw-datasets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Pull WNBA raw bundles
+        run: |
+          python -u scripts/pull_wnba_raw_bundles.py --season 2026
+
+      - name: Commit refreshed raw bundle outputs
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/raw/wnba_stats/current_season_2026
+            git add data/raw/wehoop/current_season_2026
+            git add data/raw/current_season_2026/raw_bundle_summary.json
+            git commit -m "chore: refresh WNBA raw bundle outputs"
+            git push
+          fi

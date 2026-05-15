@@ -128,8 +128,8 @@ def write_frame(path: Path, frame: pd.DataFrame) -> list[str]:
         parquet_path = path.with_suffix(".parquet")
         frame.to_parquet(parquet_path, index=False)
         written.append(str(parquet_path))
-    except Exception:
-        pass
+    except Exception as e:
+        print(f"[wnba-stats] warning: could not write parquet file: {e}", flush=True)
     return written
 
 

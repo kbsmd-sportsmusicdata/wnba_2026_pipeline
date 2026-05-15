@@ -68,9 +68,9 @@ def run_raw_bundle_pull(
     summary_root: Path = DEFAULT_SUMMARY_ROOT,
 ) -> dict[str, Any]:
     config = read_json(config_path)
-    wnba_root = ROOT / config["paths"].get("wnba_stats_raw_root", str(wnba_output_root.relative_to(ROOT)))
-    wehoop_root = ROOT / config["paths"].get("wehoop_raw_root", str(wehoop_output_root.relative_to(ROOT)))
-    combined_summary_root = ROOT / config["paths"].get("summary_root", str(summary_root.relative_to(ROOT)))
+    wnba_root = ROOT / config["paths"]["wnba_stats_raw_root"] if "wnba_stats_raw_root" in config["paths"] else wnba_output_root
+    wehoop_root = ROOT / config["paths"]["wehoop_raw_root"] if "wehoop_raw_root" in config["paths"] else wehoop_output_root
+    combined_summary_root = ROOT / config["paths"]["summary_root"] if "summary_root" in config["paths"] else summary_root
 
     print(f"[raw-bundles] starting WNBA stats box score pull season={season}", flush=True)
     wnba_summary = wnba_stats.run_wnba_stats_pull(
